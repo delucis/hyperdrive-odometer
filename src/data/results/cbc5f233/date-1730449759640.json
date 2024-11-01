@@ -1,0 +1,67 @@
+{
+  "url": "https://aria.dog/demons/",
+  "requestedUrl": "https://aria.dog/demons/",
+  "timestamp": 1730466168264,
+  "ranks": {
+    "hundos": 654,
+    "performance": 791,
+    "accessibility": 67,
+    "cumulative": 652
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.69,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 361
+  },
+  "firstContentfulPaint": 1283.936,
+  "firstMeaningfulPaint": 1607.558,
+  "speedIndex": 2516.6556817368028,
+  "largestContentfulPaint": 9889.852,
+  "totalBlockingTime": 221.00000000000023,
+  "cumulativeLayoutShift": 0.07740407524060061,
+  "timeToInteractive": 3302.0125000000007,
+  "maxPotentialFirstInputDelay": 307.00000000000045,
+  "timeToFirstByte": 51.226,
+  "weight": {
+    "summary": "30 requests • 2.0 MiB",
+    "total": 2088796,
+    "image": 1977266,
+    "imageCount": 21,
+    "script": 31011,
+    "scriptCount": 3,
+    "document": 4900,
+    "font": 46963,
+    "fontCount": 2,
+    "stylesheet": 27828,
+    "stylesheetCount": 2,
+    "thirdParty": 4185,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 854,
+    "+weight.total": 208,
+    "-weight.document": 167,
+    "+weight.document": 869,
+    "-weight.script": 313,
+    "+weight.script": 679,
+    "-weight.image": 828,
+    "+weight.image": 118,
+    "-weight.font": 233,
+    "+weight.font": 545,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 538,
+    "-totalBlockingTime": 276,
+    "-largestContentfulPaint": 983
+  },
+  "axe": {
+    "passes": 339,
+    "violations": 0
+  }
+}

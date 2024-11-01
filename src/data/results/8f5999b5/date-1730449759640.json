@@ -1,0 +1,67 @@
+{
+  "url": "https://nimavat.me/",
+  "requestedUrl": "https://nimavat.me/",
+  "timestamp": 1730488876710,
+  "ranks": {
+    "hundos": 160,
+    "performance": 140,
+    "accessibility": 234,
+    "cumulative": 157
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 396
+  },
+  "firstContentfulPaint": 1353.355,
+  "firstMeaningfulPaint": 1353.355,
+  "speedIndex": 1589.7296780022689,
+  "largestContentfulPaint": 1670.855,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1353.355,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 218.03799999999998,
+  "weight": {
+    "summary": "12 requests • 23.6 KiB",
+    "total": 24146,
+    "image": 0,
+    "imageCount": 0,
+    "script": 10892,
+    "scriptCount": 7,
+    "document": 4443,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 8811,
+    "stylesheetCount": 4,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 22,
+    "+weight.total": 1040,
+    "-weight.document": 133,
+    "+weight.document": 903,
+    "-weight.script": 171,
+    "+weight.script": 821,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 883,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 183
+  },
+  "axe": {
+    "passes": 212,
+    "violations": 2
+  }
+}

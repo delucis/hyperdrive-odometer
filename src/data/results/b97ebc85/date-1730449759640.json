@@ -1,0 +1,67 @@
+{
+  "url": "https://startups.viget.com/",
+  "requestedUrl": "https://startups.viget.com/",
+  "timestamp": 1730459953894,
+  "ranks": {
+    "hundos": 289,
+    "performance": 507,
+    "accessibility": 21,
+    "cumulative": 286
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.89,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 389
+  },
+  "firstContentfulPaint": 1367.4225000000001,
+  "firstMeaningfulPaint": 1367.4225000000001,
+  "speedIndex": 2285.7850727494633,
+  "largestContentfulPaint": 1367.4225000000001,
+  "totalBlockingTime": 431,
+  "cumulativeLayoutShift": 0.0009060602004558539,
+  "timeToInteractive": 2451.9225,
+  "maxPotentialFirstInputDelay": 333,
+  "timeToFirstByte": 37.669,
+  "weight": {
+    "summary": "34 requests • 425.6 KiB",
+    "total": 435853,
+    "image": 277873,
+    "imageCount": 28,
+    "script": 47371,
+    "scriptCount": 1,
+    "document": 15854,
+    "font": 86559,
+    "fontCount": 3,
+    "stylesheet": 8196,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 443,
+    "+weight.total": 619,
+    "-weight.document": 682,
+    "+weight.document": 354,
+    "-weight.script": 362,
+    "+weight.script": 630,
+    "-weight.image": 487,
+    "+weight.image": 459,
+    "-weight.font": 444,
+    "+weight.font": 334,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 485,
+    "-totalBlockingTime": 402,
+    "-largestContentfulPaint": 528
+  },
+  "axe": {
+    "passes": 748,
+    "violations": 0
+  }
+}

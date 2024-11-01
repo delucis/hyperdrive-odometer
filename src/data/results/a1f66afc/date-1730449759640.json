@@ -1,0 +1,67 @@
+{
+  "url": "https://www.kevinzunigacuellar.com/",
+  "requestedUrl": "https://www.kevinzunigacuellar.com/",
+  "timestamp": 1730471716260,
+  "ranks": {
+    "hundos": 72,
+    "performance": 53,
+    "accessibility": 74,
+    "cumulative": 51
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1033.637,
+  "firstMeaningfulPaint": 1033.637,
+  "speedIndex": 1033.637,
+  "largestContentfulPaint": 1033.637,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1057.137,
+  "maxPotentialFirstInputDelay": 163,
+  "timeToFirstByte": 104.984,
+  "weight": {
+    "summary": "3 requests • 19.9 KiB",
+    "total": 20410,
+    "image": 5582,
+    "imageCount": 1,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 8946,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 5882,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 17,
+    "+weight.total": 1045,
+    "-weight.document": 440,
+    "+weight.document": 596,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 68,
+    "+weight.image": 878,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 733,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 34
+  },
+  "axe": {
+    "passes": 317,
+    "violations": 0
+  }
+}

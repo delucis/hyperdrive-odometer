@@ -1,0 +1,67 @@
+{
+  "url": "https://alee14.me/",
+  "requestedUrl": "https://alee14.me/",
+  "timestamp": 1730450097794,
+  "ranks": {
+    "hundos": 185,
+    "performance": 213,
+    "accessibility": 449,
+    "cumulative": 182
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 394
+  },
+  "firstContentfulPaint": 1541.3755,
+  "firstMeaningfulPaint": 1541.3755,
+  "speedIndex": 1541.3755,
+  "largestContentfulPaint": 2115.7685,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.019079397347837743,
+  "timeToInteractive": 1541.3755,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 56.446000000000026,
+  "weight": {
+    "summary": "10 requests • 192.5 KiB",
+    "total": 197075,
+    "image": 131611,
+    "imageCount": 1,
+    "script": 14144,
+    "scriptCount": 5,
+    "document": 8109,
+    "font": 40895,
+    "fontCount": 1,
+    "stylesheet": 1559,
+    "stylesheetCount": 1,
+    "thirdParty": 42454,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 257,
+    "+weight.total": 805,
+    "-weight.document": 392,
+    "+weight.document": 644,
+    "-weight.script": 202,
+    "+weight.script": 790,
+    "-weight.image": 347,
+    "+weight.image": 599,
+    "-weight.font": 198,
+    "+weight.font": 580,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 555,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 264
+  },
+  "axe": {
+    "passes": 298,
+    "violations": 1
+  }
+}

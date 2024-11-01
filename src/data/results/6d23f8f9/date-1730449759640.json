@@ -1,0 +1,67 @@
+{
+  "url": "https://pote-chil.com/",
+  "requestedUrl": "https://myprg.dev/",
+  "timestamp": 1730472981738,
+  "ranks": {
+    "hundos": 159,
+    "performance": 365,
+    "accessibility": 93,
+    "cumulative": 150
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.96,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 396
+  },
+  "firstContentfulPaint": 2214.001,
+  "firstMeaningfulPaint": 2264.001,
+  "speedIndex": 2730.501113331169,
+  "largestContentfulPaint": 2264.001,
+  "totalBlockingTime": 36,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2314.501,
+  "maxPotentialFirstInputDelay": 400,
+  "timeToFirstByte": 2.3729999999999905,
+  "weight": {
+    "summary": "7 requests • 44.3 KiB",
+    "total": 45414,
+    "image": 3275,
+    "imageCount": 5,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 41766,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 373,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 49,
+    "+weight.total": 1013,
+    "-weight.document": 909,
+    "+weight.document": 127,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 48,
+    "+weight.image": 898,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 122,
+    "-totalBlockingTime": 64,
+    "-largestContentfulPaint": 285
+  },
+  "axe": {
+    "passes": 260,
+    "violations": 0
+  }
+}

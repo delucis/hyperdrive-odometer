@@ -1,0 +1,67 @@
+{
+  "url": "https://sanabel-al-firdaws.github.io/",
+  "requestedUrl": "https://sanabel-al-firdaws.github.io/",
+  "timestamp": 1730475020219,
+  "ranks": {
+    "hundos": 367,
+    "performance": 517,
+    "accessibility": 290,
+    "cumulative": 367
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.88,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 384
+  },
+  "firstContentfulPaint": 1130.1684999999998,
+  "firstMeaningfulPaint": 2745.6310000000003,
+  "speedIndex": 2088.596576465289,
+  "largestContentfulPaint": 3046.985,
+  "totalBlockingTime": 294,
+  "cumulativeLayoutShift": 0.041270361989190915,
+  "timeToInteractive": 3797.6929999999998,
+  "maxPotentialFirstInputDelay": 278,
+  "timeToFirstByte": 40.347,
+  "weight": {
+    "summary": "31 requests • 442.7 KiB",
+    "total": 453316,
+    "image": 18623,
+    "imageCount": 1,
+    "script": 121942,
+    "scriptCount": 19,
+    "document": 14144,
+    "font": 273818,
+    "fontCount": 2,
+    "stylesheet": 24369,
+    "stylesheetCount": 4,
+    "thirdParty": 116630,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 455,
+    "+weight.total": 607,
+    "-weight.document": 648,
+    "+weight.document": 388,
+    "-weight.script": 558,
+    "+weight.script": 434,
+    "-weight.image": 130,
+    "+weight.image": 816,
+    "-weight.font": 667,
+    "+weight.font": 111,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 496,
+    "-totalBlockingTime": 324,
+    "-largestContentfulPaint": 736
+  },
+  "axe": {
+    "passes": 342,
+    "violations": 4
+  }
+}

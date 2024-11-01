@@ -1,0 +1,67 @@
+{
+  "url": "https://chinese-font.netlify.app/zh-cn/",
+  "requestedUrl": "https://chinese-font.netlify.app/",
+  "timestamp": 1730451738451,
+  "ranks": {
+    "hundos": 816,
+    "performance": 864,
+    "accessibility": 923,
+    "cumulative": 816
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.63,
+    "accessibility": 0.82,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 343
+  },
+  "firstContentfulPaint": 2505.9060000000004,
+  "firstMeaningfulPaint": 2975.4060000000004,
+  "speedIndex": 2931.1381790571486,
+  "largestContentfulPaint": 3594.9060000000004,
+  "totalBlockingTime": 1195.0729999999999,
+  "cumulativeLayoutShift": 0.009496295751184977,
+  "timeToInteractive": 5123.527000000001,
+  "maxPotentialFirstInputDelay": 939,
+  "timeToFirstByte": 164.362,
+  "weight": {
+    "summary": "77 requests • 3.1 MiB",
+    "total": 3250512,
+    "image": 33256,
+    "imageCount": 8,
+    "script": 142072,
+    "scriptCount": 21,
+    "document": 39036,
+    "font": 2921578,
+    "fontCount": 39,
+    "stylesheet": 113519,
+    "stylesheetCount": 4,
+    "thirdParty": 29345,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 928,
+    "+weight.total": 134,
+    "-weight.document": 896,
+    "+weight.document": 140,
+    "-weight.script": 587,
+    "+weight.script": 405,
+    "-weight.image": 184,
+    "+weight.image": 762,
+    "-weight.font": 774,
+    "+weight.font": 4,
+    "+weight.fontCount": 2,
+    "-timeToFirstByte": 834,
+    "-totalBlockingTime": 570,
+    "-largestContentfulPaint": 778
+  },
+  "axe": {
+    "passes": 1265,
+    "violations": 30
+  }
+}

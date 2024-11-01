@@ -1,0 +1,67 @@
+{
+  "url": "https://www.qbb.sh/",
+  "requestedUrl": "https://www.qbb.sh/",
+  "timestamp": 1730495473554,
+  "ranks": {
+    "hundos": 216,
+    "performance": 250,
+    "accessibility": 569,
+    "cumulative": 218
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.94,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 393
+  },
+  "firstContentfulPaint": 1198.48,
+  "firstMeaningfulPaint": 1198.48,
+  "speedIndex": 2020.1171058289435,
+  "largestContentfulPaint": 1800.6115,
+  "totalBlockingTime": 89.5,
+  "cumulativeLayoutShift": 0.030559975287514623,
+  "timeToInteractive": 3868.194,
+  "maxPotentialFirstInputDelay": 93,
+  "timeToFirstByte": 77.492,
+  "weight": {
+    "summary": "21 requests • 150.0 KiB",
+    "total": 153606,
+    "image": 40770,
+    "imageCount": 10,
+    "script": 11832,
+    "scriptCount": 4,
+    "document": 6441,
+    "font": 68526,
+    "fontCount": 1,
+    "stylesheet": 14220,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 198,
+    "+weight.total": 864,
+    "-weight.document": 275,
+    "+weight.document": 761,
+    "-weight.script": 179,
+    "+weight.script": 813,
+    "-weight.image": 202,
+    "+weight.image": 744,
+    "-weight.font": 357,
+    "+weight.font": 421,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 650,
+    "-totalBlockingTime": 145,
+    "-largestContentfulPaint": 211
+  },
+  "axe": {
+    "passes": 300,
+    "violations": 5
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.pasthk.com/",
+  "requestedUrl": "https://www.pasthk.com/",
+  "timestamp": 1730495339100,
+  "ranks": {
+    "hundos": 671,
+    "performance": 547,
+    "accessibility": 487,
+    "cumulative": 670
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.87,
+    "accessibility": 0.95,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 360
+  },
+  "firstContentfulPaint": 1066.097,
+  "firstMeaningfulPaint": 1066.097,
+  "speedIndex": 3969.9930058013206,
+  "largestContentfulPaint": 2015.8055,
+  "totalBlockingTime": 407,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5751.534,
+  "maxPotentialFirstInputDelay": 222,
+  "timeToFirstByte": 1088.038,
+  "weight": {
+    "summary": "34 requests • 394.3 KiB",
+    "total": 403736,
+    "image": 30,
+    "imageCount": 4,
+    "script": 268192,
+    "scriptCount": 11,
+    "document": 21214,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 11275,
+    "stylesheetCount": 1,
+    "thirdParty": 352179,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 420,
+    "+weight.total": 642,
+    "-weight.document": 769,
+    "+weight.document": 267,
+    "-weight.script": 720,
+    "+weight.script": 272,
+    "-weight.image": 2,
+    "+weight.image": 944,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 1021,
+    "-totalBlockingTime": 392,
+    "-largestContentfulPaint": 611
+  },
+  "axe": {
+    "passes": 179,
+    "violations": 5
+  }
+}

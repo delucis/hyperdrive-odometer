@@ -1,0 +1,67 @@
+{
+  "url": "https://jeannem.com/",
+  "requestedUrl": "https://jeannem.com/",
+  "timestamp": 1730471390286,
+  "ranks": {
+    "hundos": 672,
+    "performance": 420,
+    "accessibility": 941,
+    "cumulative": 674
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.93,
+    "accessibility": 0.81,
+    "bestPractices": 1,
+    "seo": 0.85,
+    "total": 359
+  },
+  "firstContentfulPaint": 974.3305,
+  "firstMeaningfulPaint": 974.3305,
+  "speedIndex": 974.3305,
+  "largestContentfulPaint": 2823.3305,
+  "totalBlockingTime": 1,
+  "cumulativeLayoutShift": 0.10787544415968164,
+  "timeToInteractive": 1034.8305,
+  "maxPotentialFirstInputDelay": 151,
+  "timeToFirstByte": 42.57199999999999,
+  "weight": {
+    "summary": "16 requests • 730.8 KiB",
+    "total": 748330,
+    "image": 641109,
+    "imageCount": 7,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 11002,
+    "font": 77218,
+    "fontCount": 4,
+    "stylesheet": 19001,
+    "stylesheetCount": 4,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 599,
+    "+weight.total": 463,
+    "-weight.document": 529,
+    "+weight.document": 507,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 657,
+    "+weight.image": 289,
+    "-weight.font": 400,
+    "+weight.font": 378,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 502,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 713
+  },
+  "axe": {
+    "passes": 260,
+    "violations": 10
+  }
+}

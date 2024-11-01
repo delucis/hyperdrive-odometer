@@ -1,0 +1,67 @@
+{
+  "url": "https://kievhorst.com/",
+  "requestedUrl": "https://kievhorst.com/",
+  "timestamp": 1730487516211,
+  "ranks": {
+    "hundos": 599,
+    "performance": 712,
+    "accessibility": 696,
+    "cumulative": 594
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.75,
+    "accessibility": 0.91,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 366
+  },
+  "firstContentfulPaint": 2177.3895,
+  "firstMeaningfulPaint": 2177.3895,
+  "speedIndex": 3967.255777766144,
+  "largestContentfulPaint": 2983.098,
+  "totalBlockingTime": 605.5000000000005,
+  "cumulativeLayoutShift": 0.01400983442609174,
+  "timeToInteractive": 6141.432000000001,
+  "maxPotentialFirstInputDelay": 264.00000000000045,
+  "timeToFirstByte": 217.39600000000002,
+  "weight": {
+    "summary": "73 requests • 3.4 MiB",
+    "total": 3533378,
+    "image": 2981915,
+    "imageCount": 52,
+    "script": 407458,
+    "scriptCount": 17,
+    "document": 102354,
+    "font": 41129,
+    "fontCount": 2,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 3024502,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 935,
+    "+weight.total": 127,
+    "-weight.document": 984,
+    "+weight.document": 52,
+    "-weight.script": 825,
+    "+weight.script": 167,
+    "-weight.image": 870,
+    "+weight.image": 76,
+    "-weight.font": 202,
+    "+weight.font": 576,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 880,
+    "-totalBlockingTime": 473,
+    "-largestContentfulPaint": 731
+  },
+  "axe": {
+    "passes": 704,
+    "violations": 4
+  }
+}

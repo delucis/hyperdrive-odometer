@@ -1,0 +1,67 @@
+{
+  "url": "https://finquota.com/",
+  "requestedUrl": "https://finquota.com/",
+  "timestamp": 1730453903314,
+  "ranks": {
+    "hundos": 886,
+    "performance": 873,
+    "accessibility": 582,
+    "cumulative": 886
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.63,
+    "accessibility": 0.94,
+    "bestPractices": 0.74,
+    "seo": 1,
+    "total": 331
+  },
+  "firstContentfulPaint": 1687.306,
+  "firstMeaningfulPaint": 1687.306,
+  "speedIndex": 15807.689390523195,
+  "largestContentfulPaint": 1687.306,
+  "totalBlockingTime": 1486.500000000001,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8357.602000000003,
+  "maxPotentialFirstInputDelay": 390,
+  "timeToFirstByte": 7965.195000000001,
+  "weight": {
+    "summary": "63 requests • 727.6 KiB",
+    "total": 745110,
+    "image": 1579,
+    "imageCount": 4,
+    "script": 615524,
+    "scriptCount": 33,
+    "document": 108365,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 18891,
+    "stylesheetCount": 6,
+    "thirdParty": 519016,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 596,
+    "+weight.total": 466,
+    "-weight.document": 988,
+    "+weight.document": 48,
+    "-weight.script": 888,
+    "+weight.script": 104,
+    "-weight.image": 32,
+    "+weight.image": 914,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 1050,
+    "-totalBlockingTime": 592,
+    "-largestContentfulPaint": 573
+  },
+  "axe": {
+    "passes": 302,
+    "violations": 11
+  }
+}

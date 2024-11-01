@@ -1,0 +1,67 @@
+{
+  "url": "https://ccsf-cs.club/projects/whos_that_pokemon/",
+  "requestedUrl": "https://ccsf-cs.club/projects/whos_that_pokemon/",
+  "timestamp": 1730483170867,
+  "ranks": {
+    "hundos": 206,
+    "performance": 286,
+    "accessibility": 319,
+    "cumulative": 204
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 394
+  },
+  "firstContentfulPaint": 1809.8380000000002,
+  "firstMeaningfulPaint": 1809.8380000000002,
+  "speedIndex": 1809.8380000000002,
+  "largestContentfulPaint": 1959.8380000000002,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1809.8380000000002,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 154.582,
+  "weight": {
+    "summary": "5 requests • 42.0 KiB",
+    "total": 42995,
+    "image": 11860,
+    "imageCount": 1,
+    "script": 20662,
+    "scriptCount": 1,
+    "document": 1507,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 8596,
+    "stylesheetCount": 1,
+    "thirdParty": 32892,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 45,
+    "+weight.total": 1017,
+    "-weight.document": 6,
+    "+weight.document": 1030,
+    "-weight.script": 233,
+    "+weight.script": 759,
+    "-weight.image": 100,
+    "+weight.image": 846,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 829,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 238
+  },
+  "axe": {
+    "passes": 38,
+    "violations": 6
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.emanuelsaramago.com/",
+  "requestedUrl": "https://emanuelsaramago.com/",
+  "timestamp": 1730469047823,
+  "ranks": {
+    "hundos": 547,
+    "performance": 778,
+    "accessibility": 288,
+    "cumulative": 547
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.7,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 370
+  },
+  "firstContentfulPaint": 2309.471,
+  "firstMeaningfulPaint": 2309.471,
+  "speedIndex": 2430.2820679001325,
+  "largestContentfulPaint": 7098.562000000001,
+  "totalBlockingTime": 210,
+  "cumulativeLayoutShift": 0.038349341168215464,
+  "timeToInteractive": 4890.84,
+  "maxPotentialFirstInputDelay": 205,
+  "timeToFirstByte": 1.9869999999999948,
+  "weight": {
+    "summary": "12 requests • 1.4 MiB",
+    "total": 1419543,
+    "image": 1202801,
+    "imageCount": 4,
+    "script": 169615,
+    "scriptCount": 2,
+    "document": 7303,
+    "font": 33697,
+    "fontCount": 1,
+    "stylesheet": 5180,
+    "stylesheetCount": 2,
+    "thirdParty": 848231,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 762,
+    "+weight.total": 300,
+    "-weight.document": 348,
+    "+weight.document": 688,
+    "-weight.script": 632,
+    "+weight.script": 360,
+    "-weight.image": 761,
+    "+weight.image": 185,
+    "-weight.font": 135,
+    "+weight.font": 643,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 20,
+    "-totalBlockingTime": 267,
+    "-largestContentfulPaint": 941
+  },
+  "axe": {
+    "passes": 524,
+    "violations": 4
+  }
+}

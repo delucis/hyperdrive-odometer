@@ -1,0 +1,67 @@
+{
+  "url": "https://www.thebreakfastclubla.com/",
+  "requestedUrl": "https://www.thebreakfastclubla.com/",
+  "timestamp": 1730464390443,
+  "ranks": {
+    "hundos": 756,
+    "performance": 748,
+    "accessibility": 180,
+    "cumulative": 749
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.73,
+    "accessibility": 1,
+    "bestPractices": 0.78,
+    "seo": 0.99,
+    "total": 350
+  },
+  "firstContentfulPaint": 1530.9942500000002,
+  "firstMeaningfulPaint": 1530.9942500000002,
+  "speedIndex": 4396.521946207601,
+  "largestContentfulPaint": 2565.5215,
+  "totalBlockingTime": 952.4395,
+  "cumulativeLayoutShift": 0.0072020166104476025,
+  "timeToInteractive": 9488.316499999999,
+  "maxPotentialFirstInputDelay": 338,
+  "timeToFirstByte": 108.711,
+  "weight": {
+    "summary": "109 requests • 1.5 MiB",
+    "total": 1567876,
+    "image": 467663,
+    "imageCount": 26,
+    "script": 940305,
+    "scriptCount": 61,
+    "document": 26539,
+    "font": 92022,
+    "fontCount": 5,
+    "stylesheet": 36179,
+    "stylesheetCount": 4,
+    "thirdParty": 1068858,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 790,
+    "+weight.total": 272,
+    "-weight.document": 818,
+    "+weight.document": 218,
+    "-weight.script": 945,
+    "+weight.script": 47,
+    "-weight.image": 589,
+    "+weight.image": 357,
+    "-weight.font": 463,
+    "+weight.font": 315,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 748,
+    "-totalBlockingTime": 534,
+    "-largestContentfulPaint": 684
+  },
+  "axe": {
+    "passes": 604,
+    "violations": 1
+  }
+}

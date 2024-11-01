@@ -1,0 +1,67 @@
+{
+  "url": "https://www.viveohlala.com/",
+  "requestedUrl": "https://www.viveohlala.com/",
+  "timestamp": 1730496216625,
+  "ranks": {
+    "hundos": 511,
+    "performance": 682,
+    "accessibility": 221,
+    "cumulative": 503
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.77,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 373
+  },
+  "firstContentfulPaint": 2507.124,
+  "firstMeaningfulPaint": 2507.124,
+  "speedIndex": 2881.0955038047773,
+  "largestContentfulPaint": 3406.0905000000002,
+  "totalBlockingTime": 423.49999999999955,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4018.17375,
+  "maxPotentialFirstInputDelay": 327.99999999999955,
+  "timeToFirstByte": 13.113,
+  "weight": {
+    "summary": "49 requests • 560.5 KiB",
+    "total": 573975,
+    "image": 86152,
+    "imageCount": 11,
+    "script": 289869,
+    "scriptCount": 32,
+    "document": 17211,
+    "font": 142198,
+    "fontCount": 3,
+    "stylesheet": 38402,
+    "stylesheetCount": 1,
+    "thirdParty": 156539,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 535,
+    "+weight.total": 527,
+    "-weight.document": 710,
+    "+weight.document": 326,
+    "-weight.script": 736,
+    "+weight.script": 256,
+    "-weight.image": 291,
+    "+weight.image": 655,
+    "-weight.font": 573,
+    "+weight.font": 205,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 362,
+    "-totalBlockingTime": 400,
+    "-largestContentfulPaint": 761
+  },
+  "axe": {
+    "passes": 988,
+    "violations": 2
+  }
+}

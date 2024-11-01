@@ -1,0 +1,67 @@
+{
+  "url": "https://campus.camped.academy/",
+  "requestedUrl": "https://campus.camped.academy/",
+  "timestamp": 1730483090224,
+  "ranks": {
+    "hundos": 962,
+    "performance": 982,
+    "accessibility": 294,
+    "cumulative": 963
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.45,
+    "accessibility": 1,
+    "bestPractices": 0.7,
+    "seo": 0.98,
+    "total": 313
+  },
+  "firstContentfulPaint": 2439.6755,
+  "firstMeaningfulPaint": 2439.6755,
+  "speedIndex": 6648.730824227088,
+  "largestContentfulPaint": 8919.645500000002,
+  "totalBlockingTime": 910.4039999999991,
+  "cumulativeLayoutShift": 0.0010241541708510184,
+  "timeToInteractive": 11122.758000000002,
+  "maxPotentialFirstInputDelay": 367,
+  "timeToFirstByte": 2.51100000000001,
+  "weight": {
+    "summary": "78 requests • 3.4 MiB",
+    "total": 3597310,
+    "image": 2706219,
+    "imageCount": 24,
+    "script": 346857,
+    "scriptCount": 37,
+    "document": 11435,
+    "font": 360303,
+    "fontCount": 5,
+    "stylesheet": 169909,
+    "stylesheetCount": 2,
+    "thirdParty": 115524,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 937,
+    "+weight.total": 125,
+    "-weight.document": 549,
+    "+weight.document": 487,
+    "-weight.script": 790,
+    "+weight.script": 202,
+    "-weight.image": 859,
+    "+weight.image": 87,
+    "-weight.font": 706,
+    "+weight.font": 72,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 168,
+    "-totalBlockingTime": 524,
+    "-largestContentfulPaint": 970
+  },
+  "axe": {
+    "passes": 1013,
+    "violations": 5
+  }
+}

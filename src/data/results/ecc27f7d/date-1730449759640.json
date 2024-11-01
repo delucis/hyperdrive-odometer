@@ -1,0 +1,67 @@
+{
+  "url": "https://madebyandy.co/",
+  "requestedUrl": "https://madebyandy.co/",
+  "timestamp": 1730456541760,
+  "ranks": {
+    "hundos": 669,
+    "performance": 617,
+    "accessibility": 237,
+    "cumulative": 669
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.82,
+    "accessibility": 1,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 360
+  },
+  "firstContentfulPaint": 1607.1529999999998,
+  "firstMeaningfulPaint": 1607.1529999999998,
+  "speedIndex": 2672.5029300643487,
+  "largestContentfulPaint": 3676.492,
+  "totalBlockingTime": 210,
+  "cumulativeLayoutShift": 0.10463859373797524,
+  "timeToInteractive": 4327.16575,
+  "maxPotentialFirstInputDelay": 265,
+  "timeToFirstByte": 11.426000000000002,
+  "weight": {
+    "summary": "20 requests • 896.5 KiB",
+    "total": 918022,
+    "image": 268726,
+    "imageCount": 4,
+    "script": 202029,
+    "scriptCount": 4,
+    "document": 8273,
+    "font": 16287,
+    "fontCount": 2,
+    "stylesheet": 6474,
+    "stylesheetCount": 2,
+    "thirdParty": 217948,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 651,
+    "+weight.total": 411,
+    "-weight.document": 403,
+    "+weight.document": 633,
+    "-weight.script": 669,
+    "+weight.script": 323,
+    "-weight.image": 480,
+    "+weight.image": 466,
+    "-weight.font": 34,
+    "+weight.font": 744,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 349,
+    "-totalBlockingTime": 267,
+    "-largestContentfulPaint": 785
+  },
+  "axe": {
+    "passes": 168,
+    "violations": 2
+  }
+}

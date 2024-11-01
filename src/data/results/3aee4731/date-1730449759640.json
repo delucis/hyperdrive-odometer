@@ -1,0 +1,67 @@
+{
+  "url": "https://studiopigliacelli.com/",
+  "requestedUrl": "https://studiopigliacelli.com/",
+  "timestamp": 1730491716297,
+  "ranks": {
+    "hundos": 934,
+    "performance": 856,
+    "accessibility": 837,
+    "cumulative": 936
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.64,
+    "accessibility": 0.87,
+    "bestPractices": 0.78,
+    "seo": 0.91,
+    "total": 320
+  },
+  "firstContentfulPaint": 3150.6589999999997,
+  "firstMeaningfulPaint": 3150.6589999999997,
+  "speedIndex": 4748.826116468045,
+  "largestContentfulPaint": 4762.985,
+  "totalBlockingTime": 406,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5413.812,
+  "maxPotentialFirstInputDelay": 327.99999999999955,
+  "timeToFirstByte": 108.08600000000001,
+  "weight": {
+    "summary": "77 requests • 19.2 MiB",
+    "total": 20171766,
+    "image": 19807280,
+    "imageCount": 45,
+    "script": 224138,
+    "scriptCount": 13,
+    "document": 5388,
+    "font": 88789,
+    "fontCount": 2,
+    "stylesheet": 36851,
+    "stylesheetCount": 6,
+    "thirdParty": 311220,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1045,
+    "+weight.total": 17,
+    "-weight.document": 198,
+    "+weight.document": 838,
+    "-weight.script": 685,
+    "+weight.script": 307,
+    "-weight.image": 942,
+    "+weight.image": 4,
+    "-weight.font": 450,
+    "+weight.font": 328,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 743,
+    "-totalBlockingTime": 391,
+    "-largestContentfulPaint": 863
+  },
+  "axe": {
+    "passes": 660,
+    "violations": 49
+  }
+}

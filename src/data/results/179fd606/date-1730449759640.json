@@ -1,0 +1,67 @@
+{
+  "url": "https://crosstownmovers.net/",
+  "requestedUrl": "https://crosstownmovers.net/",
+  "timestamp": 1730483848305,
+  "ranks": {
+    "hundos": 550,
+    "performance": 709,
+    "accessibility": 464,
+    "cumulative": 546
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.75,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 370
+  },
+  "firstContentfulPaint": 2462.7490000000003,
+  "firstMeaningfulPaint": 2507.7490000000003,
+  "speedIndex": 3402.7277448500704,
+  "largestContentfulPaint": 3479.5745,
+  "totalBlockingTime": 306.5,
+  "cumulativeLayoutShift": 0.14128785010050043,
+  "timeToInteractive": 4695.471000000001,
+  "maxPotentialFirstInputDelay": 209,
+  "timeToFirstByte": 172.488,
+  "weight": {
+    "summary": "30 requests • 15.8 MiB",
+    "total": 16602219,
+    "image": 194047,
+    "imageCount": 10,
+    "script": 257350,
+    "scriptCount": 4,
+    "document": 11378,
+    "font": 129211,
+    "fontCount": 1,
+    "stylesheet": 11665,
+    "stylesheetCount": 9,
+    "thirdParty": 16551434,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1038,
+    "+weight.total": 24,
+    "-weight.document": 546,
+    "+weight.document": 490,
+    "-weight.script": 714,
+    "+weight.script": 278,
+    "-weight.image": 416,
+    "+weight.image": 530,
+    "-weight.font": 542,
+    "+weight.font": 236,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 839,
+    "-totalBlockingTime": 329,
+    "-largestContentfulPaint": 767
+  },
+  "axe": {
+    "passes": 441,
+    "violations": 3
+  }
+}

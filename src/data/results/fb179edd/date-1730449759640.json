@@ -1,0 +1,67 @@
+{
+  "url": "https://yogendrakumarvr.com/",
+  "requestedUrl": "https://yogendrakumarvr.com/",
+  "timestamp": 1730496469131,
+  "ranks": {
+    "hundos": 818,
+    "performance": 933,
+    "accessibility": 631,
+    "cumulative": 819
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.53,
+    "accessibility": 0.93,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 342
+  },
+  "firstContentfulPaint": 1683.9080000000001,
+  "firstMeaningfulPaint": 1683.9080000000004,
+  "speedIndex": 3090.2851132856863,
+  "largestContentfulPaint": 9171.885,
+  "totalBlockingTime": 42,
+  "cumulativeLayoutShift": 0.519940292904796,
+  "timeToInteractive": 1849.4265000000003,
+  "maxPotentialFirstInputDelay": 134,
+  "timeToFirstByte": 2.4950000000000045,
+  "weight": {
+    "summary": "22 requests • 1.4 MiB",
+    "total": 1498664,
+    "image": 1386074,
+    "imageCount": 5,
+    "script": 59764,
+    "scriptCount": 9,
+    "document": 5132,
+    "font": 39897,
+    "fontCount": 2,
+    "stylesheet": 7590,
+    "stylesheetCount": 4,
+    "thirdParty": 1427708,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 777,
+    "+weight.total": 285,
+    "-weight.document": 176,
+    "+weight.document": 860,
+    "-weight.script": 399,
+    "+weight.script": 593,
+    "-weight.image": 786,
+    "+weight.image": 160,
+    "-weight.font": 188,
+    "+weight.font": 590,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 161,
+    "-totalBlockingTime": 76,
+    "-largestContentfulPaint": 471
+  },
+  "axe": {
+    "passes": 109,
+    "violations": 14
+  }
+}

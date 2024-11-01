@@ -1,0 +1,67 @@
+{
+  "url": "https://danramteke.com/",
+  "requestedUrl": "https://danramteke.com/",
+  "timestamp": 1730468118547,
+  "ranks": {
+    "hundos": 140,
+    "performance": 9,
+    "accessibility": 281,
+    "cumulative": 135
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 397
+  },
+  "firstContentfulPaint": 887.6955,
+  "firstMeaningfulPaint": 887.6955,
+  "speedIndex": 887.6955,
+  "largestContentfulPaint": 887.6955,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 887.6955,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 12.700000000000003,
+  "weight": {
+    "summary": "2 requests • 5.8 KiB",
+    "total": 5960,
+    "image": 0,
+    "imageCount": 0,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 1529,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 4431,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 4,
+    "+weight.total": 1058,
+    "-weight.document": 8,
+    "+weight.document": 1028,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 356,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 5
+  },
+  "axe": {
+    "passes": 69,
+    "violations": 3
+  }
+}

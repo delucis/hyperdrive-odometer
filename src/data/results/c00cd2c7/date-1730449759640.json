@@ -1,0 +1,67 @@
+{
+  "url": "https://gpsc.guru/",
+  "requestedUrl": "https://gpsc.guru/",
+  "timestamp": 1730486173223,
+  "ranks": {
+    "hundos": 553,
+    "performance": 664,
+    "accessibility": 697,
+    "cumulative": 548
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.79,
+    "accessibility": 0.91,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 370
+  },
+  "firstContentfulPaint": 2863.3,
+  "firstMeaningfulPaint": 2863.3,
+  "speedIndex": 8367.4756160024,
+  "largestContentfulPaint": 3381.449,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2863.3,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 4344.35,
+  "weight": {
+    "summary": "5 requests • 127.6 KiB",
+    "total": 130682,
+    "image": 12266,
+    "imageCount": 1,
+    "script": 109595,
+    "scriptCount": 1,
+    "document": 2572,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 5710,
+    "stylesheetCount": 1,
+    "thirdParty": 110134,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 171,
+    "+weight.total": 891,
+    "-weight.document": 39,
+    "+weight.document": 997,
+    "-weight.script": 523,
+    "+weight.script": 469,
+    "-weight.image": 103,
+    "+weight.image": 843,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 1048,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 758
+  },
+  "axe": {
+    "passes": 188,
+    "violations": 4
+  }
+}

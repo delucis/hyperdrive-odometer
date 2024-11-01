@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gin-cruise.com/",
+  "requestedUrl": "https://gin-cruise.com/",
+  "timestamp": 1730454474840,
+  "ranks": {
+    "hundos": 420,
+    "performance": 525,
+    "accessibility": 649,
+    "cumulative": 417
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.88,
+    "accessibility": 0.92,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 380
+  },
+  "firstContentfulPaint": 2004.1329999999998,
+  "firstMeaningfulPaint": 2004.1329999999998,
+  "speedIndex": 5459.47832997613,
+  "largestContentfulPaint": 2298.269,
+  "totalBlockingTime": 238.5,
+  "cumulativeLayoutShift": 0.00006432287990770862,
+  "timeToInteractive": 8798.331,
+  "maxPotentialFirstInputDelay": 238,
+  "timeToFirstByte": 1.9799999999999969,
+  "weight": {
+    "summary": "40 requests • 1.2 MiB",
+    "total": 1287454,
+    "image": 457589,
+    "imageCount": 3,
+    "script": 614666,
+    "scriptCount": 19,
+    "document": 56215,
+    "font": 37550,
+    "fontCount": 2,
+    "stylesheet": 13802,
+    "stylesheetCount": 5,
+    "thirdParty": 985499,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 734,
+    "+weight.total": 328,
+    "-weight.document": 945,
+    "+weight.document": 91,
+    "-weight.script": 887,
+    "+weight.script": 105,
+    "-weight.image": 582,
+    "+weight.image": 364,
+    "-weight.font": 159,
+    "+weight.font": 619,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 19,
+    "-totalBlockingTime": 285,
+    "-largestContentfulPaint": 643
+  },
+  "axe": {
+    "passes": 386,
+    "violations": 1
+  }
+}

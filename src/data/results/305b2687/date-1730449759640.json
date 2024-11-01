@@ -1,0 +1,67 @@
+{
+  "url": "https://www.mitsue.co.jp/",
+  "requestedUrl": "https://www.mitsue.co.jp/",
+  "timestamp": 1730495093720,
+  "ranks": {
+    "hundos": 958,
+    "performance": 1029,
+    "accessibility": 33,
+    "cumulative": 956
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.36,
+    "accessibility": 1,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 314
+  },
+  "firstContentfulPaint": 4532.533,
+  "firstMeaningfulPaint": 4532.533,
+  "speedIndex": 7819.186130584654,
+  "largestContentfulPaint": 6721.0615,
+  "totalBlockingTime": 1236,
+  "cumulativeLayoutShift": 0.0002582782080618865,
+  "timeToInteractive": 10977.7295,
+  "maxPotentialFirstInputDelay": 660,
+  "timeToFirstByte": 157.58899999999994,
+  "weight": {
+    "summary": "50 requests • 5.3 MiB",
+    "total": 5600526,
+    "image": 387054,
+    "imageCount": 20,
+    "script": 390325,
+    "scriptCount": 12,
+    "document": 16011,
+    "font": 837746,
+    "fontCount": 2,
+    "stylesheet": 18176,
+    "stylesheetCount": 5,
+    "thirdParty": 389755,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 975,
+    "+weight.total": 87,
+    "-weight.document": 688,
+    "+weight.document": 348,
+    "-weight.script": 815,
+    "+weight.script": 177,
+    "-weight.image": 554,
+    "+weight.image": 392,
+    "-weight.font": 758,
+    "+weight.font": 20,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 832,
+    "-totalBlockingTime": 576,
+    "-largestContentfulPaint": 932
+  },
+  "axe": {
+    "passes": 623,
+    "violations": 0
+  }
+}

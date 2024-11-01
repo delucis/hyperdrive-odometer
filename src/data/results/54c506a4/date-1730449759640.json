@@ -1,0 +1,67 @@
+{
+  "url": "https://expressjs-docs.vercel.app/",
+  "requestedUrl": "https://expressjs-docs.vercel.app/",
+  "timestamp": 1730485186583,
+  "ranks": {
+    "hundos": 323,
+    "performance": 80,
+    "accessibility": 451,
+    "cumulative": 314
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 387
+  },
+  "firstContentfulPaint": 1078.7365,
+  "firstMeaningfulPaint": 1078.7365,
+  "speedIndex": 1078.7365,
+  "largestContentfulPaint": 1078.7365,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1078.7365,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 2.5919999999999987,
+  "weight": {
+    "summary": "10 requests • 49.8 KiB",
+    "total": 51022,
+    "image": 4440,
+    "imageCount": 2,
+    "script": 26615,
+    "scriptCount": 5,
+    "document": 8259,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 11563,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 57,
+    "+weight.total": 1005,
+    "-weight.document": 402,
+    "+weight.document": 634,
+    "-weight.script": 288,
+    "+weight.script": 704,
+    "-weight.image": 60,
+    "+weight.image": 886,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 182,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 57
+  },
+  "axe": {
+    "passes": 168,
+    "violations": 1
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://protectapack.com.au/",
+  "requestedUrl": "https://protectapack.com.au/",
+  "timestamp": 1730489914526,
+  "ranks": {
+    "hundos": 443,
+    "performance": 595,
+    "accessibility": 374,
+    "cumulative": 440
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.83,
+    "accessibility": 0.99,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 378
+  },
+  "firstContentfulPaint": 1319.9705,
+  "firstMeaningfulPaint": 1394.9705,
+  "speedIndex": 2775.7588887582237,
+  "largestContentfulPaint": 3094.3064999999997,
+  "totalBlockingTime": 425.5,
+  "cumulativeLayoutShift": 0.0011331774965821992,
+  "timeToInteractive": 6347.6895,
+  "maxPotentialFirstInputDelay": 233,
+  "timeToFirstByte": 118.642,
+  "weight": {
+    "summary": "40 requests • 766.5 KiB",
+    "total": 784859,
+    "image": 252154,
+    "imageCount": 14,
+    "script": 451161,
+    "scriptCount": 17,
+    "document": 18712,
+    "font": 45504,
+    "fontCount": 1,
+    "stylesheet": 14943,
+    "stylesheetCount": 1,
+    "thirdParty": 598552,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 612,
+    "+weight.total": 450,
+    "-weight.document": 741,
+    "+weight.document": 295,
+    "-weight.script": 845,
+    "+weight.script": 147,
+    "-weight.image": 463,
+    "+weight.image": 483,
+    "-weight.font": 217,
+    "+weight.font": 561,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 779,
+    "-totalBlockingTime": 401,
+    "-largestContentfulPaint": 737
+  },
+  "axe": {
+    "passes": 600,
+    "violations": 2
+  }
+}

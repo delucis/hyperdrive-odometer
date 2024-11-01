@@ -1,0 +1,67 @@
+{
+  "url": "https://www.akh-celle.de/ausbildung/",
+  "requestedUrl": "https://www.akh-celle.de/ausbildung/",
+  "timestamp": 1730462199936,
+  "ranks": {
+    "hundos": 487,
+    "performance": 640,
+    "accessibility": 637,
+    "cumulative": 494
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.81,
+    "accessibility": 0.93,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 374
+  },
+  "firstContentfulPaint": 1536.7270000000003,
+  "firstMeaningfulPaint": 1536.7270000000003,
+  "speedIndex": 2768.1592636849946,
+  "largestContentfulPaint": 3306.9370000000013,
+  "totalBlockingTime": 45,
+  "cumulativeLayoutShift": 0.21124013981954848,
+  "timeToInteractive": 1728.7270000000003,
+  "maxPotentialFirstInputDelay": 166,
+  "timeToFirstByte": 191.553,
+  "weight": {
+    "summary": "31 requests • 961.6 KiB",
+    "total": 984694,
+    "image": 751062,
+    "imageCount": 19,
+    "script": 20096,
+    "scriptCount": 4,
+    "document": 124200,
+    "font": 84699,
+    "fontCount": 4,
+    "stylesheet": 2030,
+    "stylesheetCount": 1,
+    "thirdParty": 451402,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 675,
+    "+weight.total": 387,
+    "-weight.document": 999,
+    "+weight.document": 37,
+    "-weight.script": 228,
+    "+weight.script": 764,
+    "-weight.image": 687,
+    "+weight.image": 259,
+    "-weight.font": 441,
+    "+weight.font": 337,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 857,
+    "-totalBlockingTime": 84,
+    "-largestContentfulPaint": 386
+  },
+  "axe": {
+    "passes": 681,
+    "violations": 22
+  }
+}

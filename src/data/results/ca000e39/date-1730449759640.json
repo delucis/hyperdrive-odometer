@@ -1,0 +1,67 @@
+{
+  "url": "https://safebras.com.br/",
+  "requestedUrl": "https://safebras.com.br/",
+  "timestamp": 1730490713354,
+  "ranks": {
+    "hundos": 778,
+    "performance": 911,
+    "accessibility": 377,
+    "cumulative": 774
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.57,
+    "accessibility": 0.99,
+    "bestPractices": 0.96,
+    "seo": 0.96,
+    "total": 348
+  },
+  "firstContentfulPaint": 4142.091,
+  "firstMeaningfulPaint": 4142.091,
+  "speedIndex": 8824.84886577245,
+  "largestContentfulPaint": 4177.591,
+  "totalBlockingTime": 518.8834999999999,
+  "cumulativeLayoutShift": 0.018800935275649484,
+  "timeToInteractive": 18396.236500000003,
+  "maxPotentialFirstInputDelay": 256,
+  "timeToFirstByte": 130.89100000000008,
+  "weight": {
+    "summary": "63 requests • 2.2 MiB",
+    "total": 2303112,
+    "image": 1304659,
+    "imageCount": 30,
+    "script": 436032,
+    "scriptCount": 14,
+    "document": 40972,
+    "font": 468718,
+    "fontCount": 6,
+    "stylesheet": 52587,
+    "stylesheetCount": 6,
+    "thirdParty": 479444,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 871,
+    "+weight.total": 191,
+    "-weight.document": 906,
+    "+weight.document": 130,
+    "-weight.script": 841,
+    "+weight.script": 151,
+    "-weight.image": 775,
+    "+weight.image": 171,
+    "-weight.font": 724,
+    "+weight.font": 54,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 799,
+    "-totalBlockingTime": 445,
+    "-largestContentfulPaint": 826
+  },
+  "axe": {
+    "passes": 710,
+    "violations": 6
+  }
+}

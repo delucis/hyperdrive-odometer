@@ -1,0 +1,67 @@
+{
+  "url": "https://www.readonlychild.com/blog/tag/astro/",
+  "requestedUrl": "https://www.omarpg.com/blog/",
+  "timestamp": 1730489051782,
+  "ranks": {
+    "hundos": 509,
+    "performance": 589,
+    "accessibility": 584,
+    "cumulative": 511
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.83,
+    "accessibility": 0.94,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 373
+  },
+  "firstContentfulPaint": 1510.9195000000002,
+  "firstMeaningfulPaint": 2572.7960000000003,
+  "speedIndex": 1510.9195000000002,
+  "largestContentfulPaint": 3854.8010000000004,
+  "totalBlockingTime": 273,
+  "cumulativeLayoutShift": 0.0005222652111154427,
+  "timeToInteractive": 2572.7960000000003,
+  "maxPotentialFirstInputDelay": 323,
+  "timeToFirstByte": 4.857999999999997,
+  "weight": {
+    "summary": "30 requests • 307.3 KiB",
+    "total": 314675,
+    "image": 57715,
+    "imageCount": 13,
+    "script": 45589,
+    "scriptCount": 5,
+    "document": 5699,
+    "font": 169409,
+    "fontCount": 3,
+    "stylesheet": 36135,
+    "stylesheetCount": 6,
+    "thirdParty": 306321,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 349,
+    "+weight.total": 713,
+    "-weight.document": 230,
+    "+weight.document": 806,
+    "-weight.script": 356,
+    "+weight.script": 636,
+    "-weight.image": 240,
+    "+weight.image": 706,
+    "-weight.font": 599,
+    "+weight.font": 179,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 300,
+    "-totalBlockingTime": 316,
+    "-largestContentfulPaint": 804
+  },
+  "axe": {
+    "passes": 424,
+    "violations": 14
+  }
+}

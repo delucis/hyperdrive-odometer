@@ -1,0 +1,67 @@
+{
+  "url": "https://torn4dom4n.github.io/",
+  "requestedUrl": "https://torn4dom4n.github.io/",
+  "timestamp": 1730492453880,
+  "ranks": {
+    "hundos": 885,
+    "performance": 764,
+    "accessibility": 334,
+    "cumulative": 885
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.72,
+    "accessibility": 1,
+    "bestPractices": 0.59,
+    "seo": 1,
+    "total": 331
+  },
+  "firstContentfulPaint": 1078.184,
+  "firstMeaningfulPaint": 1078.184,
+  "speedIndex": 5183.303427512629,
+  "largestContentfulPaint": 2593.049,
+  "totalBlockingTime": 917.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 12279.09028,
+  "maxPotentialFirstInputDelay": 308,
+  "timeToFirstByte": 34.069,
+  "weight": {
+    "summary": "75 requests • 7.9 MiB",
+    "total": 8295659,
+    "image": 6100264,
+    "imageCount": 17,
+    "script": 684375,
+    "scriptCount": 36,
+    "document": 21802,
+    "font": 767702,
+    "fontCount": 5,
+    "stylesheet": 19470,
+    "stylesheetCount": 4,
+    "thirdParty": 1784044,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1005,
+    "+weight.total": 57,
+    "-weight.document": 779,
+    "+weight.document": 257,
+    "-weight.script": 904,
+    "+weight.script": 88,
+    "-weight.image": 914,
+    "+weight.image": 32,
+    "-weight.font": 751,
+    "+weight.font": 27,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 472,
+    "-totalBlockingTime": 527,
+    "-largestContentfulPaint": 687
+  },
+  "axe": {
+    "passes": 773,
+    "violations": 10
+  }
+}

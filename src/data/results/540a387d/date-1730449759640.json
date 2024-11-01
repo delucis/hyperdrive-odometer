@@ -1,0 +1,67 @@
+{
+  "url": "https://xaq10.com/",
+  "requestedUrl": "https://xaq10.com/",
+  "timestamp": 1730496367640,
+  "ranks": {
+    "hundos": 606,
+    "performance": 520,
+    "accessibility": 948,
+    "cumulative": 608
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.88,
+    "accessibility": 0.81,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 365
+  },
+  "firstContentfulPaint": 2233.04,
+  "firstMeaningfulPaint": 2287.04,
+  "speedIndex": 2559.4555950143695,
+  "largestContentfulPaint": 2706.08,
+  "totalBlockingTime": 274.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4511.119000000001,
+  "maxPotentialFirstInputDelay": 167,
+  "timeToFirstByte": 506.22200000000004,
+  "weight": {
+    "summary": "16 requests • 859.6 KiB",
+    "total": 651193,
+    "image": 504918,
+    "imageCount": 11,
+    "script": 109858,
+    "scriptCount": 1,
+    "document": 252644,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 12256,
+    "stylesheetCount": 2,
+    "thirdParty": 110397,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 562,
+    "+weight.total": 500,
+    "-weight.document": 1023,
+    "+weight.document": 13,
+    "-weight.script": 527,
+    "+weight.script": 465,
+    "-weight.image": 603,
+    "+weight.image": 343,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 988,
+    "-totalBlockingTime": 319,
+    "-largestContentfulPaint": 700
+  },
+  "axe": {
+    "passes": 505,
+    "violations": 41
+  }
+}

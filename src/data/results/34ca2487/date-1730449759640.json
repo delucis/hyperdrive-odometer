@@ -1,0 +1,67 @@
+{
+  "url": "https://ishadeed.com/",
+  "requestedUrl": "https://ishadeed.com/",
+  "timestamp": 1730455355872,
+  "ranks": {
+    "hundos": 704,
+    "performance": 772,
+    "accessibility": 675,
+    "cumulative": 707
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.71,
+    "accessibility": 0.92,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 356
+  },
+  "firstContentfulPaint": 1711.3114,
+  "firstMeaningfulPaint": 2621.4634,
+  "speedIndex": 3389.8937532846594,
+  "largestContentfulPaint": 5441.349,
+  "totalBlockingTime": 333.5,
+  "cumulativeLayoutShift": 0.01180020097359292,
+  "timeToInteractive": 4763.849,
+  "maxPotentialFirstInputDelay": 450,
+  "timeToFirstByte": 21.5,
+  "weight": {
+    "summary": "48 requests • 1.9 MiB",
+    "total": 1967213,
+    "image": 1670832,
+    "imageCount": 27,
+    "script": 210936,
+    "scriptCount": 11,
+    "document": 37640,
+    "font": 35266,
+    "fontCount": 1,
+    "stylesheet": 11861,
+    "stylesheetCount": 6,
+    "thirdParty": 142226,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 840,
+    "+weight.total": 222,
+    "-weight.document": 889,
+    "+weight.document": 147,
+    "-weight.script": 676,
+    "+weight.script": 316,
+    "-weight.image": 811,
+    "+weight.image": 135,
+    "-weight.font": 146,
+    "+weight.font": 632,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 411,
+    "-totalBlockingTime": 345,
+    "-largestContentfulPaint": 895
+  },
+  "axe": {
+    "passes": 703,
+    "violations": 13
+  }
+}

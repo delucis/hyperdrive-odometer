@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nefroatual.com.br/",
+  "requestedUrl": "https://www.nefroatual.com.br/",
+  "timestamp": 1730495190572,
+  "ranks": {
+    "hundos": 706,
+    "performance": 853,
+    "accessibility": 223,
+    "cumulative": 703
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.64,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.96,
+    "total": 356
+  },
+  "firstContentfulPaint": 1392.3899999999999,
+  "firstMeaningfulPaint": 2489.7595,
+  "speedIndex": 3963.4867284350744,
+  "largestContentfulPaint": 3680.4,
+  "totalBlockingTime": 1131,
+  "cumulativeLayoutShift": 0.000020354078692910375,
+  "timeToInteractive": 4789.061,
+  "maxPotentialFirstInputDelay": 516,
+  "timeToFirstByte": 2.079999999999984,
+  "weight": {
+    "summary": "32 requests • 551.3 KiB",
+    "total": 564556,
+    "image": 36852,
+    "imageCount": 6,
+    "script": 453271,
+    "scriptCount": 14,
+    "document": 18111,
+    "font": 38152,
+    "fontCount": 1,
+    "stylesheet": 15505,
+    "stylesheetCount": 2,
+    "thirdParty": 242720,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 529,
+    "+weight.total": 533,
+    "-weight.document": 728,
+    "+weight.document": 308,
+    "-weight.script": 846,
+    "+weight.script": 146,
+    "-weight.image": 192,
+    "+weight.image": 754,
+    "-weight.font": 170,
+    "+weight.font": 608,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 38,
+    "-totalBlockingTime": 561,
+    "-largestContentfulPaint": 788
+  },
+  "axe": {
+    "passes": 786,
+    "violations": 2
+  }
+}

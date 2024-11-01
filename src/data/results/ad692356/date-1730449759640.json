@@ -1,0 +1,67 @@
+{
+  "url": "https://wowvalor.app/en",
+  "requestedUrl": "https://wowvalor.app/",
+  "timestamp": 1730462075698,
+  "ranks": {
+    "hundos": 670,
+    "performance": 524,
+    "accessibility": 1023,
+    "cumulative": 671
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.88,
+    "accessibility": 0.73,
+    "bestPractices": 1,
+    "seo": 0.99,
+    "total": 360
+  },
+  "firstContentfulPaint": 1321.9745,
+  "firstMeaningfulPaint": 1321.9745,
+  "speedIndex": 3098.4493346318013,
+  "largestContentfulPaint": 1820.9745,
+  "totalBlockingTime": 415.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4491.9745,
+  "maxPotentialFirstInputDelay": 251,
+  "timeToFirstByte": 136.94199999999998,
+  "weight": {
+    "summary": "36 requests • 414.3 KiB",
+    "total": 424233,
+    "image": 20,
+    "imageCount": 1,
+    "script": 316600,
+    "scriptCount": 23,
+    "document": 14521,
+    "font": 65999,
+    "fontCount": 3,
+    "stylesheet": 24516,
+    "stylesheetCount": 3,
+    "thirdParty": 8516,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 435,
+    "+weight.total": 627,
+    "-weight.document": 656,
+    "+weight.document": 380,
+    "-weight.script": 767,
+    "+weight.script": 225,
+    "-weight.image": 1,
+    "+weight.image": 945,
+    "-weight.font": 342,
+    "+weight.font": 436,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 809,
+    "-totalBlockingTime": 396,
+    "-largestContentfulPaint": 589
+  },
+  "axe": {
+    "passes": 873,
+    "violations": 21
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nunogois.com/",
+  "requestedUrl": "https://www.nunogois.com/",
+  "timestamp": 1730495296670,
+  "ranks": {
+    "hundos": 182,
+    "performance": 98,
+    "accessibility": 61,
+    "cumulative": 180
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.94,
+    "total": 394
+  },
+  "firstContentfulPaint": 1011.846,
+  "firstMeaningfulPaint": 1011.846,
+  "speedIndex": 1141.762709249339,
+  "largestContentfulPaint": 1011.846,
+  "totalBlockingTime": 30.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1118.346,
+  "maxPotentialFirstInputDelay": 103,
+  "timeToFirstByte": 71.05799999999999,
+  "weight": {
+    "summary": "18 requests • 181.0 KiB",
+    "total": 185368,
+    "image": 132788,
+    "imageCount": 4,
+    "script": 36910,
+    "scriptCount": 6,
+    "document": 9384,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 4954,
+    "stylesheetCount": 1,
+    "thirdParty": 15556,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 244,
+    "+weight.total": 818,
+    "-weight.document": 462,
+    "+weight.document": 574,
+    "-weight.script": 335,
+    "+weight.script": 657,
+    "-weight.image": 351,
+    "+weight.image": 595,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 617,
+    "-totalBlockingTime": 55,
+    "-largestContentfulPaint": 29
+  },
+  "axe": {
+    "passes": 366,
+    "violations": 0
+  }
+}

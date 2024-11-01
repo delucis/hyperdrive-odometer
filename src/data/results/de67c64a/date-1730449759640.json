@@ -1,0 +1,67 @@
+{
+  "url": "https://docs.arcjet.com/",
+  "requestedUrl": "https://docs.arcjet.com/",
+  "timestamp": 1730452957188,
+  "ranks": {
+    "hundos": 142,
+    "performance": 261,
+    "accessibility": 386,
+    "cumulative": 151
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 396
+  },
+  "firstContentfulPaint": 1069.019,
+  "firstMeaningfulPaint": 1069.019,
+  "speedIndex": 1069.019,
+  "largestContentfulPaint": 2269.0190000000002,
+  "totalBlockingTime": 1.5,
+  "cumulativeLayoutShift": 0.0009769091022106865,
+  "timeToInteractive": 1120.019,
+  "maxPotentialFirstInputDelay": 53,
+  "timeToFirstByte": 2.0190000000000055,
+  "weight": {
+    "summary": "15 requests • 249.0 KiB",
+    "total": 254926,
+    "image": 141427,
+    "imageCount": 4,
+    "script": 28149,
+    "scriptCount": 5,
+    "document": 9127,
+    "font": 46925,
+    "fontCount": 2,
+    "stylesheet": 29298,
+    "stylesheetCount": 3,
+    "thirdParty": 1262,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 311,
+    "+weight.total": 751,
+    "-weight.document": 445,
+    "+weight.document": 591,
+    "-weight.script": 300,
+    "+weight.script": 692,
+    "-weight.image": 362,
+    "+weight.image": 584,
+    "-weight.font": 231,
+    "+weight.font": 547,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 25,
+    "-totalBlockingTime": 3,
+    "-largestContentfulPaint": 639
+  },
+  "axe": {
+    "passes": 209,
+    "violations": 1
+  }
+}

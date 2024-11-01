@@ -1,0 +1,67 @@
+{
+  "url": "https://sidharthmohanty.com/",
+  "requestedUrl": "https://sidharthmohanty.com/",
+  "timestamp": 1730475351464,
+  "ranks": {
+    "hundos": 577,
+    "performance": 752,
+    "accessibility": 426,
+    "cumulative": 580
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.72,
+    "accessibility": 0.96,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 368
+  },
+  "firstContentfulPaint": 2463.5829999999996,
+  "firstMeaningfulPaint": 2463.5829999999996,
+  "speedIndex": 2554.943418001947,
+  "largestContentfulPaint": 8182.772999999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0007555126392772629,
+  "timeToInteractive": 2463.5829999999996,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 34.77599999999998,
+  "weight": {
+    "summary": "15 requests • 1.3 MiB",
+    "total": 1370834,
+    "image": 1256994,
+    "imageCount": 2,
+    "script": 2981,
+    "scriptCount": 3,
+    "document": 8689,
+    "font": 94574,
+    "fontCount": 5,
+    "stylesheet": 7596,
+    "stylesheetCount": 4,
+    "thirdParty": 98589,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 748,
+    "+weight.total": 314,
+    "-weight.document": 426,
+    "+weight.document": 610,
+    "-weight.script": 60,
+    "+weight.script": 932,
+    "-weight.image": 767,
+    "+weight.image": 179,
+    "-weight.font": 470,
+    "+weight.font": 308,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 475,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 466
+  },
+  "axe": {
+    "passes": 359,
+    "violations": 8
+  }
+}

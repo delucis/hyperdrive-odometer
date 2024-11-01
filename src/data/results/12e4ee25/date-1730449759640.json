@@ -1,0 +1,67 @@
+{
+  "url": "https://bjjgym.com/",
+  "requestedUrl": "https://bjjgym.com/",
+  "timestamp": 1730482618383,
+  "ranks": {
+    "hundos": 862,
+    "performance": 894,
+    "accessibility": 877,
+    "cumulative": 862
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.59,
+    "accessibility": 0.85,
+    "bestPractices": 0.93,
+    "seo": 0.98,
+    "total": 335
+  },
+  "firstContentfulPaint": 999.7449999999999,
+  "firstMeaningfulPaint": 1230.693,
+  "speedIndex": 3859.0776258836313,
+  "largestContentfulPaint": 3745.6810000000005,
+  "totalBlockingTime": 2469.8279999999995,
+  "cumulativeLayoutShift": 0.00019261122002534024,
+  "timeToInteractive": 8246.361,
+  "maxPotentialFirstInputDelay": 840,
+  "timeToFirstByte": 176.57999999999998,
+  "weight": {
+    "summary": "47 requests • 1.3 MiB",
+    "total": 1404192,
+    "image": 547647,
+    "imageCount": 6,
+    "script": 234296,
+    "scriptCount": 23,
+    "document": 14369,
+    "font": 47093,
+    "fontCount": 3,
+    "stylesheet": 28164,
+    "stylesheetCount": 5,
+    "thirdParty": 265820,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 757,
+    "+weight.total": 305,
+    "-weight.document": 652,
+    "+weight.document": 384,
+    "-weight.script": 696,
+    "+weight.script": 296,
+    "-weight.image": 624,
+    "+weight.image": 322,
+    "-weight.font": 237,
+    "+weight.font": 541,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 842,
+    "-totalBlockingTime": 640,
+    "-largestContentfulPaint": 794
+  },
+  "axe": {
+    "passes": 965,
+    "violations": 71
+  }
+}

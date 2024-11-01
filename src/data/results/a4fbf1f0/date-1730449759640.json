@@ -1,0 +1,67 @@
+{
+  "url": "https://whoiam.id.vn/en",
+  "requestedUrl": "https://whoiam.id.vn/en",
+  "timestamp": 1730477680268,
+  "ranks": {
+    "hundos": 817,
+    "performance": 912,
+    "accessibility": 612,
+    "cumulative": 817
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.57,
+    "accessibility": 0.93,
+    "bestPractices": 0.93,
+    "seo": 0.99,
+    "total": 342
+  },
+  "firstContentfulPaint": 2141.94,
+  "firstMeaningfulPaint": 2141.94,
+  "speedIndex": 11452.200718931217,
+  "largestContentfulPaint": 2216.94,
+  "totalBlockingTime": 5512.5,
+  "cumulativeLayoutShift": 0.025707841709469118,
+  "timeToInteractive": 13046.44,
+  "maxPotentialFirstInputDelay": 1216,
+  "timeToFirstByte": 105.534,
+  "weight": {
+    "summary": "52 requests • 16.5 MiB",
+    "total": 17325156,
+    "image": 2046117,
+    "imageCount": 15,
+    "script": 306391,
+    "scriptCount": 14,
+    "document": 9792,
+    "font": 31886,
+    "fontCount": 3,
+    "stylesheet": 95661,
+    "stylesheetCount": 13,
+    "thirdParty": 151422,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1040,
+    "+weight.total": 22,
+    "-weight.document": 483,
+    "+weight.document": 553,
+    "-weight.script": 755,
+    "+weight.script": 237,
+    "-weight.image": 832,
+    "+weight.image": 114,
+    "-weight.font": 117,
+    "+weight.font": 661,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 735,
+    "-totalBlockingTime": 670,
+    "-largestContentfulPaint": 629
+  },
+  "axe": {
+    "passes": 959,
+    "violations": 4
+  }
+}

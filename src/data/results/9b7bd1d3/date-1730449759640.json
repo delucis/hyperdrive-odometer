@@ -1,0 +1,67 @@
+{
+  "url": "https://anitaslondontours.com/",
+  "requestedUrl": "https://anitaslondontours.com/",
+  "timestamp": 1730450213515,
+  "ranks": {
+    "hundos": 612,
+    "performance": 723,
+    "accessibility": 313,
+    "cumulative": 615
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.74,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.9,
+    "total": 364
+  },
+  "firstContentfulPaint": 1810.6934999999999,
+  "firstMeaningfulPaint": 1810.6934999999999,
+  "speedIndex": 2099.429980352089,
+  "largestContentfulPaint": 9069.419000000002,
+  "totalBlockingTime": 45.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3202.214,
+  "maxPotentialFirstInputDelay": 97,
+  "timeToFirstByte": 91.56700000000001,
+  "weight": {
+    "summary": "16 requests • 3.2 MiB",
+    "total": 3343656,
+    "image": 3172898,
+    "imageCount": 8,
+    "script": 134489,
+    "scriptCount": 4,
+    "document": 4799,
+    "font": 22590,
+    "fontCount": 1,
+    "stylesheet": 8880,
+    "stylesheetCount": 2,
+    "thirdParty": 157747,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 931,
+    "+weight.total": 131,
+    "-weight.document": 158,
+    "+weight.document": 878,
+    "-weight.script": 578,
+    "+weight.script": 414,
+    "-weight.image": 876,
+    "+weight.image": 70,
+    "-weight.font": 57,
+    "+weight.font": 721,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 694,
+    "-totalBlockingTime": 86,
+    "-largestContentfulPaint": 470
+  },
+  "axe": {
+    "passes": 285,
+    "violations": 6
+  }
+}

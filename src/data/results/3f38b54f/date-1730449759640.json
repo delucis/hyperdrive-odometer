@@ -1,0 +1,67 @@
+{
+  "url": "https://zander.wtf/colophon/",
+  "requestedUrl": "https://zander.wtf/colophon",
+  "timestamp": 1730480857121,
+  "ranks": {
+    "hundos": 363,
+    "performance": 189,
+    "accessibility": 208,
+    "cumulative": 359
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.85,
+    "total": 384
+  },
+  "firstContentfulPaint": 1099.745,
+  "firstMeaningfulPaint": 1099.745,
+  "speedIndex": 1236.8013527728906,
+  "largestContentfulPaint": 2149.745,
+  "totalBlockingTime": 8,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1687.716,
+  "maxPotentialFirstInputDelay": 58,
+  "timeToFirstByte": 43.092,
+  "weight": {
+    "summary": "9 requests • 337.0 KiB",
+    "total": 345084,
+    "image": 0,
+    "imageCount": 0,
+    "script": 8768,
+    "scriptCount": 2,
+    "document": 4044,
+    "font": 303082,
+    "fontCount": 2,
+    "stylesheet": 28571,
+    "stylesheetCount": 1,
+    "thirdParty": 7147,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 388,
+    "+weight.total": 674,
+    "-weight.document": 108,
+    "+weight.document": 928,
+    "-weight.script": 148,
+    "+weight.script": 844,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 680,
+    "+weight.font": 98,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 505,
+    "-totalBlockingTime": 14,
+    "-largestContentfulPaint": 624
+  },
+  "axe": {
+    "passes": 169,
+    "violations": 1
+  }
+}

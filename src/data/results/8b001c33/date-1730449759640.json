@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nanofighters.club/es/",
+  "requestedUrl": "https://www.nanofighters.club/es/",
+  "timestamp": 1730479366660,
+  "ranks": {
+    "hundos": 310,
+    "performance": 246,
+    "accessibility": 668,
+    "cumulative": 322
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 387
+  },
+  "firstContentfulPaint": 1672.2379999999998,
+  "firstMeaningfulPaint": 1672.2379999999998,
+  "speedIndex": 1861.1358675693255,
+  "largestContentfulPaint": 1672.2379999999998,
+  "totalBlockingTime": 4,
+  "cumulativeLayoutShift": 0.0006424740974997924,
+  "timeToInteractive": 2747.785,
+  "maxPotentialFirstInputDelay": 56,
+  "timeToFirstByte": 1.929000000000002,
+  "weight": {
+    "summary": "76 requests • 457.7 KiB",
+    "total": 468666,
+    "image": 160688,
+    "imageCount": 13,
+    "script": 115886,
+    "scriptCount": 21,
+    "document": 12718,
+    "font": 49106,
+    "fontCount": 1,
+    "stylesheet": 11094,
+    "stylesheetCount": 2,
+    "thirdParty": 169253,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 462,
+    "+weight.total": 600,
+    "-weight.document": 596,
+    "+weight.document": 440,
+    "-weight.script": 548,
+    "+weight.script": 444,
+    "-weight.image": 382,
+    "+weight.image": 564,
+    "-weight.font": 256,
+    "+weight.font": 522,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 17,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 569
+  },
+  "axe": {
+    "passes": 797,
+    "violations": 8
+  }
+}

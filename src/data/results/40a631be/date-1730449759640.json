@@ -1,0 +1,67 @@
+{
+  "url": "https://infinite-fusion-calculator.com/",
+  "requestedUrl": "https://infinite-fusion-calculator.com/",
+  "timestamp": 1730455273966,
+  "ranks": {
+    "hundos": 894,
+    "performance": 905,
+    "accessibility": 900,
+    "cumulative": 891
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.57,
+    "accessibility": 0.83,
+    "bestPractices": 1,
+    "seo": 0.89,
+    "total": 329
+  },
+  "firstContentfulPaint": 2994.9069999999997,
+  "firstMeaningfulPaint": 3221.8199999999997,
+  "speedIndex": 3914.011796098448,
+  "largestContentfulPaint": 3676.6025,
+  "totalBlockingTime": 841.0000000000005,
+  "cumulativeLayoutShift": 0.14835540853810886,
+  "timeToInteractive": 6664.2545,
+  "maxPotentialFirstInputDelay": 447.00000000000045,
+  "timeToFirstByte": 52.483999999999995,
+  "weight": {
+    "summary": "63 requests • 895.6 KiB",
+    "total": 917092,
+    "image": 253377,
+    "imageCount": 7,
+    "script": 543491,
+    "scriptCount": 36,
+    "document": 18805,
+    "font": 49176,
+    "fontCount": 1,
+    "stylesheet": 48541,
+    "stylesheetCount": 11,
+    "thirdParty": 274975,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 650,
+    "+weight.total": 412,
+    "-weight.document": 742,
+    "+weight.document": 294,
+    "-weight.script": 873,
+    "+weight.script": 119,
+    "-weight.image": 464,
+    "+weight.image": 482,
+    "-weight.font": 260,
+    "+weight.font": 518,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 544,
+    "-totalBlockingTime": 517,
+    "-largestContentfulPaint": 786
+  },
+  "axe": {
+    "passes": 669,
+    "violations": 11
+  }
+}

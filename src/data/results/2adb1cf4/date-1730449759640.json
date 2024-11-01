@@ -1,0 +1,67 @@
+{
+  "url": "https://bachitter.dev/",
+  "requestedUrl": "https://bachitter.dev/",
+  "timestamp": 1730466555512,
+  "ranks": {
+    "hundos": 562,
+    "performance": 311,
+    "accessibility": 554,
+    "cumulative": 557
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.97,
+    "accessibility": 0.94,
+    "bestPractices": 0.81,
+    "seo": 0.97,
+    "total": 369
+  },
+  "firstContentfulPaint": 963.866,
+  "firstMeaningfulPaint": 963.866,
+  "speedIndex": 1204.386350951517,
+  "largestContentfulPaint": 963.866,
+  "totalBlockingTime": 158,
+  "cumulativeLayoutShift": 0.06628587924180254,
+  "timeToInteractive": 2479.866,
+  "maxPotentialFirstInputDelay": 209,
+  "timeToFirstByte": 95.12799999999999,
+  "weight": {
+    "summary": "16 requests • 132.4 KiB",
+    "total": 135571,
+    "image": 0,
+    "imageCount": 0,
+    "script": 9453,
+    "scriptCount": 4,
+    "document": 5526,
+    "font": 103318,
+    "fontCount": 5,
+    "stylesheet": 6528,
+    "stylesheetCount": 1,
+    "thirdParty": 3460,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 180,
+    "+weight.total": 882,
+    "-weight.document": 212,
+    "+weight.document": 824,
+    "-weight.script": 155,
+    "+weight.script": 837,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 489,
+    "+weight.font": 289,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 709,
+    "-totalBlockingTime": 229,
+    "-largestContentfulPaint": 485
+  },
+  "axe": {
+    "passes": 51,
+    "violations": 2
+  }
+}

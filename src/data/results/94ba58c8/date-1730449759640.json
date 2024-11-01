@@ -1,0 +1,67 @@
+{
+  "url": "https://gitter.im/",
+  "requestedUrl": "https://gitter.im/",
+  "timestamp": 1730470169641,
+  "ranks": {
+    "hundos": 734,
+    "performance": 248,
+    "accessibility": 926,
+    "cumulative": 737
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.82,
+    "bestPractices": 0.96,
+    "seo": 0.75,
+    "total": 352
+  },
+  "firstContentfulPaint": 1152.742,
+  "firstMeaningfulPaint": 1152.742,
+  "speedIndex": 1926.9932562933102,
+  "largestContentfulPaint": 2030.742,
+  "totalBlockingTime": 108.5,
+  "cumulativeLayoutShift": 0.00032423187326312156,
+  "timeToInteractive": 1411.242,
+  "maxPotentialFirstInputDelay": 301,
+  "timeToFirstByte": 100.68299999999999,
+  "weight": {
+    "summary": "26 requests • 1.3 MiB",
+    "total": 1393634,
+    "image": 1361508,
+    "imageCount": 20,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 9285,
+    "font": 0,
+    "fontCount": 3,
+    "stylesheet": 22841,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 755,
+    "+weight.total": 307,
+    "-weight.document": 456,
+    "+weight.document": 580,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 783,
+    "+weight.image": 163,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 724,
+    "-totalBlockingTime": 175,
+    "-largestContentfulPaint": 257
+  },
+  "axe": {
+    "passes": 309,
+    "violations": 39
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://jjaimealeman.com/",
+  "requestedUrl": "https://jjaimealeman.com/",
+  "timestamp": 1730471278748,
+  "ranks": {
+    "hundos": 170,
+    "performance": 66,
+    "accessibility": 467,
+    "cumulative": 171
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 395
+  },
+  "firstContentfulPaint": 982.864,
+  "firstMeaningfulPaint": 982.864,
+  "speedIndex": 1053.9619747079264,
+  "largestContentfulPaint": 1646.667,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 982.864,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 83.85200000000002,
+  "weight": {
+    "summary": "9 requests • 75.6 KiB",
+    "total": 77455,
+    "image": 10391,
+    "imageCount": 2,
+    "script": 12699,
+    "scriptCount": 2,
+    "document": 14016,
+    "font": 31736,
+    "fontCount": 2,
+    "stylesheet": 8472,
+    "stylesheetCount": 1,
+    "thirdParty": 7119,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 99,
+    "+weight.total": 963,
+    "-weight.document": 644,
+    "+weight.document": 392,
+    "-weight.script": 189,
+    "+weight.script": 803,
+    "-weight.image": 92,
+    "+weight.image": 854,
+    "-weight.font": 116,
+    "+weight.font": 662,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 668,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 175
+  },
+  "axe": {
+    "passes": 224,
+    "violations": 3
+  }
+}

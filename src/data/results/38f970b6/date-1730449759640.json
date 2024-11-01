@@ -1,0 +1,67 @@
+{
+  "url": "https://www.pricelevel.com/",
+  "requestedUrl": "https://www.pricelevel.com/",
+  "timestamp": 1730479637411,
+  "ranks": {
+    "hundos": 348,
+    "performance": 567,
+    "accessibility": 229,
+    "cumulative": 348
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.85,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 385
+  },
+  "firstContentfulPaint": 1056.002,
+  "firstMeaningfulPaint": 1734.002,
+  "speedIndex": 1211.1719827525665,
+  "largestContentfulPaint": 2409.002,
+  "totalBlockingTime": 401,
+  "cumulativeLayoutShift": 0.103064698085514,
+  "timeToInteractive": 4383.502,
+  "maxPotentialFirstInputDelay": 328,
+  "timeToFirstByte": 2.9539999999999793,
+  "weight": {
+    "summary": "28 requests • 738.9 KiB",
+    "total": 756590,
+    "image": 259856,
+    "imageCount": 6,
+    "script": 372391,
+    "scriptCount": 16,
+    "document": 12438,
+    "font": 97765,
+    "fontCount": 2,
+    "stylesheet": 13072,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 602,
+    "+weight.total": 460,
+    "-weight.document": 585,
+    "+weight.document": 451,
+    "-weight.script": 800,
+    "+weight.script": 192,
+    "-weight.image": 468,
+    "+weight.image": 478,
+    "-weight.font": 477,
+    "+weight.font": 301,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 237,
+    "-totalBlockingTime": 389,
+    "-largestContentfulPaint": 657
+  },
+  "axe": {
+    "passes": 573,
+    "violations": 2
+  }
+}

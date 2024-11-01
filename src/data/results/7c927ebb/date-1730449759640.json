@@ -1,0 +1,67 @@
+{
+  "url": "https://www.jasperwang.dev/",
+  "requestedUrl": "https://www.jasperwang.dev/",
+  "timestamp": 1730463266253,
+  "ranks": {
+    "hundos": 409,
+    "performance": 137,
+    "accessibility": 950,
+    "cumulative": 415
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.81,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 381
+  },
+  "firstContentfulPaint": 1536.54,
+  "firstMeaningfulPaint": 1536.54,
+  "speedIndex": 1536.54,
+  "largestContentfulPaint": 1536.54,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0032278594531372205,
+  "timeToInteractive": 1536.54,
+  "maxPotentialFirstInputDelay": 49,
+  "timeToFirstByte": 13.497000000000014,
+  "weight": {
+    "summary": "19 requests • 812.4 KiB",
+    "total": 831895,
+    "image": 697592,
+    "imageCount": 5,
+    "script": 87810,
+    "scriptCount": 8,
+    "document": 9005,
+    "font": 30524,
+    "fontCount": 3,
+    "stylesheet": 6964,
+    "stylesheetCount": 2,
+    "thirdParty": 31934,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 631,
+    "+weight.total": 431,
+    "-weight.document": 441,
+    "+weight.document": 595,
+    "-weight.script": 472,
+    "+weight.script": 520,
+    "-weight.image": 671,
+    "+weight.image": 275,
+    "-weight.font": 110,
+    "+weight.font": 668,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 365,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 136
+  },
+  "axe": {
+    "passes": 355,
+    "violations": 68
+  }
+}

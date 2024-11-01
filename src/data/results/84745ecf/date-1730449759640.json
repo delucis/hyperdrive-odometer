@@ -1,0 +1,67 @@
+{
+  "url": "https://natilon.com/en/",
+  "requestedUrl": "https://www.natilon.com/",
+  "timestamp": 1730479384467,
+  "ranks": {
+    "hundos": 923,
+    "performance": 995,
+    "accessibility": 720,
+    "cumulative": 922
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.42,
+    "accessibility": 0.91,
+    "bestPractices": 0.96,
+    "seo": 0.93,
+    "total": 322
+  },
+  "firstContentfulPaint": 4133.382,
+  "firstMeaningfulPaint": 4133.382,
+  "speedIndex": 7714.1137997193255,
+  "largestContentfulPaint": 4133.382,
+  "totalBlockingTime": 1444.0000000000014,
+  "cumulativeLayoutShift": 0.11353642699944458,
+  "timeToInteractive": 10427.525,
+  "maxPotentialFirstInputDelay": 429.0000000000009,
+  "timeToFirstByte": 2.953,
+  "weight": {
+    "summary": "269 requests • 38.5 MiB",
+    "total": 40402731,
+    "image": 139918,
+    "imageCount": 17,
+    "script": 722815,
+    "scriptCount": 28,
+    "document": 28147,
+    "font": 144836,
+    "fontCount": 7,
+    "stylesheet": 75068,
+    "stylesheetCount": 12,
+    "thirdParty": 40137379,
+    "thirdPartyCount": 12
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1057,
+    "+weight.total": 5,
+    "-weight.document": 832,
+    "+weight.document": 204,
+    "-weight.script": 907,
+    "+weight.script": 85,
+    "-weight.image": 359,
+    "+weight.image": 587,
+    "-weight.font": 576,
+    "+weight.font": 202,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 236,
+    "-totalBlockingTime": 586,
+    "-largestContentfulPaint": 819
+  },
+  "axe": {
+    "passes": 705,
+    "violations": 39
+  }
+}

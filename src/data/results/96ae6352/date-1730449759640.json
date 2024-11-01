@@ -1,0 +1,67 @@
+{
+  "url": "https://roseto.dev/",
+  "requestedUrl": "https://roseto.co/",
+  "timestamp": 1730490582207,
+  "ranks": {
+    "hundos": 561,
+    "performance": 533,
+    "accessibility": 401,
+    "cumulative": 555
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.87,
+    "accessibility": 0.97,
+    "bestPractices": 0.96,
+    "seo": 0.89,
+    "total": 369
+  },
+  "firstContentfulPaint": 1710.0949999999998,
+  "firstMeaningfulPaint": 2092.095,
+  "speedIndex": 2016.493074745379,
+  "largestContentfulPaint": 2706.0949999999993,
+  "totalBlockingTime": 368.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2542.5949999999993,
+  "maxPotentialFirstInputDelay": 437,
+  "timeToFirstByte": 142.793,
+  "weight": {
+    "summary": "33 requests • 478.7 KiB",
+    "total": 490159,
+    "image": 382728,
+    "imageCount": 20,
+    "script": 75155,
+    "scriptCount": 9,
+    "document": 13982,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 17684,
+    "stylesheetCount": 1,
+    "thirdParty": 12126,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 486,
+    "+weight.total": 576,
+    "-weight.document": 642,
+    "+weight.document": 394,
+    "-weight.script": 438,
+    "+weight.script": 554,
+    "-weight.image": 551,
+    "+weight.image": 395,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 817,
+    "-totalBlockingTime": 368,
+    "-largestContentfulPaint": 701
+  },
+  "axe": {
+    "passes": 429,
+    "violations": 1
+  }
+}

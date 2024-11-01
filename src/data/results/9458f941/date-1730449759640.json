@@ -1,0 +1,67 @@
+{
+  "url": "https://docs.patchstack.com/",
+  "requestedUrl": "https://docs.patchstack.com/",
+  "timestamp": 1730453028073,
+  "ranks": {
+    "hundos": 834,
+    "performance": 943,
+    "accessibility": 713,
+    "cumulative": 830
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.52,
+    "accessibility": 0.91,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 339
+  },
+  "firstContentfulPaint": 2623.282,
+  "firstMeaningfulPaint": 2623.282,
+  "speedIndex": 6522.5203340262515,
+  "largestContentfulPaint": 3773.8240000000005,
+  "totalBlockingTime": 1604.5,
+  "cumulativeLayoutShift": 0.07265159047702607,
+  "timeToInteractive": 13654.576250000002,
+  "maxPotentialFirstInputDelay": 630,
+  "timeToFirstByte": 111.94300000000001,
+  "weight": {
+    "summary": "37 requests • 1.6 MiB",
+    "total": 1712420,
+    "image": 297854,
+    "imageCount": 6,
+    "script": 1280461,
+    "scriptCount": 18,
+    "document": 9724,
+    "font": 73648,
+    "fontCount": 2,
+    "stylesheet": 12987,
+    "stylesheetCount": 2,
+    "thirdParty": 1305339,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 815,
+    "+weight.total": 247,
+    "-weight.document": 480,
+    "+weight.document": 556,
+    "-weight.script": 972,
+    "+weight.script": 20,
+    "-weight.image": 505,
+    "+weight.image": 441,
+    "-weight.font": 384,
+    "+weight.font": 394,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 756,
+    "-totalBlockingTime": 602,
+    "-largestContentfulPaint": 798
+  },
+  "axe": {
+    "passes": 317,
+    "violations": 10
+  }
+}

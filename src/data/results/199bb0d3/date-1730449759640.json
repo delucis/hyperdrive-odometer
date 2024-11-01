@@ -1,0 +1,67 @@
+{
+  "url": "https://studiokontekst.com/",
+  "requestedUrl": "https://studiokontekst.com/",
+  "timestamp": 1730460159980,
+  "ranks": {
+    "hundos": 184,
+    "performance": 409,
+    "accessibility": 226,
+    "cumulative": 190
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.94,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 394
+  },
+  "firstContentfulPaint": 2436.4849999999997,
+  "firstMeaningfulPaint": 2436.4849999999997,
+  "speedIndex": 2443.7044642050882,
+  "largestContentfulPaint": 2436.4849999999997,
+  "totalBlockingTime": 0.5,
+  "cumulativeLayoutShift": 0.00008661054664934811,
+  "timeToInteractive": 2598.4455,
+  "maxPotentialFirstInputDelay": 51,
+  "timeToFirstByte": 44.494000000000014,
+  "weight": {
+    "summary": "76 requests • 446.0 KiB",
+    "total": 456700,
+    "image": 132270,
+    "imageCount": 4,
+    "script": 111121,
+    "scriptCount": 26,
+    "document": 20298,
+    "font": 31565,
+    "fontCount": 2,
+    "stylesheet": 7405,
+    "stylesheetCount": 3,
+    "thirdParty": 165968,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 458,
+    "+weight.total": 604,
+    "-weight.document": 760,
+    "+weight.document": 276,
+    "-weight.script": 532,
+    "+weight.script": 460,
+    "-weight.image": 349,
+    "+weight.image": 597,
+    "-weight.font": 115,
+    "+weight.font": 663,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 514,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 664
+  },
+  "axe": {
+    "passes": 594,
+    "violations": 2
+  }
+}

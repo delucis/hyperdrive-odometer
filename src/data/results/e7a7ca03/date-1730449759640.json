@@ -1,0 +1,67 @@
+{
+  "url": "https://astro-mintlify.vercel.app/",
+  "requestedUrl": "https://astro-mintlify.vercel.app/",
+  "timestamp": 1730482119121,
+  "ranks": {
+    "hundos": 402,
+    "performance": 83,
+    "accessibility": 724,
+    "cumulative": 400
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 382
+  },
+  "firstContentfulPaint": 1082.934,
+  "firstMeaningfulPaint": 1082.934,
+  "speedIndex": 1082.934,
+  "largestContentfulPaint": 1478.934,
+  "totalBlockingTime": 1,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1183.934,
+  "maxPotentialFirstInputDelay": 52,
+  "timeToFirstByte": 2.4239999999999924,
+  "weight": {
+    "summary": "15 requests • 115.5 KiB",
+    "total": 118288,
+    "image": 2192,
+    "imageCount": 1,
+    "script": 99592,
+    "scriptCount": 11,
+    "document": 8867,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 7467,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 154,
+    "+weight.total": 908,
+    "-weight.document": 433,
+    "+weight.document": 603,
+    "-weight.script": 488,
+    "+weight.script": 504,
+    "-weight.image": 39,
+    "+weight.image": 907,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 135,
+    "-totalBlockingTime": 2,
+    "-largestContentfulPaint": 540
+  },
+  "axe": {
+    "passes": 196,
+    "violations": 2
+  }
+}

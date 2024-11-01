@@ -1,0 +1,67 @@
+{
+  "url": "https://arian-architects.github.io/",
+  "requestedUrl": "https://arian-architects.github.io/",
+  "timestamp": 1730466176625,
+  "ranks": {
+    "hundos": 12,
+    "performance": 57,
+    "accessibility": 316,
+    "cumulative": 71
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1039.6180000000002,
+  "firstMeaningfulPaint": 1039.6180000000002,
+  "speedIndex": 1039.6180000000002,
+  "largestContentfulPaint": 1039.6180000000002,
+  "totalBlockingTime": 20.513500000000022,
+  "cumulativeLayoutShift": 0.001028063506717928,
+  "timeToInteractive": 1085.1315000000002,
+  "maxPotentialFirstInputDelay": 163,
+  "timeToFirstByte": 21.27799999999999,
+  "weight": {
+    "summary": "10 requests • 162.8 KiB",
+    "total": 166736,
+    "image": 139045,
+    "imageCount": 6,
+    "script": 4867,
+    "scriptCount": 1,
+    "document": 3253,
+    "font": 14720,
+    "fontCount": 1,
+    "stylesheet": 4851,
+    "stylesheetCount": 1,
+    "thirdParty": 149579,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 217,
+    "+weight.total": 845,
+    "-weight.document": 68,
+    "+weight.document": 968,
+    "-weight.script": 87,
+    "+weight.script": 905,
+    "-weight.image": 358,
+    "+weight.image": 588,
+    "-weight.font": 24,
+    "+weight.font": 754,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 409,
+    "-totalBlockingTime": 39,
+    "-largestContentfulPaint": 36
+  },
+  "axe": {
+    "passes": 135,
+    "violations": 6
+  }
+}

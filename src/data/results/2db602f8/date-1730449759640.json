@@ -1,0 +1,67 @@
+{
+  "url": "https://coolenergyservice.it/",
+  "requestedUrl": "https://coolenergyservice.it/",
+  "timestamp": 1730452068659,
+  "ranks": {
+    "hundos": 600,
+    "performance": 587,
+    "accessibility": 643,
+    "cumulative": 600
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.84,
+    "accessibility": 0.93,
+    "bestPractices": 0.96,
+    "seo": 0.93,
+    "total": 366
+  },
+  "firstContentfulPaint": 1975.7290000000003,
+  "firstMeaningfulPaint": 1975.7290000000003,
+  "speedIndex": 4498.333335383883,
+  "largestContentfulPaint": 3682.2290000000003,
+  "totalBlockingTime": 110.2170000000001,
+  "cumulativeLayoutShift": 0.0416860073714446,
+  "timeToInteractive": 2450.6445,
+  "maxPotentialFirstInputDelay": 239.00000000000023,
+  "timeToFirstByte": 1651.246,
+  "weight": {
+    "summary": "17 requests • 676.0 KiB",
+    "total": 692220,
+    "image": 564163,
+    "imageCount": 8,
+    "script": 34699,
+    "scriptCount": 3,
+    "document": 9848,
+    "font": 73090,
+    "fontCount": 3,
+    "stylesheet": 10420,
+    "stylesheetCount": 2,
+    "thirdParty": 370867,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 578,
+    "+weight.total": 484,
+    "-weight.document": 486,
+    "+weight.document": 550,
+    "-weight.script": 323,
+    "+weight.script": 669,
+    "-weight.image": 630,
+    "+weight.image": 316,
+    "-weight.font": 379,
+    "+weight.font": 399,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 1039,
+    "-totalBlockingTime": 178,
+    "-largestContentfulPaint": 416
+  },
+  "axe": {
+    "passes": 525,
+    "violations": 49
+  }
+}

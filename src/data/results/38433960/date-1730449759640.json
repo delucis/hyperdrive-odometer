@@ -1,0 +1,67 @@
+{
+  "url": "https://alamedadecervera.com/",
+  "requestedUrl": "https://alamedadecervera.com/",
+  "timestamp": 1730481583098,
+  "ranks": {
+    "hundos": 357,
+    "performance": 576,
+    "accessibility": 191,
+    "cumulative": 358
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.84,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 384
+  },
+  "firstContentfulPaint": 1036.652,
+  "firstMeaningfulPaint": 1054.152,
+  "speedIndex": 1036.652,
+  "largestContentfulPaint": 2695.8250000000003,
+  "totalBlockingTime": 14,
+  "cumulativeLayoutShift": 0.2513682420212334,
+  "timeToInteractive": 1068.152,
+  "maxPotentialFirstInputDelay": 172,
+  "timeToFirstByte": 2.2490000000000094,
+  "weight": {
+    "summary": "37 requests • 880.3 KiB",
+    "total": 901439,
+    "image": 870030,
+    "imageCount": 22,
+    "script": 19545,
+    "scriptCount": 10,
+    "document": 6311,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 5052,
+    "stylesheetCount": 1,
+    "thirdParty": 770971,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 647,
+    "+weight.total": 415,
+    "-weight.document": 268,
+    "+weight.document": 768,
+    "-weight.script": 226,
+    "+weight.script": 766,
+    "-weight.image": 712,
+    "+weight.image": 234,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 92,
+    "-totalBlockingTime": 27,
+    "-largestContentfulPaint": 698
+  },
+  "axe": {
+    "passes": 379,
+    "violations": 1
+  }
+}

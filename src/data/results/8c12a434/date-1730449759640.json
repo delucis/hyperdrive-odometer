@@ -1,0 +1,67 @@
+{
+  "url": "https://onestopsites.net.au/",
+  "requestedUrl": "https://onestopsites.net.au/",
+  "timestamp": 1730489062388,
+  "ranks": {
+    "hundos": 874,
+    "performance": 774,
+    "accessibility": 834,
+    "cumulative": 875
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.71,
+    "accessibility": 0.87,
+    "bestPractices": 1,
+    "seo": 0.75,
+    "total": 333
+  },
+  "firstContentfulPaint": 3092.2640000000006,
+  "firstMeaningfulPaint": 3092.2640000000006,
+  "speedIndex": 4197.366218821426,
+  "largestContentfulPaint": 5674.777000000002,
+  "totalBlockingTime": 77.00700000000006,
+  "cumulativeLayoutShift": 0.008920674544524096,
+  "timeToInteractive": 3244.2710000000006,
+  "maxPotentialFirstInputDelay": 159,
+  "timeToFirstByte": 512.037,
+  "weight": {
+    "summary": "12 requests • 702.5 KiB",
+    "total": 719335,
+    "image": 569585,
+    "imageCount": 4,
+    "script": 115387,
+    "scriptCount": 3,
+    "document": 8068,
+    "font": 15487,
+    "fontCount": 1,
+    "stylesheet": 10263,
+    "stylesheetCount": 2,
+    "thirdParty": 127013,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 589,
+    "+weight.total": 473,
+    "-weight.document": 390,
+    "+weight.document": 646,
+    "-weight.script": 545,
+    "+weight.script": 447,
+    "-weight.image": 632,
+    "+weight.image": 314,
+    "-weight.font": 29,
+    "+weight.font": 749,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 989,
+    "-totalBlockingTime": 131,
+    "-largestContentfulPaint": 455
+  },
+  "axe": {
+    "passes": 193,
+    "violations": 26
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://jadezak.com/",
+  "requestedUrl": "https://jadezak.com/",
+  "timestamp": 1730456162366,
+  "ranks": {
+    "hundos": 145,
+    "performance": 115,
+    "accessibility": 77,
+    "cumulative": 143
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 396
+  },
+  "firstContentfulPaint": 1167.725,
+  "firstMeaningfulPaint": 1167.725,
+  "speedIndex": 1282.9814434538546,
+  "largestContentfulPaint": 1170.725,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.00018072408420155545,
+  "timeToInteractive": 1167.725,
+  "maxPotentialFirstInputDelay": 45,
+  "timeToFirstByte": 101.417,
+  "weight": {
+    "summary": "36 requests • 180.7 KiB",
+    "total": 185076,
+    "image": 77943,
+    "imageCount": 28,
+    "script": 7723,
+    "scriptCount": 2,
+    "document": 2989,
+    "font": 86881,
+    "fontCount": 4,
+    "stylesheet": 9540,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 243,
+    "+weight.total": 819,
+    "-weight.document": 51,
+    "+weight.document": 985,
+    "-weight.script": 137,
+    "+weight.script": 855,
+    "-weight.image": 277,
+    "+weight.image": 669,
+    "-weight.font": 445,
+    "+weight.font": 333,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 726,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 74
+  },
+  "axe": {
+    "passes": 305,
+    "violations": 0
+  }
+}

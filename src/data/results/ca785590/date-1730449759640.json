@@ -1,0 +1,67 @@
+{
+  "url": "https://www.kripod.dev/",
+  "requestedUrl": "https://www.kripod.dev/",
+  "timestamp": 1730494899297,
+  "ranks": {
+    "hundos": 96,
+    "performance": 181,
+    "accessibility": 109,
+    "cumulative": 85
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 884.325,
+  "firstMeaningfulPaint": 933.325,
+  "speedIndex": 1139.3604179892836,
+  "largestContentfulPaint": 1670.325,
+  "totalBlockingTime": 133,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1117.325,
+  "maxPotentialFirstInputDelay": 172,
+  "timeToFirstByte": 68.16299999999998,
+  "weight": {
+    "summary": "9 requests • 166.7 KiB",
+    "total": 170663,
+    "image": 0,
+    "imageCount": 0,
+    "script": 1405,
+    "scriptCount": 1,
+    "document": 4891,
+    "font": 156928,
+    "fontCount": 6,
+    "stylesheet": 7439,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 226,
+    "+weight.total": 836,
+    "-weight.document": 165,
+    "+weight.document": 871,
+    "-weight.script": 26,
+    "+weight.script": 966,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 588,
+    "+weight.font": 190,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 600,
+    "-totalBlockingTime": 203,
+    "-largestContentfulPaint": 182
+  },
+  "axe": {
+    "passes": 202,
+    "violations": 0
+  }
+}

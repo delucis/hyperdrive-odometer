@@ -1,0 +1,67 @@
+{
+  "url": "https://studiobezzini.it/",
+  "requestedUrl": "https://studiobezzini.it/",
+  "timestamp": 1730491686916,
+  "ranks": {
+    "hundos": 514,
+    "performance": 619,
+    "accessibility": 519,
+    "cumulative": 514
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.82,
+    "accessibility": 0.95,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 373
+  },
+  "firstContentfulPaint": 1931.9495000000002,
+  "firstMeaningfulPaint": 1931.9495000000002,
+  "speedIndex": 2796.9276388546214,
+  "largestContentfulPaint": 2911.871000000001,
+  "totalBlockingTime": 436,
+  "cumulativeLayoutShift": 0.0046672834143628725,
+  "timeToInteractive": 2746.4400000000005,
+  "maxPotentialFirstInputDelay": 364,
+  "timeToFirstByte": 418.24700000000007,
+  "weight": {
+    "summary": "22 requests • 584.4 KiB",
+    "total": 598399,
+    "image": 452159,
+    "imageCount": 7,
+    "script": 38932,
+    "scriptCount": 7,
+    "document": 6859,
+    "font": 60083,
+    "fontCount": 4,
+    "stylesheet": 40366,
+    "stylesheetCount": 3,
+    "thirdParty": 50957,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 548,
+    "+weight.total": 514,
+    "-weight.document": 309,
+    "+weight.document": 727,
+    "-weight.script": 342,
+    "+weight.script": 650,
+    "-weight.image": 580,
+    "+weight.image": 366,
+    "-weight.font": 312,
+    "+weight.font": 466,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 963,
+    "-totalBlockingTime": 404,
+    "-largestContentfulPaint": 724
+  },
+  "axe": {
+    "passes": 356,
+    "violations": 38
+  }
+}

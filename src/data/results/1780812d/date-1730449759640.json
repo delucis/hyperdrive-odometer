@@ -1,0 +1,67 @@
+{
+  "url": "https://fanitepay.com/",
+  "requestedUrl": "https://fanitepay.com/",
+  "timestamp": 1730453757184,
+  "ranks": {
+    "hundos": 991,
+    "performance": 1040,
+    "accessibility": 908,
+    "cumulative": 991
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.83,
+    "bestPractices": 0.93,
+    "seo": 0.93,
+    "total": 302
+  },
+  "firstContentfulPaint": 2111.2625,
+  "firstMeaningfulPaint": 3583.4704999999994,
+  "speedIndex": 23164.71035752564,
+  "largestContentfulPaint": 47196.642500000016,
+  "totalBlockingTime": 6959,
+  "cumulativeLayoutShift": 0.013082691583804902,
+  "timeToInteractive": 73195.37150000001,
+  "maxPotentialFirstInputDelay": 3677,
+  "timeToFirstByte": 437.476,
+  "weight": {
+    "summary": "68 requests • 19.7 MiB",
+    "total": 20701448,
+    "image": 8545308,
+    "imageCount": 19,
+    "script": 8337551,
+    "scriptCount": 40,
+    "document": 34195,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 4849492,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1047,
+    "+weight.total": 15,
+    "-weight.document": 876,
+    "+weight.document": 160,
+    "-weight.script": 991,
+    "+weight.script": 1,
+    "-weight.image": 926,
+    "+weight.image": 20,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 969,
+    "-totalBlockingTime": 675,
+    "-largestContentfulPaint": 1055
+  },
+  "axe": {
+    "passes": 533,
+    "violations": 23
+  }
+}

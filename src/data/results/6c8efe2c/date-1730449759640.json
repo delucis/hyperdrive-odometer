@@ -1,0 +1,67 @@
+{
+  "url": "https://dtxautosalon.com/",
+  "requestedUrl": "https://dtxautosalon.com/",
+  "timestamp": 1730453156014,
+  "ranks": {
+    "hundos": 803,
+    "performance": 866,
+    "accessibility": 867,
+    "cumulative": 804
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.63,
+    "accessibility": 0.85,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 344
+  },
+  "firstContentfulPaint": 2667.999,
+  "firstMeaningfulPaint": 2667.999,
+  "speedIndex": 4478.201065946776,
+  "largestContentfulPaint": 6002.02,
+  "totalBlockingTime": 367.5,
+  "cumulativeLayoutShift": 0.010629875715630413,
+  "timeToInteractive": 7417.860499999999,
+  "maxPotentialFirstInputDelay": 575,
+  "timeToFirstByte": 25.950000000000003,
+  "weight": {
+    "summary": "38 requests • 3.9 MiB",
+    "total": 4071091,
+    "image": 3692069,
+    "imageCount": 16,
+    "script": 191749,
+    "scriptCount": 10,
+    "document": 13972,
+    "font": 132120,
+    "fontCount": 5,
+    "stylesheet": 39945,
+    "stylesheetCount": 4,
+    "thirdParty": 1803851,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 952,
+    "+weight.total": 110,
+    "-weight.document": 639,
+    "+weight.document": 397,
+    "-weight.script": 656,
+    "+weight.script": 336,
+    "-weight.image": 884,
+    "+weight.image": 62,
+    "-weight.font": 554,
+    "+weight.font": 224,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 435,
+    "-totalBlockingTime": 367,
+    "-largestContentfulPaint": 916
+  },
+  "axe": {
+    "passes": 477,
+    "violations": 15
+  }
+}

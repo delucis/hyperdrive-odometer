@@ -1,0 +1,67 @@
+{
+  "url": "https://aidantomcy.github.io/",
+  "requestedUrl": "https://aidantomcy.github.io/",
+  "timestamp": 1730465718985,
+  "ranks": {
+    "hundos": 44,
+    "performance": 135,
+    "accessibility": 107,
+    "cumulative": 27
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1531.047,
+  "firstMeaningfulPaint": 1531.047,
+  "speedIndex": 1531.047,
+  "largestContentfulPaint": 1531.047,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0008563805595893821,
+  "timeToInteractive": 1531.047,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 30.00999999999999,
+  "weight": {
+    "summary": "39 requests • 93.2 KiB",
+    "total": 95432,
+    "image": 28159,
+    "imageCount": 13,
+    "script": 4110,
+    "scriptCount": 2,
+    "document": 5469,
+    "font": 49107,
+    "fontCount": 1,
+    "stylesheet": 3961,
+    "stylesheetCount": 2,
+    "thirdParty": 55006,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 124,
+    "+weight.total": 938,
+    "-weight.document": 204,
+    "+weight.document": 832,
+    "-weight.script": 74,
+    "+weight.script": 918,
+    "-weight.image": 164,
+    "+weight.image": 782,
+    "-weight.font": 257,
+    "+weight.font": 521,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 453,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 134
+  },
+  "axe": {
+    "passes": 205,
+    "violations": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.rijksoverheid.nl/contact/corona/vragen-over-corona",
+  "requestedUrl": "https://mijnvraagovercorona.nl/",
+  "timestamp": 1730456936870,
+  "ranks": {
+    "hundos": 645,
+    "performance": 840,
+    "accessibility": 60,
+    "cumulative": 639
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.66,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.96,
+    "total": 362
+  },
+  "firstContentfulPaint": 3094.8970000000004,
+  "firstMeaningfulPaint": 4057.425000000001,
+  "speedIndex": 5336.478803698805,
+  "largestContentfulPaint": 4068.425000000001,
+  "totalBlockingTime": 413.49999999999955,
+  "cumulativeLayoutShift": 0.062320678282256806,
+  "timeToInteractive": 5928.480999999999,
+  "maxPotentialFirstInputDelay": 317,
+  "timeToFirstByte": 330.90799999999996,
+  "weight": {
+    "summary": "19 requests • 474.1 KiB",
+    "total": 485473,
+    "image": 10977,
+    "imageCount": 2,
+    "script": 157403,
+    "scriptCount": 6,
+    "document": 6038,
+    "font": 256897,
+    "fontCount": 5,
+    "stylesheet": 50745,
+    "stylesheetCount": 2,
+    "thirdParty": 16212,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 479,
+    "+weight.total": 583,
+    "-weight.document": 253,
+    "+weight.document": 783,
+    "-weight.script": 615,
+    "+weight.script": 377,
+    "-weight.image": 96,
+    "+weight.image": 850,
+    "-weight.font": 658,
+    "+weight.font": 120,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 933,
+    "-totalBlockingTime": 395,
+    "-largestContentfulPaint": 815
+  },
+  "axe": {
+    "passes": 379,
+    "violations": 0
+  }
+}

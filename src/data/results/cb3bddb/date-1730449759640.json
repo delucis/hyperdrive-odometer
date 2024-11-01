@@ -1,0 +1,67 @@
+{
+  "url": "https://samaya.ai/",
+  "requestedUrl": "https://samaya.ai/",
+  "timestamp": 1730490763448,
+  "ranks": {
+    "hundos": 684,
+    "performance": 505,
+    "accessibility": 706,
+    "cumulative": 687
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.89,
+    "accessibility": 0.91,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 358
+  },
+  "firstContentfulPaint": 990.0550000000001,
+  "firstMeaningfulPaint": 990.0550000000001,
+  "speedIndex": 2133.991645034836,
+  "largestContentfulPaint": 990.0550000000001,
+  "totalBlockingTime": 422.99999999999955,
+  "cumulativeLayoutShift": 0.004652880126502606,
+  "timeToInteractive": 4643.537,
+  "maxPotentialFirstInputDelay": 303.99999999999955,
+  "timeToFirstByte": 55.38499999999999,
+  "weight": {
+    "summary": "25 requests • 458.3 KiB",
+    "total": 469337,
+    "image": 72796,
+    "imageCount": 5,
+    "script": 174943,
+    "scriptCount": 8,
+    "document": 7052,
+    "font": 202405,
+    "fontCount": 5,
+    "stylesheet": 7824,
+    "stylesheetCount": 3,
+    "thirdParty": 196010,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 463,
+    "+weight.total": 599,
+    "-weight.document": 326,
+    "+weight.document": 710,
+    "-weight.script": 638,
+    "+weight.script": 354,
+    "-weight.image": 263,
+    "+weight.image": 683,
+    "-weight.font": 635,
+    "+weight.font": 143,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 552,
+    "-totalBlockingTime": 399,
+    "-largestContentfulPaint": 488
+  },
+  "axe": {
+    "passes": 472,
+    "violations": 6
+  }
+}

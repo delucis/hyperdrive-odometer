@@ -1,0 +1,67 @@
+{
+  "url": "https://lexingtonthemes.com/",
+  "requestedUrl": "https://lexingtonthemes.com/",
+  "timestamp": 1730472081992,
+  "ranks": {
+    "hundos": 539,
+    "performance": 708,
+    "accessibility": 430,
+    "cumulative": 539
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.75,
+    "accessibility": 0.96,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 371
+  },
+  "firstContentfulPaint": 1856.462,
+  "firstMeaningfulPaint": 1856.462,
+  "speedIndex": 3189.1349049845107,
+  "largestContentfulPaint": 5436.226000000001,
+  "totalBlockingTime": 188,
+  "cumulativeLayoutShift": 0.0011873498501473957,
+  "timeToInteractive": 4437.880000000001,
+  "maxPotentialFirstInputDelay": 244,
+  "timeToFirstByte": 173.61499999999998,
+  "weight": {
+    "summary": "28 requests • 1.9 MiB",
+    "total": 1989095,
+    "image": 1480605,
+    "imageCount": 11,
+    "script": 49544,
+    "scriptCount": 8,
+    "document": 14295,
+    "font": 420234,
+    "fontCount": 4,
+    "stylesheet": 23221,
+    "stylesheetCount": 2,
+    "thirdParty": 393954,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 844,
+    "+weight.total": 218,
+    "-weight.document": 651,
+    "+weight.document": 385,
+    "-weight.script": 369,
+    "+weight.script": 623,
+    "-weight.image": 796,
+    "+weight.image": 150,
+    "-weight.font": 714,
+    "+weight.font": 64,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 840,
+    "-totalBlockingTime": 252,
+    "-largestContentfulPaint": 894
+  },
+  "axe": {
+    "passes": 1237,
+    "violations": 14
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://saulvo.info/",
+  "requestedUrl": "https://saulvo.vercel.app/",
+  "timestamp": 1730475097971,
+  "ranks": {
+    "hundos": 351,
+    "performance": 575,
+    "accessibility": 111,
+    "cumulative": 346
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.85,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 385
+  },
+  "firstContentfulPaint": 1783.58,
+  "firstMeaningfulPaint": 1783.58,
+  "speedIndex": 6522.951696885851,
+  "largestContentfulPaint": 2308.2949999999996,
+  "totalBlockingTime": 296.32849999999985,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3526.196,
+  "maxPotentialFirstInputDelay": 279,
+  "timeToFirstByte": 2.8279999999999994,
+  "weight": {
+    "summary": "26 requests • 329.6 KiB",
+    "total": 337561,
+    "image": 0,
+    "imageCount": 0,
+    "script": 275685,
+    "scriptCount": 13,
+    "document": 11985,
+    "font": 24168,
+    "fontCount": 3,
+    "stylesheet": 12053,
+    "stylesheetCount": 1,
+    "thirdParty": 369,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 377,
+    "+weight.total": 685,
+    "-weight.document": 569,
+    "+weight.document": 467,
+    "-weight.script": 724,
+    "+weight.script": 268,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 67,
+    "+weight.font": 711,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 222,
+    "-totalBlockingTime": 326,
+    "-largestContentfulPaint": 644
+  },
+  "axe": {
+    "passes": 189,
+    "violations": 0
+  }
+}

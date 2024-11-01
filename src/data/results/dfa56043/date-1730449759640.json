@@ -1,0 +1,67 @@
+{
+  "url": "https://nationaltours.in/",
+  "requestedUrl": "https://nationaltours.in/",
+  "timestamp": 1730457232188,
+  "ranks": {
+    "hundos": 331,
+    "performance": 177,
+    "accessibility": 51,
+    "cumulative": 331
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.91,
+    "total": 386
+  },
+  "firstContentfulPaint": 958.0245,
+  "firstMeaningfulPaint": 1349.3435,
+  "speedIndex": 1110.9634795398852,
+  "largestContentfulPaint": 1972.6644999999999,
+  "totalBlockingTime": 97.5,
+  "cumulativeLayoutShift": 0.013012669566496968,
+  "timeToInteractive": 1757.1625,
+  "maxPotentialFirstInputDelay": 138,
+  "timeToFirstByte": 2.0529999999999973,
+  "weight": {
+    "summary": "18 requests • 852.6 KiB",
+    "total": 873052,
+    "image": 766561,
+    "imageCount": 7,
+    "script": 83387,
+    "scriptCount": 9,
+    "document": 9695,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 13409,
+    "stylesheetCount": 1,
+    "thirdParty": 241216,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 637,
+    "+weight.total": 425,
+    "-weight.document": 479,
+    "+weight.document": 557,
+    "-weight.script": 462,
+    "+weight.script": 530,
+    "-weight.image": 691,
+    "+weight.image": 255,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 33,
+    "-totalBlockingTime": 156,
+    "-largestContentfulPaint": 242
+  },
+  "axe": {
+    "passes": 418,
+    "violations": 0
+  }
+}

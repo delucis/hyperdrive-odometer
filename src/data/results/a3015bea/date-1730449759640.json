@@ -1,0 +1,67 @@
+{
+  "url": "https://bhdouglass.com/",
+  "requestedUrl": "https://bhdouglass.com/",
+  "timestamp": 1730451072166,
+  "ranks": {
+    "hundos": 933,
+    "performance": 847,
+    "accessibility": 249,
+    "cumulative": 928
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.65,
+    "accessibility": 1,
+    "bestPractices": 0.59,
+    "seo": 0.97,
+    "total": 321
+  },
+  "firstContentfulPaint": 1629.7359999999999,
+  "firstMeaningfulPaint": 1629.7359999999999,
+  "speedIndex": 5796.316216889083,
+  "largestContentfulPaint": 1949.2179999999998,
+  "totalBlockingTime": 2490.3585000000003,
+  "cumulativeLayoutShift": 0.00009984607299657778,
+  "timeToInteractive": 13859.576,
+  "maxPotentialFirstInputDelay": 883,
+  "timeToFirstByte": 310.35,
+  "weight": {
+    "summary": "33 requests • 1.8 MiB",
+    "total": 1938976,
+    "image": 7096,
+    "imageCount": 4,
+    "script": 1580353,
+    "scriptCount": 10,
+    "document": 116258,
+    "font": 155486,
+    "fontCount": 1,
+    "stylesheet": 76850,
+    "stylesheetCount": 10,
+    "thirdParty": 1732664,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 835,
+    "+weight.total": 227,
+    "-weight.document": 995,
+    "+weight.document": 41,
+    "-weight.script": 981,
+    "+weight.script": 11,
+    "-weight.image": 74,
+    "+weight.image": 872,
+    "-weight.font": 587,
+    "+weight.font": 191,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 927,
+    "-totalBlockingTime": 641,
+    "-largestContentfulPaint": 602
+  },
+  "axe": {
+    "passes": 55,
+    "violations": 2
+  }
+}

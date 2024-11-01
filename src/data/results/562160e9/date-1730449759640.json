@@ -1,0 +1,67 @@
+{
+  "url": "https://berliner-schnauze.wtf/",
+  "requestedUrl": "https://berliner-schnauze.wtf/",
+  "timestamp": 1730451026378,
+  "ranks": {
+    "hundos": 722,
+    "performance": 744,
+    "accessibility": 258,
+    "cumulative": 719
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.73,
+    "accessibility": 1,
+    "bestPractices": 0.81,
+    "seo": 1,
+    "total": 354
+  },
+  "firstContentfulPaint": 1219.382,
+  "firstMeaningfulPaint": 1468.882,
+  "speedIndex": 2428.165652446908,
+  "largestContentfulPaint": 1543.882,
+  "totalBlockingTime": 1589.5,
+  "cumulativeLayoutShift": 0.05803086694600394,
+  "timeToInteractive": 5076.882,
+  "maxPotentialFirstInputDelay": 532,
+  "timeToFirstByte": 146.03000000000003,
+  "weight": {
+    "summary": "54 requests • 382.0 KiB",
+    "total": 391208,
+    "image": 26746,
+    "imageCount": 3,
+    "script": 225397,
+    "scriptCount": 31,
+    "document": 55952,
+    "font": 56045,
+    "fontCount": 3,
+    "stylesheet": 15997,
+    "stylesheetCount": 5,
+    "thirdParty": 31337,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 413,
+    "+weight.total": 649,
+    "-weight.document": 944,
+    "+weight.document": 92,
+    "-weight.script": 688,
+    "+weight.script": 304,
+    "-weight.image": 160,
+    "+weight.image": 786,
+    "-weight.font": 289,
+    "+weight.font": 489,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 821,
+    "-totalBlockingTime": 601,
+    "-largestContentfulPaint": 543
+  },
+  "axe": {
+    "passes": 51,
+    "violations": 2
+  }
+}

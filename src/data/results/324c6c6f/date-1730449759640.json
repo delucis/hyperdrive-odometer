@@ -1,0 +1,67 @@
+{
+  "url": "https://vetjobhunt.com/locum_jobs/",
+  "requestedUrl": "https://vetjobhunt.com/",
+  "timestamp": 1730461442416,
+  "ranks": {
+    "hundos": 461,
+    "performance": 696,
+    "accessibility": 310,
+    "cumulative": 465
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.76,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 376
+  },
+  "firstContentfulPaint": 1789.8015,
+  "firstMeaningfulPaint": 4943.9385,
+  "speedIndex": 3789.111213965565,
+  "largestContentfulPaint": 5694.923500000001,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.000021619489615169877,
+  "timeToInteractive": 4943.9385,
+  "maxPotentialFirstInputDelay": 21,
+  "timeToFirstByte": 32.148,
+  "weight": {
+    "summary": "19 requests • 1.4 MiB",
+    "total": 1499463,
+    "image": 813654,
+    "imageCount": 6,
+    "script": 25627,
+    "scriptCount": 2,
+    "document": 14205,
+    "font": 632371,
+    "fontCount": 5,
+    "stylesheet": 11340,
+    "stylesheetCount": 3,
+    "thirdParty": 673374,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 778,
+    "+weight.total": 284,
+    "-weight.document": 649,
+    "+weight.document": 387,
+    "-weight.script": 284,
+    "+weight.script": 708,
+    "-weight.image": 698,
+    "+weight.image": 248,
+    "-weight.font": 741,
+    "+weight.font": 37,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 459,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 456
+  },
+  "axe": {
+    "passes": 367,
+    "violations": 6
+  }
+}

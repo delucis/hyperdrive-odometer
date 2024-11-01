@@ -1,0 +1,67 @@
+{
+  "url": "https://kuraunaito.com/",
+  "requestedUrl": "https://kuraunaito.com/",
+  "timestamp": 1730471927233,
+  "ranks": {
+    "hundos": 144,
+    "performance": 352,
+    "accessibility": 86,
+    "cumulative": 142
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.96,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 396
+  },
+  "firstContentfulPaint": 1433.6380000000001,
+  "firstMeaningfulPaint": 1433.6380000000001,
+  "speedIndex": 1553.7619940014097,
+  "largestContentfulPaint": 2757.6610000000005,
+  "totalBlockingTime": 16.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1463.6380000000001,
+  "maxPotentialFirstInputDelay": 49.5,
+  "timeToFirstByte": 47.02199999999999,
+  "weight": {
+    "summary": "23 requests • 579.5 KiB",
+    "total": 593379,
+    "image": 541218,
+    "imageCount": 14,
+    "script": 10256,
+    "scriptCount": 3,
+    "document": 3325,
+    "font": 32692,
+    "fontCount": 2,
+    "stylesheet": 5888,
+    "stylesheetCount": 3,
+    "thirdParty": 543269,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 546,
+    "+weight.total": 516,
+    "-weight.document": 73,
+    "+weight.document": 963,
+    "-weight.script": 165,
+    "+weight.script": 827,
+    "-weight.image": 616,
+    "+weight.image": 330,
+    "-weight.font": 127,
+    "+weight.font": 651,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 524,
+    "-totalBlockingTime": 31,
+    "-largestContentfulPaint": 343
+  },
+  "axe": {
+    "passes": 281,
+    "violations": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://quanta-ten.vercel.app/",
+  "requestedUrl": "https://quanta-ten.vercel.app/",
+  "timestamp": 1730490147235,
+  "ranks": {
+    "hundos": 308,
+    "performance": 161,
+    "accessibility": 402,
+    "cumulative": 304
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.97,
+    "bestPractices": 1,
+    "seo": 0.91,
+    "total": 388
+  },
+  "firstContentfulPaint": 824.955,
+  "firstMeaningfulPaint": 1091.455,
+  "speedIndex": 2165.687724521512,
+  "largestContentfulPaint": 824.955,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1091.455,
+  "maxPotentialFirstInputDelay": 59,
+  "timeToFirstByte": 2.0999999999999943,
+  "weight": {
+    "summary": "7 requests • 99.4 KiB",
+    "total": 101824,
+    "image": 0,
+    "imageCount": 0,
+    "script": 94989,
+    "scriptCount": 5,
+    "document": 2906,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 3929,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 132,
+    "+weight.total": 930,
+    "-weight.document": 49,
+    "+weight.document": 987,
+    "-weight.script": 482,
+    "+weight.script": 510,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 41,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 1
+  },
+  "axe": {
+    "passes": 82,
+    "violations": 1
+  }
+}

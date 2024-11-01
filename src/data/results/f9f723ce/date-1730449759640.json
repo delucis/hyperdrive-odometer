@@ -1,0 +1,67 @@
+{
+  "url": "https://gift-idea.co/en-us/",
+  "requestedUrl": "https://gift-idea.co/",
+  "timestamp": 1730454450132,
+  "ranks": {
+    "hundos": 602,
+    "performance": 376,
+    "accessibility": 977,
+    "cumulative": 604
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.95,
+    "accessibility": 0.78,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 365
+  },
+  "firstContentfulPaint": 1676.5579999999998,
+  "firstMeaningfulPaint": 2805.4535,
+  "speedIndex": 1676.5579999999998,
+  "largestContentfulPaint": 2426.1949999999997,
+  "totalBlockingTime": 156.99999999999977,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3171.1760000000004,
+  "maxPotentialFirstInputDelay": 137,
+  "timeToFirstByte": 2.2640000000000002,
+  "weight": {
+    "summary": "41 requests • 827.9 KiB",
+    "total": 847721,
+    "image": 588530,
+    "imageCount": 17,
+    "script": 218099,
+    "scriptCount": 16,
+    "document": 12813,
+    "font": 18298,
+    "fontCount": 1,
+    "stylesheet": 9441,
+    "stylesheetCount": 4,
+    "thirdParty": 123585,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 633,
+    "+weight.total": 429,
+    "-weight.document": 598,
+    "+weight.document": 438,
+    "-weight.script": 682,
+    "+weight.script": 310,
+    "-weight.image": 638,
+    "+weight.image": 308,
+    "-weight.font": 42,
+    "+weight.font": 736,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 96,
+    "-totalBlockingTime": 226,
+    "-largestContentfulPaint": 662
+  },
+  "axe": {
+    "passes": 401,
+    "violations": 9
+  }
+}

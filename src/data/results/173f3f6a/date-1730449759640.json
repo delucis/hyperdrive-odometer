@@ -1,0 +1,67 @@
+{
+  "url": "https://www.ianwootten.co.uk/",
+  "requestedUrl": "https://www.ianwootten.co.uk/",
+  "timestamp": 1730470892153,
+  "ranks": {
+    "hundos": 125,
+    "performance": 313,
+    "accessibility": 69,
+    "cumulative": 125
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.97,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 397
+  },
+  "firstContentfulPaint": 1029.062,
+  "firstMeaningfulPaint": 1029.062,
+  "speedIndex": 1218.9671140435962,
+  "largestContentfulPaint": 1814.1039999999998,
+  "totalBlockingTime": 165.9999999999999,
+  "cumulativeLayoutShift": 0.004624729772729368,
+  "timeToInteractive": 2385.116,
+  "maxPotentialFirstInputDelay": 256,
+  "timeToFirstByte": 18.305000000000007,
+  "weight": {
+    "summary": "27 requests • 645.1 KiB",
+    "total": 660554,
+    "image": 122567,
+    "imageCount": 10,
+    "script": 478884,
+    "scriptCount": 2,
+    "document": 7836,
+    "font": 38108,
+    "fontCount": 1,
+    "stylesheet": 10644,
+    "stylesheetCount": 3,
+    "thirdParty": 529780,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 565,
+    "+weight.total": 497,
+    "-weight.document": 382,
+    "+weight.document": 654,
+    "-weight.script": 853,
+    "+weight.script": 139,
+    "-weight.image": 341,
+    "+weight.image": 605,
+    "-weight.font": 167,
+    "+weight.font": 611,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 397,
+    "-totalBlockingTime": 236,
+    "-largestContentfulPaint": 588
+  },
+  "axe": {
+    "passes": 324,
+    "violations": 0
+  }
+}

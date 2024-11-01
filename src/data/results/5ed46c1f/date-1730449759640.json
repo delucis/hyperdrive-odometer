@@ -1,0 +1,67 @@
+{
+  "url": "https://alphanull.de/en/",
+  "requestedUrl": "https://alphanull.de/en/",
+  "timestamp": 1730465856129,
+  "ranks": {
+    "hundos": 117,
+    "performance": 299,
+    "accessibility": 54,
+    "cumulative": 112
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 398
+  },
+  "firstContentfulPaint": 1329.505,
+  "firstMeaningfulPaint": 1329.505,
+  "speedIndex": 2577.022724467485,
+  "largestContentfulPaint": 2079.505,
+  "totalBlockingTime": 71.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2397.505,
+  "maxPotentialFirstInputDelay": 150,
+  "timeToFirstByte": 128.721,
+  "weight": {
+    "summary": "19 requests • 342.7 KiB",
+    "total": 350930,
+    "image": 123743,
+    "imageCount": 8,
+    "script": 113463,
+    "scriptCount": 3,
+    "document": 13299,
+    "font": 66998,
+    "fontCount": 3,
+    "stylesheet": 33427,
+    "stylesheetCount": 4,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 392,
+    "+weight.total": 670,
+    "-weight.document": 616,
+    "+weight.document": 420,
+    "-weight.script": 541,
+    "+weight.script": 451,
+    "-weight.image": 342,
+    "+weight.image": 604,
+    "-weight.font": 348,
+    "+weight.font": 430,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 796,
+    "-totalBlockingTime": 121,
+    "-largestContentfulPaint": 261
+  },
+  "axe": {
+    "passes": 396,
+    "violations": 0
+  }
+}

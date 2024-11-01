@@ -1,0 +1,67 @@
+{
+  "url": "https://designcember.com/",
+  "requestedUrl": "https://designcember.com/",
+  "timestamp": 1730452733115,
+  "ranks": {
+    "hundos": 760,
+    "performance": 798,
+    "accessibility": 779,
+    "cumulative": 762
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.68,
+    "accessibility": 0.89,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 349
+  },
+  "firstContentfulPaint": 2996.6935,
+  "firstMeaningfulPaint": 3139.1935,
+  "speedIndex": 3150.5580801136257,
+  "largestContentfulPaint": 4727.4985,
+  "totalBlockingTime": 375.423,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3522.1165,
+  "maxPotentialFirstInputDelay": 285,
+  "timeToFirstByte": 66.948,
+  "weight": {
+    "summary": "152 requests • 4.0 MiB",
+    "total": 4232480,
+    "image": 4093116,
+    "imageCount": 143,
+    "script": 108911,
+    "scriptCount": 4,
+    "document": 12029,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 17503,
+    "stylesheetCount": 2,
+    "thirdParty": 110004,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 955,
+    "+weight.total": 107,
+    "-weight.document": 573,
+    "+weight.document": 463,
+    "-weight.script": 518,
+    "+weight.script": 474,
+    "-weight.image": 892,
+    "+weight.image": 54,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 597,
+    "-totalBlockingTime": 371,
+    "-largestContentfulPaint": 862
+  },
+  "axe": {
+    "passes": 2310,
+    "violations": 11
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://ktym4a.me/",
+  "requestedUrl": "https://ktym4a.me/",
+  "timestamp": 1730487654376,
+  "ranks": {
+    "hundos": 236,
+    "performance": 445,
+    "accessibility": 276,
+    "cumulative": 232
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.92,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 392
+  },
+  "firstContentfulPaint": 1125.2915,
+  "firstMeaningfulPaint": 1125.2915,
+  "speedIndex": 1586.5750344512621,
+  "largestContentfulPaint": 1590.2935000000002,
+  "totalBlockingTime": 111.5,
+  "cumulativeLayoutShift": 0.15672113129954615,
+  "timeToInteractive": 1889.2915000000003,
+  "maxPotentialFirstInputDelay": 195,
+  "timeToFirstByte": 129.718,
+  "weight": {
+    "summary": "9 requests • 96.0 KiB",
+    "total": 98279,
+    "image": 0,
+    "imageCount": 0,
+    "script": 13434,
+    "scriptCount": 3,
+    "document": 8649,
+    "font": 65361,
+    "fontCount": 3,
+    "stylesheet": 10698,
+    "stylesheetCount": 1,
+    "thirdParty": 7110,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 128,
+    "+weight.total": 934,
+    "-weight.document": 423,
+    "+weight.document": 613,
+    "-weight.script": 194,
+    "+weight.script": 798,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 340,
+    "+weight.font": 438,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 798,
+    "-totalBlockingTime": 180,
+    "-largestContentfulPaint": 155
+  },
+  "axe": {
+    "passes": 285,
+    "violations": 3
+  }
+}

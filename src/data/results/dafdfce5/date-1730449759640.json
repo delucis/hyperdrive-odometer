@@ -1,0 +1,67 @@
+{
+  "url": "https://shikhashikz.com/blog/an-upgrade-to-latest-web-technology/",
+  "requestedUrl": "https://shikhashikz.com/blog/an-upgrade-to-latest-web-technology/",
+  "timestamp": 1730475313112,
+  "ranks": {
+    "hundos": 1019,
+    "performance": 961,
+    "accessibility": 794,
+    "cumulative": 1019
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.49,
+    "accessibility": 0.89,
+    "bestPractices": 0.56,
+    "seo": 1,
+    "total": 294
+  },
+  "firstContentfulPaint": 1126.4036,
+  "firstMeaningfulPaint": 1354.0997000000002,
+  "speedIndex": 6174.286987656462,
+  "largestContentfulPaint": 4996.60415,
+  "totalBlockingTime": 1696.000000000001,
+  "cumulativeLayoutShift": 0.00018218468195899178,
+  "timeToInteractive": 14418.191550000001,
+  "maxPotentialFirstInputDelay": 434,
+  "timeToFirstByte": 17.633999999999986,
+  "weight": {
+    "summary": "161 requests • 1.5 MiB",
+    "total": 1554646,
+    "image": 171110,
+    "imageCount": 49,
+    "script": 896026,
+    "scriptCount": 23,
+    "document": 29654,
+    "font": 363020,
+    "fontCount": 10,
+    "stylesheet": 55136,
+    "stylesheetCount": 4,
+    "thirdParty": 1393534,
+    "thirdPartyCount": 34
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 788,
+    "+weight.total": 274,
+    "-weight.document": 848,
+    "+weight.document": 188,
+    "-weight.script": 935,
+    "+weight.script": 57,
+    "-weight.image": 399,
+    "+weight.image": 547,
+    "-weight.font": 707,
+    "+weight.font": 71,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 390,
+    "-totalBlockingTime": 606,
+    "-largestContentfulPaint": 877
+  },
+  "axe": {
+    "passes": 973,
+    "violations": 90
+  }
+}

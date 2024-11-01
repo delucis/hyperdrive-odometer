@@ -1,0 +1,67 @@
+{
+  "url": "https://opanujfrontend.pl/",
+  "requestedUrl": "https://opanujfrontend.pl/",
+  "timestamp": 1730473324791,
+  "ranks": {
+    "hundos": 909,
+    "performance": 746,
+    "accessibility": 840,
+    "cumulative": 912
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.73,
+    "accessibility": 0.87,
+    "bestPractices": 0.74,
+    "seo": 0.91,
+    "total": 325
+  },
+  "firstContentfulPaint": 1621.346,
+  "firstMeaningfulPaint": 2520.346,
+  "speedIndex": 2594.800143701656,
+  "largestContentfulPaint": 2820.3460000000005,
+  "totalBlockingTime": 799,
+  "cumulativeLayoutShift": 0.10156180715952424,
+  "timeToInteractive": 6418.09825,
+  "maxPotentialFirstInputDelay": 589,
+  "timeToFirstByte": 44.31100000000001,
+  "weight": {
+    "summary": "40 requests • 639.8 KiB",
+    "total": 655113,
+    "image": 44553,
+    "imageCount": 6,
+    "script": 385792,
+    "scriptCount": 21,
+    "document": 33196,
+    "font": 175126,
+    "fontCount": 2,
+    "stylesheet": 13323,
+    "stylesheetCount": 3,
+    "thirdParty": 386943,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 563,
+    "+weight.total": 499,
+    "-weight.document": 867,
+    "+weight.document": 169,
+    "-weight.script": 810,
+    "+weight.script": 182,
+    "-weight.image": 213,
+    "+weight.image": 733,
+    "-weight.font": 607,
+    "+weight.font": 171,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 512,
+    "-totalBlockingTime": 509,
+    "-largestContentfulPaint": 712
+  },
+  "axe": {
+    "passes": 2285,
+    "violations": 311
+  }
+}

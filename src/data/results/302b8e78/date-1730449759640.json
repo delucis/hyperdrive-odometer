@@ -1,0 +1,67 @@
+{
+  "url": "https://www.naiyerasif.com/",
+  "requestedUrl": "https://www.naiyerasif.com/",
+  "timestamp": 1730495142175,
+  "ranks": {
+    "hundos": 290,
+    "performance": 501,
+    "accessibility": 222,
+    "cumulative": 289
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.89,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 389
+  },
+  "firstContentfulPaint": 1439.8155000000002,
+  "firstMeaningfulPaint": 1439.8155000000002,
+  "speedIndex": 1875.0131275304498,
+  "largestContentfulPaint": 1439.8155000000002,
+  "totalBlockingTime": 406,
+  "cumulativeLayoutShift": 0.05279589913906118,
+  "timeToInteractive": 1945.8155000000002,
+  "maxPotentialFirstInputDelay": 271,
+  "timeToFirstByte": 74.41499999999999,
+  "weight": {
+    "summary": "15 requests • 528.3 KiB",
+    "total": 540962,
+    "image": 209776,
+    "imageCount": 4,
+    "script": 12068,
+    "scriptCount": 4,
+    "document": 14421,
+    "font": 280110,
+    "fontCount": 4,
+    "stylesheet": 13642,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 510,
+    "+weight.total": 552,
+    "-weight.document": 653,
+    "+weight.document": 383,
+    "-weight.script": 183,
+    "+weight.script": 809,
+    "-weight.image": 432,
+    "+weight.image": 514,
+    "-weight.font": 670,
+    "+weight.font": 108,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 633,
+    "-totalBlockingTime": 391,
+    "-largestContentfulPaint": 537
+  },
+  "axe": {
+    "passes": 894,
+    "violations": 2
+  }
+}

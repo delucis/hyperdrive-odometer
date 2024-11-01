@@ -1,0 +1,67 @@
+{
+  "url": "https://www.t72t.com/",
+  "requestedUrl": "https://www.t72t.com/",
+  "timestamp": 1730464367187,
+  "ranks": {
+    "hundos": 657,
+    "performance": 879,
+    "accessibility": 360,
+    "cumulative": 656
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.61,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 361
+  },
+  "firstContentfulPaint": 2088.618,
+  "firstMeaningfulPaint": 2088.618,
+  "speedIndex": 3814.9527251164927,
+  "largestContentfulPaint": 3290.127,
+  "totalBlockingTime": 2255.4999999999995,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5117.856,
+  "maxPotentialFirstInputDelay": 373,
+  "timeToFirstByte": 2.4839999999999947,
+  "weight": {
+    "summary": "13 requests • 252.4 KiB",
+    "total": 258478,
+    "image": 1541,
+    "imageCount": 2,
+    "script": 181843,
+    "scriptCount": 3,
+    "document": 24775,
+    "font": 15995,
+    "fontCount": 1,
+    "stylesheet": 33722,
+    "stylesheetCount": 4,
+    "thirdParty": 130379,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 315,
+    "+weight.total": 747,
+    "-weight.document": 810,
+    "+weight.document": 226,
+    "-weight.script": 642,
+    "+weight.script": 350,
+    "-weight.image": 31,
+    "+weight.image": 915,
+    "-weight.font": 32,
+    "+weight.font": 746,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 156,
+    "-totalBlockingTime": 631,
+    "-largestContentfulPaint": 753
+  },
+  "axe": {
+    "passes": 874,
+    "violations": 43
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.pkpiel.com/",
+  "requestedUrl": "https://www.pkpiel.com/",
+  "timestamp": 1730463806678,
+  "ranks": {
+    "hundos": 449,
+    "performance": 208,
+    "accessibility": 842,
+    "cumulative": 452
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.86,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 377
+  },
+  "firstContentfulPaint": 1508.451,
+  "firstMeaningfulPaint": 1508.451,
+  "speedIndex": 1508.451,
+  "largestContentfulPaint": 1808.451,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.015961696226839014,
+  "timeToInteractive": 1508.451,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 1.8969999999999914,
+  "weight": {
+    "summary": "9 requests • 248.8 KiB",
+    "total": 254797,
+    "image": 106309,
+    "imageCount": 4,
+    "script": 1469,
+    "scriptCount": 1,
+    "document": 2999,
+    "font": 137385,
+    "fontCount": 1,
+    "stylesheet": 6491,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 310,
+    "+weight.total": 752,
+    "-weight.document": 52,
+    "+weight.document": 984,
+    "-weight.script": 31,
+    "+weight.script": 961,
+    "-weight.image": 318,
+    "+weight.image": 628,
+    "-weight.font": 566,
+    "+weight.font": 212,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 11,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 212
+  },
+  "axe": {
+    "passes": 140,
+    "violations": 4
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://bryanhogan.com/",
+  "requestedUrl": "https://bryanhogan.com/",
+  "timestamp": 1730483015033,
+  "ranks": {
+    "hundos": 325,
+    "performance": 51,
+    "accessibility": 807,
+    "cumulative": 325
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.88,
+    "bestPractices": 1,
+    "seo": 0.99,
+    "total": 387
+  },
+  "firstContentfulPaint": 1027.062,
+  "firstMeaningfulPaint": 1027.062,
+  "speedIndex": 1027.062,
+  "largestContentfulPaint": 1027.062,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1027.062,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 17.51399999999998,
+  "weight": {
+    "summary": "8 requests • 39.3 KiB",
+    "total": 40197,
+    "image": 20830,
+    "imageCount": 2,
+    "script": 7194,
+    "scriptCount": 2,
+    "document": 8680,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 2439,
+    "stylesheetCount": 1,
+    "thirdParty": 3452,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 38,
+    "+weight.total": 1024,
+    "-weight.document": 425,
+    "+weight.document": 611,
+    "-weight.script": 132,
+    "+weight.script": 860,
+    "-weight.image": 141,
+    "+weight.image": 805,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 389,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 33
+  },
+  "axe": {
+    "passes": 496,
+    "violations": 11
+  }
+}

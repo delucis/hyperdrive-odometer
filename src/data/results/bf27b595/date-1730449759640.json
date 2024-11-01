@@ -1,0 +1,67 @@
+{
+  "url": "https://www.saidhasyim.com/",
+  "requestedUrl": "https://www.saidhasyim.com/",
+  "timestamp": 1730464060794,
+  "ranks": {
+    "hundos": 814,
+    "performance": 598,
+    "accessibility": 917,
+    "cumulative": 812
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.83,
+    "accessibility": 0.82,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 343
+  },
+  "firstContentfulPaint": 1691.1609999999998,
+  "firstMeaningfulPaint": 1691.1609999999998,
+  "speedIndex": 3100.324432962969,
+  "largestContentfulPaint": 1691.1609999999998,
+  "totalBlockingTime": 608.3007500000003,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4805.911750000001,
+  "maxPotentialFirstInputDelay": 305.00000000000045,
+  "timeToFirstByte": 2.1229999999999905,
+  "weight": {
+    "summary": "53 requests • 885.4 KiB",
+    "total": 906601,
+    "image": 603742,
+    "imageCount": 10,
+    "script": 266793,
+    "scriptCount": 33,
+    "document": 15355,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 17610,
+    "stylesheetCount": 2,
+    "thirdParty": 137308,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 648,
+    "+weight.total": 414,
+    "-weight.document": 673,
+    "+weight.document": 363,
+    "-weight.script": 719,
+    "+weight.script": 273,
+    "-weight.image": 646,
+    "+weight.image": 300,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 50,
+    "-totalBlockingTime": 474,
+    "-largestContentfulPaint": 574
+  },
+  "axe": {
+    "passes": 484,
+    "violations": 5
+  }
+}

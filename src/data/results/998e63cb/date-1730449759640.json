@@ -1,0 +1,67 @@
+{
+  "url": "http://teseu.freeshell.net/en/",
+  "requestedUrl": "http://teseu.freeshell.net/en/",
+  "timestamp": 1730476296623,
+  "ranks": {
+    "hundos": 709,
+    "performance": 453,
+    "accessibility": 716,
+    "cumulative": 710
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.92,
+    "accessibility": 0.91,
+    "bestPractices": 0.81,
+    "seo": 0.91,
+    "total": 355
+  },
+  "firstContentfulPaint": 1681.4405000000002,
+  "firstMeaningfulPaint": 1981.4405000000002,
+  "speedIndex": 2780.8494209998967,
+  "largestContentfulPaint": 3228.6020000000003,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1981.4405000000002,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 75.463,
+  "weight": {
+    "summary": "13 requests • 891.0 KiB",
+    "total": 912420,
+    "image": 827394,
+    "imageCount": 5,
+    "script": 1698,
+    "scriptCount": 2,
+    "document": 26561,
+    "font": 29757,
+    "fontCount": 3,
+    "stylesheet": 27010,
+    "stylesheetCount": 2,
+    "thirdParty": 31091,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 649,
+    "+weight.total": 413,
+    "-weight.document": 820,
+    "+weight.document": 216,
+    "-weight.script": 35,
+    "+weight.script": 957,
+    "-weight.image": 702,
+    "+weight.image": 244,
+    "-weight.font": 98,
+    "+weight.font": 680,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 638,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 382
+  },
+  "axe": {
+    "passes": 251,
+    "violations": 11
+  }
+}

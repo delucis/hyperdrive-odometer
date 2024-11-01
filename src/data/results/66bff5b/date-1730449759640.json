@@ -1,0 +1,67 @@
+{
+  "url": "https://sylvainsimao.com/",
+  "requestedUrl": "https://sylvainsimao.com/",
+  "timestamp": 1730491834184,
+  "ranks": {
+    "hundos": 844,
+    "performance": 910,
+    "accessibility": 254,
+    "cumulative": 842
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.57,
+    "accessibility": 1,
+    "bestPractices": 0.81,
+    "seo": 1,
+    "total": 338
+  },
+  "firstContentfulPaint": 1218.8,
+  "firstMeaningfulPaint": 1218.8,
+  "speedIndex": 7633.757865144601,
+  "largestContentfulPaint": 14718.8,
+  "totalBlockingTime": 329,
+  "cumulativeLayoutShift": 0.09720534629404617,
+  "timeToInteractive": 16740.8,
+  "maxPotentialFirstInputDelay": 381,
+  "timeToFirstByte": 10.637,
+  "weight": {
+    "summary": "40 requests • 5.5 MiB",
+    "total": 5759990,
+    "image": 5667041,
+    "imageCount": 9,
+    "script": 35520,
+    "scriptCount": 6,
+    "document": 8439,
+    "font": 36097,
+    "fontCount": 1,
+    "stylesheet": 7389,
+    "stylesheetCount": 1,
+    "thirdParty": 11503,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 977,
+    "+weight.total": 85,
+    "-weight.document": 410,
+    "+weight.document": 626,
+    "-weight.script": 328,
+    "+weight.script": 664,
+    "-weight.image": 909,
+    "+weight.image": 37,
+    "-weight.font": 151,
+    "+weight.font": 627,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 346,
+    "-totalBlockingTime": 341,
+    "-largestContentfulPaint": 1017
+  },
+  "axe": {
+    "passes": 55,
+    "violations": 2
+  }
+}

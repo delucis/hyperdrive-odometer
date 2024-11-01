@@ -1,0 +1,67 @@
+{
+  "url": "https://httpmock.rs/",
+  "requestedUrl": "https://alexliesenfeld.github.io/httpmock/",
+  "timestamp": 1730481629823,
+  "ranks": {
+    "hundos": 105,
+    "performance": 239,
+    "accessibility": 205,
+    "cumulative": 98
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 1769.638,
+  "firstMeaningfulPaint": 1769.638,
+  "speedIndex": 1769.638,
+  "largestContentfulPaint": 1828.638,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1769.638,
+  "maxPotentialFirstInputDelay": 48,
+  "timeToFirstByte": 20.329999999999984,
+  "weight": {
+    "summary": "11 requests • 54.3 KiB",
+    "total": 55637,
+    "image": 12765,
+    "imageCount": 4,
+    "script": 25140,
+    "scriptCount": 4,
+    "document": 6665,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 10581,
+    "stylesheetCount": 1,
+    "thirdParty": 486,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 63,
+    "+weight.total": 999,
+    "-weight.document": 284,
+    "+weight.document": 752,
+    "-weight.script": 273,
+    "+weight.script": 719,
+    "-weight.image": 105,
+    "+weight.image": 841,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 407,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 218
+  },
+  "axe": {
+    "passes": 201,
+    "violations": 1
+  }
+}

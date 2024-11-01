@@ -1,0 +1,67 @@
+{
+  "url": "https://www.silaswolf.com/",
+  "requestedUrl": "https://www.silaswolf.com/",
+  "timestamp": 1730495775375,
+  "ranks": {
+    "hundos": 27,
+    "performance": 14,
+    "accessibility": 158,
+    "cumulative": 13
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 908.435,
+  "firstMeaningfulPaint": 908.435,
+  "speedIndex": 908.435,
+  "largestContentfulPaint": 1578.5840000000003,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.005750743923658903,
+  "timeToInteractive": 908.435,
+  "maxPotentialFirstInputDelay": 31,
+  "timeToFirstByte": 9.621999999999986,
+  "weight": {
+    "summary": "6 requests • 76.7 KiB",
+    "total": 78537,
+    "image": 35184,
+    "imageCount": 1,
+    "script": 5842,
+    "scriptCount": 2,
+    "document": 2010,
+    "font": 32473,
+    "fontCount": 1,
+    "stylesheet": 3028,
+    "stylesheetCount": 1,
+    "thirdParty": 1262,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 104,
+    "+weight.total": 958,
+    "-weight.document": 20,
+    "+weight.document": 1016,
+    "-weight.script": 106,
+    "+weight.script": 886,
+    "-weight.image": 190,
+    "+weight.image": 756,
+    "-weight.font": 125,
+    "+weight.font": 653,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 337,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 150
+  },
+  "axe": {
+    "passes": 43,
+    "violations": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://uiball.com/ldrs/",
+  "requestedUrl": "https://uiball.com/ldrs",
+  "timestamp": 1730476892524,
+  "ranks": {
+    "hundos": 588,
+    "performance": 753,
+    "accessibility": 478,
+    "cumulative": 590
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.72,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 367
+  },
+  "firstContentfulPaint": 1674.086,
+  "firstMeaningfulPaint": 2166.0645,
+  "speedIndex": 2688.804931292462,
+  "largestContentfulPaint": 4368.58,
+  "totalBlockingTime": 454.595,
+  "cumulativeLayoutShift": 0.0035476021971661766,
+  "timeToInteractive": 3880.498,
+  "maxPotentialFirstInputDelay": 312,
+  "timeToFirstByte": 6.016,
+  "weight": {
+    "summary": "21 requests • 320.3 KiB",
+    "total": 327948,
+    "image": 205,
+    "imageCount": 1,
+    "script": 153948,
+    "scriptCount": 5,
+    "document": 11873,
+    "font": 132813,
+    "fontCount": 4,
+    "stylesheet": 12570,
+    "stylesheetCount": 4,
+    "thirdParty": 245585,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 365,
+    "+weight.total": 697,
+    "-weight.document": 563,
+    "+weight.document": 473,
+    "-weight.script": 611,
+    "+weight.script": 381,
+    "-weight.image": 4,
+    "+weight.image": 942,
+    "-weight.font": 558,
+    "+weight.font": 220,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 312,
+    "-totalBlockingTime": 412,
+    "-largestContentfulPaint": 838
+  },
+  "axe": {
+    "passes": 983,
+    "violations": 5
+  }
+}

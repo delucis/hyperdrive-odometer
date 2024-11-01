@@ -1,0 +1,67 @@
+{
+  "url": "https://www.tracx.com/",
+  "requestedUrl": "https://www.tracx.com/",
+  "timestamp": 1730464444878,
+  "ranks": {
+    "hundos": 765,
+    "performance": 770,
+    "accessibility": 255,
+    "cumulative": 758
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.71,
+    "accessibility": 1,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 349
+  },
+  "firstContentfulPaint": 1114.804,
+  "firstMeaningfulPaint": 1423.304,
+  "speedIndex": 3015.9453453327833,
+  "largestContentfulPaint": 1576.304,
+  "totalBlockingTime": 2317.3705,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 7229.971,
+  "maxPotentialFirstInputDelay": 836,
+  "timeToFirstByte": 31.980999999999995,
+  "weight": {
+    "summary": "49 requests • 935.5 KiB",
+    "total": 957920,
+    "image": 412323,
+    "imageCount": 24,
+    "script": 300422,
+    "scriptCount": 12,
+    "document": 23199,
+    "font": 165218,
+    "fontCount": 2,
+    "stylesheet": 53747,
+    "stylesheetCount": 3,
+    "thirdParty": 266505,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 669,
+    "+weight.total": 393,
+    "-weight.document": 798,
+    "+weight.document": 238,
+    "-weight.script": 747,
+    "+weight.script": 245,
+    "-weight.image": 562,
+    "+weight.image": 384,
+    "-weight.font": 596,
+    "+weight.font": 182,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 458,
+    "-totalBlockingTime": 633,
+    "-largestContentfulPaint": 551
+  },
+  "axe": {
+    "passes": 55,
+    "violations": 2
+  }
+}

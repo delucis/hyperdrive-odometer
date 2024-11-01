@@ -1,0 +1,67 @@
+{
+  "url": "https://stpaultheapostle.com/",
+  "requestedUrl": "https://stpaultheapostle.com/",
+  "timestamp": 1730475895612,
+  "ranks": {
+    "hundos": 570,
+    "performance": 462,
+    "accessibility": 884,
+    "cumulative": 573
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.91,
+    "accessibility": 0.84,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 368
+  },
+  "firstContentfulPaint": 1036.7240000000002,
+  "firstMeaningfulPaint": 1036.7240000000002,
+  "speedIndex": 1205.677651078354,
+  "largestContentfulPaint": 3469.724,
+  "totalBlockingTime": 47.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1184.2240000000002,
+  "maxPotentialFirstInputDelay": 81,
+  "timeToFirstByte": 86.992,
+  "weight": {
+    "summary": "8 requests • 539.4 KiB",
+    "total": 552348,
+    "image": 522834,
+    "imageCount": 2,
+    "script": 7817,
+    "scriptCount": 4,
+    "document": 8787,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 12910,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 520,
+    "+weight.total": 542,
+    "-weight.document": 430,
+    "+weight.document": 606,
+    "-weight.script": 138,
+    "+weight.script": 854,
+    "-weight.image": 611,
+    "+weight.image": 335,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 679,
+    "-totalBlockingTime": 88,
+    "-largestContentfulPaint": 397
+  },
+  "axe": {
+    "passes": 379,
+    "violations": 6
+  }
+}

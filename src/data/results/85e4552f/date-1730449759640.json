@@ -1,0 +1,67 @@
+{
+  "url": "https://rakesh-gupta29.github.io/",
+  "requestedUrl": "https://rakesh-gupta29.github.io/",
+  "timestamp": 1730490201753,
+  "ranks": {
+    "hundos": 763,
+    "performance": 767,
+    "accessibility": 987,
+    "cumulative": 764
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.71,
+    "accessibility": 0.78,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 349
+  },
+  "firstContentfulPaint": 1402.5225,
+  "firstMeaningfulPaint": 2388.0225,
+  "speedIndex": 2583.1120020080903,
+  "largestContentfulPaint": 3201.835,
+  "totalBlockingTime": 950,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4085.5225,
+  "maxPotentialFirstInputDelay": 443,
+  "timeToFirstByte": 38.21499999999999,
+  "weight": {
+    "summary": "44 requests • 33.9 MiB",
+    "total": 35555904,
+    "image": 237419,
+    "imageCount": 31,
+    "script": 155019,
+    "scriptCount": 2,
+    "document": 16765,
+    "font": 85918,
+    "fontCount": 2,
+    "stylesheet": 5364,
+    "stylesheetCount": 1,
+    "thirdParty": 108588,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1054,
+    "+weight.total": 8,
+    "-weight.document": 699,
+    "+weight.document": 337,
+    "-weight.script": 612,
+    "+weight.script": 380,
+    "-weight.image": 452,
+    "+weight.image": 494,
+    "-weight.font": 443,
+    "+weight.font": 335,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 487,
+    "-totalBlockingTime": 533,
+    "-largestContentfulPaint": 747
+  },
+  "axe": {
+    "passes": 716,
+    "violations": 61
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://yuxxeun.vercel.app/secreto",
+  "requestedUrl": "https://yuxxeun.now.sh/secreto",
+  "timestamp": 1730480814631,
+  "ranks": {
+    "hundos": 342,
+    "performance": 367,
+    "accessibility": 538,
+    "cumulative": 338
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.96,
+    "accessibility": 0.94,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 386
+  },
+  "firstContentfulPaint": 1999.0235000000002,
+  "firstMeaningfulPaint": 1999.0235000000002,
+  "speedIndex": 3159.125438376731,
+  "largestContentfulPaint": 2178.0045,
+  "totalBlockingTime": 101.5,
+  "cumulativeLayoutShift": 0.03402187120291616,
+  "timeToInteractive": 3809.074,
+  "maxPotentialFirstInputDelay": 140,
+  "timeToFirstByte": 2.038999999999998,
+  "weight": {
+    "summary": "23 requests • 336.5 KiB",
+    "total": 344525,
+    "image": 0,
+    "imageCount": 0,
+    "script": 121693,
+    "scriptCount": 13,
+    "document": 6116,
+    "font": 198526,
+    "fontCount": 3,
+    "stylesheet": 15858,
+    "stylesheetCount": 2,
+    "thirdParty": 2130,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 387,
+    "+weight.total": 675,
+    "-weight.document": 260,
+    "+weight.document": 776,
+    "-weight.script": 556,
+    "+weight.script": 436,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 631,
+    "+weight.font": 147,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 30,
+    "-totalBlockingTime": 165,
+    "-largestContentfulPaint": 278
+  },
+  "axe": {
+    "passes": 325,
+    "violations": 1
+  }
+}

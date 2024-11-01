@@ -1,0 +1,67 @@
+{
+  "url": "https://ozcarers.au/",
+  "requestedUrl": "https://ozcarers.au/",
+  "timestamp": 1730489339940,
+  "ranks": {
+    "hundos": 681,
+    "performance": 509,
+    "accessibility": 683,
+    "cumulative": 680
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.89,
+    "accessibility": 0.92,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 359
+  },
+  "firstContentfulPaint": 2040.9820000000002,
+  "firstMeaningfulPaint": 2685.918,
+  "speedIndex": 2860.4010618878383,
+  "largestContentfulPaint": 2837.155,
+  "totalBlockingTime": 245.5,
+  "cumulativeLayoutShift": 0.012223542069952754,
+  "timeToInteractive": 3800.6295000000005,
+  "maxPotentialFirstInputDelay": 266,
+  "timeToFirstByte": 412.96000000000004,
+  "weight": {
+    "summary": "34 requests • 385.0 KiB",
+    "total": 394287,
+    "image": 185352,
+    "imageCount": 14,
+    "script": 133164,
+    "scriptCount": 11,
+    "document": 10114,
+    "font": 49105,
+    "fontCount": 1,
+    "stylesheet": 14809,
+    "stylesheetCount": 3,
+    "thirdParty": 81361,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 416,
+    "+weight.total": 646,
+    "-weight.document": 498,
+    "+weight.document": 538,
+    "-weight.script": 575,
+    "+weight.script": 417,
+    "-weight.image": 407,
+    "+weight.image": 539,
+    "-weight.font": 255,
+    "+weight.font": 523,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 962,
+    "-totalBlockingTime": 291,
+    "-largestContentfulPaint": 714
+  },
+  "axe": {
+    "passes": 411,
+    "violations": 37
+  }
+}

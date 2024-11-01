@@ -1,0 +1,67 @@
+{
+  "url": "https://anthonygiuliano.dev/",
+  "requestedUrl": "https://anthonygiuliano.dev/",
+  "timestamp": 1730481747492,
+  "ranks": {
+    "hundos": 851,
+    "performance": 623,
+    "accessibility": 940,
+    "cumulative": 851
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.82,
+    "accessibility": 0.81,
+    "bestPractices": 0.74,
+    "seo": 1,
+    "total": 337
+  },
+  "firstContentfulPaint": 3465.949,
+  "firstMeaningfulPaint": 3465.949,
+  "speedIndex": 3465.949,
+  "largestContentfulPaint": 3615.949,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3465.949,
+  "maxPotentialFirstInputDelay": 45,
+  "timeToFirstByte": 2.1949999999999985,
+  "weight": {
+    "summary": "57 requests • 249.1 KiB",
+    "total": 255091,
+    "image": 49505,
+    "imageCount": 6,
+    "script": 172582,
+    "scriptCount": 7,
+    "document": 4649,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 210287,
+    "thirdPartyCount": 19
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 312,
+    "+weight.total": 750,
+    "-weight.document": 144,
+    "+weight.document": 892,
+    "-weight.script": 636,
+    "+weight.script": 356,
+    "-weight.image": 222,
+    "+weight.image": 724,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 77,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 408
+  },
+  "axe": {
+    "passes": 126,
+    "violations": 7
+  }
+}

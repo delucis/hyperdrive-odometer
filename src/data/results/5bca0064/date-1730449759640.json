@@ -1,0 +1,67 @@
+{
+  "url": "https://bloodwise.com.pl/",
+  "requestedUrl": "https://bloodwise.com.pl/",
+  "timestamp": 1730451326605,
+  "ranks": {
+    "hundos": 630,
+    "performance": 503,
+    "accessibility": 23,
+    "cumulative": 624
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.89,
+    "accessibility": 1,
+    "bestPractices": 0.74,
+    "seo": 1,
+    "total": 363
+  },
+  "firstContentfulPaint": 1408.4350000000002,
+  "firstMeaningfulPaint": 1408.4350000000002,
+  "speedIndex": 1998.2503946721895,
+  "largestContentfulPaint": 1907.4285789947512,
+  "totalBlockingTime": 409.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5284.170499999999,
+  "maxPotentialFirstInputDelay": 255,
+  "timeToFirstByte": 2.8559999999999945,
+  "weight": {
+    "summary": "59 requests • 533.6 KiB",
+    "total": 546442,
+    "image": 159251,
+    "imageCount": 38,
+    "script": 292519,
+    "scriptCount": 11,
+    "document": 54225,
+    "font": 25732,
+    "fontCount": 1,
+    "stylesheet": 10992,
+    "stylesheetCount": 2,
+    "thirdParty": 289973,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 515,
+    "+weight.total": 547,
+    "-weight.document": 940,
+    "+weight.document": 96,
+    "-weight.script": 738,
+    "+weight.script": 254,
+    "-weight.image": 378,
+    "+weight.image": 568,
+    "-weight.font": 77,
+    "+weight.font": 701,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 224,
+    "-totalBlockingTime": 394,
+    "-largestContentfulPaint": 598
+  },
+  "axe": {
+    "passes": 736,
+    "violations": 0
+  }
+}

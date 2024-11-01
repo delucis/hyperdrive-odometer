@@ -1,0 +1,67 @@
+{
+  "url": "https://www.boonsong.dev/",
+  "requestedUrl": "https://www.boonsong.dev/",
+  "timestamp": 1730451357588,
+  "ranks": {
+    "hundos": 88,
+    "performance": 228,
+    "accessibility": 82,
+    "cumulative": 81
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 1660.391,
+  "firstMeaningfulPaint": 1660.391,
+  "speedIndex": 1660.391,
+  "largestContentfulPaint": 1660.391,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1660.391,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 135.35699999999997,
+  "weight": {
+    "summary": "6 requests • 329.8 KiB",
+    "total": 337671,
+    "image": 321166,
+    "imageCount": 2,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 5155,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 11350,
+    "stylesheetCount": 3,
+    "thirdParty": 1168,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 378,
+    "+weight.total": 684,
+    "-weight.document": 178,
+    "+weight.document": 858,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 523,
+    "+weight.image": 423,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 808,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 180
+  },
+  "axe": {
+    "passes": 288,
+    "violations": 0
+  }
+}

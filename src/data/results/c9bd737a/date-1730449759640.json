@@ -1,0 +1,67 @@
+{
+  "url": "https://music.inders.in/",
+  "requestedUrl": "https://music.inders.in/",
+  "timestamp": 1730457181961,
+  "ranks": {
+    "hundos": 339,
+    "performance": 402,
+    "accessibility": 280,
+    "cumulative": 340
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.94,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 386
+  },
+  "firstContentfulPaint": 1003.023,
+  "firstMeaningfulPaint": 1880.3425000000002,
+  "speedIndex": 1868.4843939232665,
+  "largestContentfulPaint": 2552.1620000000003,
+  "totalBlockingTime": 206,
+  "cumulativeLayoutShift": 0.000053868542960587034,
+  "timeToInteractive": 4744.853,
+  "maxPotentialFirstInputDelay": 185,
+  "timeToFirstByte": 26.278000000000006,
+  "weight": {
+    "summary": "13 requests • 216.1 KiB",
+    "total": 221292,
+    "image": 0,
+    "imageCount": 0,
+    "script": 144414,
+    "scriptCount": 9,
+    "document": 6849,
+    "font": 62818,
+    "fontCount": 1,
+    "stylesheet": 6374,
+    "stylesheetCount": 1,
+    "thirdParty": 87755,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 281,
+    "+weight.total": 781,
+    "-weight.document": 307,
+    "+weight.document": 729,
+    "-weight.script": 595,
+    "+weight.script": 397,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 324,
+    "+weight.font": 454,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 437,
+    "-totalBlockingTime": 264,
+    "-largestContentfulPaint": 682
+  },
+  "axe": {
+    "passes": 78,
+    "violations": 3
+  }
+}

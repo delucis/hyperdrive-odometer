@@ -1,0 +1,67 @@
+{
+  "url": "https://pantic14.com/",
+  "requestedUrl": "https://pantic14.com/",
+  "timestamp": 1730489394862,
+  "ranks": {
+    "hundos": 188,
+    "performance": 212,
+    "accessibility": 458,
+    "cumulative": 191
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 394
+  },
+  "firstContentfulPaint": 1540.8094999999998,
+  "firstMeaningfulPaint": 1540.8094999999998,
+  "speedIndex": 1540.8094999999998,
+  "largestContentfulPaint": 1540.8094999999998,
+  "totalBlockingTime": 120,
+  "cumulativeLayoutShift": 0.00004112025581006101,
+  "timeToInteractive": 2905.5154999999995,
+  "maxPotentialFirstInputDelay": 127,
+  "timeToFirstByte": 2.112000000000009,
+  "weight": {
+    "summary": "12 requests • 173.6 KiB",
+    "total": 177793,
+    "image": 0,
+    "imageCount": 0,
+    "script": 109715,
+    "scriptCount": 3,
+    "document": 5532,
+    "font": 53112,
+    "fontCount": 5,
+    "stylesheet": 8894,
+    "stylesheetCount": 2,
+    "thirdParty": 158148,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 232,
+    "+weight.total": 830,
+    "-weight.document": 213,
+    "+weight.document": 823,
+    "-weight.script": 526,
+    "+weight.script": 466,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 279,
+    "+weight.font": 499,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 45,
+    "-totalBlockingTime": 190,
+    "-largestContentfulPaint": 138
+  },
+  "axe": {
+    "passes": 208,
+    "violations": 2
+  }
+}

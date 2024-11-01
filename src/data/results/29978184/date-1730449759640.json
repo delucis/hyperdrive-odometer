@@ -1,0 +1,67 @@
+{
+  "url": "https://luke.iremadze.com/",
+  "requestedUrl": "https://luke.iremadze.com/",
+  "timestamp": 1730488051801,
+  "ranks": {
+    "hundos": 971,
+    "performance": 945,
+    "accessibility": 905,
+    "cumulative": 985
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.52,
+    "accessibility": 0.83,
+    "bestPractices": 0.78,
+    "seo": 0.92,
+    "total": 310
+  },
+  "firstContentfulPaint": 1904.9595,
+  "firstMeaningfulPaint": 4097.467000000001,
+  "speedIndex": 8008.804742885621,
+  "largestContentfulPaint": 4722.5830000000005,
+  "totalBlockingTime": 968,
+  "cumulativeLayoutShift": 0.0068884186682621595,
+  "timeToInteractive": 14517.757499999996,
+  "maxPotentialFirstInputDelay": 346,
+  "timeToFirstByte": 390.877,
+  "weight": {
+    "summary": "47 requests • 2.1 MiB",
+    "total": 2234567,
+    "image": 581563,
+    "imageCount": 12,
+    "script": 1034164,
+    "scriptCount": 15,
+    "document": 53310,
+    "font": 368825,
+    "fontCount": 3,
+    "stylesheet": 150746,
+    "stylesheetCount": 3,
+    "thirdParty": 1393218,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 864,
+    "+weight.total": 198,
+    "-weight.document": 939,
+    "+weight.document": 97,
+    "-weight.script": 958,
+    "+weight.script": 34,
+    "-weight.image": 635,
+    "+weight.image": 311,
+    "-weight.font": 708,
+    "+weight.font": 70,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 953,
+    "-totalBlockingTime": 538,
+    "-largestContentfulPaint": 860
+  },
+  "axe": {
+    "passes": 413,
+    "violations": 19
+  }
+}

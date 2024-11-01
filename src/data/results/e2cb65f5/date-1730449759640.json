@@ -1,0 +1,67 @@
+{
+  "url": "https://spotify-art.vercel.app/",
+  "requestedUrl": "https://spotify-art.vercel.app/",
+  "timestamp": 1730491359341,
+  "ranks": {
+    "hundos": 285,
+    "performance": 259,
+    "accessibility": 506,
+    "cumulative": 284
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 0.96,
+    "total": 390
+  },
+  "firstContentfulPaint": 909.02,
+  "firstMeaningfulPaint": 909.02,
+  "speedIndex": 3081.7873959834587,
+  "largestContentfulPaint": 909.02,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 909.02,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 2.339999999999989,
+  "weight": {
+    "summary": "4 requests • 13.1 KiB",
+    "total": 13388,
+    "image": 2018,
+    "imageCount": 2,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 6890,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 4480,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 9,
+    "+weight.total": 1053,
+    "-weight.document": 314,
+    "+weight.document": 722,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 36,
+    "+weight.image": 910,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 118,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 7
+  },
+  "axe": {
+    "passes": 79,
+    "violations": 13
+  }
+}

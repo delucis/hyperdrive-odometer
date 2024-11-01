@@ -1,0 +1,67 @@
+{
+  "url": "https://luisaguinaga.dev/",
+  "requestedUrl": "https://luisaguinaga.dev/",
+  "timestamp": 1730488005378,
+  "ranks": {
+    "hundos": 591,
+    "performance": 813,
+    "accessibility": 336,
+    "cumulative": 592
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.67,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 367
+  },
+  "firstContentfulPaint": 904.177,
+  "firstMeaningfulPaint": 904.177,
+  "speedIndex": 1460.7633776633202,
+  "largestContentfulPaint": 3614.1065000000003,
+  "totalBlockingTime": 957.4999999999998,
+  "cumulativeLayoutShift": 0.08234256869075127,
+  "timeToInteractive": 4432.772,
+  "maxPotentialFirstInputDelay": 170,
+  "timeToFirstByte": 3.0990000000000038,
+  "weight": {
+    "summary": "14 requests • 312.8 KiB",
+    "total": 320347,
+    "image": 177431,
+    "imageCount": 7,
+    "script": 108118,
+    "scriptCount": 2,
+    "document": 4626,
+    "font": 28065,
+    "fontCount": 2,
+    "stylesheet": 1564,
+    "stylesheetCount": 1,
+    "thirdParty": 274660,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 356,
+    "+weight.total": 706,
+    "-weight.document": 142,
+    "+weight.document": 894,
+    "-weight.script": 514,
+    "+weight.script": 478,
+    "-weight.image": 402,
+    "+weight.image": 544,
+    "-weight.font": 89,
+    "+weight.font": 689,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 255,
+    "-totalBlockingTime": 535,
+    "-largestContentfulPaint": 779
+  },
+  "axe": {
+    "passes": 162,
+    "violations": 10
+  }
+}

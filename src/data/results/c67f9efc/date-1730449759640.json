@@ -1,0 +1,67 @@
+{
+  "url": "https://www.acn.gov.it/portale/home",
+  "requestedUrl": "https://www.acn.gov.it/",
+  "timestamp": 1730462160789,
+  "ranks": {
+    "hundos": 937,
+    "performance": 1051,
+    "accessibility": 376,
+    "cumulative": 934
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.28,
+    "accessibility": 0.99,
+    "bestPractices": 0.96,
+    "seo": 0.97,
+    "total": 320
+  },
+  "firstContentfulPaint": 3914.234,
+  "firstMeaningfulPaint": 4749.734,
+  "speedIndex": 10925.372594170258,
+  "largestContentfulPaint": 16866.234,
+  "totalBlockingTime": 5694.5,
+  "cumulativeLayoutShift": 0.040052576430748034,
+  "timeToInteractive": 17085.234,
+  "maxPotentialFirstInputDelay": 2672,
+  "timeToFirstByte": 120.64500000000001,
+  "weight": {
+    "summary": "183 requests • 3.7 MiB",
+    "total": 3873339,
+    "image": 2817025,
+    "imageCount": 51,
+    "script": 623913,
+    "scriptCount": 42,
+    "document": 28146,
+    "font": 196497,
+    "fontCount": 6,
+    "stylesheet": 180540,
+    "stylesheetCount": 12,
+    "thirdParty": 135595,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 947,
+    "+weight.total": 115,
+    "-weight.document": 831,
+    "+weight.document": 205,
+    "-weight.script": 892,
+    "+weight.script": 100,
+    "-weight.image": 865,
+    "+weight.image": 81,
+    "-weight.font": 625,
+    "+weight.font": 153,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 783,
+    "-totalBlockingTime": 671,
+    "-largestContentfulPaint": 1026
+  },
+  "axe": {
+    "passes": 1141,
+    "violations": 6
+  }
+}

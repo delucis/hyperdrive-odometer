@@ -1,0 +1,67 @@
+{
+  "url": "https://tharum.com/",
+  "requestedUrl": "https://tharum.com/",
+  "timestamp": 1730476313852,
+  "ranks": {
+    "hundos": 122,
+    "performance": 215,
+    "accessibility": 49,
+    "cumulative": 114
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.99,
+    "total": 398
+  },
+  "firstContentfulPaint": 1553.5529999999999,
+  "firstMeaningfulPaint": 1553.5529999999999,
+  "speedIndex": 1553.5529999999999,
+  "largestContentfulPaint": 1603.869,
+  "totalBlockingTime": 26,
+  "cumulativeLayoutShift": 0.00040249473922318547,
+  "timeToInteractive": 1679.869,
+  "maxPotentialFirstInputDelay": 76,
+  "timeToFirstByte": 9.483999999999995,
+  "weight": {
+    "summary": "14 requests • 75.3 KiB",
+    "total": 77094,
+    "image": 0,
+    "imageCount": 0,
+    "script": 8936,
+    "scriptCount": 3,
+    "document": 5999,
+    "font": 53087,
+    "fontCount": 5,
+    "stylesheet": 9035,
+    "stylesheetCount": 3,
+    "thirdParty": 61553,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 98,
+    "+weight.total": 964,
+    "-weight.document": 251,
+    "+weight.document": 785,
+    "-weight.script": 151,
+    "+weight.script": 841,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 278,
+    "+weight.font": 500,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 336,
+    "-totalBlockingTime": 48,
+    "-largestContentfulPaint": 159
+  },
+  "axe": {
+    "passes": 427,
+    "violations": 0
+  }
+}

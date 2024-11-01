@@ -1,0 +1,67 @@
+{
+  "url": "https://www.davidtapias.com/",
+  "requestedUrl": "https://www.davidtapias.com/",
+  "timestamp": 1730478379158,
+  "ranks": {
+    "hundos": 403,
+    "performance": 152,
+    "accessibility": 726,
+    "cumulative": 401
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 382
+  },
+  "firstContentfulPaint": 1197.6955,
+  "firstMeaningfulPaint": 1197.6955,
+  "speedIndex": 1801.4073448605943,
+  "largestContentfulPaint": 1525.6955,
+  "totalBlockingTime": 72,
+  "cumulativeLayoutShift": 0.0002788002616559817,
+  "timeToInteractive": 2547.6955,
+  "maxPotentialFirstInputDelay": 122,
+  "timeToFirstByte": 11.852000000000004,
+  "weight": {
+    "summary": "6 requests • 375.9 KiB",
+    "total": 384880,
+    "image": 75487,
+    "imageCount": 1,
+    "script": 5036,
+    "scriptCount": 1,
+    "document": 1764,
+    "font": 275903,
+    "fontCount": 2,
+    "stylesheet": 26690,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 409,
+    "+weight.total": 653,
+    "-weight.document": 15,
+    "+weight.document": 1021,
+    "-weight.script": 94,
+    "+weight.script": 898,
+    "-weight.image": 269,
+    "+weight.image": 677,
+    "-weight.font": 668,
+    "+weight.font": 110,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 354,
+    "-totalBlockingTime": 122,
+    "-largestContentfulPaint": 132
+  },
+  "axe": {
+    "passes": 70,
+    "violations": 2
+  }
+}

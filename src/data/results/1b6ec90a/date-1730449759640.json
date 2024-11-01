@@ -1,0 +1,67 @@
+{
+  "url": "https://www.andrealves.dev/",
+  "requestedUrl": "https://www.andrealves.dev/",
+  "timestamp": 1730478021083,
+  "ranks": {
+    "hundos": 143,
+    "performance": 346,
+    "accessibility": 42,
+    "cumulative": 141
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.96,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 396
+  },
+  "firstContentfulPaint": 1289.208,
+  "firstMeaningfulPaint": 1364.8359999999998,
+  "speedIndex": 1289.208,
+  "largestContentfulPaint": 2801.768,
+  "totalBlockingTime": 51,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1436.3359999999998,
+  "maxPotentialFirstInputDelay": 143,
+  "timeToFirstByte": 2.419000000000011,
+  "weight": {
+    "summary": "23 requests • 376.3 KiB",
+    "total": 385309,
+    "image": 263255,
+    "imageCount": 3,
+    "script": 52814,
+    "scriptCount": 6,
+    "document": 9134,
+    "font": 38109,
+    "fontCount": 1,
+    "stylesheet": 11208,
+    "stylesheetCount": 2,
+    "thirdParty": 10789,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 410,
+    "+weight.total": 652,
+    "-weight.document": 446,
+    "+weight.document": 590,
+    "-weight.script": 381,
+    "+weight.script": 611,
+    "-weight.image": 471,
+    "+weight.image": 475,
+    "-weight.font": 168,
+    "+weight.font": 610,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 133,
+    "-totalBlockingTime": 95,
+    "-largestContentfulPaint": 348
+  },
+  "axe": {
+    "passes": 508,
+    "violations": 0
+  }
+}

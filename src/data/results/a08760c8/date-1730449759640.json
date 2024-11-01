@@ -1,0 +1,66 @@
+{
+  "url": "https://corcosoft.com/",
+  "requestedUrl": "https://corcosoft.com/",
+  "timestamp": 1730483736669,
+  "ranks": {
+    "hundos": 638,
+    "performance": 792,
+    "accessibility": 597,
+    "cumulative": 638
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.69,
+    "accessibility": 0.94,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 363
+  },
+  "firstContentfulPaint": 1061.3119999999997,
+  "firstMeaningfulPaint": 1083.6069999999995,
+  "speedIndex": 3009.892181857868,
+  "largestContentfulPaint": 1083.6069999999995,
+  "totalBlockingTime": 167797.1475,
+  "cumulativeLayoutShift": 0.0001552356846790277,
+  "timeToInteractive": 176540.7395,
+  "maxPotentialFirstInputDelay": 4082,
+  "timeToFirstByte": 98.24100000000004,
+  "weight": {
+    "summary": "26 requests • 1.7 MiB",
+    "total": 1800345,
+    "image": 48807,
+    "imageCount": 11,
+    "script": 346151,
+    "scriptCount": 6,
+    "document": 9365,
+    "font": 73431,
+    "fontCount": 4,
+    "stylesheet": 18951,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 825,
+    "+weight.total": 237,
+    "-weight.document": 461,
+    "+weight.document": 575,
+    "-weight.script": 789,
+    "+weight.script": 203,
+    "-weight.image": 219,
+    "+weight.image": 727,
+    "-weight.font": 382,
+    "+weight.font": 396,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 715,
+    "-totalBlockingTime": 691,
+    "-largestContentfulPaint": 499
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

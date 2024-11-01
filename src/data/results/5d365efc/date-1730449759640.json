@@ -1,0 +1,67 @@
+{
+  "url": "https://www.wireshark.org/",
+  "requestedUrl": "https://www.wireshark.org/",
+  "timestamp": 1730496322591,
+  "ranks": {
+    "hundos": 1055,
+    "performance": 1025,
+    "accessibility": 1033,
+    "cumulative": 1054
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.37,
+    "accessibility": 0.7,
+    "bestPractices": 0.78,
+    "seo": 0.73,
+    "total": 258
+  },
+  "firstContentfulPaint": 1547.114,
+  "firstMeaningfulPaint": 8226.046999999999,
+  "speedIndex": 7558.705789695447,
+  "largestContentfulPaint": 9801.047,
+  "totalBlockingTime": 7190.499999999999,
+  "cumulativeLayoutShift": 0.0015406120416994297,
+  "timeToInteractive": 18311.547,
+  "maxPotentialFirstInputDelay": 607,
+  "timeToFirstByte": 12.76400000000001,
+  "weight": {
+    "summary": "144 requests • 2.6 MiB",
+    "total": 2711455,
+    "image": 494201,
+    "imageCount": 30,
+    "script": 950649,
+    "scriptCount": 35,
+    "document": 215472,
+    "font": 760856,
+    "fontCount": 14,
+    "stylesheet": 68125,
+    "stylesheetCount": 12,
+    "thirdParty": 1497304,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 898,
+    "+weight.total": 164,
+    "-weight.document": 1019,
+    "+weight.document": 17,
+    "-weight.script": 947,
+    "+weight.script": 45,
+    "-weight.image": 599,
+    "+weight.image": 347,
+    "-weight.font": 748,
+    "+weight.font": 30,
+    "+weight.fontCount": 6,
+    "-timeToFirstByte": 358,
+    "-totalBlockingTime": 676,
+    "-largestContentfulPaint": 982
+  },
+  "axe": {
+    "passes": 489,
+    "violations": 15
+  }
+}

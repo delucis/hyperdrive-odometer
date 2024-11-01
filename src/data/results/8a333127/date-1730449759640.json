@@ -1,0 +1,67 @@
+{
+  "url": "https://www.meetdolphie.com/",
+  "requestedUrl": "https://meetdolphie.com/",
+  "timestamp": 1730472484614,
+  "ranks": {
+    "hundos": 668,
+    "performance": 887,
+    "accessibility": 12,
+    "cumulative": 658
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 360
+  },
+  "firstContentfulPaint": 2282.3765,
+  "firstMeaningfulPaint": 2603.8765,
+  "speedIndex": 3234.8444257531014,
+  "largestContentfulPaint": 2535.3765,
+  "totalBlockingTime": 3279.0000000000005,
+  "cumulativeLayoutShift": 0.12539124982743827,
+  "timeToInteractive": 6414.3765,
+  "maxPotentialFirstInputDelay": 2309.0000000000005,
+  "timeToFirstByte": 71.568,
+  "weight": {
+    "summary": "15 requests • 279.2 KiB",
+    "total": 285922,
+    "image": 2615,
+    "imageCount": 1,
+    "script": 142677,
+    "scriptCount": 6,
+    "document": 70929,
+    "font": 49572,
+    "fontCount": 1,
+    "stylesheet": 18421,
+    "stylesheetCount": 1,
+    "thirdParty": 14275,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 334,
+    "+weight.total": 728,
+    "-weight.document": 966,
+    "+weight.document": 70,
+    "-weight.script": 591,
+    "+weight.script": 401,
+    "-weight.image": 42,
+    "+weight.image": 904,
+    "-weight.font": 264,
+    "+weight.font": 514,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 619,
+    "-totalBlockingTime": 654,
+    "-largestContentfulPaint": 680
+  },
+  "axe": {
+    "passes": 970,
+    "violations": 0
+  }
+}

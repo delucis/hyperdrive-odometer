@@ -1,0 +1,67 @@
+{
+  "url": "https://blinpete-resume.vercel.app/",
+  "requestedUrl": "https://blinpete-resume.vercel.app/",
+  "timestamp": 1730489523324,
+  "ranks": {
+    "hundos": 393,
+    "performance": 16,
+    "accessibility": 874,
+    "cumulative": 395
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.85,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 382
+  },
+  "firstContentfulPaint": 914.281,
+  "firstMeaningfulPaint": 914.281,
+  "speedIndex": 914.281,
+  "largestContentfulPaint": 1221.281,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 935.781,
+  "maxPotentialFirstInputDelay": 125,
+  "timeToFirstByte": 2.219999999999999,
+  "weight": {
+    "summary": "4 requests • 68.4 KiB",
+    "total": 70019,
+    "image": 60693,
+    "imageCount": 2,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 5048,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 4278,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 89,
+    "+weight.total": 973,
+    "-weight.document": 170,
+    "+weight.document": 866,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 247,
+    "+weight.image": 699,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 82,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 90
+  },
+  "axe": {
+    "passes": 224,
+    "violations": 38
+  }
+}

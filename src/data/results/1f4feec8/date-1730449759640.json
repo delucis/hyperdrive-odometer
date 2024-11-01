@@ -1,0 +1,67 @@
+{
+  "url": "https://www.patrickthurmond.com/",
+  "requestedUrl": "https://www.patrickthurmond.com/",
+  "timestamp": 1730463759722,
+  "ranks": {
+    "hundos": 616,
+    "performance": 574,
+    "accessibility": 263,
+    "cumulative": 612
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.85,
+    "accessibility": 1,
+    "bestPractices": 0.81,
+    "seo": 0.98,
+    "total": 364
+  },
+  "firstContentfulPaint": 1177.365,
+  "firstMeaningfulPaint": 1177.365,
+  "speedIndex": 4336.432533764156,
+  "largestContentfulPaint": 1697.0839999999998,
+  "totalBlockingTime": 393,
+  "cumulativeLayoutShift": 0.10475689134994226,
+  "timeToInteractive": 7003.4205,
+  "maxPotentialFirstInputDelay": 370,
+  "timeToFirstByte": 15.218000000000004,
+  "weight": {
+    "summary": "21 requests • 1.5 MiB",
+    "total": 1585376,
+    "image": 1384094,
+    "imageCount": 8,
+    "script": 125522,
+    "scriptCount": 4,
+    "document": 11550,
+    "font": 47439,
+    "fontCount": 1,
+    "stylesheet": 12443,
+    "stylesheetCount": 1,
+    "thirdParty": 137164,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 794,
+    "+weight.total": 268,
+    "-weight.document": 554,
+    "+weight.document": 482,
+    "-weight.script": 563,
+    "+weight.script": 429,
+    "-weight.image": 785,
+    "+weight.image": 161,
+    "-weight.font": 238,
+    "+weight.font": 540,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 375,
+    "-totalBlockingTime": 381,
+    "-largestContentfulPaint": 575
+  },
+  "axe": {
+    "passes": 51,
+    "violations": 2
+  }
+}

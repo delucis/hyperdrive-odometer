@@ -1,0 +1,67 @@
+{
+  "url": "https://www.aoresma.org/",
+  "requestedUrl": "https://www.aoresma.org/",
+  "timestamp": 1730478055187,
+  "ranks": {
+    "hundos": 515,
+    "performance": 663,
+    "accessibility": 545,
+    "cumulative": 504
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.79,
+    "accessibility": 0.94,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 373
+  },
+  "firstContentfulPaint": 2159.565,
+  "firstMeaningfulPaint": 2159.565,
+  "speedIndex": 8198.676298004984,
+  "largestContentfulPaint": 3649.565,
+  "totalBlockingTime": 67,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2251.565,
+  "maxPotentialFirstInputDelay": 116,
+  "timeToFirstByte": 2549.258,
+  "weight": {
+    "summary": "101 requests • 2.0 MiB",
+    "total": 2098261,
+    "image": 1634004,
+    "imageCount": 76,
+    "script": 62434,
+    "scriptCount": 10,
+    "document": 13785,
+    "font": 131929,
+    "fontCount": 5,
+    "stylesheet": 28260,
+    "stylesheetCount": 6,
+    "thirdParty": 246035,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 855,
+    "+weight.total": 207,
+    "-weight.document": 628,
+    "+weight.document": 408,
+    "-weight.script": 410,
+    "+weight.script": 582,
+    "-weight.image": 807,
+    "+weight.image": 139,
+    "-weight.font": 553,
+    "+weight.font": 225,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 1043,
+    "-totalBlockingTime": 115,
+    "-largestContentfulPaint": 413
+  },
+  "axe": {
+    "passes": 1133,
+    "violations": 2
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://pocketpoetry.club/",
+  "requestedUrl": "https://pocketpoetry.club/",
+  "timestamp": 1730489747180,
+  "ranks": {
+    "hundos": 421,
+    "performance": 627,
+    "accessibility": 389,
+    "cumulative": 419
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.82,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 380
+  },
+  "firstContentfulPaint": 2780.8300000000004,
+  "firstMeaningfulPaint": 2780.8300000000004,
+  "speedIndex": 3920.8044920014813,
+  "largestContentfulPaint": 2780.8300000000004,
+  "totalBlockingTime": 334.6659999999997,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 7027.822000000002,
+  "maxPotentialFirstInputDelay": 585,
+  "timeToFirstByte": 225.914,
+  "weight": {
+    "summary": "94 requests • 1.7 MiB",
+    "total": 1782153,
+    "image": 60489,
+    "imageCount": 11,
+    "script": 1522884,
+    "scriptCount": 9,
+    "document": 17093,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 32893,
+    "stylesheetCount": 2,
+    "thirdParty": 125391,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 820,
+    "+weight.total": 242,
+    "-weight.document": 707,
+    "+weight.document": 329,
+    "-weight.script": 980,
+    "+weight.script": 12,
+    "-weight.image": 246,
+    "+weight.image": 700,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 890,
+    "-totalBlockingTime": 346,
+    "-largestContentfulPaint": 709
+  },
+  "axe": {
+    "passes": 533,
+    "violations": 2
+  }
+}

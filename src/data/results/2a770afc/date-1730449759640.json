@@ -1,0 +1,67 @@
+{
+  "url": "https://ankur-kumar.in/",
+  "requestedUrl": "https://ankur-kumar.in/",
+  "timestamp": 1730465944254,
+  "ranks": {
+    "hundos": 360,
+    "performance": 578,
+    "accessibility": 362,
+    "cumulative": 372
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.84,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 384
+  },
+  "firstContentfulPaint": 1488.1815000000001,
+  "firstMeaningfulPaint": 1563.1815000000001,
+  "speedIndex": 1567.3068618923442,
+  "largestContentfulPaint": 4449.159,
+  "totalBlockingTime": 90,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2246.0325000000003,
+  "maxPotentialFirstInputDelay": 471,
+  "timeToFirstByte": 61.69699999999999,
+  "weight": {
+    "summary": "42 requests • 1.0 MiB",
+    "total": 1068993,
+    "image": 371385,
+    "imageCount": 6,
+    "script": 40240,
+    "scriptCount": 8,
+    "document": 14814,
+    "font": 523979,
+    "fontCount": 18,
+    "stylesheet": 24685,
+    "stylesheetCount": 2,
+    "thirdParty": 901502,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 693,
+    "+weight.total": 369,
+    "-weight.document": 665,
+    "+weight.document": 371,
+    "-weight.script": 345,
+    "+weight.script": 647,
+    "-weight.image": 546,
+    "+weight.image": 400,
+    "-weight.font": 731,
+    "+weight.font": 47,
+    "+weight.fontCount": 4,
+    "-timeToFirstByte": 577,
+    "-totalBlockingTime": 146,
+    "-largestContentfulPaint": 430
+  },
+  "axe": {
+    "passes": 555,
+    "violations": 51
+  }
+}

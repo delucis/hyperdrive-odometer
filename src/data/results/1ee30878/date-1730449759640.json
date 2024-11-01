@@ -1,0 +1,67 @@
+{
+  "url": "https://yunhe.com.cn/",
+  "requestedUrl": "https://yunhe.com.cn/",
+  "timestamp": 1730465018896,
+  "ranks": {
+    "hundos": 589,
+    "performance": 260,
+    "accessibility": 561,
+    "cumulative": 588
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.94,
+    "bestPractices": 0.74,
+    "seo": 1,
+    "total": 367
+  },
+  "firstContentfulPaint": 1193.7020000000002,
+  "firstMeaningfulPaint": 1193.7020000000002,
+  "speedIndex": 3351.87504000141,
+  "largestContentfulPaint": 1231.4040000000005,
+  "totalBlockingTime": 62,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3296.446000000001,
+  "maxPotentialFirstInputDelay": 173,
+  "timeToFirstByte": 669.281,
+  "weight": {
+    "summary": "253 requests • 806.0 KiB",
+    "total": 825311,
+    "image": 523640,
+    "imageCount": 5,
+    "script": 60532,
+    "scriptCount": 4,
+    "document": 11123,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 8801,
+    "stylesheetCount": 1,
+    "thirdParty": 218674,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 625,
+    "+weight.total": 437,
+    "-weight.document": 535,
+    "+weight.document": 501,
+    "-weight.script": 405,
+    "+weight.script": 587,
+    "-weight.image": 612,
+    "+weight.image": 334,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 1003,
+    "-totalBlockingTime": 111,
+    "-largestContentfulPaint": 95
+  },
+  "axe": {
+    "passes": 502,
+    "violations": 4
+  }
+}

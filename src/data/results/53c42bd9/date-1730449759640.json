@@ -1,0 +1,67 @@
+{
+  "url": "https://www.sabal.finance/",
+  "requestedUrl": "https://www.sabal.finance/",
+  "timestamp": 1730464048011,
+  "ranks": {
+    "hundos": 978,
+    "performance": 983,
+    "accessibility": 620,
+    "cumulative": 973
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.45,
+    "accessibility": 0.93,
+    "bestPractices": 0.74,
+    "seo": 0.95,
+    "total": 307
+  },
+  "firstContentfulPaint": 1678.451,
+  "firstMeaningfulPaint": 1678.451,
+  "speedIndex": 7379.105096919501,
+  "largestContentfulPaint": 5147.981,
+  "totalBlockingTime": 2000.499999999999,
+  "cumulativeLayoutShift": 0.00028988794893339395,
+  "timeToInteractive": 13941.355249999997,
+  "maxPotentialFirstInputDelay": 724.9999999999982,
+  "timeToFirstByte": 7.4210000000000065,
+  "weight": {
+    "summary": "99 requests • 2.3 MiB",
+    "total": 2433793,
+    "image": 1008248,
+    "imageCount": 22,
+    "script": 1051126,
+    "scriptCount": 57,
+    "document": 85861,
+    "font": 130278,
+    "fontCount": 3,
+    "stylesheet": 56753,
+    "stylesheetCount": 5,
+    "thirdParty": 1342520,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 880,
+    "+weight.total": 182,
+    "-weight.document": 978,
+    "+weight.document": 58,
+    "-weight.script": 959,
+    "+weight.script": 33,
+    "-weight.image": 737,
+    "+weight.image": 209,
+    "-weight.font": 549,
+    "+weight.font": 229,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 321,
+    "-totalBlockingTime": 622,
+    "-largestContentfulPaint": 883
+  },
+  "axe": {
+    "passes": 467,
+    "violations": 6
+  }
+}

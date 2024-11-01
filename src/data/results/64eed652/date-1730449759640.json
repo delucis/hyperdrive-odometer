@@ -1,0 +1,67 @@
+{
+  "url": "https://jerrywski.dev/",
+  "requestedUrl": "http://www.jerrywski.dev/",
+  "timestamp": 1730494847725,
+  "ranks": {
+    "hundos": 901,
+    "performance": 968,
+    "accessibility": 18,
+    "cumulative": 899
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.47,
+    "accessibility": 1,
+    "bestPractices": 0.81,
+    "seo": 1,
+    "total": 328
+  },
+  "firstContentfulPaint": 2209.89296,
+  "firstMeaningfulPaint": 2502.4156000000003,
+  "speedIndex": 4629.944616392863,
+  "largestContentfulPaint": 7160.874539999999,
+  "totalBlockingTime": 1232.6193400000009,
+  "cumulativeLayoutShift": 0.0448677624175038,
+  "timeToInteractive": 6753.335400000001,
+  "maxPotentialFirstInputDelay": 356,
+  "timeToFirstByte": 292.073,
+  "weight": {
+    "summary": "53 requests • 1.3 MiB",
+    "total": 1311404,
+    "image": 547306,
+    "imageCount": 21,
+    "script": 405909,
+    "scriptCount": 13,
+    "document": 54334,
+    "font": 132609,
+    "fontCount": 8,
+    "stylesheet": 47379,
+    "stylesheetCount": 3,
+    "thirdParty": 318981,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 737,
+    "+weight.total": 325,
+    "-weight.document": 941,
+    "+weight.document": 95,
+    "-weight.script": 824,
+    "+weight.script": 168,
+    "-weight.image": 623,
+    "+weight.image": 323,
+    "-weight.font": 556,
+    "+weight.font": 222,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 920,
+    "-totalBlockingTime": 574,
+    "-largestContentfulPaint": 943
+  },
+  "axe": {
+    "passes": 820,
+    "violations": 0
+  }
+}

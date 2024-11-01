@@ -1,0 +1,67 @@
+{
+  "url": "https://gxanshu.in/",
+  "requestedUrl": "https://gxanshu.in/",
+  "timestamp": 1730470335043,
+  "ranks": {
+    "hundos": 475,
+    "performance": 190,
+    "accessibility": 849,
+    "cumulative": 480
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.86,
+    "bestPractices": 1,
+    "seo": 0.9,
+    "total": 375
+  },
+  "firstContentfulPaint": 824.3735,
+  "firstMeaningfulPaint": 1442.5230000000001,
+  "speedIndex": 1245.7366080227857,
+  "largestContentfulPaint": 1896.2225000000003,
+  "totalBlockingTime": 72,
+  "cumulativeLayoutShift": 0.00030622854732066,
+  "timeToInteractive": 1896.4295000000002,
+  "maxPotentialFirstInputDelay": 164,
+  "timeToFirstByte": 112.325,
+  "weight": {
+    "summary": "19 requests • 310.7 KiB",
+    "total": 318109,
+    "image": 200168,
+    "imageCount": 10,
+    "script": 7110,
+    "scriptCount": 1,
+    "document": 11478,
+    "font": 92078,
+    "fontCount": 4,
+    "stylesheet": 7238,
+    "stylesheetCount": 1,
+    "thirdParty": 59562,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 352,
+    "+weight.total": 710,
+    "-weight.document": 551,
+    "+weight.document": 485,
+    "-weight.script": 128,
+    "+weight.script": 864,
+    "-weight.image": 423,
+    "+weight.image": 523,
+    "-weight.font": 464,
+    "+weight.font": 314,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 760,
+    "-totalBlockingTime": 122,
+    "-largestContentfulPaint": 231
+  },
+  "axe": {
+    "passes": 434,
+    "violations": 10
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://stefenphelps.com/",
+  "requestedUrl": "https://stefenphelps.com/",
+  "timestamp": 1730491554935,
+  "ranks": {
+    "hundos": 64,
+    "performance": 47,
+    "accessibility": 126,
+    "cumulative": 44
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1020.986,
+  "firstMeaningfulPaint": 1020.986,
+  "speedIndex": 1020.986,
+  "largestContentfulPaint": 1060.9859999999999,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1020.986,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 25.81699999999998,
+  "weight": {
+    "summary": "12 requests • 52.5 KiB",
+    "total": 53759,
+    "image": 5188,
+    "imageCount": 2,
+    "script": 6062,
+    "scriptCount": 4,
+    "document": 5752,
+    "font": 15354,
+    "fontCount": 1,
+    "stylesheet": 2557,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 60,
+    "+weight.total": 1002,
+    "-weight.document": 235,
+    "+weight.document": 801,
+    "-weight.script": 112,
+    "+weight.script": 880,
+    "-weight.image": 65,
+    "+weight.image": 881,
+    "-weight.font": 27,
+    "+weight.font": 751,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 433,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 47
+  },
+  "axe": {
+    "passes": 147,
+    "violations": 0
+  }
+}

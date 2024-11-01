@@ -1,0 +1,62 @@
+{
+  "url": "https://jaanituli.ee/",
+  "requestedUrl": "https://jaanituli.ee/",
+  "timestamp": 1730455479160,
+  "ranks": {
+    "hundos": 1002,
+    "performance": 1061,
+    "accessibility": 218,
+    "cumulative": 1002
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": null,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 300
+  },
+  "firstContentfulPaint": 1014.466,
+  "firstMeaningfulPaint": 1014.466,
+  "speedIndex": 3784.161187998884,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1014.466,
+  "maxPotentialFirstInputDelay": 35,
+  "timeToFirstByte": 261.8209999999999,
+  "weight": {
+    "summary": "5 requests • 74.4 KiB",
+    "total": 76226,
+    "image": 47167,
+    "imageCount": 1,
+    "script": 4533,
+    "scriptCount": 1,
+    "document": 16838,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 7688,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "sidequests": {
+    "-weight.total": 97,
+    "+weight.total": 965,
+    "-weight.document": 702,
+    "+weight.document": 334,
+    "-weight.script": 83,
+    "+weight.script": 909,
+    "-weight.image": 217,
+    "+weight.image": 729,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 910,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 480
+  },
+  "axe": {
+    "passes": 40,
+    "violations": 1
+  }
+}

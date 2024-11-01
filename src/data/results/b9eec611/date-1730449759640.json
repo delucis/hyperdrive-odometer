@@ -1,0 +1,67 @@
+{
+  "url": "https://ev.proeltek.ru/",
+  "requestedUrl": "https://ev.proeltek.ru/",
+  "timestamp": 1730485099930,
+  "ranks": {
+    "hundos": 582,
+    "performance": 391,
+    "accessibility": 483,
+    "cumulative": 579
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.95,
+    "accessibility": 0.95,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 368
+  },
+  "firstContentfulPaint": 2192.865,
+  "firstMeaningfulPaint": 2192.865,
+  "speedIndex": 3087.9809971198683,
+  "largestContentfulPaint": 2212.9759999999997,
+  "totalBlockingTime": 67,
+  "cumulativeLayoutShift": 0.00027050857260042577,
+  "timeToInteractive": 4152.965,
+  "maxPotentialFirstInputDelay": 128,
+  "timeToFirstByte": 243.45599999999996,
+  "weight": {
+    "summary": "39 requests • 617.8 KiB",
+    "total": 632648,
+    "image": 441320,
+    "imageCount": 16,
+    "script": 78657,
+    "scriptCount": 2,
+    "document": 17890,
+    "font": 77846,
+    "fontCount": 8,
+    "stylesheet": 12108,
+    "stylesheetCount": 2,
+    "thirdParty": 160162,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 555,
+    "+weight.total": 507,
+    "-weight.document": 725,
+    "+weight.document": 311,
+    "-weight.script": 450,
+    "+weight.script": 542,
+    "-weight.image": 575,
+    "+weight.image": 371,
+    "-weight.font": 403,
+    "+weight.font": 375,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 897,
+    "-totalBlockingTime": 115,
+    "-largestContentfulPaint": 281
+  },
+  "axe": {
+    "passes": 471,
+    "violations": 5
+  }
+}

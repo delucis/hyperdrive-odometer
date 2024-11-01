@@ -1,0 +1,67 @@
+{
+  "url": "https://www.huan086.com/",
+  "requestedUrl": "https://www.huan086.com/",
+  "timestamp": 1730478859543,
+  "ranks": {
+    "hundos": 692,
+    "performance": 695,
+    "accessibility": 944,
+    "cumulative": 693
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.76,
+    "accessibility": 0.81,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 357
+  },
+  "firstContentfulPaint": 1454.8105,
+  "firstMeaningfulPaint": 1485.8105,
+  "speedIndex": 3008.083320475143,
+  "largestContentfulPaint": 2351.6245,
+  "totalBlockingTime": 335.99999999999983,
+  "cumulativeLayoutShift": 0.27254644589333316,
+  "timeToInteractive": 7438.2915,
+  "maxPotentialFirstInputDelay": 212,
+  "timeToFirstByte": 72.12700000000001,
+  "weight": {
+    "summary": "44 requests • 1.4 MiB",
+    "total": 1422439,
+    "image": 949717,
+    "imageCount": 20,
+    "script": 371391,
+    "scriptCount": 12,
+    "document": 17363,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 83168,
+    "stylesheetCount": 6,
+    "thirdParty": 429897,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 764,
+    "+weight.total": 298,
+    "-weight.document": 713,
+    "+weight.document": 323,
+    "-weight.script": 799,
+    "+weight.script": 193,
+    "-weight.image": 728,
+    "+weight.image": 218,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 622,
+    "-totalBlockingTime": 347,
+    "-largestContentfulPaint": 650
+  },
+  "axe": {
+    "passes": 362,
+    "violations": 23
+  }
+}

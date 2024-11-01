@@ -1,0 +1,67 @@
+{
+  "url": "https://terminal-apps.dev/",
+  "requestedUrl": "https://terminal-apps.dev/",
+  "timestamp": 1730476249967,
+  "ranks": {
+    "hundos": 496,
+    "performance": 605,
+    "accessibility": 199,
+    "cumulative": 496
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.82,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 374
+  },
+  "firstContentfulPaint": 1028.654,
+  "firstMeaningfulPaint": 1028.654,
+  "speedIndex": 1368.6652561190658,
+  "largestContentfulPaint": 4402.654,
+  "totalBlockingTime": 193,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1728.411,
+  "maxPotentialFirstInputDelay": 220,
+  "timeToFirstByte": 76.77600000000001,
+  "weight": {
+    "summary": "16 requests • 1.5 MiB",
+    "total": 1539978,
+    "image": 1452670,
+    "imageCount": 9,
+    "script": 2367,
+    "scriptCount": 1,
+    "document": 4072,
+    "font": 75954,
+    "fontCount": 2,
+    "stylesheet": 3824,
+    "stylesheetCount": 1,
+    "thirdParty": 3458,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 785,
+    "+weight.total": 277,
+    "-weight.document": 112,
+    "+weight.document": 924,
+    "-weight.script": 48,
+    "+weight.script": 944,
+    "-weight.image": 792,
+    "+weight.image": 154,
+    "-weight.font": 395,
+    "+weight.font": 383,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 649,
+    "-totalBlockingTime": 257,
+    "-largestContentfulPaint": 840
+  },
+  "axe": {
+    "passes": 284,
+    "violations": 1
+  }
+}

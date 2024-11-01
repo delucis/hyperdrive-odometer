@@ -1,0 +1,67 @@
+{
+  "url": "https://bern-hypnose.ch/",
+  "requestedUrl": "https://bern-hypnose.ch/",
+  "timestamp": 1730466740404,
+  "ranks": {
+    "hundos": 568,
+    "performance": 796,
+    "accessibility": 227,
+    "cumulative": 558
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.69,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 369
+  },
+  "firstContentfulPaint": 5038.8555,
+  "firstMeaningfulPaint": 5038.8555,
+  "speedIndex": 5038.8555,
+  "largestContentfulPaint": 5038.8555,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5038.8555,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 38.58600000000001,
+  "weight": {
+    "summary": "19 requests • 83.5 KiB",
+    "total": 85471,
+    "image": 50762,
+    "imageCount": 13,
+    "script": 6899,
+    "scriptCount": 2,
+    "document": 18965,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 8106,
+    "stylesheetCount": 1,
+    "thirdParty": 2787,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 113,
+    "+weight.total": 949,
+    "-weight.document": 747,
+    "+weight.document": 289,
+    "-weight.script": 123,
+    "+weight.script": 869,
+    "-weight.image": 224,
+    "+weight.image": 722,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 490,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 446
+  },
+  "axe": {
+    "passes": 589,
+    "violations": 2
+  }
+}

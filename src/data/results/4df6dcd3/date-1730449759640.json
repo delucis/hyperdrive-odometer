@@ -1,0 +1,67 @@
+{
+  "url": "https://maxwerner.ch/",
+  "requestedUrl": "https://maxwerner.ch/",
+  "timestamp": 1730472456583,
+  "ranks": {
+    "hundos": 272,
+    "performance": 347,
+    "accessibility": 411,
+    "cumulative": 276
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.96,
+    "accessibility": 0.96,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 390
+  },
+  "firstContentfulPaint": 1003.1319999999998,
+  "firstMeaningfulPaint": 1709.336,
+  "speedIndex": 1402.1602064028268,
+  "largestContentfulPaint": 2761.3239999999996,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1709.336,
+  "maxPotentialFirstInputDelay": 49,
+  "timeToFirstByte": 2.806999999999988,
+  "weight": {
+    "summary": "25 requests • 278.7 KiB",
+    "total": 285426,
+    "image": 137679,
+    "imageCount": 13,
+    "script": 11009,
+    "scriptCount": 3,
+    "document": 7078,
+    "font": 122861,
+    "fontCount": 4,
+    "stylesheet": 5742,
+    "stylesheetCount": 2,
+    "thirdParty": 107655,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 333,
+    "+weight.total": 729,
+    "-weight.document": 331,
+    "+weight.document": 705,
+    "-weight.script": 172,
+    "+weight.script": 820,
+    "-weight.image": 356,
+    "+weight.image": 590,
+    "-weight.font": 530,
+    "+weight.font": 248,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 219,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 345
+  },
+  "axe": {
+    "passes": 296,
+    "violations": 1
+  }
+}

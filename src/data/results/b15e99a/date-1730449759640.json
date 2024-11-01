@@ -1,0 +1,67 @@
+{
+  "url": "https://pvcnt.github.io/mergeable/",
+  "requestedUrl": "https://pvcnt.github.io/mergeable/",
+  "timestamp": 1730474283476,
+  "ranks": {
+    "hundos": 57,
+    "performance": 73,
+    "accessibility": 128,
+    "cumulative": 38
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1067.078,
+  "firstMeaningfulPaint": 1067.078,
+  "speedIndex": 1067.078,
+  "largestContentfulPaint": 1067.078,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1067.078,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 33.754000000000005,
+  "weight": {
+    "summary": "7 requests • 43.4 KiB",
+    "total": 44432,
+    "image": 1138,
+    "imageCount": 1,
+    "script": 25449,
+    "scriptCount": 4,
+    "document": 7046,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 10799,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 47,
+    "+weight.total": 1015,
+    "-weight.document": 324,
+    "+weight.document": 712,
+    "-weight.script": 280,
+    "+weight.script": 712,
+    "-weight.image": 22,
+    "+weight.image": 924,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 469,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 52
+  },
+  "axe": {
+    "passes": 144,
+    "violations": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://signalrgb.com/",
+  "requestedUrl": "https://signalrgb.com/",
+  "timestamp": 1730475377417,
+  "ranks": {
+    "hundos": 1013,
+    "performance": 930,
+    "accessibility": 594,
+    "cumulative": 1013
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.54,
+    "accessibility": 0.94,
+    "bestPractices": 0.7,
+    "seo": 0.79,
+    "total": 297
+  },
+  "firstContentfulPaint": 2523.4339999999997,
+  "firstMeaningfulPaint": 2523.4339999999997,
+  "speedIndex": 8096.8899950326995,
+  "largestContentfulPaint": 2901.9645,
+  "totalBlockingTime": 45040.6965,
+  "cumulativeLayoutShift": 0.0027783787745545977,
+  "timeToInteractive": 48726.1305,
+  "maxPotentialFirstInputDelay": 6711.999999999999,
+  "timeToFirstByte": 75.634,
+  "weight": {
+    "summary": "59 requests • 1.1 MiB",
+    "total": 1127249,
+    "image": 541913,
+    "imageCount": 34,
+    "script": 417536,
+    "scriptCount": 13,
+    "document": 20796,
+    "font": 62920,
+    "fontCount": 2,
+    "stylesheet": 82832,
+    "stylesheetCount": 4,
+    "thirdParty": 352452,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 710,
+    "+weight.total": 352,
+    "-weight.document": 764,
+    "+weight.document": 272,
+    "-weight.script": 832,
+    "+weight.script": 160,
+    "-weight.image": 617,
+    "+weight.image": 329,
+    "-weight.font": 325,
+    "+weight.font": 453,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 641,
+    "-totalBlockingTime": 685,
+    "-largestContentfulPaint": 721
+  },
+  "axe": {
+    "passes": 360,
+    "violations": 52
+  }
+}

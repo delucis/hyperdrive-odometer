@@ -1,0 +1,67 @@
+{
+  "url": "https://propjockey.github.io/css-bin-bits/",
+  "requestedUrl": "https://propjockey.github.io/css-bin-bits/",
+  "timestamp": 1730452365915,
+  "ranks": {
+    "hundos": 399,
+    "performance": 483,
+    "accessibility": 335,
+    "cumulative": 405
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.9,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 382
+  },
+  "firstContentfulPaint": 1253.272,
+  "firstMeaningfulPaint": 1253.272,
+  "speedIndex": 1253.272,
+  "largestContentfulPaint": 3481.1030000000005,
+  "totalBlockingTime": 123,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3468.6220000000003,
+  "maxPotentialFirstInputDelay": 122,
+  "timeToFirstByte": 11.295000000000002,
+  "weight": {
+    "summary": "10 requests • 382.8 KiB",
+    "total": 392011,
+    "image": 147464,
+    "imageCount": 3,
+    "script": 198538,
+    "scriptCount": 3,
+    "document": 8216,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 37350,
+    "stylesheetCount": 1,
+    "thirdParty": 198981,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 414,
+    "+weight.total": 648,
+    "-weight.document": 399,
+    "+weight.document": 637,
+    "-weight.script": 663,
+    "+weight.script": 329,
+    "-weight.image": 370,
+    "+weight.image": 576,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 348,
+    "-totalBlockingTime": 193,
+    "-largestContentfulPaint": 398
+  },
+  "axe": {
+    "passes": 455,
+    "violations": 10
+  }
+}

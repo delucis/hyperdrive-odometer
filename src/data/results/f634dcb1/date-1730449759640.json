@@ -1,0 +1,67 @@
+{
+  "url": "https://fadhelmurphy.github.io/",
+  "requestedUrl": "https://fadhelmurphy.github.io/",
+  "timestamp": 1730453698805,
+  "ranks": {
+    "hundos": 830,
+    "performance": 668,
+    "accessibility": 986,
+    "cumulative": 833
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.78,
+    "accessibility": 0.78,
+    "bestPractices": 1,
+    "seo": 0.83,
+    "total": 339
+  },
+  "firstContentfulPaint": 2518.5380000000005,
+  "firstMeaningfulPaint": 2518.5380000000005,
+  "speedIndex": 2518.5380000000005,
+  "largestContentfulPaint": 4981.433999999999,
+  "totalBlockingTime": 106,
+  "cumulativeLayoutShift": 0.005565263798105199,
+  "timeToInteractive": 3087.62875,
+  "maxPotentialFirstInputDelay": 262,
+  "timeToFirstByte": 17.292,
+  "weight": {
+    "summary": "26 requests • 1,012.3 KiB",
+    "total": 1036555,
+    "image": 926576,
+    "imageCount": 10,
+    "script": 60838,
+    "scriptCount": 7,
+    "document": 9414,
+    "font": 24398,
+    "fontCount": 3,
+    "stylesheet": 14793,
+    "stylesheetCount": 3,
+    "thirdParty": 47909,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 685,
+    "+weight.total": 377,
+    "-weight.document": 464,
+    "+weight.document": 572,
+    "-weight.script": 407,
+    "+weight.script": 585,
+    "-weight.image": 722,
+    "+weight.image": 224,
+    "-weight.font": 70,
+    "+weight.font": 708,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 388,
+    "-totalBlockingTime": 172,
+    "-largestContentfulPaint": 441
+  },
+  "axe": {
+    "passes": 495,
+    "violations": 60
+  }
+}

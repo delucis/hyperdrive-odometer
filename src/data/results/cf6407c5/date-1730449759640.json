@@ -1,0 +1,67 @@
+{
+  "url": "https://enscribe.dev/",
+  "requestedUrl": "https://enscribe.dev/",
+  "timestamp": 1730485040365,
+  "ranks": {
+    "hundos": 312,
+    "performance": 539,
+    "accessibility": 327,
+    "cumulative": 323
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.87,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 387
+  },
+  "firstContentfulPaint": 2097.3945,
+  "firstMeaningfulPaint": 2149.8945,
+  "speedIndex": 2726.151596903514,
+  "largestContentfulPaint": 3664.493,
+  "totalBlockingTime": 72.00000000000023,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4523.993,
+  "maxPotentialFirstInputDelay": 102,
+  "timeToFirstByte": 60.408000000000015,
+  "weight": {
+    "summary": "51 requests • 876.0 KiB",
+    "total": 897065,
+    "image": 444134,
+    "imageCount": 17,
+    "script": 305703,
+    "scriptCount": 25,
+    "document": 8201,
+    "font": 114493,
+    "fontCount": 1,
+    "stylesheet": 16539,
+    "stylesheetCount": 2,
+    "thirdParty": 46411,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 646,
+    "+weight.total": 416,
+    "-weight.document": 398,
+    "+weight.document": 638,
+    "-weight.script": 753,
+    "+weight.script": 239,
+    "-weight.image": 578,
+    "+weight.image": 368,
+    "-weight.font": 518,
+    "+weight.font": 260,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 568,
+    "-totalBlockingTime": 123,
+    "-largestContentfulPaint": 415
+  },
+  "axe": {
+    "passes": 575,
+    "violations": 8
+  }
+}

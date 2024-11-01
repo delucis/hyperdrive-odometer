@@ -1,0 +1,67 @@
+{
+  "url": "https://www.suraumadani.com/",
+  "requestedUrl": "https://suraumadani.com/",
+  "timestamp": 1730460262803,
+  "ranks": {
+    "hundos": 274,
+    "performance": 404,
+    "accessibility": 9,
+    "cumulative": 270
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.94,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 390
+  },
+  "firstContentfulPaint": 2103.5609999999997,
+  "firstMeaningfulPaint": 2201.0609999999997,
+  "speedIndex": 2103.5609999999997,
+  "largestContentfulPaint": 2597.1609999999996,
+  "totalBlockingTime": 107.5,
+  "cumulativeLayoutShift": 0.0028299363188246836,
+  "timeToInteractive": 2808.6809999999996,
+  "maxPotentialFirstInputDelay": 138,
+  "timeToFirstByte": 2.1069999999999993,
+  "weight": {
+    "summary": "53 requests • 534.1 KiB",
+    "total": 546940,
+    "image": 349710,
+    "imageCount": 32,
+    "script": 97449,
+    "scriptCount": 16,
+    "document": 46416,
+    "font": 46703,
+    "fontCount": 2,
+    "stylesheet": 6272,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 516,
+    "+weight.total": 546,
+    "-weight.document": 921,
+    "+weight.document": 115,
+    "-weight.script": 486,
+    "+weight.script": 506,
+    "-weight.image": 540,
+    "+weight.image": 406,
+    "-weight.font": 221,
+    "+weight.font": 557,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 42,
+    "-totalBlockingTime": 174,
+    "-largestContentfulPaint": 329
+  },
+  "axe": {
+    "passes": 1077,
+    "violations": 0
+  }
+}

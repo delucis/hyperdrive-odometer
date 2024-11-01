@@ -1,0 +1,67 @@
+{
+  "url": "https://gautamvaishnav.vercel.app/",
+  "requestedUrl": "https://gautamvaishnav.vercel.app/",
+  "timestamp": 1730469966055,
+  "ranks": {
+    "hundos": 691,
+    "performance": 633,
+    "accessibility": 1001,
+    "cumulative": 692
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.81,
+    "accessibility": 0.76,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 357
+  },
+  "firstContentfulPaint": 1055.29,
+  "firstMeaningfulPaint": 1085.29,
+  "speedIndex": 1055.29,
+  "largestContentfulPaint": 5180.29,
+  "totalBlockingTime": 10,
+  "cumulativeLayoutShift": 0.030801524483226067,
+  "timeToInteractive": 1115.29,
+  "maxPotentialFirstInputDelay": 60,
+  "timeToFirstByte": 2.3259999999999934,
+  "weight": {
+    "summary": "5 requests • 871.0 KiB",
+    "total": 891910,
+    "image": 840688,
+    "imageCount": 1,
+    "script": 5214,
+    "scriptCount": 1,
+    "document": 4337,
+    "font": 35777,
+    "fontCount": 1,
+    "stylesheet": 5894,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 642,
+    "+weight.total": 420,
+    "-weight.document": 127,
+    "+weight.document": 909,
+    "-weight.script": 96,
+    "+weight.script": 896,
+    "-weight.image": 706,
+    "+weight.image": 240,
+    "-weight.font": 148,
+    "+weight.font": 630,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 116,
+    "-totalBlockingTime": 18,
+    "-largestContentfulPaint": 884
+  },
+  "axe": {
+    "passes": 62,
+    "violations": 11
+  }
+}

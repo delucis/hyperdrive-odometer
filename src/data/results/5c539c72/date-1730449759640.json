@@ -1,0 +1,67 @@
+{
+  "url": "https://www.madebydusk.com/",
+  "requestedUrl": "https://www.madebydusk.com/",
+  "timestamp": 1730463442411,
+  "ranks": {
+    "hundos": 278,
+    "performance": 484,
+    "accessibility": 88,
+    "cumulative": 273
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.9,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 390
+  },
+  "firstContentfulPaint": 1096.442,
+  "firstMeaningfulPaint": 1096.442,
+  "speedIndex": 1304.8345639990898,
+  "largestContentfulPaint": 2071.442,
+  "totalBlockingTime": 380,
+  "cumulativeLayoutShift": 0.0009886062024295976,
+  "timeToInteractive": 2926.442,
+  "maxPotentialFirstInputDelay": 649,
+  "timeToFirstByte": 66.501,
+  "weight": {
+    "summary": "13 requests • 344.0 KiB",
+    "total": 352223,
+    "image": 204131,
+    "imageCount": 6,
+    "script": 20454,
+    "scriptCount": 2,
+    "document": 8353,
+    "font": 110722,
+    "fontCount": 2,
+    "stylesheet": 7989,
+    "stylesheetCount": 1,
+    "thirdParty": 3895,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 393,
+    "+weight.total": 669,
+    "-weight.document": 407,
+    "+weight.document": 629,
+    "-weight.script": 232,
+    "+weight.script": 760,
+    "-weight.image": 428,
+    "+weight.image": 518,
+    "-weight.font": 510,
+    "+weight.font": 268,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 595,
+    "-totalBlockingTime": 374,
+    "-largestContentfulPaint": 617
+  },
+  "axe": {
+    "passes": 277,
+    "violations": 0
+  }
+}

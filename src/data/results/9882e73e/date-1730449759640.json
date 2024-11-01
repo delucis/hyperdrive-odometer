@@ -1,0 +1,67 @@
+{
+  "url": "https://startupguns.com/",
+  "requestedUrl": "https://startupguns.com/",
+  "timestamp": 1730491474136,
+  "ranks": {
+    "hundos": 574,
+    "performance": 642,
+    "accessibility": 701,
+    "cumulative": 572
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.81,
+    "accessibility": 0.91,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 368
+  },
+  "firstContentfulPaint": 1854.451,
+  "firstMeaningfulPaint": 3767.993,
+  "speedIndex": 3364.642504657791,
+  "largestContentfulPaint": 3767.993,
+  "totalBlockingTime": 138,
+  "cumulativeLayoutShift": 0.12335394451366345,
+  "timeToInteractive": 3767.993,
+  "maxPotentialFirstInputDelay": 186,
+  "timeToFirstByte": 1160.616,
+  "weight": {
+    "summary": "12 requests • 860.6 KiB",
+    "total": 881287,
+    "image": 4177,
+    "imageCount": 1,
+    "script": 89600,
+    "scriptCount": 2,
+    "document": 3072,
+    "font": 773031,
+    "fontCount": 4,
+    "stylesheet": 11407,
+    "stylesheetCount": 2,
+    "thirdParty": 773963,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 640,
+    "+weight.total": 422,
+    "-weight.document": 56,
+    "+weight.document": 980,
+    "-weight.script": 474,
+    "+weight.script": 518,
+    "-weight.image": 58,
+    "+weight.image": 888,
+    "-weight.font": 753,
+    "+weight.font": 25,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 1027,
+    "-totalBlockingTime": 211,
+    "-largestContentfulPaint": 417
+  },
+  "axe": {
+    "passes": 170,
+    "violations": 5
+  }
+}

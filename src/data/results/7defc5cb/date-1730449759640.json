@@ -1,0 +1,67 @@
+{
+  "url": "https://corvu.dev/docs/",
+  "requestedUrl": "https://corvu.dev/docs/",
+  "timestamp": 1730467910980,
+  "ranks": {
+    "hundos": 13,
+    "performance": 50,
+    "accessibility": 68,
+    "cumulative": 6
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1026.129,
+  "firstMeaningfulPaint": 1026.129,
+  "speedIndex": 1026.129,
+  "largestContentfulPaint": 1359.129,
+  "totalBlockingTime": 6,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1223.629,
+  "maxPotentialFirstInputDelay": 62,
+  "timeToFirstByte": 2.280000000000001,
+  "weight": {
+    "summary": "25 requests • 143.3 KiB",
+    "total": 146698,
+    "image": 10217,
+    "imageCount": 2,
+    "script": 37206,
+    "scriptCount": 19,
+    "document": 10253,
+    "font": 80287,
+    "fontCount": 2,
+    "stylesheet": 8735,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 190,
+    "+weight.total": 872,
+    "-weight.document": 502,
+    "+weight.document": 534,
+    "-weight.script": 336,
+    "+weight.script": 656,
+    "-weight.image": 89,
+    "+weight.image": 857,
+    "-weight.font": 419,
+    "+weight.font": 359,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 100,
+    "-totalBlockingTime": 11,
+    "-largestContentfulPaint": 526
+  },
+  "axe": {
+    "passes": 339,
+    "violations": 0
+  }
+}

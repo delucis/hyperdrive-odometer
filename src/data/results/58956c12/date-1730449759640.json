@@ -1,0 +1,67 @@
+{
+  "url": "https://www.astra-consulting.tech/",
+  "requestedUrl": "https://www.astra-consulting.tech/",
+  "timestamp": 1730462282399,
+  "ranks": {
+    "hundos": 87,
+    "performance": 229,
+    "accessibility": 343,
+    "cumulative": 107
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 1011.693,
+  "firstMeaningfulPaint": 2890.193,
+  "speedIndex": 1666.3165720350023,
+  "largestContentfulPaint": 1976.693,
+  "totalBlockingTime": 88.5,
+  "cumulativeLayoutShift": 0.03271896649097991,
+  "timeToInteractive": 3392.693,
+  "maxPotentialFirstInputDelay": 177,
+  "timeToFirstByte": 51.638000000000005,
+  "weight": {
+    "summary": "29 requests • 575.5 KiB",
+    "total": 589285,
+    "image": 180624,
+    "imageCount": 14,
+    "script": 77948,
+    "scriptCount": 8,
+    "document": 8342,
+    "font": 320482,
+    "fontCount": 4,
+    "stylesheet": 1741,
+    "stylesheetCount": 1,
+    "thirdParty": 12780,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 543,
+    "+weight.total": 519,
+    "-weight.document": 406,
+    "+weight.document": 630,
+    "-weight.script": 449,
+    "+weight.script": 543,
+    "-weight.image": 403,
+    "+weight.image": 543,
+    "-weight.font": 686,
+    "+weight.font": 92,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 539,
+    "-totalBlockingTime": 144,
+    "-largestContentfulPaint": 244
+  },
+  "axe": {
+    "passes": 372,
+    "violations": 15
+  }
+}

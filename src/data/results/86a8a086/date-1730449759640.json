@@ -1,0 +1,67 @@
+{
+  "url": "https://www.divulgandociencia.com/",
+  "requestedUrl": "https://www.divulgandociencia.com/",
+  "timestamp": 1730462729231,
+  "ranks": {
+    "hundos": 610,
+    "performance": 264,
+    "accessibility": 1045,
+    "cumulative": 619
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 0.66,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 364
+  },
+  "firstContentfulPaint": 1217.504,
+  "firstMeaningfulPaint": 1217.504,
+  "speedIndex": 1217.504,
+  "largestContentfulPaint": 2277.276,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0010378510682601694,
+  "timeToInteractive": 1217.504,
+  "maxPotentialFirstInputDelay": 28,
+  "timeToFirstByte": 2.444999999999993,
+  "weight": {
+    "summary": "27 requests • 725.3 KiB",
+    "total": 742688,
+    "image": 650163,
+    "imageCount": 15,
+    "script": 4309,
+    "scriptCount": 2,
+    "document": 10100,
+    "font": 69587,
+    "fontCount": 3,
+    "stylesheet": 6929,
+    "stylesheetCount": 1,
+    "thirdParty": 5146,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 594,
+    "+weight.total": 468,
+    "-weight.document": 497,
+    "+weight.document": 539,
+    "-weight.script": 79,
+    "+weight.script": 913,
+    "-weight.image": 661,
+    "+weight.image": 285,
+    "-weight.font": 367,
+    "+weight.font": 411,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 139,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 289
+  },
+  "axe": {
+    "passes": 441,
+    "violations": 35
+  }
+}

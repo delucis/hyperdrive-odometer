@@ -1,0 +1,67 @@
+{
+  "url": "https://distresssignal.org/",
+  "requestedUrl": "https://distresssignal.org/",
+  "timestamp": 1730468574676,
+  "ranks": {
+    "hundos": 20,
+    "performance": 107,
+    "accessibility": 273,
+    "cumulative": 68
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1068.068,
+  "firstMeaningfulPaint": 1068.068,
+  "speedIndex": 1198.3547012663469,
+  "largestContentfulPaint": 1714.0849999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1068.068,
+  "maxPotentialFirstInputDelay": 36,
+  "timeToFirstByte": 93.11500000000004,
+  "weight": {
+    "summary": "22 requests • 156.8 KiB",
+    "total": 160566,
+    "image": 136731,
+    "imageCount": 9,
+    "script": 7682,
+    "scriptCount": 2,
+    "document": 6941,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 6504,
+    "stylesheetCount": 1,
+    "thirdParty": 136403,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 208,
+    "+weight.total": 854,
+    "-weight.document": 317,
+    "+weight.document": 719,
+    "-weight.script": 136,
+    "+weight.script": 856,
+    "-weight.image": 355,
+    "+weight.image": 591,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 701,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 198
+  },
+  "axe": {
+    "passes": 339,
+    "violations": 3
+  }
+}

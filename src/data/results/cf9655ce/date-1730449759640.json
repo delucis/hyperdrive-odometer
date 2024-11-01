@@ -1,0 +1,67 @@
+{
+  "url": "https://pauliescanlon.github.io/",
+  "requestedUrl": "https://pauliescanlon.github.io/",
+  "timestamp": 1730489454091,
+  "ranks": {
+    "hundos": 694,
+    "performance": 309,
+    "accessibility": 952,
+    "cumulative": 702
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.97,
+    "accessibility": 0.81,
+    "bestPractices": 0.96,
+    "seo": 0.83,
+    "total": 357
+  },
+  "firstContentfulPaint": 1123.257,
+  "firstMeaningfulPaint": 1123.257,
+  "speedIndex": 1123.257,
+  "largestContentfulPaint": 2575.4669999999996,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1147.257,
+  "maxPotentialFirstInputDelay": 92,
+  "timeToFirstByte": 22.941999999999993,
+  "weight": {
+    "summary": "12 requests • 252.0 KiB",
+    "total": 258098,
+    "image": 202261,
+    "imageCount": 2,
+    "script": 47005,
+    "scriptCount": 4,
+    "document": 6419,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 2413,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 314,
+    "+weight.total": 748,
+    "-weight.document": 273,
+    "+weight.document": 763,
+    "-weight.script": 360,
+    "+weight.script": 632,
+    "-weight.image": 425,
+    "+weight.image": 521,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 419,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 325
+  },
+  "axe": {
+    "passes": 2085,
+    "violations": 334
+  }
+}

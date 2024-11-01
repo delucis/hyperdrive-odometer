@@ -1,0 +1,67 @@
+{
+  "url": "https://inote.xyz/zh/",
+  "requestedUrl": "https://xubian.com/",
+  "timestamp": 1730480575428,
+  "ranks": {
+    "hundos": 920,
+    "performance": 821,
+    "accessibility": 256,
+    "cumulative": 918
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.67,
+    "accessibility": 1,
+    "bestPractices": 0.56,
+    "seo": 0.99,
+    "total": 322
+  },
+  "firstContentfulPaint": 1858.805,
+  "firstMeaningfulPaint": 1858.805,
+  "speedIndex": 3537.008940461378,
+  "largestContentfulPaint": 5672.805,
+  "totalBlockingTime": 394.5000000000002,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5527.079750000001,
+  "maxPotentialFirstInputDelay": 337,
+  "timeToFirstByte": 267.60299999999995,
+  "weight": {
+    "summary": "322 requests • 1.1 MiB",
+    "total": 1126480,
+    "image": 796295,
+    "imageCount": 15,
+    "script": 84251,
+    "scriptCount": 8,
+    "document": 12607,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 8358,
+    "stylesheetCount": 1,
+    "thirdParty": 233537,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 709,
+    "+weight.total": 353,
+    "-weight.document": 591,
+    "+weight.document": 445,
+    "-weight.script": 465,
+    "+weight.script": 527,
+    "-weight.image": 694,
+    "+weight.image": 252,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 912,
+    "-totalBlockingTime": 382,
+    "-largestContentfulPaint": 903
+  },
+  "axe": {
+    "passes": 55,
+    "violations": 2
+  }
+}

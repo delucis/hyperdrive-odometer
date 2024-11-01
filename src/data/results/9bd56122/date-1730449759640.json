@@ -1,0 +1,67 @@
+{
+  "url": "https://edwardmargallo.com/",
+  "requestedUrl": "https://edwardmargallo.com/",
+  "timestamp": 1730453268973,
+  "ranks": {
+    "hundos": 573,
+    "performance": 801,
+    "accessibility": 112,
+    "cumulative": 570
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.68,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 368
+  },
+  "firstContentfulPaint": 3009.1995,
+  "firstMeaningfulPaint": 3009.1995,
+  "speedIndex": 3451.099366490625,
+  "largestContentfulPaint": 3588.2169999999996,
+  "totalBlockingTime": 479.41550000000007,
+  "cumulativeLayoutShift": 0.12274809381589409,
+  "timeToInteractive": 5313.4645,
+  "maxPotentialFirstInputDelay": 341,
+  "timeToFirstByte": 43.82000000000002,
+  "weight": {
+    "summary": "28 requests • 1.5 MiB",
+    "total": 1610436,
+    "image": 1163453,
+    "imageCount": 8,
+    "script": 281632,
+    "scriptCount": 8,
+    "document": 3068,
+    "font": 109831,
+    "fontCount": 3,
+    "stylesheet": 51307,
+    "stylesheetCount": 3,
+    "thirdParty": 412504,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 798,
+    "+weight.total": 264,
+    "-weight.document": 55,
+    "+weight.document": 981,
+    "-weight.script": 731,
+    "+weight.script": 261,
+    "-weight.image": 756,
+    "+weight.image": 190,
+    "-weight.font": 509,
+    "+weight.font": 269,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 510,
+    "-totalBlockingTime": 424,
+    "-largestContentfulPaint": 777
+  },
+  "axe": {
+    "passes": 182,
+    "violations": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://magicgreen.junglestar.org/",
+  "requestedUrl": "https://magicgreen.junglestar.org/",
+  "timestamp": 1730488129959,
+  "ranks": {
+    "hundos": 390,
+    "performance": 123,
+    "accessibility": 774,
+    "cumulative": 390
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.89,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 382
+  },
+  "firstContentfulPaint": 1271.38,
+  "firstMeaningfulPaint": 1271.38,
+  "speedIndex": 1384.4032480002197,
+  "largestContentfulPaint": 1463.2125,
+  "totalBlockingTime": 37,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1408.38,
+  "maxPotentialFirstInputDelay": 296,
+  "timeToFirstByte": 2.9850000000000136,
+  "weight": {
+    "summary": "44 requests • 333.1 KiB",
+    "total": 341058,
+    "image": 199236,
+    "imageCount": 7,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 35832,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 105990,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 383,
+    "+weight.total": 679,
+    "-weight.document": 882,
+    "+weight.document": 154,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 421,
+    "+weight.image": 525,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 240,
+    "-totalBlockingTime": 67,
+    "-largestContentfulPaint": 126
+  },
+  "axe": {
+    "passes": 1567,
+    "violations": 7
+  }
+}

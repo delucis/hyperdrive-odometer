@@ -1,0 +1,67 @@
+{
+  "url": "https://davina-devs.com/",
+  "requestedUrl": "https://davina-devs.com/",
+  "timestamp": 1730484072125,
+  "ranks": {
+    "hundos": 942,
+    "performance": 973,
+    "accessibility": 887,
+    "cumulative": 940
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.46,
+    "accessibility": 0.84,
+    "bestPractices": 1,
+    "seo": 0.88,
+    "total": 318
+  },
+  "firstContentfulPaint": 1997.9175,
+  "firstMeaningfulPaint": 3714.6580000000004,
+  "speedIndex": 3658.381976664935,
+  "largestContentfulPaint": 20138.4005,
+  "totalBlockingTime": 1490,
+  "cumulativeLayoutShift": 0.0000837025651600353,
+  "timeToInteractive": 6071.564,
+  "maxPotentialFirstInputDelay": 1268,
+  "timeToFirstByte": 128.656,
+  "weight": {
+    "summary": "28 requests • 4.6 MiB",
+    "total": 4798232,
+    "image": 3997771,
+    "imageCount": 11,
+    "script": 79438,
+    "scriptCount": 3,
+    "document": 6676,
+    "font": 504562,
+    "fontCount": 6,
+    "stylesheet": 12233,
+    "stylesheetCount": 2,
+    "thirdParty": 383616,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 966,
+    "+weight.total": 96,
+    "-weight.document": 286,
+    "+weight.document": 750,
+    "-weight.script": 452,
+    "+weight.script": 540,
+    "-weight.image": 888,
+    "+weight.image": 58,
+    "-weight.font": 728,
+    "+weight.font": 50,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 795,
+    "-totalBlockingTime": 593,
+    "-largestContentfulPaint": 1034
+  },
+  "axe": {
+    "passes": 399,
+    "violations": 9
+  }
+}

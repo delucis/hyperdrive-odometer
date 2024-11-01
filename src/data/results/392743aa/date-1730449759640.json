@@ -1,0 +1,67 @@
+{
+  "url": "https://www.forgingmodernity.com/",
+  "requestedUrl": "https://www.forgingmodernity.com/",
+  "timestamp": 1730494464470,
+  "ranks": {
+    "hundos": 231,
+    "performance": 447,
+    "accessibility": 45,
+    "cumulative": 222
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.92,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 392
+  },
+  "firstContentfulPaint": 1105.7155,
+  "firstMeaningfulPaint": 1105.7155,
+  "speedIndex": 1813.5530527491592,
+  "largestContentfulPaint": 2069.7155000000002,
+  "totalBlockingTime": 308.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1921.7155000000002,
+  "maxPotentialFirstInputDelay": 161,
+  "timeToFirstByte": 54.08100000000002,
+  "weight": {
+    "summary": "17 requests • 568.5 KiB",
+    "total": 582123,
+    "image": 468977,
+    "imageCount": 8,
+    "script": 1944,
+    "scriptCount": 2,
+    "document": 11428,
+    "font": 91104,
+    "fontCount": 4,
+    "stylesheet": 8670,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 540,
+    "+weight.total": 522,
+    "-weight.document": 548,
+    "+weight.document": 488,
+    "-weight.script": 38,
+    "+weight.script": 954,
+    "-weight.image": 590,
+    "+weight.image": 356,
+    "-weight.font": 458,
+    "+weight.font": 320,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 549,
+    "-totalBlockingTime": 332,
+    "-largestContentfulPaint": 616
+  },
+  "axe": {
+    "passes": 461,
+    "violations": 0
+  }
+}

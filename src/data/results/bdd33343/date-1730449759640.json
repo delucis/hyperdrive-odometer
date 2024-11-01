@@ -1,0 +1,67 @@
+{
+  "url": "https://tubog-showcase.ru/",
+  "requestedUrl": "https://tubog-showcase.ru/",
+  "timestamp": 1730476788891,
+  "ranks": {
+    "hundos": 262,
+    "performance": 305,
+    "accessibility": 621,
+    "cumulative": 257
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 391
+  },
+  "firstContentfulPaint": 1694.4855,
+  "firstMeaningfulPaint": 1694.4855,
+  "speedIndex": 3079.9118589944974,
+  "largestContentfulPaint": 1769.4854999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1694.4855,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 2.2420000000000186,
+  "weight": {
+    "summary": "13 requests • 176.7 KiB",
+    "total": 180939,
+    "image": 141958,
+    "imageCount": 7,
+    "script": 26241,
+    "scriptCount": 3,
+    "document": 8326,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 4041,
+    "stylesheetCount": 1,
+    "thirdParty": 21051,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 235,
+    "+weight.total": 827,
+    "-weight.document": 405,
+    "+weight.document": 631,
+    "-weight.script": 286,
+    "+weight.script": 706,
+    "-weight.image": 363,
+    "+weight.image": 583,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 91,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 208
+  },
+  "axe": {
+    "passes": 256,
+    "violations": 6
+  }
+}

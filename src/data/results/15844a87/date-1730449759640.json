@@ -1,0 +1,67 @@
+{
+  "url": "https://juanmanuelalloron.com/",
+  "requestedUrl": "https://juanmanuelalloron.com/",
+  "timestamp": 1730455789307,
+  "ranks": {
+    "hundos": 141,
+    "performance": 31,
+    "accessibility": 301,
+    "cumulative": 159
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 396
+  },
+  "firstContentfulPaint": 964.0645,
+  "firstMeaningfulPaint": 964.0645,
+  "speedIndex": 964.0645,
+  "largestContentfulPaint": 1051.0645,
+  "totalBlockingTime": 26.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1100.0645,
+  "maxPotentialFirstInputDelay": 207,
+  "timeToFirstByte": 11.109000000000009,
+  "weight": {
+    "summary": "51 requests • 1,016.8 KiB",
+    "total": 1041205,
+    "image": 919961,
+    "imageCount": 11,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 5437,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 5672,
+    "stylesheetCount": 1,
+    "thirdParty": 110135,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 686,
+    "+weight.total": 376,
+    "-weight.document": 203,
+    "+weight.document": 833,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 721,
+    "+weight.image": 225,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 347,
+    "-totalBlockingTime": 49,
+    "-largestContentfulPaint": 40
+  },
+  "axe": {
+    "passes": 333,
+    "violations": 5
+  }
+}

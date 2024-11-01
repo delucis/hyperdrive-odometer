@@ -1,0 +1,67 @@
+{
+  "url": "https://vinitshahdeo.com/",
+  "requestedUrl": "https://vinitshahdeo.com/",
+  "timestamp": 1730461517053,
+  "ranks": {
+    "hundos": 193,
+    "performance": 247,
+    "accessibility": 502,
+    "cumulative": 206
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 394
+  },
+  "firstContentfulPaint": 1552.6829999999998,
+  "firstMeaningfulPaint": 1552.6829999999998,
+  "speedIndex": 1867.3887779966558,
+  "largestContentfulPaint": 1552.6829999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.008810395998347993,
+  "timeToInteractive": 1552.6829999999998,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 423.696,
+  "weight": {
+    "summary": "63 requests • 560.4 KiB",
+    "total": 573849,
+    "image": 417989,
+    "imageCount": 1,
+    "script": 711,
+    "scriptCount": 1,
+    "document": 6463,
+    "font": 34445,
+    "fontCount": 2,
+    "stylesheet": 4075,
+    "stylesheetCount": 2,
+    "thirdParty": 145658,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 534,
+    "+weight.total": 528,
+    "-weight.document": 277,
+    "+weight.document": 759,
+    "-weight.script": 7,
+    "+weight.script": 985,
+    "-weight.image": 566,
+    "+weight.image": 380,
+    "-weight.font": 143,
+    "+weight.font": 635,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 965,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 141
+  },
+  "axe": {
+    "passes": 145,
+    "violations": 11
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://mly.fyi/docs/introduction",
+  "requestedUrl": "https://mly.fyi/",
+  "timestamp": 1730456964266,
+  "ranks": {
+    "hundos": 279,
+    "performance": 285,
+    "accessibility": 672,
+    "cumulative": 283
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 0.92,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 390
+  },
+  "firstContentfulPaint": 1061.1375,
+  "firstMeaningfulPaint": 1061.1375,
+  "speedIndex": 1807.6456569981056,
+  "largestContentfulPaint": 1212.6025,
+  "totalBlockingTime": 156.76749999999998,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2513.6715,
+  "maxPotentialFirstInputDelay": 160,
+  "timeToFirstByte": 2.143,
+  "weight": {
+    "summary": "10 requests • 177.5 KiB",
+    "total": 181803,
+    "image": 5070,
+    "imageCount": 2,
+    "script": 160368,
+    "scriptCount": 4,
+    "document": 9634,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 5975,
+    "stylesheetCount": 1,
+    "thirdParty": 110133,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 237,
+    "+weight.total": 825,
+    "-weight.document": 473,
+    "+weight.document": 563,
+    "-weight.script": 621,
+    "+weight.script": 371,
+    "-weight.image": 63,
+    "+weight.image": 883,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 62,
+    "-totalBlockingTime": 225,
+    "-largestContentfulPaint": 511
+  },
+  "axe": {
+    "passes": 196,
+    "violations": 10
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://obsidian-to-hugo.wolf.gdn/",
+  "requestedUrl": "https://obsidian-to-hugo.wolf.gdn/",
+  "timestamp": 1730473180352,
+  "ranks": {
+    "hundos": 757,
+    "performance": 145,
+    "accessibility": 1028,
+    "cumulative": 752
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.71,
+    "bestPractices": 0.96,
+    "seo": 0.83,
+    "total": 350
+  },
+  "firstContentfulPaint": 949.0765,
+  "firstMeaningfulPaint": 949.0765,
+  "speedIndex": 1617.7194930051178,
+  "largestContentfulPaint": 1709.5614999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 988.0765,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 470.10699999999997,
+  "weight": {
+    "summary": "7 requests • 15.1 KiB",
+    "total": 15421,
+    "image": 4078,
+    "imageCount": 1,
+    "script": 7119,
+    "scriptCount": 1,
+    "document": 1420,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 2767,
+    "stylesheetCount": 2,
+    "thirdParty": 7156,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 12,
+    "+weight.total": 1050,
+    "-weight.document": 5,
+    "+weight.document": 1031,
+    "-weight.script": 130,
+    "+weight.script": 862,
+    "-weight.image": 57,
+    "+weight.image": 889,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 981,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 196
+  },
+  "axe": {
+    "passes": 33,
+    "violations": 8
+  }
+}

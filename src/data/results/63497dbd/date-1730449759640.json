@@ -1,0 +1,67 @@
+{
+  "url": "https://docs.savvyideas.co/",
+  "requestedUrl": "https://docs.savvyideas.co/",
+  "timestamp": 1730453036540,
+  "ranks": {
+    "hundos": 200,
+    "performance": 35,
+    "accessibility": 572,
+    "cumulative": 203
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.94,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 394
+  },
+  "firstContentfulPaint": 982.2835,
+  "firstMeaningfulPaint": 982.2835,
+  "speedIndex": 982.2835,
+  "largestContentfulPaint": 982.2835,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 982.2835,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 102.66,
+  "weight": {
+    "summary": "6 requests • 41.8 KiB",
+    "total": 42787,
+    "image": 0,
+    "imageCount": 0,
+    "script": 24456,
+    "scriptCount": 4,
+    "document": 6859,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 11472,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 44,
+    "+weight.total": 1018,
+    "-weight.document": 309,
+    "+weight.document": 727,
+    "-weight.script": 267,
+    "+weight.script": 725,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 728,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 25
+  },
+  "axe": {
+    "passes": 281,
+    "violations": 6
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://microsoft.github.io/genaiscript/",
+  "requestedUrl": "https://microsoft.github.io/genaiscript/",
+  "timestamp": 1730456901747,
+  "ranks": {
+    "hundos": 276,
+    "performance": 481,
+    "accessibility": 2,
+    "cumulative": 272
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.9,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 390
+  },
+  "firstContentfulPaint": 1070.4,
+  "firstMeaningfulPaint": 1333.4,
+  "speedIndex": 1207.2642274249172,
+  "largestContentfulPaint": 1399.4,
+  "totalBlockingTime": 399.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1651.9,
+  "maxPotentialFirstInputDelay": 526,
+  "timeToFirstByte": 2.794000000000011,
+  "weight": {
+    "summary": "17 requests • 934.3 KiB",
+    "total": 956679,
+    "image": 758175,
+    "imageCount": 8,
+    "script": 27528,
+    "scriptCount": 5,
+    "document": 24489,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 14998,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 667,
+    "+weight.total": 395,
+    "-weight.document": 807,
+    "+weight.document": 229,
+    "-weight.script": 295,
+    "+weight.script": 697,
+    "-weight.image": 689,
+    "+weight.image": 257,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 217,
+    "-totalBlockingTime": 387,
+    "-largestContentfulPaint": 531
+  },
+  "axe": {
+    "passes": 2732,
+    "violations": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.futurefabric.co/",
+  "requestedUrl": "https://www.futurefabric.co/",
+  "timestamp": 1730462929173,
+  "ranks": {
+    "hundos": 938,
+    "performance": 993,
+    "accessibility": 381,
+    "cumulative": 937
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.42,
+    "accessibility": 0.99,
+    "bestPractices": 0.81,
+    "seo": 0.98,
+    "total": 320
+  },
+  "firstContentfulPaint": 1858.1185,
+  "firstMeaningfulPaint": 3141.6185000000005,
+  "speedIndex": 5706.1809057451,
+  "largestContentfulPaint": 6085.452249999999,
+  "totalBlockingTime": 3991.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 9610.832500000002,
+  "maxPotentialFirstInputDelay": 858,
+  "timeToFirstByte": 66.09899999999999,
+  "weight": {
+    "summary": "73 requests • 3.1 MiB",
+    "total": 3206597,
+    "image": 713234,
+    "imageCount": 15,
+    "script": 328467,
+    "scriptCount": 6,
+    "document": 13427,
+    "font": 67077,
+    "fontCount": 2,
+    "stylesheet": 55263,
+    "stylesheetCount": 1,
+    "thirdParty": 2200596,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 925,
+    "+weight.total": 137,
+    "-weight.document": 621,
+    "+weight.document": 415,
+    "-weight.script": 777,
+    "+weight.script": 215,
+    "-weight.image": 673,
+    "+weight.image": 273,
+    "-weight.font": 349,
+    "+weight.font": 429,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 593,
+    "-totalBlockingTime": 661,
+    "-largestContentfulPaint": 919
+  },
+  "axe": {
+    "passes": 1353,
+    "violations": 12
+  }
+}

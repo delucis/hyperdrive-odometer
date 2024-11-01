@@ -1,0 +1,67 @@
+{
+  "url": "https://docs.typetura.com/",
+  "requestedUrl": "https://docs.typetura.com/",
+  "timestamp": 1730484650990,
+  "ranks": {
+    "hundos": 62,
+    "performance": 76,
+    "accessibility": 102,
+    "cumulative": 42
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1074.2440000000001,
+  "firstMeaningfulPaint": 1074.2440000000001,
+  "speedIndex": 1074.2440000000001,
+  "largestContentfulPaint": 1074.2440000000001,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1074.2440000000001,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 116.233,
+  "weight": {
+    "summary": "7 requests • 41.3 KiB",
+    "total": 42291,
+    "image": 1019,
+    "imageCount": 1,
+    "script": 22747,
+    "scriptCount": 4,
+    "document": 8167,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 10358,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 42,
+    "+weight.total": 1020,
+    "-weight.document": 396,
+    "+weight.document": 640,
+    "-weight.script": 249,
+    "+weight.script": 743,
+    "-weight.image": 18,
+    "+weight.image": 928,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 768,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 56
+  },
+  "axe": {
+    "passes": 218,
+    "violations": 0
+  }
+}

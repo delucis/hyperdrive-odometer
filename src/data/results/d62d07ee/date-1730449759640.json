@@ -1,0 +1,67 @@
+{
+  "url": "https://www.fanindra.xyz/",
+  "requestedUrl": "https://www.fanindra.xyz/",
+  "timestamp": 1730462845398,
+  "ranks": {
+    "hundos": 625,
+    "performance": 585,
+    "accessibility": 970,
+    "cumulative": 634
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.84,
+    "accessibility": 0.79,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 363
+  },
+  "firstContentfulPaint": 2338.0415000000003,
+  "firstMeaningfulPaint": 3685.2425000000003,
+  "speedIndex": 2788.483500894129,
+  "largestContentfulPaint": 4069.7995,
+  "totalBlockingTime": 84,
+  "cumulativeLayoutShift": 0.00032298213999830606,
+  "timeToInteractive": 3752.2425000000003,
+  "maxPotentialFirstInputDelay": 134,
+  "timeToFirstByte": 1.7430000000000092,
+  "weight": {
+    "summary": "14 requests • 928.2 KiB",
+    "total": 950483,
+    "image": 547138,
+    "imageCount": 5,
+    "script": 6764,
+    "scriptCount": 2,
+    "document": 3089,
+    "font": 387081,
+    "fontCount": 2,
+    "stylesheet": 6266,
+    "stylesheetCount": 3,
+    "thirdParty": 1125,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 661,
+    "+weight.total": 401,
+    "-weight.document": 59,
+    "+weight.document": 977,
+    "-weight.script": 121,
+    "+weight.script": 871,
+    "-weight.image": 622,
+    "+weight.image": 324,
+    "-weight.font": 709,
+    "+weight.font": 69,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 4,
+    "-totalBlockingTime": 138,
+    "-largestContentfulPaint": 421
+  },
+  "axe": {
+    "passes": 154,
+    "violations": 17
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://terrateam.io/",
+  "requestedUrl": "https://terrateam.io/",
+  "timestamp": 1730476285869,
+  "ranks": {
+    "hundos": 1007,
+    "performance": 895,
+    "accessibility": 709,
+    "cumulative": 1008
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.59,
+    "accessibility": 0.91,
+    "bestPractices": 0.59,
+    "seo": 0.89,
+    "total": 298
+  },
+  "firstContentfulPaint": 3935.6529999999993,
+  "firstMeaningfulPaint": 4237.945,
+  "speedIndex": 3935.6529999999993,
+  "largestContentfulPaint": 4464.663999999999,
+  "totalBlockingTime": 630.0000000000009,
+  "cumulativeLayoutShift": 0.010521113310912407,
+  "timeToInteractive": 8089.914,
+  "maxPotentialFirstInputDelay": 441.0000000000009,
+  "timeToFirstByte": 2.3160000000000025,
+  "weight": {
+    "summary": "31 requests • 940.0 KiB",
+    "total": 962588,
+    "image": 17902,
+    "imageCount": 4,
+    "script": 394204,
+    "scriptCount": 9,
+    "document": 25314,
+    "font": 492730,
+    "fontCount": 5,
+    "stylesheet": 27784,
+    "stylesheetCount": 4,
+    "thirdParty": 439211,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 670,
+    "+weight.total": 392,
+    "-weight.document": 813,
+    "+weight.document": 223,
+    "-weight.script": 817,
+    "+weight.script": 175,
+    "-weight.image": 127,
+    "+weight.image": 819,
+    "-weight.font": 725,
+    "+weight.font": 53,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 113,
+    "-totalBlockingTime": 480,
+    "-largestContentfulPaint": 844
+  },
+  "axe": {
+    "passes": 886,
+    "violations": 8
+  }
+}

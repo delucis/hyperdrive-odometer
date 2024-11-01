@@ -1,0 +1,67 @@
+{
+  "url": "https://k1eu.dev/",
+  "requestedUrl": "https://k1eu.dev/",
+  "timestamp": 1730471620759,
+  "ranks": {
+    "hundos": 107,
+    "performance": 220,
+    "accessibility": 141,
+    "cumulative": 91
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 1577.2435999999998,
+  "firstMeaningfulPaint": 1577.2435999999998,
+  "speedIndex": 1577.2435999999998,
+  "largestContentfulPaint": 1577.2435999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1577.2435999999998,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 19.217,
+  "weight": {
+    "summary": "5 requests • 16.9 KiB",
+    "total": 17271,
+    "image": 0,
+    "imageCount": 0,
+    "script": 5624,
+    "scriptCount": 1,
+    "document": 4942,
+    "font": 2031,
+    "fontCount": 1,
+    "stylesheet": 4674,
+    "stylesheetCount": 2,
+    "thirdParty": 2737,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 14,
+    "+weight.total": 1048,
+    "-weight.document": 168,
+    "+weight.document": 868,
+    "-weight.script": 104,
+    "+weight.script": 888,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 3,
+    "+weight.font": 775,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 402,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 149
+  },
+  "axe": {
+    "passes": 109,
+    "violations": 0
+  }
+}

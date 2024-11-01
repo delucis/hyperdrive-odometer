@@ -1,0 +1,67 @@
+{
+  "url": "https://rotaractgalgotias.org/",
+  "requestedUrl": "https://rotaractgalgotias.org/",
+  "timestamp": 1730474845995,
+  "ranks": {
+    "hundos": 999,
+    "performance": 1037,
+    "accessibility": 574,
+    "cumulative": 994
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.94,
+    "bestPractices": 0.74,
+    "seo": 1,
+    "total": 301
+  },
+  "firstContentfulPaint": 2485.3845,
+  "firstMeaningfulPaint": 2485.3845,
+  "speedIndex": 9719.854626997705,
+  "largestContentfulPaint": 10086.688000000002,
+  "totalBlockingTime": 3075,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 13819.8845,
+  "maxPotentialFirstInputDelay": 1609,
+  "timeToFirstByte": 2.3160000000000025,
+  "weight": {
+    "summary": "82 requests • 11.3 MiB",
+    "total": 11831718,
+    "image": 10597603,
+    "imageCount": 31,
+    "script": 859182,
+    "scriptCount": 17,
+    "document": 96061,
+    "font": 128971,
+    "fontCount": 8,
+    "stylesheet": 60811,
+    "stylesheetCount": 3,
+    "thirdParty": 1261356,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1024,
+    "+weight.total": 38,
+    "-weight.document": 981,
+    "+weight.document": 55,
+    "-weight.script": 926,
+    "+weight.script": 66,
+    "-weight.image": 930,
+    "+weight.image": 16,
+    "-weight.font": 540,
+    "+weight.font": 238,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 113,
+    "-totalBlockingTime": 651,
+    "-largestContentfulPaint": 985
+  },
+  "axe": {
+    "passes": 575,
+    "violations": 8
+  }
+}

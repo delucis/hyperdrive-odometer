@@ -1,0 +1,67 @@
+{
+  "url": "https://forzeliusadvokatbyra.se/",
+  "requestedUrl": "https://forzeliusadvokatbyra.se/",
+  "timestamp": 1730469797152,
+  "ranks": {
+    "hundos": 292,
+    "performance": 156,
+    "accessibility": 778,
+    "cumulative": 293
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.89,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 389
+  },
+  "firstContentfulPaint": 1097.5385,
+  "firstMeaningfulPaint": 1097.5385,
+  "speedIndex": 1949.8487650013988,
+  "largestContentfulPaint": 1097.5385,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1097.5385,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 100.09299999999996,
+  "weight": {
+    "summary": "4 requests • 78.7 KiB",
+    "total": 80559,
+    "image": 61970,
+    "imageCount": 1,
+    "script": 2763,
+    "scriptCount": 1,
+    "document": 10986,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 4840,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 106,
+    "+weight.total": 956,
+    "-weight.document": 528,
+    "+weight.document": 508,
+    "-weight.script": 57,
+    "+weight.script": 935,
+    "-weight.image": 250,
+    "+weight.image": 696,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 721,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 61
+  },
+  "axe": {
+    "passes": 298,
+    "violations": 9
+  }
+}

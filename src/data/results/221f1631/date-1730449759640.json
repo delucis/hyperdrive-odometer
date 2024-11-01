@@ -1,0 +1,67 @@
+{
+  "url": "https://wiki.cachyos.org/",
+  "requestedUrl": "https://wiki.cachyos.org/",
+  "timestamp": 1730461918851,
+  "ranks": {
+    "hundos": 38,
+    "performance": 148,
+    "accessibility": 115,
+    "cumulative": 22
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1367.981,
+  "firstMeaningfulPaint": 1403.981,
+  "speedIndex": 1708.4265112822807,
+  "largestContentfulPaint": 1442.981,
+  "totalBlockingTime": 22,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1439.981,
+  "maxPotentialFirstInputDelay": 72,
+  "timeToFirstByte": 294.673,
+  "weight": {
+    "summary": "9 requests • 184.2 KiB",
+    "total": 188608,
+    "image": 20070,
+    "imageCount": 2,
+    "script": 77837,
+    "scriptCount": 4,
+    "document": 27187,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 63054,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 248,
+    "+weight.total": 814,
+    "-weight.document": 825,
+    "+weight.document": 211,
+    "-weight.script": 447,
+    "+weight.script": 545,
+    "-weight.image": 136,
+    "+weight.image": 810,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 921,
+    "-totalBlockingTime": 42,
+    "-largestContentfulPaint": 122
+  },
+  "axe": {
+    "passes": 169,
+    "violations": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://buildkite.com/",
+  "requestedUrl": "https://buildkite.com/",
+  "timestamp": 1730483035683,
+  "ranks": {
+    "hundos": 1035,
+    "performance": 1021,
+    "accessibility": 998,
+    "cumulative": 1034
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.39,
+    "accessibility": 0.77,
+    "bestPractices": 0.78,
+    "seo": 0.89,
+    "total": 283
+  },
+  "firstContentfulPaint": 2005.562,
+  "firstMeaningfulPaint": 2005.562,
+  "speedIndex": 20002.36343076057,
+  "largestContentfulPaint": 29362.713499999994,
+  "totalBlockingTime": 1290.42,
+  "cumulativeLayoutShift": 0.000010921056175436792,
+  "timeToInteractive": 26111.055999999993,
+  "maxPotentialFirstInputDelay": 460,
+  "timeToFirstByte": 6.135000000000005,
+  "weight": {
+    "summary": "100 requests • 6.1 MiB",
+    "total": 6422791,
+    "image": 5220390,
+    "imageCount": 20,
+    "script": 945474,
+    "scriptCount": 61,
+    "document": 75864,
+    "font": 128847,
+    "fontCount": 3,
+    "stylesheet": 44418,
+    "stylesheetCount": 2,
+    "thirdParty": 713608,
+    "thirdPartyCount": 13
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 988,
+    "+weight.total": 74,
+    "-weight.document": 971,
+    "+weight.document": 65,
+    "-weight.script": 946,
+    "+weight.script": 46,
+    "-weight.image": 903,
+    "+weight.image": 43,
+    "-weight.font": 539,
+    "+weight.font": 239,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 313,
+    "-totalBlockingTime": 578,
+    "-largestContentfulPaint": 1046
+  },
+  "axe": {
+    "passes": 769,
+    "violations": 42
+  }
+}

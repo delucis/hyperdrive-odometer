@@ -1,0 +1,67 @@
+{
+  "url": "https://react.gg/",
+  "requestedUrl": "https://react.gg/",
+  "timestamp": 1730458765685,
+  "ranks": {
+    "hundos": 799,
+    "performance": 615,
+    "accessibility": 517,
+    "cumulative": 800
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.82,
+    "accessibility": 0.95,
+    "bestPractices": 0.74,
+    "seo": 0.93,
+    "total": 344
+  },
+  "firstContentfulPaint": 1449.6535,
+  "firstMeaningfulPaint": 1536.6535,
+  "speedIndex": 2409.3781982976643,
+  "largestContentfulPaint": 2692.7625,
+  "totalBlockingTime": 546.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4874.281999999999,
+  "maxPotentialFirstInputDelay": 263,
+  "timeToFirstByte": 3.3189999999999884,
+  "weight": {
+    "summary": "60 requests • 634.8 KiB",
+    "total": 650064,
+    "image": 241386,
+    "imageCount": 20,
+    "script": 201786,
+    "scriptCount": 23,
+    "document": 109093,
+    "font": 70158,
+    "fontCount": 5,
+    "stylesheet": 17795,
+    "stylesheetCount": 8,
+    "thirdParty": 311267,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 560,
+    "+weight.total": 502,
+    "-weight.document": 990,
+    "+weight.document": 46,
+    "-weight.script": 668,
+    "+weight.script": 324,
+    "-weight.image": 455,
+    "+weight.image": 491,
+    "-weight.font": 370,
+    "+weight.font": 408,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 269,
+    "-totalBlockingTime": 465,
+    "-largestContentfulPaint": 697
+  },
+  "axe": {
+    "passes": 1794,
+    "violations": 34
+  }
+}

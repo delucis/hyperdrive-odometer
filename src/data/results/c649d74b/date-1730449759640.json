@@ -1,0 +1,67 @@
+{
+  "url": "https://animerdesateliers.com/",
+  "requestedUrl": "https://animerdesateliers.com/",
+  "timestamp": 1730465923011,
+  "ranks": {
+    "hundos": 583,
+    "performance": 754,
+    "accessibility": 365,
+    "cumulative": 583
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.72,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 368
+  },
+  "firstContentfulPaint": 2463.2245,
+  "firstMeaningfulPaint": 2463.2245,
+  "speedIndex": 3092.342457090318,
+  "largestContentfulPaint": 3130.8224999999998,
+  "totalBlockingTime": 717,
+  "cumulativeLayoutShift": 0.037434856018615785,
+  "timeToInteractive": 4086.3925,
+  "maxPotentialFirstInputDelay": 393,
+  "timeToFirstByte": 50.06399999999999,
+  "weight": {
+    "summary": "31 requests • 304.7 KiB",
+    "total": 312030,
+    "image": 51564,
+    "imageCount": 6,
+    "script": 146178,
+    "scriptCount": 14,
+    "document": 29122,
+    "font": 75651,
+    "fontCount": 3,
+    "stylesheet": 9042,
+    "stylesheetCount": 2,
+    "thirdParty": 216700,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 347,
+    "+weight.total": 715,
+    "-weight.document": 845,
+    "+weight.document": 191,
+    "-weight.script": 597,
+    "+weight.script": 395,
+    "-weight.image": 226,
+    "+weight.image": 720,
+    "-weight.font": 393,
+    "+weight.font": 385,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 535,
+    "-totalBlockingTime": 496,
+    "-largestContentfulPaint": 741
+  },
+  "axe": {
+    "passes": 1690,
+    "violations": 72
+  }
+}

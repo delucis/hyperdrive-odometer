@@ -1,0 +1,67 @@
+{
+  "url": "https://www.eliophot.com/",
+  "requestedUrl": "https://www.eliophot.com/",
+  "timestamp": 1730478624723,
+  "ranks": {
+    "hundos": 980,
+    "performance": 997,
+    "accessibility": 821,
+    "cumulative": 980
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.42,
+    "accessibility": 0.88,
+    "bestPractices": 0.78,
+    "seo": 0.98,
+    "total": 306
+  },
+  "firstContentfulPaint": 1834.1930000000002,
+  "firstMeaningfulPaint": 1834.1930000000002,
+  "speedIndex": 9395.154440156026,
+  "largestContentfulPaint": 15238.322999999999,
+  "totalBlockingTime": 1147.7220000000002,
+  "cumulativeLayoutShift": 0.00015370263374754693,
+  "timeToInteractive": 13835.473000000002,
+  "maxPotentialFirstInputDelay": 1002,
+  "timeToFirstByte": 82.96800000000002,
+  "weight": {
+    "summary": "49 requests • 57.3 MiB",
+    "total": 60075145,
+    "image": 9138427,
+    "imageCount": 16,
+    "script": 381084,
+    "scriptCount": 7,
+    "document": 18090,
+    "font": 176416,
+    "fontCount": 7,
+    "stylesheet": 16273,
+    "stylesheetCount": 4,
+    "thirdParty": 50550075,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 1
+  },
+  "sidequests": {
+    "-weight.total": 1061,
+    "+weight.total": 1,
+    "-weight.document": 727,
+    "+weight.document": 309,
+    "-weight.script": 806,
+    "+weight.script": 186,
+    "-weight.image": 927,
+    "+weight.image": 19,
+    "-weight.font": 610,
+    "+weight.font": 168,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 667,
+    "-totalBlockingTime": 565,
+    "-largestContentfulPaint": 1021
+  },
+  "axe": {
+    "passes": 1055,
+    "violations": 47
+  }
+}

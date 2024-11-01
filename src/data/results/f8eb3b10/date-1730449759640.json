@@ -1,0 +1,67 @@
+{
+  "url": "https://www.bitech.id/",
+  "requestedUrl": "https://www.bitech.id/",
+  "timestamp": 1730478110262,
+  "ranks": {
+    "hundos": 951,
+    "performance": 1016,
+    "accessibility": 904,
+    "cumulative": 951
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.4,
+    "accessibility": 0.83,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 316
+  },
+  "firstContentfulPaint": 3435.3575,
+  "firstMeaningfulPaint": 4425.3575,
+  "speedIndex": 9247.017442799011,
+  "largestContentfulPaint": 17873.13099999998,
+  "totalBlockingTime": 826.9999999999995,
+  "cumulativeLayoutShift": 0.00630095276743586,
+  "timeToInteractive": 13156.760249999994,
+  "maxPotentialFirstInputDelay": 468,
+  "timeToFirstByte": 2.1779999999999973,
+  "weight": {
+    "summary": "64 requests • 6.0 MiB",
+    "total": 6297173,
+    "image": 5493124,
+    "imageCount": 35,
+    "script": 735539,
+    "scriptCount": 19,
+    "document": 10367,
+    "font": 24503,
+    "fontCount": 3,
+    "stylesheet": 28056,
+    "stylesheetCount": 2,
+    "thirdParty": 614478,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 986,
+    "+weight.total": 76,
+    "-weight.document": 508,
+    "+weight.document": 528,
+    "-weight.script": 909,
+    "+weight.script": 83,
+    "-weight.image": 906,
+    "+weight.image": 40,
+    "-weight.font": 72,
+    "+weight.font": 706,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 69,
+    "-totalBlockingTime": 514,
+    "-largestContentfulPaint": 1031
+  },
+  "axe": {
+    "passes": 553,
+    "violations": 19
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://siddheshmangela.com/",
+  "requestedUrl": "https://siddheshmangela.github.io/",
+  "timestamp": 1730491099180,
+  "ranks": {
+    "hundos": 253,
+    "performance": 471,
+    "accessibility": 137,
+    "cumulative": 247
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.91,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 391
+  },
+  "firstContentfulPaint": 2297.848,
+  "firstMeaningfulPaint": 2297.848,
+  "speedIndex": 2297.848,
+  "largestContentfulPaint": 3053.3360000000002,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.014726763622508268,
+  "timeToInteractive": 2297.848,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 19.028999999999996,
+  "weight": {
+    "summary": "14 requests • 251.2 KiB",
+    "total": 257224,
+    "image": 237344,
+    "imageCount": 7,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 3258,
+    "font": 13364,
+    "fontCount": 1,
+    "stylesheet": 2767,
+    "stylesheetCount": 4,
+    "thirdParty": 14964,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 313,
+    "+weight.total": 749,
+    "-weight.document": 69,
+    "+weight.document": 967,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 451,
+    "+weight.image": 495,
+    "-weight.font": 15,
+    "+weight.font": 763,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 401,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 369
+  },
+  "axe": {
+    "passes": 136,
+    "violations": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://yoodrop.com/",
+  "requestedUrl": "https://yoodrop.com/",
+  "timestamp": 1730480664852,
+  "ranks": {
+    "hundos": 682,
+    "performance": 523,
+    "accessibility": 915,
+    "cumulative": 686
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.88,
+    "accessibility": 0.82,
+    "bestPractices": 1,
+    "seo": 0.88,
+    "total": 358
+  },
+  "firstContentfulPaint": 1346.685,
+  "firstMeaningfulPaint": 1346.685,
+  "speedIndex": 2989.09661481255,
+  "largestContentfulPaint": 3775.3828399999998,
+  "totalBlockingTime": 0.5,
+  "cumulativeLayoutShift": 0.0016768262485682805,
+  "timeToInteractive": 2198.70133,
+  "maxPotentialFirstInputDelay": 51,
+  "timeToFirstByte": 99.48500000000001,
+  "weight": {
+    "summary": "15 requests • 2.6 MiB",
+    "total": 2725341,
+    "image": 2646367,
+    "imageCount": 5,
+    "script": 42877,
+    "scriptCount": 5,
+    "document": 8716,
+    "font": 15333,
+    "fontCount": 1,
+    "stylesheet": 11894,
+    "stylesheetCount": 2,
+    "thirdParty": 16452,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 900,
+    "+weight.total": 162,
+    "-weight.document": 428,
+    "+weight.document": 608,
+    "-weight.script": 352,
+    "+weight.script": 640,
+    "-weight.image": 858,
+    "+weight.image": 88,
+    "-weight.font": 26,
+    "+weight.font": 752,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 720,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 799
+  },
+  "axe": {
+    "passes": 415,
+    "violations": 4
+  }
+}

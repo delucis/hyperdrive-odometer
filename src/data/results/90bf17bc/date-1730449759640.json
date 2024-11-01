@@ -1,0 +1,67 @@
+{
+  "url": "https://mathias.ninja/",
+  "requestedUrl": "https://mathias.ninja/",
+  "timestamp": 1730472417756,
+  "ranks": {
+    "hundos": 321,
+    "performance": 398,
+    "accessibility": 611,
+    "cumulative": 318
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.94,
+    "accessibility": 0.93,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 387
+  },
+  "firstContentfulPaint": 1587.6839999999997,
+  "firstMeaningfulPaint": 1587.6839999999997,
+  "speedIndex": 1587.6839999999997,
+  "largestContentfulPaint": 1587.6839999999997,
+  "totalBlockingTime": 265,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4305.858499999999,
+  "maxPotentialFirstInputDelay": 196,
+  "timeToFirstByte": 79.60700000000003,
+  "weight": {
+    "summary": "28 requests • 160.7 KiB",
+    "total": 164537,
+    "image": 21247,
+    "imageCount": 4,
+    "script": 134343,
+    "scriptCount": 20,
+    "document": 5248,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 2860,
+    "stylesheetCount": 2,
+    "thirdParty": 41738,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 213,
+    "+weight.total": 849,
+    "-weight.document": 187,
+    "+weight.document": 849,
+    "-weight.script": 577,
+    "+weight.script": 415,
+    "-weight.image": 142,
+    "+weight.image": 804,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 655,
+    "-totalBlockingTime": 311,
+    "-largestContentfulPaint": 552
+  },
+  "axe": {
+    "passes": 410,
+    "violations": 3
+  }
+}

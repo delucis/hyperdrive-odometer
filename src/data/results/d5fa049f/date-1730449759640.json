@@ -1,0 +1,67 @@
+{
+  "url": "https://www.hungrimind.com/learn/flutter",
+  "requestedUrl": "https://hungrimind.com/",
+  "timestamp": 1730470871371,
+  "ranks": {
+    "hundos": 948,
+    "performance": 885,
+    "accessibility": 1041,
+    "cumulative": 949
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 0.68,
+    "bestPractices": 0.96,
+    "seo": 0.93,
+    "total": 317
+  },
+  "firstContentfulPaint": 2455.335,
+  "firstMeaningfulPaint": 2526.574,
+  "speedIndex": 2455.335,
+  "largestContentfulPaint": 5354.868999999999,
+  "totalBlockingTime": 676.4780000000001,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8915.201499999997,
+  "maxPotentialFirstInputDelay": 718,
+  "timeToFirstByte": 1.924,
+  "weight": {
+    "summary": "53 requests • 1.8 MiB",
+    "total": 1938480,
+    "image": 1693384,
+    "imageCount": 16,
+    "script": 189247,
+    "scriptCount": 27,
+    "document": 19175,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 35145,
+    "stylesheetCount": 5,
+    "thirdParty": 185192,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 834,
+    "+weight.total": 228,
+    "-weight.document": 750,
+    "+weight.document": 286,
+    "-weight.script": 652,
+    "+weight.script": 340,
+    "-weight.image": 813,
+    "+weight.image": 133,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 16,
+    "-totalBlockingTime": 489,
+    "-largestContentfulPaint": 891
+  },
+  "axe": {
+    "passes": 915,
+    "violations": 52
+  }
+}

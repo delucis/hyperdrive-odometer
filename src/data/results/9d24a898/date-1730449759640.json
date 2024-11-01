@@ -1,0 +1,67 @@
+{
+  "url": "https://waqarilyas.dev/",
+  "requestedUrl": "https://waqarilyas.dev/",
+  "timestamp": 1730493148273,
+  "ranks": {
+    "hundos": 156,
+    "performance": 164,
+    "accessibility": 359,
+    "cumulative": 161
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 396
+  },
+  "firstContentfulPaint": 1168.1745,
+  "firstMeaningfulPaint": 1168.1745,
+  "speedIndex": 2537.794565000704,
+  "largestContentfulPaint": 1435.1745,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1168.1745,
+  "maxPotentialFirstInputDelay": 42,
+  "timeToFirstByte": 197.93300000000002,
+  "weight": {
+    "summary": "14 requests • 85.6 KiB",
+    "total": 87704,
+    "image": 1032,
+    "imageCount": 1,
+    "script": 2448,
+    "scriptCount": 6,
+    "document": 7192,
+    "font": 46826,
+    "fontCount": 2,
+    "stylesheet": 7536,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 117,
+    "+weight.total": 945,
+    "-weight.document": 340,
+    "+weight.document": 696,
+    "-weight.script": 52,
+    "+weight.script": 940,
+    "-weight.image": 19,
+    "+weight.image": 927,
+    "-weight.font": 225,
+    "+weight.font": 553,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 861,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 120
+  },
+  "axe": {
+    "passes": 492,
+    "violations": 42
+  }
+}

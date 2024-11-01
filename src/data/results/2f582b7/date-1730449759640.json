@@ -1,0 +1,66 @@
+{
+  "url": "https://everydaydigital.co.za/",
+  "requestedUrl": "https://everydaydigital.co.za/",
+  "timestamp": 1730485157584,
+  "ranks": {
+    "hundos": 995,
+    "performance": 1011,
+    "accessibility": 1050,
+    "cumulative": 1000
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.4,
+    "accessibility": 0.65,
+    "bestPractices": 1,
+    "seo": 0.96,
+    "total": 301
+  },
+  "firstContentfulPaint": 2626.624,
+  "firstMeaningfulPaint": 2755.124,
+  "speedIndex": 6409.045208673708,
+  "largestContentfulPaint": 14699.074,
+  "totalBlockingTime": 1383.500000000001,
+  "cumulativeLayoutShift": 0.0017039750239973871,
+  "timeToInteractive": 9030.299,
+  "maxPotentialFirstInputDelay": 257,
+  "timeToFirstByte": 201.08499999999998,
+  "weight": {
+    "summary": "39 requests • 2.5 MiB",
+    "total": 2658224,
+    "image": 416554,
+    "imageCount": 6,
+    "script": 141336,
+    "scriptCount": 4,
+    "document": 8633,
+    "font": 2027356,
+    "fontCount": 10,
+    "stylesheet": 63798,
+    "stylesheetCount": 17,
+    "thirdParty": 98535,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 894,
+    "+weight.total": 168,
+    "-weight.document": 422,
+    "+weight.document": 614,
+    "-weight.script": 585,
+    "+weight.script": 407,
+    "-weight.image": 565,
+    "+weight.image": 381,
+    "-weight.font": 770,
+    "+weight.font": 8,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 865,
+    "-totalBlockingTime": 583,
+    "-largestContentfulPaint": 1016
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

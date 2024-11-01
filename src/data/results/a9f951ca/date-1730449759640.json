@@ -1,0 +1,67 @@
+{
+  "url": "https://sarojshahi.com/",
+  "requestedUrl": "https://sarojshahi.com/",
+  "timestamp": 1730459278795,
+  "ranks": {
+    "hundos": 733,
+    "performance": 581,
+    "accessibility": 1011,
+    "cumulative": 736
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.84,
+    "accessibility": 0.75,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 352
+  },
+  "firstContentfulPaint": 1966.7510000000002,
+  "firstMeaningfulPaint": 1966.7510000000002,
+  "speedIndex": 1966.7510000000002,
+  "largestContentfulPaint": 1966.7510000000002,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.2700275500428317,
+  "timeToInteractive": 1966.7510000000002,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 4.146000000000001,
+  "weight": {
+    "summary": "31 requests • 9.9 MiB",
+    "total": 10388981,
+    "image": 10259209,
+    "imageCount": 20,
+    "script": 85851,
+    "scriptCount": 5,
+    "document": 9359,
+    "font": 24818,
+    "fontCount": 1,
+    "stylesheet": 4692,
+    "stylesheetCount": 2,
+    "thirdParty": 7881690,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1017,
+    "+weight.total": 45,
+    "-weight.document": 460,
+    "+weight.document": 576,
+    "-weight.script": 469,
+    "+weight.script": 523,
+    "-weight.image": 929,
+    "+weight.image": 17,
+    "-weight.font": 74,
+    "+weight.font": 704,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 287,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 239
+  },
+  "axe": {
+    "passes": 514,
+    "violations": 23
+  }
+}
