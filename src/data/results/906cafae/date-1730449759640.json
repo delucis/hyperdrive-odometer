@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cloud-camping.com/",
+  "requestedUrl": "https://www.cloud-camping.com/",
+  "timestamp": 1730478222487,
+  "ranks": {
+    "hundos": 168,
+    "performance": 122,
+    "accessibility": 524,
+    "cumulative": 179
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 395
+  },
+  "firstContentfulPaint": 1335.9765,
+  "firstMeaningfulPaint": 1335.9765,
+  "speedIndex": 1335.9765,
+  "largestContentfulPaint": 1335.9765,
+  "totalBlockingTime": 55.5,
+  "cumulativeLayoutShift": 0.0027639893726194957,
+  "timeToInteractive": 1441.4765,
+  "maxPotentialFirstInputDelay": 109,
+  "timeToFirstByte": 2.4580000000000126,
+  "weight": {
+    "summary": "14 requests • 199.6 KiB",
+    "total": 204426,
+    "image": 130637,
+    "imageCount": 8,
+    "script": 4457,
+    "scriptCount": 2,
+    "document": 22578,
+    "font": 38136,
+    "fontCount": 1,
+    "stylesheet": 8416,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 267,
+    "+weight.total": 795,
+    "-weight.document": 790,
+    "+weight.document": 246,
+    "-weight.script": 82,
+    "+weight.script": 910,
+    "-weight.image": 345,
+    "+weight.image": 601,
+    "-weight.font": 169,
+    "+weight.font": 609,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 144,
+    "-totalBlockingTime": 101,
+    "-largestContentfulPaint": 108
+  },
+  "axe": {
+    "passes": 642,
+    "violations": 55
+  }
+}

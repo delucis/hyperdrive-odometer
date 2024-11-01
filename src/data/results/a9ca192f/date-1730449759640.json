@@ -1,0 +1,67 @@
+{
+  "url": "https://kuizto.co/",
+  "requestedUrl": "https://kuizto.co/",
+  "timestamp": 1730471918194,
+  "ranks": {
+    "hundos": 806,
+    "performance": 948,
+    "accessibility": 622,
+    "cumulative": 803
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.51,
+    "accessibility": 0.93,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 344
+  },
+  "firstContentfulPaint": 1950.3540000000003,
+  "firstMeaningfulPaint": 7817.853999999999,
+  "speedIndex": 5624.6969623928535,
+  "largestContentfulPaint": 9069.854,
+  "totalBlockingTime": 717.5,
+  "cumulativeLayoutShift": 0.0004032553295757506,
+  "timeToInteractive": 9232.854,
+  "maxPotentialFirstInputDelay": 637,
+  "timeToFirstByte": 185.72199999999998,
+  "weight": {
+    "summary": "60 requests • 2.4 MiB",
+    "total": 2516662,
+    "image": 1229521,
+    "imageCount": 22,
+    "script": 77852,
+    "scriptCount": 10,
+    "document": 47034,
+    "font": 1146477,
+    "fontCount": 7,
+    "stylesheet": 12299,
+    "stylesheetCount": 1,
+    "thirdParty": 3479,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 885,
+    "+weight.total": 177,
+    "-weight.document": 922,
+    "+weight.document": 114,
+    "-weight.script": 448,
+    "+weight.script": 544,
+    "-weight.image": 764,
+    "+weight.image": 182,
+    "-weight.font": 767,
+    "+weight.font": 11,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 850,
+    "-totalBlockingTime": 497,
+    "-largestContentfulPaint": 974
+  },
+  "axe": {
+    "passes": 981,
+    "violations": 7
+  }
+}

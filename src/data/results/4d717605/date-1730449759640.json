@@ -1,0 +1,67 @@
+{
+  "url": "https://globalinspira.co.in/",
+  "requestedUrl": "https://globalinspira.co.in/",
+  "timestamp": 1730470186498,
+  "ranks": {
+    "hundos": 1056,
+    "performance": 1009,
+    "accessibility": 1042,
+    "cumulative": 1056
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.4,
+    "accessibility": 0.68,
+    "bestPractices": 0.7,
+    "seo": 0.79,
+    "total": 257
+  },
+  "firstContentfulPaint": 3374.2565000000004,
+  "firstMeaningfulPaint": 3374.2565000000004,
+  "speedIndex": 6290.321557945789,
+  "largestContentfulPaint": 12268.147499999997,
+  "totalBlockingTime": 970.4999999999982,
+  "cumulativeLayoutShift": 0.08705157595073579,
+  "timeToInteractive": 9090.073999999997,
+  "maxPotentialFirstInputDelay": 460,
+  "timeToFirstByte": 230.61799999999994,
+  "weight": {
+    "summary": "101 requests • 5.9 MiB",
+    "total": 6163368,
+    "image": 5507751,
+    "imageCount": 58,
+    "script": 486024,
+    "scriptCount": 14,
+    "document": 11709,
+    "font": 107465,
+    "fontCount": 8,
+    "stylesheet": 43051,
+    "stylesheetCount": 6,
+    "thirdParty": 628425,
+    "thirdPartyCount": 13
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 984,
+    "+weight.total": 78,
+    "-weight.document": 561,
+    "+weight.document": 475,
+    "-weight.script": 857,
+    "+weight.script": 135,
+    "-weight.image": 907,
+    "+weight.image": 39,
+    "-weight.font": 498,
+    "+weight.font": 280,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 892,
+    "-totalBlockingTime": 540,
+    "-largestContentfulPaint": 1002
+  },
+  "axe": {
+    "passes": 910,
+    "violations": 55
+  }
+}

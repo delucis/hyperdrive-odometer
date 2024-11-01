@@ -1,0 +1,67 @@
+{
+  "url": "https://www.loco4ever.com/",
+  "requestedUrl": "https://loco4ever.com/",
+  "timestamp": 1730487961165,
+  "ranks": {
+    "hundos": 795,
+    "performance": 811,
+    "accessibility": 965,
+    "cumulative": 797
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.68,
+    "accessibility": 0.8,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 345
+  },
+  "firstContentfulPaint": 2589.8979999999992,
+  "firstMeaningfulPaint": 2725.3979999999992,
+  "speedIndex": 5440.6552385995965,
+  "largestContentfulPaint": 4699.097,
+  "totalBlockingTime": 320.5,
+  "cumulativeLayoutShift": 0.019002074693391248,
+  "timeToInteractive": 6702.038499999999,
+  "maxPotentialFirstInputDelay": 271,
+  "timeToFirstByte": 3.1239999999999952,
+  "weight": {
+    "summary": "56 requests • 3.2 MiB",
+    "total": 3365695,
+    "image": 2641251,
+    "imageCount": 20,
+    "script": 345930,
+    "scriptCount": 10,
+    "document": 9980,
+    "font": 192180,
+    "fontCount": 4,
+    "stylesheet": 33771,
+    "stylesheetCount": 10,
+    "thirdParty": 2930151,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 932,
+    "+weight.total": 130,
+    "-weight.document": 491,
+    "+weight.document": 545,
+    "-weight.script": 788,
+    "+weight.script": 204,
+    "-weight.image": 857,
+    "+weight.image": 89,
+    "-weight.font": 622,
+    "+weight.font": 156,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 257,
+    "-totalBlockingTime": 337,
+    "-largestContentfulPaint": 858
+  },
+  "axe": {
+    "passes": 619,
+    "violations": 58
+  }
+}

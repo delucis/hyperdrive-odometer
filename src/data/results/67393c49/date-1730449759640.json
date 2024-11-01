@@ -1,0 +1,67 @@
+{
+  "url": "https://astro-portfolio-aq4.pages.dev/",
+  "requestedUrl": "https://astro-portfolio-aq4.pages.dev/",
+  "timestamp": 1730466349583,
+  "ranks": {
+    "hundos": 175,
+    "performance": 167,
+    "accessibility": 240,
+    "cumulative": 170
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 395
+  },
+  "firstContentfulPaint": 938.2165,
+  "firstMeaningfulPaint": 938.2165,
+  "speedIndex": 938.2165,
+  "largestContentfulPaint": 1954.0815,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.018455901614590164,
+  "timeToInteractive": 938.2165,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 93.87,
+  "weight": {
+    "summary": "7 requests • 42.9 KiB",
+    "total": 43977,
+    "image": 18940,
+    "imageCount": 1,
+    "script": 6617,
+    "scriptCount": 2,
+    "document": 12440,
+    "font": 1269,
+    "fontCount": 2,
+    "stylesheet": 4711,
+    "stylesheetCount": 1,
+    "thirdParty": 18940,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 46,
+    "+weight.total": 1016,
+    "-weight.document": 586,
+    "+weight.document": 450,
+    "-weight.script": 116,
+    "+weight.script": 876,
+    "-weight.image": 132,
+    "+weight.image": 814,
+    "-weight.font": 1,
+    "+weight.font": 777,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 704,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 236
+  },
+  "axe": {
+    "passes": 120,
+    "violations": 2
+  }
+}

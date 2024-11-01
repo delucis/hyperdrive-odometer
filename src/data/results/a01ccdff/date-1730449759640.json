@@ -1,0 +1,67 @@
+{
+  "url": "https://eliotbas.com/",
+  "requestedUrl": "https://eliotbas.com/",
+  "timestamp": 1730484888091,
+  "ranks": {
+    "hundos": 693,
+    "performance": 846,
+    "accessibility": 648,
+    "cumulative": 691
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.65,
+    "accessibility": 0.92,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 357
+  },
+  "firstContentfulPaint": 1796.79,
+  "firstMeaningfulPaint": 1796.79,
+  "speedIndex": 5051.383930997884,
+  "largestContentfulPaint": 1796.79,
+  "totalBlockingTime": 4046.892500000001,
+  "cumulativeLayoutShift": 0.032937433527628304,
+  "timeToInteractive": 11072.0385,
+  "maxPotentialFirstInputDelay": 451,
+  "timeToFirstByte": 419.172,
+  "weight": {
+    "summary": "31 requests • 411.7 KiB",
+    "total": 421613,
+    "image": 251559,
+    "imageCount": 20,
+    "script": 121426,
+    "scriptCount": 7,
+    "document": 23012,
+    "font": 20580,
+    "fontCount": 1,
+    "stylesheet": 5036,
+    "stylesheetCount": 2,
+    "thirdParty": 21495,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 431,
+    "+weight.total": 631,
+    "-weight.document": 796,
+    "+weight.document": 240,
+    "-weight.script": 555,
+    "+weight.script": 437,
+    "-weight.image": 462,
+    "+weight.image": 484,
+    "-weight.font": 49,
+    "+weight.font": 729,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 964,
+    "-totalBlockingTime": 662,
+    "-largestContentfulPaint": 585
+  },
+  "axe": {
+    "passes": 552,
+    "violations": 1
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.porijazz.fi/",
+  "requestedUrl": "https://www.porijazz.fi/",
+  "timestamp": 1730463827367,
+  "ranks": {
+    "hundos": 697,
+    "performance": 785,
+    "accessibility": 499,
+    "cumulative": 698
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.7,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 357
+  },
+  "firstContentfulPaint": 2270.156,
+  "firstMeaningfulPaint": 2324.156,
+  "speedIndex": 4088.4561640051334,
+  "largestContentfulPaint": 5544.913999999999,
+  "totalBlockingTime": 255.5,
+  "cumulativeLayoutShift": 0.005496991183401472,
+  "timeToInteractive": 5542.975999999999,
+  "maxPotentialFirstInputDelay": 183,
+  "timeToFirstByte": 109.41199999999998,
+  "weight": {
+    "summary": "26 requests • 1.5 MiB",
+    "total": 1575565,
+    "image": 1272166,
+    "imageCount": 12,
+    "script": 234405,
+    "scriptCount": 7,
+    "document": 6586,
+    "font": 57681,
+    "fontCount": 2,
+    "stylesheet": 4727,
+    "stylesheetCount": 3,
+    "thirdParty": 284712,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 792,
+    "+weight.total": 270,
+    "-weight.document": 281,
+    "+weight.document": 755,
+    "-weight.script": 697,
+    "+weight.script": 295,
+    "-weight.image": 769,
+    "+weight.image": 177,
+    "-weight.font": 300,
+    "+weight.font": 478,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 750,
+    "-totalBlockingTime": 303,
+    "-largestContentfulPaint": 898
+  },
+  "axe": {
+    "passes": 491,
+    "violations": 10
+  }
+}

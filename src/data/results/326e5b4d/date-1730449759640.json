@@ -1,0 +1,67 @@
+{
+  "url": "https://sarthikg.com/",
+  "requestedUrl": "https://sarthikg.com/",
+  "timestamp": 1730459287526,
+  "ranks": {
+    "hundos": 613,
+    "performance": 486,
+    "accessibility": 253,
+    "cumulative": 611
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.9,
+    "accessibility": 1,
+    "bestPractices": 0.81,
+    "seo": 0.93,
+    "total": 364
+  },
+  "firstContentfulPaint": 851.477,
+  "firstMeaningfulPaint": 851.477,
+  "speedIndex": 1767.1722173035214,
+  "largestContentfulPaint": 3529.477,
+  "totalBlockingTime": 106,
+  "cumulativeLayoutShift": 0.001205377812408698,
+  "timeToInteractive": 2896.477,
+  "maxPotentialFirstInputDelay": 230,
+  "timeToFirstByte": 63.003,
+  "weight": {
+    "summary": "18 requests • 421.8 KiB",
+    "total": 431941,
+    "image": 318791,
+    "imageCount": 1,
+    "script": 25223,
+    "scriptCount": 5,
+    "document": 3148,
+    "font": 73318,
+    "fontCount": 3,
+    "stylesheet": 4979,
+    "stylesheetCount": 1,
+    "thirdParty": 7119,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 440,
+    "+weight.total": 622,
+    "-weight.document": 62,
+    "+weight.document": 974,
+    "-weight.script": 275,
+    "+weight.script": 717,
+    "-weight.image": 521,
+    "+weight.image": 425,
+    "-weight.font": 381,
+    "+weight.font": 397,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 584,
+    "-totalBlockingTime": 172,
+    "-largestContentfulPaint": 403
+  },
+  "axe": {
+    "passes": 55,
+    "violations": 2
+  }
+}

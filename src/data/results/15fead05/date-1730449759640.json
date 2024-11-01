@@ -1,0 +1,67 @@
+{
+  "url": "https://www.diegolara.dev/",
+  "requestedUrl": "https://www.diegolara.dev/",
+  "timestamp": 1730478499194,
+  "ranks": {
+    "hundos": 333,
+    "performance": 512,
+    "accessibility": 165,
+    "cumulative": 336
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.88,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 386
+  },
+  "firstContentfulPaint": 1204.638,
+  "firstMeaningfulPaint": 1204.638,
+  "speedIndex": 1627.6781146713847,
+  "largestContentfulPaint": 3656.2804999999994,
+  "totalBlockingTime": 127,
+  "cumulativeLayoutShift": 0.0023108457213583673,
+  "timeToInteractive": 2993.7584999999995,
+  "maxPotentialFirstInputDelay": 177,
+  "timeToFirstByte": 62.08399999999999,
+  "weight": {
+    "summary": "11 requests • 543.7 KiB",
+    "total": 556775,
+    "image": 339849,
+    "imageCount": 3,
+    "script": 110570,
+    "scriptCount": 2,
+    "document": 21482,
+    "font": 79591,
+    "fontCount": 3,
+    "stylesheet": 4738,
+    "stylesheetCount": 1,
+    "thirdParty": 110032,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 524,
+    "+weight.total": 538,
+    "-weight.document": 773,
+    "+weight.document": 263,
+    "-weight.script": 530,
+    "+weight.script": 462,
+    "-weight.image": 534,
+    "+weight.image": 412,
+    "-weight.font": 414,
+    "+weight.font": 364,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 581,
+    "-totalBlockingTime": 198,
+    "-largestContentfulPaint": 414
+  },
+  "axe": {
+    "passes": 935,
+    "violations": 1
+  }
+}

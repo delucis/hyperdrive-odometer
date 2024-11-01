@@ -1,0 +1,67 @@
+{
+  "url": "https://blissibizaweddings.com/",
+  "requestedUrl": "https://blissibizaweddings.com/",
+  "timestamp": 1730466868226,
+  "ranks": {
+    "hundos": 436,
+    "performance": 504,
+    "accessibility": 734,
+    "cumulative": 433
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.89,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 0.99,
+    "total": 378
+  },
+  "firstContentfulPaint": 1639.6085,
+  "firstMeaningfulPaint": 1639.6085,
+  "speedIndex": 2133.8981491628665,
+  "largestContentfulPaint": 2877.5064999999995,
+  "totalBlockingTime": 262.5,
+  "cumulativeLayoutShift": 0.0029764973316734533,
+  "timeToInteractive": 2755.5405,
+  "maxPotentialFirstInputDelay": 169.00000000000023,
+  "timeToFirstByte": 395.564,
+  "weight": {
+    "summary": "72 requests • 2.3 MiB",
+    "total": 2366710,
+    "image": 308636,
+    "imageCount": 44,
+    "script": 66924,
+    "scriptCount": 16,
+    "document": 85641,
+    "font": 56202,
+    "fontCount": 2,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 1849307,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 874,
+    "+weight.total": 188,
+    "-weight.document": 977,
+    "+weight.document": 59,
+    "-weight.script": 423,
+    "+weight.script": 569,
+    "-weight.image": 515,
+    "+weight.image": 431,
+    "-weight.font": 290,
+    "+weight.font": 488,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 956,
+    "-totalBlockingTime": 310,
+    "-largestContentfulPaint": 717
+  },
+  "axe": {
+    "passes": 1322,
+    "violations": 4
+  }
+}

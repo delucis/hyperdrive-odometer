@@ -1,0 +1,67 @@
+{
+  "url": "https://msys.agency/",
+  "requestedUrl": "https://msys.agency/",
+  "timestamp": 1730457025819,
+  "ranks": {
+    "hundos": 370,
+    "performance": 434,
+    "accessibility": 714,
+    "cumulative": 369
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.93,
+    "accessibility": 0.91,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 384
+  },
+  "firstContentfulPaint": 1065.2265,
+  "firstMeaningfulPaint": 1065.2265,
+  "speedIndex": 2333.9107930001,
+  "largestContentfulPaint": 1365.2265,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.15898279005042323,
+  "timeToInteractive": 1065.2265,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 2.727000000000004,
+  "weight": {
+    "summary": "8 requests • 105.2 KiB",
+    "total": 107748,
+    "image": 2394,
+    "imageCount": 1,
+    "script": 1467,
+    "scriptCount": 1,
+    "document": 2934,
+    "font": 100808,
+    "fontCount": 4,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 142,
+    "+weight.total": 920,
+    "-weight.document": 50,
+    "+weight.document": 986,
+    "-weight.script": 29,
+    "+weight.script": 963,
+    "-weight.image": 41,
+    "+weight.image": 905,
+    "-weight.font": 483,
+    "+weight.font": 295,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 208,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 113
+  },
+  "axe": {
+    "passes": 66,
+    "violations": 10
+  }
+}

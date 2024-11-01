@@ -1,0 +1,67 @@
+{
+  "url": "https://fedevitale.dev/",
+  "requestedUrl": "https://fedevitale.dev/",
+  "timestamp": 1730469446562,
+  "ranks": {
+    "hundos": 118,
+    "performance": 271,
+    "accessibility": 210,
+    "cumulative": 118
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 398
+  },
+  "firstContentfulPaint": 1008.7505,
+  "firstMeaningfulPaint": 1008.7505,
+  "speedIndex": 1297.0607629014535,
+  "largestContentfulPaint": 1576.8265000000001,
+  "totalBlockingTime": 111,
+  "cumulativeLayoutShift": 0.05865788679267839,
+  "timeToInteractive": 4360.072,
+  "maxPotentialFirstInputDelay": 154,
+  "timeToFirstByte": 117.06000000000002,
+  "weight": {
+    "summary": "12 requests • 174.0 KiB",
+    "total": 178146,
+    "image": 13941,
+    "imageCount": 1,
+    "script": 111628,
+    "scriptCount": 5,
+    "document": 3587,
+    "font": 37915,
+    "fontCount": 1,
+    "stylesheet": 6803,
+    "stylesheetCount": 1,
+    "thirdParty": 112059,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 233,
+    "+weight.total": 829,
+    "-weight.document": 82,
+    "+weight.document": 954,
+    "-weight.script": 534,
+    "+weight.script": 458,
+    "-weight.image": 109,
+    "+weight.image": 837,
+    "-weight.font": 164,
+    "+weight.font": 614,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 774,
+    "-totalBlockingTime": 179,
+    "-largestContentfulPaint": 148
+  },
+  "axe": {
+    "passes": 136,
+    "violations": 1
+  }
+}

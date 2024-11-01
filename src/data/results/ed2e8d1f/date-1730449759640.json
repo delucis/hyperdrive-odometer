@@ -1,0 +1,67 @@
+{
+  "url": "https://weingarten-maikammer.de/",
+  "requestedUrl": "https://weingarten-maikammer.de/",
+  "timestamp": 1730477611424,
+  "ranks": {
+    "hundos": 380,
+    "performance": 541,
+    "accessibility": 318,
+    "cumulative": 380
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.87,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 383
+  },
+  "firstContentfulPaint": 1759.4495000000002,
+  "firstMeaningfulPaint": 2905.0065000000004,
+  "speedIndex": 2811.3418099991522,
+  "largestContentfulPaint": 2823.342,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.16886930863050062,
+  "timeToInteractive": 2905.0065000000004,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 199.598,
+  "weight": {
+    "summary": "11 requests • 470.9 KiB",
+    "total": 482242,
+    "image": 271907,
+    "imageCount": 5,
+    "script": 4957,
+    "scriptCount": 1,
+    "document": 5600,
+    "font": 160109,
+    "fontCount": 1,
+    "stylesheet": 39669,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 471,
+    "+weight.total": 591,
+    "-weight.document": 221,
+    "+weight.document": 815,
+    "-weight.script": 91,
+    "+weight.script": 901,
+    "-weight.image": 483,
+    "+weight.image": 463,
+    "-weight.font": 593,
+    "+weight.font": 185,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 864,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 349
+  },
+  "axe": {
+    "passes": 67,
+    "violations": 6
+  }
+}

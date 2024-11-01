@@ -1,0 +1,67 @@
+{
+  "url": "https://nomorenoisegame.com/",
+  "requestedUrl": "https://nomorenoisegame.com/",
+  "timestamp": 1730457338182,
+  "ranks": {
+    "hundos": 827,
+    "performance": 842,
+    "accessibility": 233,
+    "cumulative": 825
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.66,
+    "accessibility": 1,
+    "bestPractices": 0.74,
+    "seo": 1,
+    "total": 340
+  },
+  "firstContentfulPaint": 1318.703,
+  "firstMeaningfulPaint": 1318.703,
+  "speedIndex": 6423.583974565738,
+  "largestContentfulPaint": 1318.703,
+  "totalBlockingTime": 2099.763,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 10672.364999999998,
+  "maxPotentialFirstInputDelay": 507,
+  "timeToFirstByte": 104.85499999999996,
+  "weight": {
+    "summary": "46 requests • 1.2 MiB",
+    "total": 1301231,
+    "image": 291913,
+    "imageCount": 19,
+    "script": 788142,
+    "scriptCount": 7,
+    "document": 47370,
+    "font": 69075,
+    "fontCount": 3,
+    "stylesheet": 59537,
+    "stylesheetCount": 3,
+    "thirdParty": 978074,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 736,
+    "+weight.total": 326,
+    "-weight.document": 923,
+    "+weight.document": 113,
+    "-weight.script": 919,
+    "+weight.script": 73,
+    "-weight.image": 498,
+    "+weight.image": 448,
+    "-weight.font": 365,
+    "+weight.font": 413,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 731,
+    "-totalBlockingTime": 625,
+    "-largestContentfulPaint": 523
+  },
+  "axe": {
+    "passes": 292,
+    "violations": 2
+  }
+}

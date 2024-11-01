@@ -1,0 +1,67 @@
+{
+  "url": "https://adepranaya.com/",
+  "requestedUrl": "https://adepranaya.com/",
+  "timestamp": 1730449855273,
+  "ranks": {
+    "hundos": 190,
+    "performance": 401,
+    "accessibility": 271,
+    "cumulative": 195
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.94,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 394
+  },
+  "firstContentfulPaint": 1738.751,
+  "firstMeaningfulPaint": 1738.751,
+  "speedIndex": 1762.53809400046,
+  "largestContentfulPaint": 2938.751,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.005749141891034669,
+  "timeToInteractive": 1738.751,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 135.16600000000003,
+  "weight": {
+    "summary": "20 requests • 335.6 KiB",
+    "total": 343686,
+    "image": 39405,
+    "imageCount": 1,
+    "script": 22581,
+    "scriptCount": 4,
+    "document": 5382,
+    "font": 141609,
+    "fontCount": 2,
+    "stylesheet": 25093,
+    "stylesheetCount": 4,
+    "thirdParty": 271718,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 386,
+    "+weight.total": 676,
+    "-weight.document": 197,
+    "+weight.document": 839,
+    "-weight.script": 246,
+    "+weight.script": 746,
+    "-weight.image": 199,
+    "+weight.image": 747,
+    "-weight.font": 571,
+    "+weight.font": 207,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 806,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 362
+  },
+  "axe": {
+    "passes": 429,
+    "violations": 3
+  }
+}

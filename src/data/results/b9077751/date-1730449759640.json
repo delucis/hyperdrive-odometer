@@ -1,0 +1,67 @@
+{
+  "url": "https://ra.akum.site/",
+  "requestedUrl": "https://ra.akum.site/",
+  "timestamp": 1730490177963,
+  "ranks": {
+    "hundos": 729,
+    "performance": 705,
+    "accessibility": 844,
+    "cumulative": 729
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.75,
+    "accessibility": 0.86,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 353
+  },
+  "firstContentfulPaint": 1712.6709999999998,
+  "firstMeaningfulPaint": 1712.6709999999998,
+  "speedIndex": 1712.6709999999998,
+  "largestContentfulPaint": 7867.573,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1712.6709999999998,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 17.692000000000007,
+  "weight": {
+    "summary": "17 requests • 10.7 MiB",
+    "total": 11173881,
+    "image": 11138425,
+    "imageCount": 10,
+    "script": 23047,
+    "scriptCount": 3,
+    "document": 5767,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 6642,
+    "stylesheetCount": 3,
+    "thirdParty": 26319,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1020,
+    "+weight.total": 42,
+    "-weight.document": 237,
+    "+weight.document": 799,
+    "-weight.script": 256,
+    "+weight.script": 736,
+    "-weight.image": 933,
+    "+weight.image": 13,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 391,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 465
+  },
+  "axe": {
+    "passes": 350,
+    "violations": 6
+  }
+}

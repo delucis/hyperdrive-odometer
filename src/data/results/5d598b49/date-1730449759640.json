@@ -1,0 +1,67 @@
+{
+  "url": "https://education.hypetech.io/",
+  "requestedUrl": "https://education.hypetech.io/",
+  "timestamp": 1730468923519,
+  "ranks": {
+    "hundos": 313,
+    "performance": 282,
+    "accessibility": 605,
+    "cumulative": 315
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 0.93,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 387
+  },
+  "firstContentfulPaint": 1071.0815000000002,
+  "firstMeaningfulPaint": 1071.0815000000002,
+  "speedIndex": 1749.9112753528707,
+  "largestContentfulPaint": 2017.3115000000003,
+  "totalBlockingTime": 29.5,
+  "cumulativeLayoutShift": 0.07032944609191441,
+  "timeToInteractive": 2902.164,
+  "maxPotentialFirstInputDelay": 105,
+  "timeToFirstByte": 29.033999999999992,
+  "weight": {
+    "summary": "16 requests • 279.5 KiB",
+    "total": 286211,
+    "image": 96286,
+    "imageCount": 8,
+    "script": 172426,
+    "scriptCount": 5,
+    "document": 4126,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 13373,
+    "stylesheetCount": 2,
+    "thirdParty": 162520,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 335,
+    "+weight.total": 727,
+    "-weight.document": 116,
+    "+weight.document": 920,
+    "-weight.script": 635,
+    "+weight.script": 357,
+    "-weight.image": 303,
+    "+weight.image": 643,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 445,
+    "-totalBlockingTime": 54,
+    "-largestContentfulPaint": 255
+  },
+  "axe": {
+    "passes": 259,
+    "violations": 2
+  }
+}

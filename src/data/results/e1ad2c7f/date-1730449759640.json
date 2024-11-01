@@ -1,0 +1,67 @@
+{
+  "url": "https://blog.sehnsucht.top/",
+  "requestedUrl": "https://blog.sehnsucht.top/",
+  "timestamp": 1730451295643,
+  "ranks": {
+    "hundos": 307,
+    "performance": 341,
+    "accessibility": 711,
+    "cumulative": 308
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.97,
+    "accessibility": 0.91,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 388
+  },
+  "firstContentfulPaint": 1846.808,
+  "firstMeaningfulPaint": 1846.808,
+  "speedIndex": 3273.8770629726773,
+  "largestContentfulPaint": 2128.928,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0019837414772849843,
+  "timeToInteractive": 1846.808,
+  "maxPotentialFirstInputDelay": 42,
+  "timeToFirstByte": 306.947,
+  "weight": {
+    "summary": "16 requests • 370.2 KiB",
+    "total": 379069,
+    "image": 0,
+    "imageCount": 0,
+    "script": 217305,
+    "scriptCount": 9,
+    "document": 12917,
+    "font": 64022,
+    "fontCount": 1,
+    "stylesheet": 53457,
+    "stylesheetCount": 2,
+    "thirdParty": 8071,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 406,
+    "+weight.total": 656,
+    "-weight.document": 601,
+    "+weight.document": 435,
+    "-weight.script": 681,
+    "+weight.script": 311,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 331,
+    "+weight.font": 447,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 926,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 269
+  },
+  "axe": {
+    "passes": 97,
+    "violations": 9
+  }
+}

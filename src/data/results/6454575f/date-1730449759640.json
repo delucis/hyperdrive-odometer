@@ -1,0 +1,67 @@
+{
+  "url": "https://decisiondeskhq.com/results/2024/Primaries/",
+  "requestedUrl": "https://results.decisiondeskhq.com/",
+  "timestamp": 1730490461376,
+  "ranks": {
+    "hundos": 1042,
+    "performance": 1044,
+    "accessibility": 587,
+    "cumulative": 1042
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.31,
+    "accessibility": 0.94,
+    "bestPractices": 0.52,
+    "seo": 0.99,
+    "total": 277
+  },
+  "firstContentfulPaint": 2619.861896078057,
+  "firstMeaningfulPaint": 3744.076829788378,
+  "speedIndex": 22701.105743393873,
+  "largestContentfulPaint": 12047.2506997719,
+  "totalBlockingTime": 7500.256413197716,
+  "cumulativeLayoutShift": 0.031054084243179146,
+  "timeToInteractive": 40521.88810892811,
+  "maxPotentialFirstInputDelay": 419,
+  "timeToFirstByte": 69.618,
+  "weight": {
+    "summary": "788 requests • 4.7 MiB",
+    "total": 4914337,
+    "image": 1526972,
+    "imageCount": 187,
+    "script": 2540355,
+    "scriptCount": 98,
+    "document": 160597,
+    "font": 252141,
+    "fontCount": 16,
+    "stylesheet": 26975,
+    "stylesheetCount": 5,
+    "thirdParty": 3373478,
+    "thirdPartyCount": 103
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 968,
+    "+weight.total": 94,
+    "-weight.document": 1012,
+    "+weight.document": 24,
+    "-weight.script": 990,
+    "+weight.script": 2,
+    "-weight.image": 799,
+    "+weight.image": 147,
+    "-weight.font": 655,
+    "+weight.font": 123,
+    "+weight.fontCount": 5,
+    "-timeToFirstByte": 608,
+    "-totalBlockingTime": 678,
+    "-largestContentfulPaint": 1001
+  },
+  "axe": {
+    "passes": 1550,
+    "violations": 15
+  }
+}

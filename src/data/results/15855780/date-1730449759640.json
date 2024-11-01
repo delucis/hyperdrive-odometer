@@ -1,0 +1,67 @@
+{
+  "url": "https://www.signcustomiser.com/",
+  "requestedUrl": "https://www.signcustomiser.com/",
+  "timestamp": 1730495767043,
+  "ranks": {
+    "hundos": 931,
+    "performance": 742,
+    "accessibility": 790,
+    "cumulative": 931
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.73,
+    "accessibility": 0.89,
+    "bestPractices": 0.74,
+    "seo": 0.85,
+    "total": 321
+  },
+  "firstContentfulPaint": 1710.6765,
+  "firstMeaningfulPaint": 1710.6765,
+  "speedIndex": 1998.3096145598734,
+  "largestContentfulPaint": 2517.0525,
+  "totalBlockingTime": 1145.5000000000002,
+  "cumulativeLayoutShift": 0.005120545431937702,
+  "timeToInteractive": 12551.787,
+  "maxPotentialFirstInputDelay": 494,
+  "timeToFirstByte": 143.13400000000001,
+  "weight": {
+    "summary": "51 requests • 3.6 MiB",
+    "total": 3800728,
+    "image": 2759234,
+    "imageCount": 17,
+    "script": 900325,
+    "scriptCount": 20,
+    "document": 30238,
+    "font": 77690,
+    "fontCount": 3,
+    "stylesheet": 28018,
+    "stylesheetCount": 2,
+    "thirdParty": 894628,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 941,
+    "+weight.total": 121,
+    "-weight.document": 851,
+    "+weight.document": 185,
+    "-weight.script": 936,
+    "+weight.script": 56,
+    "-weight.image": 862,
+    "+weight.image": 84,
+    "-weight.font": 402,
+    "+weight.font": 376,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 820,
+    "-totalBlockingTime": 563,
+    "-largestContentfulPaint": 677
+  },
+  "axe": {
+    "passes": 869,
+    "violations": 42
+  }
+}

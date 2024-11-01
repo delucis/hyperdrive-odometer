@@ -1,0 +1,67 @@
+{
+  "url": "https://emphasismedia.com/",
+  "requestedUrl": "https://emphasismedia.com/",
+  "timestamp": 1730469088287,
+  "ranks": {
+    "hundos": 335,
+    "performance": 492,
+    "accessibility": 429,
+    "cumulative": 343
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.9,
+    "accessibility": 0.96,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 386
+  },
+  "firstContentfulPaint": 1407.137,
+  "firstMeaningfulPaint": 1407.137,
+  "speedIndex": 2987.7513777391646,
+  "largestContentfulPaint": 3321.617,
+  "totalBlockingTime": 111.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3743.647,
+  "maxPotentialFirstInputDelay": 367,
+  "timeToFirstByte": 2.8149999999999977,
+  "weight": {
+    "summary": "47 requests • 580.8 KiB",
+    "total": 594779,
+    "image": 256318,
+    "imageCount": 37,
+    "script": 101123,
+    "scriptCount": 5,
+    "document": 38244,
+    "font": 183237,
+    "fontCount": 1,
+    "stylesheet": 15857,
+    "stylesheetCount": 3,
+    "thirdParty": 262985,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 547,
+    "+weight.total": 515,
+    "-weight.document": 893,
+    "+weight.document": 143,
+    "-weight.script": 490,
+    "+weight.script": 502,
+    "-weight.image": 466,
+    "+weight.image": 480,
+    "-weight.font": 618,
+    "+weight.font": 160,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 221,
+    "-totalBlockingTime": 180,
+    "-largestContentfulPaint": 388
+  },
+  "axe": {
+    "passes": 1946,
+    "violations": 14
+  }
+}

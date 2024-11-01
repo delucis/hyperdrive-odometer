@@ -1,0 +1,67 @@
+{
+  "url": "https://www.increscotech.com/",
+  "requestedUrl": "https://www.increscotech.com/",
+  "timestamp": 1730478928984,
+  "ranks": {
+    "hundos": 424,
+    "performance": 654,
+    "accessibility": 287,
+    "cumulative": 421
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.8,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 380
+  },
+  "firstContentfulPaint": 3141.881,
+  "firstMeaningfulPaint": 3141.881,
+  "speedIndex": 3553.578090020923,
+  "largestContentfulPaint": 3141.8810000000003,
+  "totalBlockingTime": 311.5954999999997,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4055.2995,
+  "maxPotentialFirstInputDelay": 1304.0000000000005,
+  "timeToFirstByte": 2.5989999999999895,
+  "weight": {
+    "summary": "810 requests • 316.1 KiB",
+    "total": 323728,
+    "image": 27884,
+    "imageCount": 13,
+    "script": 92726,
+    "scriptCount": 17,
+    "document": 65761,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 708,
+    "stylesheetCount": 1,
+    "thirdParty": 150411,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 359,
+    "+weight.total": 703,
+    "-weight.document": 959,
+    "+weight.document": 77,
+    "-weight.script": 478,
+    "+weight.script": 514,
+    "-weight.image": 162,
+    "+weight.image": 784,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 184,
+    "-totalBlockingTime": 335,
+    "-largestContentfulPaint": 743
+  },
+  "axe": {
+    "passes": 1056,
+    "violations": 4
+  }
+}

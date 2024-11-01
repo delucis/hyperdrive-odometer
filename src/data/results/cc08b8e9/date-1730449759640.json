@@ -1,0 +1,67 @@
+{
+  "url": "https://www.kelp.agency/",
+  "requestedUrl": "https://www.kelp.agency/",
+  "timestamp": 1730487465763,
+  "ranks": {
+    "hundos": 344,
+    "performance": 565,
+    "accessibility": 168,
+    "cumulative": 339
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.86,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 386
+  },
+  "firstContentfulPaint": 1308.6830000000002,
+  "firstMeaningfulPaint": 1308.6830000000002,
+  "speedIndex": 4287.910034867668,
+  "largestContentfulPaint": 1825.3755000000003,
+  "totalBlockingTime": 442.40635906219404,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5886.136640937805,
+  "maxPotentialFirstInputDelay": 261,
+  "timeToFirstByte": 211.985,
+  "weight": {
+    "summary": "70 requests • 780.6 KiB",
+    "total": 799308,
+    "image": 111707,
+    "imageCount": 48,
+    "script": 297188,
+    "scriptCount": 8,
+    "document": 22700,
+    "font": 107103,
+    "fontCount": 6,
+    "stylesheet": 7442,
+    "stylesheetCount": 2,
+    "thirdParty": 197931,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 619,
+    "+weight.total": 443,
+    "-weight.document": 792,
+    "+weight.document": 244,
+    "-weight.script": 745,
+    "+weight.script": 247,
+    "-weight.image": 331,
+    "+weight.image": 615,
+    "-weight.font": 497,
+    "+weight.font": 281,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 875,
+    "-totalBlockingTime": 408,
+    "-largestContentfulPaint": 590
+  },
+  "axe": {
+    "passes": 860,
+    "violations": 1
+  }
+}

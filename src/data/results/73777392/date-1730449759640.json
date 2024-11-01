@@ -1,0 +1,67 @@
+{
+  "url": "https://hannahmereana.co.nz/",
+  "requestedUrl": "https://hannahmereana.co.nz/",
+  "timestamp": 1730486295327,
+  "ranks": {
+    "hundos": 478,
+    "performance": 562,
+    "accessibility": 624,
+    "cumulative": 479
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.86,
+    "accessibility": 0.93,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 375
+  },
+  "firstContentfulPaint": 2605.1875,
+  "firstMeaningfulPaint": 2605.1875,
+  "speedIndex": 2682.6010288998323,
+  "largestContentfulPaint": 3609.2535,
+  "totalBlockingTime": 87.5,
+  "cumulativeLayoutShift": 0.01595900717263758,
+  "timeToInteractive": 3122.7695000000003,
+  "maxPotentialFirstInputDelay": 131,
+  "timeToFirstByte": 142.76,
+  "weight": {
+    "summary": "27 requests • 287.1 KiB",
+    "total": 294025,
+    "image": 164768,
+    "imageCount": 19,
+    "script": 104205,
+    "scriptCount": 1,
+    "document": 6212,
+    "font": 8431,
+    "fontCount": 1,
+    "stylesheet": 9863,
+    "stylesheetCount": 2,
+    "thirdParty": 115493,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 338,
+    "+weight.total": 724,
+    "-weight.document": 265,
+    "+weight.document": 771,
+    "-weight.script": 499,
+    "+weight.script": 493,
+    "-weight.image": 389,
+    "+weight.image": 557,
+    "-weight.font": 8,
+    "+weight.font": 770,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 816,
+    "-totalBlockingTime": 142,
+    "-largestContentfulPaint": 406
+  },
+  "axe": {
+    "passes": 252,
+    "violations": 7
+  }
+}

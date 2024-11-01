@@ -1,0 +1,67 @@
+{
+  "url": "https://thehangedmanpub.netlify.app/",
+  "requestedUrl": "https://thehangedmanpub.netlify.app/",
+  "timestamp": 1730476400562,
+  "ranks": {
+    "hundos": 302,
+    "performance": 421,
+    "accessibility": 465,
+    "cumulative": 305
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.93,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 388
+  },
+  "firstContentfulPaint": 997.924,
+  "firstMeaningfulPaint": 1150.424,
+  "speedIndex": 1262.1094275711187,
+  "largestContentfulPaint": 3172.924,
+  "totalBlockingTime": 76,
+  "cumulativeLayoutShift": 0.013609751470499766,
+  "timeToInteractive": 1150.424,
+  "maxPotentialFirstInputDelay": 126,
+  "timeToFirstByte": 143.12599999999998,
+  "weight": {
+    "summary": "11 requests • 540.2 KiB",
+    "total": 553205,
+    "image": 429793,
+    "imageCount": 2,
+    "script": 20945,
+    "scriptCount": 3,
+    "document": 5353,
+    "font": 84204,
+    "fontCount": 3,
+    "stylesheet": 12910,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 521,
+    "+weight.total": 541,
+    "-weight.document": 194,
+    "+weight.document": 842,
+    "-weight.script": 238,
+    "+weight.script": 754,
+    "-weight.image": 570,
+    "+weight.image": 376,
+    "-weight.font": 439,
+    "+weight.font": 339,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 819,
+    "-totalBlockingTime": 128,
+    "-largestContentfulPaint": 377
+  },
+  "axe": {
+    "passes": 345,
+    "violations": 3
+  }
+}

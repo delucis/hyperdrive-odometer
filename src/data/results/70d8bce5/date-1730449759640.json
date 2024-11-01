@@ -1,0 +1,67 @@
+{
+  "url": "https://grupomaca.com/",
+  "requestedUrl": "https://grupomaca.com/",
+  "timestamp": 1730470325716,
+  "ranks": {
+    "hundos": 212,
+    "performance": 207,
+    "accessibility": 505,
+    "cumulative": 221
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 0.99,
+    "total": 393
+  },
+  "firstContentfulPaint": 1234.028,
+  "firstMeaningfulPaint": 1234.028,
+  "speedIndex": 1502.5816385154326,
+  "largestContentfulPaint": 1811.028,
+  "totalBlockingTime": 112.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1446.528,
+  "maxPotentialFirstInputDelay": 207,
+  "timeToFirstByte": 3.2039999999999793,
+  "weight": {
+    "summary": "15 requests • 727.7 KiB",
+    "total": 745193,
+    "image": 720302,
+    "imageCount": 13,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 17555,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 7336,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 597,
+    "+weight.total": 465,
+    "-weight.document": 718,
+    "+weight.document": 318,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 676,
+    "+weight.image": 270,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 261,
+    "-totalBlockingTime": 182,
+    "-largestContentfulPaint": 213
+  },
+  "axe": {
+    "passes": 661,
+    "violations": 13
+  }
+}

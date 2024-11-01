@@ -1,0 +1,67 @@
+{
+  "url": "https://connordowson.dev/",
+  "requestedUrl": "https://connordowson.dev/",
+  "timestamp": 1730483564691,
+  "ranks": {
+    "hundos": 256,
+    "performance": 467,
+    "accessibility": 28,
+    "cumulative": 248
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.91,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 391
+  },
+  "firstContentfulPaint": 1810.9755000000002,
+  "firstMeaningfulPaint": 1810.9755000000002,
+  "speedIndex": 1890.542031003368,
+  "largestContentfulPaint": 3272.5335,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1810.9755000000002,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 36.35800000000002,
+  "weight": {
+    "summary": "11 requests • 388.9 KiB",
+    "total": 398271,
+    "image": 43313,
+    "imageCount": 4,
+    "script": 11961,
+    "scriptCount": 4,
+    "document": 13089,
+    "font": 324339,
+    "fontCount": 1,
+    "stylesheet": 5569,
+    "stylesheetCount": 1,
+    "thirdParty": 4936,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 419,
+    "+weight.total": 643,
+    "-weight.document": 610,
+    "+weight.document": 426,
+    "-weight.script": 182,
+    "+weight.script": 810,
+    "-weight.image": 211,
+    "+weight.image": 735,
+    "-weight.font": 689,
+    "+weight.font": 89,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 479,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 384
+  },
+  "axe": {
+    "passes": 672,
+    "violations": 0
+  }
+}

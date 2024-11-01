@@ -1,0 +1,67 @@
+{
+  "url": "https://file.kiwi/",
+  "requestedUrl": "https://file.kiwi/",
+  "timestamp": 1730453834232,
+  "ranks": {
+    "hundos": 821,
+    "performance": 230,
+    "accessibility": 981,
+    "cumulative": 822
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.78,
+    "bestPractices": 0.81,
+    "seo": 0.83,
+    "total": 341
+  },
+  "firstContentfulPaint": 1671.7735000000002,
+  "firstMeaningfulPaint": 1671.7735000000002,
+  "speedIndex": 1671.7735000000002,
+  "largestContentfulPaint": 1747.4975000000002,
+  "totalBlockingTime": 42,
+  "cumulativeLayoutShift": 0.0008666335795828065,
+  "timeToInteractive": 2383.6445000000003,
+  "maxPotentialFirstInputDelay": 92,
+  "timeToFirstByte": 2.4750000000000085,
+  "weight": {
+    "summary": "27 requests • 388.6 KiB",
+    "total": 397946,
+    "image": 202784,
+    "imageCount": 5,
+    "script": 25136,
+    "scriptCount": 8,
+    "document": 18251,
+    "font": 117424,
+    "fontCount": 4,
+    "stylesheet": 33176,
+    "stylesheetCount": 5,
+    "thirdParty": 134235,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 418,
+    "+weight.total": 644,
+    "-weight.document": 732,
+    "+weight.document": 304,
+    "-weight.script": 272,
+    "+weight.script": 720,
+    "-weight.image": 426,
+    "+weight.image": 520,
+    "-weight.font": 520,
+    "+weight.font": 258,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 152,
+    "-totalBlockingTime": 76,
+    "-largestContentfulPaint": 203
+  },
+  "axe": {
+    "passes": 520,
+    "violations": 15
+  }
+}

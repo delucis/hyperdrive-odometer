@@ -1,0 +1,67 @@
+{
+  "url": "https://dilmahtea.me/en/best-way-to-make-compost/",
+  "requestedUrl": "https://dilmahtea.me/en/best-way-to-make-compost/",
+  "timestamp": 1730452829890,
+  "ranks": {
+    "hundos": 258,
+    "performance": 465,
+    "accessibility": 297,
+    "cumulative": 255
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.91,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 391
+  },
+  "firstContentfulPaint": 1213.401,
+  "firstMeaningfulPaint": 1362.901,
+  "speedIndex": 1650.2953468837939,
+  "largestContentfulPaint": 1961.4009999999998,
+  "totalBlockingTime": 340.9999999999999,
+  "cumulativeLayoutShift": 0.0030861371252919826,
+  "timeToInteractive": 2043.4009999999998,
+  "maxPotentialFirstInputDelay": 299,
+  "timeToFirstByte": 79.48599999999999,
+  "weight": {
+    "summary": "32 requests • 329.8 KiB",
+    "total": 337682,
+    "image": 176371,
+    "imageCount": 21,
+    "script": 9619,
+    "scriptCount": 4,
+    "document": 32058,
+    "font": 76884,
+    "fontCount": 2,
+    "stylesheet": 32893,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 379,
+    "+weight.total": 683,
+    "-weight.document": 859,
+    "+weight.document": 177,
+    "-weight.script": 159,
+    "+weight.script": 833,
+    "-weight.image": 401,
+    "+weight.image": 545,
+    "-weight.font": 398,
+    "+weight.font": 380,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 654,
+    "-totalBlockingTime": 350,
+    "-largestContentfulPaint": 604
+  },
+  "axe": {
+    "passes": 830,
+    "violations": 5
+  }
+}

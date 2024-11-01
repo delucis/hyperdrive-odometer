@@ -1,0 +1,67 @@
+{
+  "url": "https://docs.studiocms.xyz/",
+  "requestedUrl": "https://docs.astro-studiocms.xyz/",
+  "timestamp": 1730452977584,
+  "ranks": {
+    "hundos": 593,
+    "performance": 644,
+    "accessibility": 94,
+    "cumulative": 586
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.81,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.86,
+    "total": 367
+  },
+  "firstContentfulPaint": 2903.796,
+  "firstMeaningfulPaint": 2903.796,
+  "speedIndex": 5158.974283998384,
+  "largestContentfulPaint": 3635.2839999999997,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2903.796,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 729.8530000000001,
+  "weight": {
+    "summary": "18 requests • 75.7 KiB",
+    "total": 77559,
+    "image": 19643,
+    "imageCount": 6,
+    "script": 31302,
+    "scriptCount": 7,
+    "document": 12929,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 11808,
+    "stylesheetCount": 1,
+    "thirdParty": 13437,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 100,
+    "+weight.total": 962,
+    "-weight.document": 602,
+    "+weight.document": 434,
+    "-weight.script": 314,
+    "+weight.script": 678,
+    "-weight.image": 134,
+    "+weight.image": 812,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 1008,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 782
+  },
+  "axe": {
+    "passes": 250,
+    "violations": 0
+  }
+}

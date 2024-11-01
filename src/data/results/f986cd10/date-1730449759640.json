@@ -1,0 +1,67 @@
+{
+  "url": "https://www.davai.in/",
+  "requestedUrl": "https://dav-ai.com/",
+  "timestamp": 1730468196606,
+  "ranks": {
+    "hundos": 896,
+    "performance": 898,
+    "accessibility": 757,
+    "cumulative": 896
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.58,
+    "accessibility": 0.9,
+    "bestPractices": 0.89,
+    "seo": 0.91,
+    "total": 328
+  },
+  "firstContentfulPaint": 3452.9145000000003,
+  "firstMeaningfulPaint": 3452.9145000000003,
+  "speedIndex": 3486.2451413391345,
+  "largestContentfulPaint": 5833.4745,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.26151767402077924,
+  "timeToInteractive": 3452.9145000000003,
+  "maxPotentialFirstInputDelay": 41,
+  "timeToFirstByte": 2.2829999999999977,
+  "weight": {
+    "summary": "69 requests • 508.2 KiB",
+    "total": 520401,
+    "image": 146200,
+    "imageCount": 39,
+    "script": 143097,
+    "scriptCount": 13,
+    "document": 63535,
+    "font": 37807,
+    "fontCount": 5,
+    "stylesheet": 12440,
+    "stylesheetCount": 2,
+    "thirdParty": 389807,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 501,
+    "+weight.total": 561,
+    "-weight.document": 956,
+    "+weight.document": 80,
+    "-weight.script": 592,
+    "+weight.script": 400,
+    "-weight.image": 367,
+    "+weight.image": 579,
+    "-weight.font": 161,
+    "+weight.font": 617,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 101,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 458
+  },
+  "axe": {
+    "passes": 956,
+    "violations": 38
+  }
+}

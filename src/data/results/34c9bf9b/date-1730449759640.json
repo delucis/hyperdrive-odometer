@@ -1,0 +1,67 @@
+{
+  "url": "https://indieastrotemplate.netlify.app/",
+  "requestedUrl": "https://indieastrotemplate.netlify.app/",
+  "timestamp": 1730471048937,
+  "ranks": {
+    "hundos": 667,
+    "performance": 455,
+    "accessibility": 882,
+    "cumulative": 662
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.92,
+    "accessibility": 0.84,
+    "bestPractices": 0.96,
+    "seo": 0.88,
+    "total": 360
+  },
+  "firstContentfulPaint": 1042.311,
+  "firstMeaningfulPaint": 1100.811,
+  "speedIndex": 3082.5194923977942,
+  "largestContentfulPaint": 3185.071,
+  "totalBlockingTime": 65,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1157.311,
+  "maxPotentialFirstInputDelay": 117,
+  "timeToFirstByte": 1348.334,
+  "weight": {
+    "summary": "9 requests • 5.6 MiB",
+    "total": 5870506,
+    "image": 5856973,
+    "imageCount": 6,
+    "script": 4182,
+    "scriptCount": 1,
+    "document": 4758,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 4593,
+    "stylesheetCount": 1,
+    "thirdParty": 194520,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 980,
+    "+weight.total": 82,
+    "-weight.document": 150,
+    "+weight.document": 886,
+    "-weight.script": 75,
+    "+weight.script": 917,
+    "-weight.image": 913,
+    "+weight.image": 33,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 1033,
+    "-totalBlockingTime": 113,
+    "-largestContentfulPaint": 379
+  },
+  "axe": {
+    "passes": 254,
+    "violations": 3
+  }
+}

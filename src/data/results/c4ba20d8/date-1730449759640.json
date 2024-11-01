@@ -1,0 +1,67 @@
+{
+  "url": "https://www.surfskate.party/",
+  "requestedUrl": "https://www.surfskate.party/",
+  "timestamp": 1730464305917,
+  "ranks": {
+    "hundos": 439,
+    "performance": 33,
+    "accessibility": 850,
+    "cumulative": 443
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.86,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 378
+  },
+  "firstContentfulPaint": 967.453,
+  "firstMeaningfulPaint": 967.453,
+  "speedIndex": 967.453,
+  "largestContentfulPaint": 1095.953,
+  "totalBlockingTime": 13.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1080.953,
+  "maxPotentialFirstInputDelay": 77,
+  "timeToFirstByte": 2.1740000000000066,
+  "weight": {
+    "summary": "13 requests • 234.0 KiB",
+    "total": 239618,
+    "image": 221941,
+    "imageCount": 8,
+    "script": 6885,
+    "scriptCount": 3,
+    "document": 6862,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 3930,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 296,
+    "+weight.total": 766,
+    "-weight.document": 310,
+    "+weight.document": 726,
+    "-weight.script": 122,
+    "+weight.script": 870,
+    "-weight.image": 441,
+    "+weight.image": 505,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 68,
+    "-totalBlockingTime": 26,
+    "-largestContentfulPaint": 501
+  },
+  "axe": {
+    "passes": 999,
+    "violations": 11
+  }
+}

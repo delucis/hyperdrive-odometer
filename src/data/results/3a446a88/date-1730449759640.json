@@ -1,0 +1,67 @@
+{
+  "url": "https://steambase.io/",
+  "requestedUrl": "https://steambase.io/",
+  "timestamp": 1730459994737,
+  "ranks": {
+    "hundos": 854,
+    "performance": 809,
+    "accessibility": 409,
+    "cumulative": 850
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.68,
+    "accessibility": 0.96,
+    "bestPractices": 0.74,
+    "seo": 0.99,
+    "total": 337
+  },
+  "firstContentfulPaint": 1223.497,
+  "firstMeaningfulPaint": 1680.975,
+  "speedIndex": 4921.622070780233,
+  "largestContentfulPaint": 2182.781,
+  "totalBlockingTime": 1694.500000000001,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 12089.374770000002,
+  "maxPotentialFirstInputDelay": 872,
+  "timeToFirstByte": 16.144000000000005,
+  "weight": {
+    "summary": "99 requests • 2.7 MiB",
+    "total": 2877099,
+    "image": 1770941,
+    "imageCount": 39,
+    "script": 605150,
+    "scriptCount": 41,
+    "document": 74740,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 14466,
+    "stylesheetCount": 1,
+    "thirdParty": 2221057,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 912,
+    "+weight.total": 150,
+    "-weight.document": 969,
+    "+weight.document": 67,
+    "-weight.script": 883,
+    "+weight.script": 109,
+    "-weight.image": 820,
+    "+weight.image": 126,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 379,
+    "-totalBlockingTime": 605,
+    "-largestContentfulPaint": 627
+  },
+  "axe": {
+    "passes": 3715,
+    "violations": 1
+  }
+}

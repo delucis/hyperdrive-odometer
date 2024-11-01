@@ -1,0 +1,67 @@
+{
+  "url": "https://www.atomtigerzoo.com/",
+  "requestedUrl": "https://www.atomtigerzoo.com/",
+  "timestamp": 1730462292344,
+  "ranks": {
+    "hundos": 254,
+    "performance": 124,
+    "accessibility": 405,
+    "cumulative": 253
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.97,
+    "bestPractices": 1,
+    "seo": 0.94,
+    "total": 391
+  },
+  "firstContentfulPaint": 970.1539999999998,
+  "firstMeaningfulPaint": 970.1539999999998,
+  "speedIndex": 1384.4280389929258,
+  "largestContentfulPaint": 970.1539999999998,
+  "totalBlockingTime": 21,
+  "cumulativeLayoutShift": 0.00014969923193597375,
+  "timeToInteractive": 1041.1539999999998,
+  "maxPotentialFirstInputDelay": 77,
+  "timeToFirstByte": 90.10300000000001,
+  "weight": {
+    "summary": "10 requests • 158.9 KiB",
+    "total": 162737,
+    "image": 22522,
+    "imageCount": 1,
+    "script": 39828,
+    "scriptCount": 3,
+    "document": 12433,
+    "font": 80322,
+    "fontCount": 3,
+    "stylesheet": 7404,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 212,
+    "+weight.total": 850,
+    "-weight.document": 584,
+    "+weight.document": 452,
+    "-weight.script": 343,
+    "+weight.script": 649,
+    "-weight.image": 146,
+    "+weight.image": 800,
+    "-weight.font": 420,
+    "+weight.font": 358,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 690,
+    "-totalBlockingTime": 40,
+    "-largestContentfulPaint": 23
+  },
+  "axe": {
+    "passes": 147,
+    "violations": 3
+  }
+}

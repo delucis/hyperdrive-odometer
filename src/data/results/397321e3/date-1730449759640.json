@@ -1,0 +1,67 @@
+{
+  "url": "https://andka.my.id/",
+  "requestedUrl": "https://andka.my.id/",
+  "timestamp": 1730481676622,
+  "ranks": {
+    "hundos": 267,
+    "performance": 358,
+    "accessibility": 459,
+    "cumulative": 252
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.96,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 391
+  },
+  "firstContentfulPaint": 1843.9495000000002,
+  "firstMeaningfulPaint": 1843.9495000000002,
+  "speedIndex": 1843.9495000000002,
+  "largestContentfulPaint": 1996.5345,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.09735032610315844,
+  "timeToInteractive": 1843.9495000000002,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 116.43900000000001,
+  "weight": {
+    "summary": "16 requests • 57.8 KiB",
+    "total": 59194,
+    "image": 0,
+    "imageCount": 9,
+    "script": 12664,
+    "scriptCount": 2,
+    "document": 5422,
+    "font": 29910,
+    "fontCount": 2,
+    "stylesheet": 11024,
+    "stylesheetCount": 1,
+    "thirdParty": 37029,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 71,
+    "+weight.total": 991,
+    "-weight.document": 202,
+    "+weight.document": 834,
+    "-weight.script": 187,
+    "+weight.script": 805,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 100,
+    "+weight.font": 678,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 773,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 250
+  },
+  "axe": {
+    "passes": 163,
+    "violations": 2
+  }
+}

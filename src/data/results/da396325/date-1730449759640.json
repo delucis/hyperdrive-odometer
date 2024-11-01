@@ -1,0 +1,67 @@
+{
+  "url": "https://astro-portfolio-uzair.vercel.app/",
+  "requestedUrl": "https://astro-portfolio-uzair.vercel.app/",
+  "timestamp": 1730492887600,
+  "ranks": {
+    "hundos": 269,
+    "performance": 381,
+    "accessibility": 492,
+    "cumulative": 280
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.95,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 390
+  },
+  "firstContentfulPaint": 1807.3985,
+  "firstMeaningfulPaint": 1807.3985,
+  "speedIndex": 1807.3985,
+  "largestContentfulPaint": 2707.3985000000002,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0001404841288569707,
+  "timeToInteractive": 1807.3985,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 2.3059999999999974,
+  "weight": {
+    "summary": "8 requests • 1.0 MiB",
+    "total": 1090575,
+    "image": 566915,
+    "imageCount": 1,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 4824,
+    "font": 515384,
+    "fontCount": 5,
+    "stylesheet": 3452,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 700,
+    "+weight.total": 362,
+    "-weight.document": 161,
+    "+weight.document": 875,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 631,
+    "+weight.image": 315,
+    "-weight.font": 729,
+    "+weight.font": 49,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 110,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 338
+  },
+  "axe": {
+    "passes": 260,
+    "violations": 6
+  }
+}

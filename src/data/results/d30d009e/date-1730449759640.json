@@ -1,0 +1,67 @@
+{
+  "url": "https://aboutmonica.com/",
+  "requestedUrl": "https://aboutmonica.com/",
+  "timestamp": 1730481336111,
+  "ranks": {
+    "hundos": 489,
+    "performance": 435,
+    "accessibility": 248,
+    "cumulative": 485
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.93,
+    "accessibility": 1,
+    "bestPractices": 0.81,
+    "seo": 1,
+    "total": 374
+  },
+  "firstContentfulPaint": 1075.431,
+  "firstMeaningfulPaint": 1075.431,
+  "speedIndex": 2372.2833119976267,
+  "largestContentfulPaint": 2050.431,
+  "totalBlockingTime": 265.5,
+  "cumulativeLayoutShift": 0.0024673716748391393,
+  "timeToInteractive": 4253.952,
+  "maxPotentialFirstInputDelay": 248,
+  "timeToFirstByte": 87.987,
+  "weight": {
+    "summary": "32 requests • 564.3 KiB",
+    "total": 577835,
+    "image": 299445,
+    "imageCount": 19,
+    "script": 190232,
+    "scriptCount": 5,
+    "document": 7598,
+    "font": 74794,
+    "fontCount": 3,
+    "stylesheet": 3827,
+    "stylesheetCount": 1,
+    "thirdParty": 184884,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 538,
+    "+weight.total": 524,
+    "-weight.document": 368,
+    "+weight.document": 668,
+    "-weight.script": 654,
+    "+weight.script": 338,
+    "-weight.image": 508,
+    "+weight.image": 438,
+    "-weight.font": 390,
+    "+weight.font": 388,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 682,
+    "-totalBlockingTime": 312,
+    "-largestContentfulPaint": 614
+  },
+  "axe": {
+    "passes": 55,
+    "violations": 2
+  }
+}

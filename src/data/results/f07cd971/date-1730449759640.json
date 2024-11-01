@@ -1,0 +1,67 @@
+{
+  "url": "https://womradiocafe.com/",
+  "requestedUrl": "https://womradiocafe.com/",
+  "timestamp": 1730462048107,
+  "ranks": {
+    "hundos": 636,
+    "performance": 661,
+    "accessibility": 508,
+    "cumulative": 635
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.79,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 0.89,
+    "total": 363
+  },
+  "firstContentfulPaint": 1565.9935,
+  "firstMeaningfulPaint": 1669.9935,
+  "speedIndex": 2615.5200776817555,
+  "largestContentfulPaint": 4165.853999999999,
+  "totalBlockingTime": 283,
+  "cumulativeLayoutShift": 0.03441373559452622,
+  "timeToInteractive": 3849.244999999999,
+  "maxPotentialFirstInputDelay": 192,
+  "timeToFirstByte": 687.9110000000001,
+  "weight": {
+    "summary": "41 requests • 1.3 MiB",
+    "total": 1332476,
+    "image": 1016419,
+    "imageCount": 22,
+    "script": 156175,
+    "scriptCount": 16,
+    "document": 112794,
+    "font": 47088,
+    "fontCount": 2,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 1023084,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 742,
+    "+weight.total": 320,
+    "-weight.document": 993,
+    "+weight.document": 43,
+    "-weight.script": 613,
+    "+weight.script": 379,
+    "-weight.image": 738,
+    "+weight.image": 208,
+    "-weight.font": 236,
+    "+weight.font": 542,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 1004,
+    "-totalBlockingTime": 322,
+    "-largestContentfulPaint": 825
+  },
+  "axe": {
+    "passes": 832,
+    "violations": 17
+  }
+}

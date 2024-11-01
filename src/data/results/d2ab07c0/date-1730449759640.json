@@ -1,0 +1,67 @@
+{
+  "url": "https://openstove.org/",
+  "requestedUrl": "https://openstove.org/",
+  "timestamp": 1730473410508,
+  "ranks": {
+    "hundos": 779,
+    "performance": 828,
+    "accessibility": 252,
+    "cumulative": 772
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.67,
+    "accessibility": 1,
+    "bestPractices": 0.81,
+    "seo": 1,
+    "total": 348
+  },
+  "firstContentfulPaint": 1151.652,
+  "firstMeaningfulPaint": 1257.152,
+  "speedIndex": 5265.423351257946,
+  "largestContentfulPaint": 7997.652,
+  "totalBlockingTime": 246.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5339.152,
+  "maxPotentialFirstInputDelay": 221,
+  "timeToFirstByte": 1594.56,
+  "weight": {
+    "summary": "16 requests • 1.6 MiB",
+    "total": 1636765,
+    "image": 1575059,
+    "imageCount": 8,
+    "script": 13483,
+    "scriptCount": 4,
+    "document": 34162,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 12107,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 804,
+    "+weight.total": 258,
+    "-weight.document": 875,
+    "+weight.document": 161,
+    "-weight.script": 195,
+    "+weight.script": 797,
+    "-weight.image": 805,
+    "+weight.image": 141,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 1038,
+    "-totalBlockingTime": 294,
+    "-largestContentfulPaint": 960
+  },
+  "axe": {
+    "passes": 55,
+    "violations": 2
+  }
+}

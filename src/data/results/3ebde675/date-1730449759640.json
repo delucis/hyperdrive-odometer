@@ -1,0 +1,67 @@
+{
+  "url": "https://www.trevorlasn.com/",
+  "requestedUrl": "https://www.trevorlasn.com/",
+  "timestamp": 1730464501106,
+  "ranks": {
+    "hundos": 686,
+    "performance": 560,
+    "accessibility": 657,
+    "cumulative": 683
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.86,
+    "accessibility": 0.92,
+    "bestPractices": 0.81,
+    "seo": 0.99,
+    "total": 358
+  },
+  "firstContentfulPaint": 2635.082,
+  "firstMeaningfulPaint": 2635.082,
+  "speedIndex": 2661.992507164673,
+  "largestContentfulPaint": 2910.582,
+  "totalBlockingTime": 272.6295,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3677.082,
+  "maxPotentialFirstInputDelay": 233,
+  "timeToFirstByte": 238.239,
+  "weight": {
+    "summary": "22 requests • 425.1 KiB",
+    "total": 435326,
+    "image": 466,
+    "imageCount": 2,
+    "script": 150365,
+    "scriptCount": 11,
+    "document": 268055,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 13342,
+    "stylesheetCount": 1,
+    "thirdParty": 10908,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 442,
+    "+weight.total": 620,
+    "-weight.document": 1024,
+    "+weight.document": 12,
+    "-weight.script": 605,
+    "+weight.script": 387,
+    "-weight.image": 10,
+    "+weight.image": 936,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 894,
+    "-totalBlockingTime": 315,
+    "-largestContentfulPaint": 723
+  },
+  "axe": {
+    "passes": 51,
+    "violations": 2
+  }
+}

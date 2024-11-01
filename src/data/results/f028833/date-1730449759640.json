@@ -1,0 +1,67 @@
+{
+  "url": "https://ruiduarte.xyz/",
+  "requestedUrl": "https://ruiduarte.xyz/",
+  "timestamp": 1730474901085,
+  "ranks": {
+    "hundos": 158,
+    "performance": 101,
+    "accessibility": 138,
+    "cumulative": 149
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 396
+  },
+  "firstContentfulPaint": 999.3265,
+  "firstMeaningfulPaint": 999.3265,
+  "speedIndex": 1159.0627410054406,
+  "largestContentfulPaint": 999.3265,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.014499324710437788,
+  "timeToInteractive": 1034.3265000000001,
+  "maxPotentialFirstInputDelay": 124.00000000000011,
+  "timeToFirstByte": 188.48000000000002,
+  "weight": {
+    "summary": "9 requests • 22.2 KiB",
+    "total": 15152,
+    "image": 0,
+    "imageCount": 0,
+    "script": 1587,
+    "scriptCount": 1,
+    "document": 2332,
+    "font": 7620,
+    "fontCount": 2,
+    "stylesheet": 10805,
+    "stylesheetCount": 3,
+    "thirdParty": 2015,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 11,
+    "+weight.total": 1051,
+    "-weight.document": 28,
+    "+weight.document": 1008,
+    "-weight.script": 34,
+    "+weight.script": 958,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 5,
+    "+weight.font": 773,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 852,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 27
+  },
+  "axe": {
+    "passes": 129,
+    "violations": 0
+  }
+}

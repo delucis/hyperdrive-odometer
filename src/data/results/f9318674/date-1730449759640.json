@@ -1,0 +1,67 @@
+{
+  "url": "https://0thorderlogic.github.io/",
+  "requestedUrl": "https://0thorderlogic.github.io/",
+  "timestamp": 1730475429836,
+  "ranks": {
+    "hundos": 660,
+    "performance": 418,
+    "accessibility": 1008,
+    "cumulative": 665
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.93,
+    "accessibility": 0.75,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 360
+  },
+  "firstContentfulPaint": 832.236,
+  "firstMeaningfulPaint": 1223.0040000000001,
+  "speedIndex": 832.236,
+  "largestContentfulPaint": 1713.7979999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.15773812727597478,
+  "timeToInteractive": 1223.0040000000001,
+  "maxPotentialFirstInputDelay": 53,
+  "timeToFirstByte": 19.230000000000004,
+  "weight": {
+    "summary": "7 requests • 100.0 KiB",
+    "total": 102432,
+    "image": 43189,
+    "imageCount": 1,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 1276,
+    "font": 56646,
+    "fontCount": 2,
+    "stylesheet": 1321,
+    "stylesheetCount": 3,
+    "thirdParty": 43189,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 135,
+    "+weight.total": 927,
+    "-weight.document": 2,
+    "+weight.document": 1034,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 210,
+    "+weight.image": 736,
+    "-weight.font": 297,
+    "+weight.font": 481,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 403,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 197
+  },
+  "axe": {
+    "passes": 47,
+    "violations": 11
+  }
+}

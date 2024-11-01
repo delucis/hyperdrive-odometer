@@ -1,0 +1,67 @@
+{
+  "url": "https://tylerwray.me/",
+  "requestedUrl": "https://tylerwray.me/",
+  "timestamp": 1730461031084,
+  "ranks": {
+    "hundos": 79,
+    "performance": 174,
+    "accessibility": 117,
+    "cumulative": 78
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 952.667,
+  "firstMeaningfulPaint": 1226.667,
+  "speedIndex": 1056.5376918838092,
+  "largestContentfulPaint": 1954.667,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0030922329344559825,
+  "timeToInteractive": 1226.667,
+  "maxPotentialFirstInputDelay": 44,
+  "timeToFirstByte": 2.2560000000000002,
+  "weight": {
+    "summary": "15 requests • 245.6 KiB",
+    "total": 251457,
+    "image": 156108,
+    "imageCount": 3,
+    "script": 5919,
+    "scriptCount": 2,
+    "document": 4649,
+    "font": 46922,
+    "fontCount": 1,
+    "stylesheet": 14659,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 304,
+    "+weight.total": 758,
+    "-weight.document": 144,
+    "+weight.document": 892,
+    "-weight.script": 109,
+    "+weight.script": 883,
+    "-weight.image": 375,
+    "+weight.image": 571,
+    "-weight.font": 230,
+    "+weight.font": 548,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 93,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 237
+  },
+  "axe": {
+    "passes": 168,
+    "violations": 0
+  }
+}

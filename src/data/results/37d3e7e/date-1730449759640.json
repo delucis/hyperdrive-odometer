@@ -1,0 +1,67 @@
+{
+  "url": "https://coolify.io/docs/",
+  "requestedUrl": "https://coolify.io/docs/",
+  "timestamp": 1730467755994,
+  "ranks": {
+    "hundos": 209,
+    "performance": 141,
+    "accessibility": 43,
+    "cumulative": 208
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 393
+  },
+  "firstContentfulPaint": 1247.691,
+  "firstMeaningfulPaint": 1247.691,
+  "speedIndex": 1592.6461078094474,
+  "largestContentfulPaint": 1295.691,
+  "totalBlockingTime": 48.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1360.191,
+  "maxPotentialFirstInputDelay": 128,
+  "timeToFirstByte": 347.02099999999996,
+  "weight": {
+    "summary": "8 requests • 57.2 KiB",
+    "total": 58584,
+    "image": 754,
+    "imageCount": 1,
+    "script": 30029,
+    "scriptCount": 5,
+    "document": 14429,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 13372,
+    "stylesheetCount": 1,
+    "thirdParty": 929,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 69,
+    "+weight.total": 993,
+    "-weight.document": 654,
+    "+weight.document": 382,
+    "-weight.script": 309,
+    "+weight.script": 683,
+    "-weight.image": 16,
+    "+weight.image": 930,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 942,
+    "-totalBlockingTime": 90,
+    "-largestContentfulPaint": 104
+  },
+  "axe": {
+    "passes": 505,
+    "violations": 0
+  }
+}

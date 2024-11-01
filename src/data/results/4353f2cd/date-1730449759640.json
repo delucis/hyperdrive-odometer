@@ -1,0 +1,67 @@
+{
+  "url": "https://errorism.dev/",
+  "requestedUrl": "https://errorism.dev/",
+  "timestamp": 1730485069184,
+  "ranks": {
+    "hundos": 148,
+    "performance": 186,
+    "accessibility": 398,
+    "cumulative": 153
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.97,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 396
+  },
+  "firstContentfulPaint": 1215.024,
+  "firstMeaningfulPaint": 1215.024,
+  "speedIndex": 1215.024,
+  "largestContentfulPaint": 1215.024,
+  "totalBlockingTime": 134,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2595.898,
+  "maxPotentialFirstInputDelay": 152,
+  "timeToFirstByte": 214.194,
+  "weight": {
+    "summary": "3 requests • 120.2 KiB",
+    "total": 123058,
+    "image": 0,
+    "imageCount": 0,
+    "script": 109485,
+    "scriptCount": 1,
+    "document": 13032,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 110026,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 161,
+    "+weight.total": 901,
+    "-weight.document": 607,
+    "+weight.document": 429,
+    "-weight.script": 521,
+    "+weight.script": 471,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 878,
+    "-totalBlockingTime": 205,
+    "-largestContentfulPaint": 88
+  },
+  "axe": {
+    "passes": 1768,
+    "violations": 1
+  }
+}

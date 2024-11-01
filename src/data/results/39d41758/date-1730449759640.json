@@ -1,0 +1,67 @@
+{
+  "url": "https://erika.florist/",
+  "requestedUrl": "https://erika.florist/",
+  "timestamp": 1730469151226,
+  "ranks": {
+    "hundos": 25,
+    "performance": 6,
+    "accessibility": 66,
+    "cumulative": 12
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 874.11,
+  "firstMeaningfulPaint": 951.1100000000001,
+  "speedIndex": 874.11,
+  "largestContentfulPaint": 1311.1100000000001,
+  "totalBlockingTime": 52,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 991.6100000000001,
+  "maxPotentialFirstInputDelay": 123,
+  "timeToFirstByte": 2.700000000000003,
+  "weight": {
+    "summary": "10 requests • 85.6 KiB",
+    "total": 87184,
+    "image": 45225,
+    "imageCount": 6,
+    "script": 1147,
+    "scriptCount": 1,
+    "document": 7648,
+    "font": 29141,
+    "fontCount": 1,
+    "stylesheet": 4515,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 115,
+    "+weight.total": 947,
+    "-weight.document": 374,
+    "+weight.document": 662,
+    "-weight.script": 16,
+    "+weight.script": 976,
+    "-weight.image": 214,
+    "+weight.image": 732,
+    "-weight.font": 97,
+    "+weight.font": 681,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 202,
+    "-totalBlockingTime": 96,
+    "-largestContentfulPaint": 105
+  },
+  "axe": {
+    "passes": 354,
+    "violations": 0
+  }
+}

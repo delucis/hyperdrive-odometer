@@ -1,0 +1,67 @@
+{
+  "url": "https://kainoa.us/",
+  "requestedUrl": "https://kainoa.us/",
+  "timestamp": 1730487387965,
+  "ranks": {
+    "hundos": 99,
+    "performance": 198,
+    "accessibility": 44,
+    "cumulative": 87
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 1111.162,
+  "firstMeaningfulPaint": 1155.162,
+  "speedIndex": 1444.13155586827,
+  "largestContentfulPaint": 1585.2220000000002,
+  "totalBlockingTime": 27.5,
+  "cumulativeLayoutShift": 0.04084661741711844,
+  "timeToInteractive": 1188.662,
+  "maxPotentialFirstInputDelay": 88,
+  "timeToFirstByte": 21.619000000000014,
+  "weight": {
+    "summary": "26 requests • 82.8 KiB",
+    "total": 84751,
+    "image": 46664,
+    "imageCount": 16,
+    "script": 2755,
+    "scriptCount": 3,
+    "document": 4781,
+    "font": 27225,
+    "fontCount": 3,
+    "stylesheet": 3326,
+    "stylesheetCount": 3,
+    "thirdParty": 1262,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 111,
+    "+weight.total": 951,
+    "-weight.document": 153,
+    "+weight.document": 883,
+    "-weight.script": 56,
+    "+weight.script": 936,
+    "-weight.image": 215,
+    "+weight.image": 731,
+    "-weight.font": 84,
+    "+weight.font": 694,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 412,
+    "-totalBlockingTime": 50,
+    "-largestContentfulPaint": 153
+  },
+  "axe": {
+    "passes": 492,
+    "violations": 0
+  }
+}

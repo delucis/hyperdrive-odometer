@@ -1,0 +1,67 @@
+{
+  "url": "https://www.codelungo.com/",
+  "requestedUrl": "https://www.codelungo.com/",
+  "timestamp": 1730494028835,
+  "ranks": {
+    "hundos": 784,
+    "performance": 946,
+    "accessibility": 321,
+    "cumulative": 783
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.52,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.99,
+    "total": 347
+  },
+  "firstContentfulPaint": 2603.84,
+  "firstMeaningfulPaint": 2603.84,
+  "speedIndex": 9298.96216758705,
+  "largestContentfulPaint": 2980.3825,
+  "totalBlockingTime": 4157.453499999999,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 17108.588499999998,
+  "maxPotentialFirstInputDelay": 522.9999999999995,
+  "timeToFirstByte": 124.33600000000001,
+  "weight": {
+    "summary": "43 requests • 2.3 MiB",
+    "total": 2423606,
+    "image": 1314276,
+    "imageCount": 13,
+    "script": 537590,
+    "scriptCount": 22,
+    "document": 49383,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 10460,
+    "stylesheetCount": 1,
+    "thirdParty": 768967,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 879,
+    "+weight.total": 183,
+    "-weight.document": 926,
+    "+weight.document": 110,
+    "-weight.script": 871,
+    "+weight.script": 121,
+    "-weight.image": 776,
+    "+weight.image": 170,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 788,
+    "-totalBlockingTime": 665,
+    "-largestContentfulPaint": 729
+  },
+  "axe": {
+    "passes": 998,
+    "violations": 7
+  }
+}

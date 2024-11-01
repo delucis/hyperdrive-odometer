@@ -1,0 +1,66 @@
+{
+  "url": "https://stellarcleaningcompany.com/",
+  "requestedUrl": "https://stellarcleaningcompany.com/",
+  "timestamp": 1730491615895,
+  "ranks": {
+    "hundos": 434,
+    "performance": 205,
+    "accessibility": 858,
+    "cumulative": 438
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.86,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 378
+  },
+  "firstContentfulPaint": 1359.615,
+  "firstMeaningfulPaint": 1359.615,
+  "speedIndex": 1490.8197300042805,
+  "largestContentfulPaint": 2001.615,
+  "totalBlockingTime": 24.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1405.615,
+  "maxPotentialFirstInputDelay": 376,
+  "timeToFirstByte": 251.549,
+  "weight": {
+    "summary": "14 requests • 321.9 KiB",
+    "total": 329617,
+    "image": 266911,
+    "imageCount": 2,
+    "script": 22698,
+    "scriptCount": 6,
+    "document": 28404,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 10581,
+    "stylesheetCount": 3,
+    "thirdParty": 1023,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 368,
+    "+weight.total": 694,
+    "-weight.document": 833,
+    "+weight.document": 203,
+    "-weight.script": 248,
+    "+weight.script": 744,
+    "-weight.image": 477,
+    "+weight.image": 469,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 903,
+    "-totalBlockingTime": 46,
+    "-largestContentfulPaint": 251
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

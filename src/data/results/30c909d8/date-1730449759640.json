@@ -1,0 +1,67 @@
+{
+  "url": "https://threlte.xyz/",
+  "requestedUrl": "https://threlte.xyz/",
+  "timestamp": 1730460759200,
+  "ranks": {
+    "hundos": 838,
+    "performance": 984,
+    "accessibility": 477,
+    "cumulative": 836
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.44,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 339
+  },
+  "firstContentfulPaint": 1679.6730000000002,
+  "firstMeaningfulPaint": 3960.31925,
+  "speedIndex": 3686.0367893523767,
+  "largestContentfulPaint": 7236.896999999999,
+  "totalBlockingTime": 168673.13,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 182407.479,
+  "maxPotentialFirstInputDelay": 4473,
+  "timeToFirstByte": 1.9140000000000015,
+  "weight": {
+    "summary": "73 requests • 2.7 MiB",
+    "total": 2808413,
+    "image": 2160108,
+    "imageCount": 11,
+    "script": 464070,
+    "scriptCount": 52,
+    "document": 17541,
+    "font": 123576,
+    "fontCount": 2,
+    "stylesheet": 26538,
+    "stylesheetCount": 5,
+    "thirdParty": 592571,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 909,
+    "+weight.total": 153,
+    "-weight.document": 716,
+    "+weight.document": 320,
+    "-weight.script": 850,
+    "+weight.script": 142,
+    "-weight.image": 839,
+    "+weight.image": 107,
+    "-weight.font": 532,
+    "+weight.font": 246,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 13,
+    "-totalBlockingTime": 692,
+    "-largestContentfulPaint": 947
+  },
+  "axe": {
+    "passes": 1099,
+    "violations": 5
+  }
+}

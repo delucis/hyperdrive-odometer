@@ -1,0 +1,67 @@
+{
+  "url": "https://zigistry.dev/",
+  "requestedUrl": "https://zigistry.dev/",
+  "timestamp": 1730480897167,
+  "ranks": {
+    "hundos": 619,
+    "performance": 652,
+    "accessibility": 722,
+    "cumulative": 621
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.8,
+    "accessibility": 0.91,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 364
+  },
+  "firstContentfulPaint": 1146.057,
+  "firstMeaningfulPaint": 1352.557,
+  "speedIndex": 2983.3214928880025,
+  "largestContentfulPaint": 1754.5140000000001,
+  "totalBlockingTime": 796.5000000000002,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4104.557000000001,
+  "maxPotentialFirstInputDelay": 423,
+  "timeToFirstByte": 91.22900000000001,
+  "weight": {
+    "summary": "42 requests • 2.0 MiB",
+    "total": 2066227,
+    "image": 1878781,
+    "imageCount": 28,
+    "script": 152567,
+    "scriptCount": 10,
+    "document": 15688,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 16378,
+    "stylesheetCount": 1,
+    "thirdParty": 1895713,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 853,
+    "+weight.total": 209,
+    "-weight.document": 679,
+    "+weight.document": 357,
+    "-weight.script": 610,
+    "+weight.script": 382,
+    "-weight.image": 826,
+    "+weight.image": 120,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 692,
+    "-totalBlockingTime": 508,
+    "-largestContentfulPaint": 580
+  },
+  "axe": {
+    "passes": 1875,
+    "violations": 54
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://jan-mueller.at/",
+  "requestedUrl": "https://jan-mueller.at/",
+  "timestamp": 1730455525894,
+  "ranks": {
+    "hundos": 108,
+    "performance": 127,
+    "accessibility": 17,
+    "cumulative": 108
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 398
+  },
+  "firstContentfulPaint": 1326.8429999999998,
+  "firstMeaningfulPaint": 1326.8429999999998,
+  "speedIndex": 1422.3590234647518,
+  "largestContentfulPaint": 1359.8429999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1326.8429999999998,
+  "maxPotentialFirstInputDelay": 42,
+  "timeToFirstByte": 2.3850000000000193,
+  "weight": {
+    "summary": "15 requests • 902.4 KiB",
+    "total": 924054,
+    "image": 877740,
+    "imageCount": 8,
+    "script": 1287,
+    "scriptCount": 1,
+    "document": 22202,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 10746,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 652,
+    "+weight.total": 410,
+    "-weight.document": 786,
+    "+weight.document": 250,
+    "-weight.script": 22,
+    "+weight.script": 970,
+    "-weight.image": 713,
+    "+weight.image": 233,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 127,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 111
+  },
+  "axe": {
+    "passes": 842,
+    "violations": 0
+  }
+}

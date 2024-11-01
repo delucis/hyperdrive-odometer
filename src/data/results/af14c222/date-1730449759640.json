@@ -1,0 +1,67 @@
+{
+  "url": "https://slothsofdalle.com/",
+  "requestedUrl": "https://slothsofdalle.com/",
+  "timestamp": 1730475479531,
+  "ranks": {
+    "hundos": 484,
+    "performance": 579,
+    "accessibility": 614,
+    "cumulative": 489
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.84,
+    "accessibility": 0.93,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 374
+  },
+  "firstContentfulPaint": 1738.4225,
+  "firstMeaningfulPaint": 1738.4225,
+  "speedIndex": 1738.4225,
+  "largestContentfulPaint": 4404.757,
+  "totalBlockingTime": 83.5,
+  "cumulativeLayoutShift": 0.015032275476917207,
+  "timeToInteractive": 4542.864500000001,
+  "maxPotentialFirstInputDelay": 139,
+  "timeToFirstByte": 108.566,
+  "weight": {
+    "summary": "24 requests • 585.7 KiB",
+    "total": 599807,
+    "image": 348895,
+    "imageCount": 3,
+    "script": 202698,
+    "scriptCount": 10,
+    "document": 3275,
+    "font": 37554,
+    "fontCount": 3,
+    "stylesheet": 6804,
+    "stylesheetCount": 4,
+    "thirdParty": 241115,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 549,
+    "+weight.total": 513,
+    "-weight.document": 70,
+    "+weight.document": 966,
+    "-weight.script": 670,
+    "+weight.script": 322,
+    "-weight.image": 539,
+    "+weight.image": 407,
+    "-weight.font": 160,
+    "+weight.font": 618,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 747,
+    "-totalBlockingTime": 137,
+    "-largestContentfulPaint": 429
+  },
+  "axe": {
+    "passes": 103,
+    "violations": 4
+  }
+}

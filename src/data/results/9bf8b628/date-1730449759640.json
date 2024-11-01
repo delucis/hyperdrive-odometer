@@ -1,0 +1,62 @@
+{
+  "url": "https://goldenera.squaddy.app/",
+  "requestedUrl": "https://goldenera.squaddy.app/",
+  "timestamp": 1730454543439,
+  "ranks": {
+    "hundos": 1020,
+    "performance": 1060,
+    "accessibility": 607,
+    "cumulative": 1020
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": null,
+    "accessibility": 0.93,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 293
+  },
+  "firstContentfulPaint": 2675.3900000000003,
+  "firstMeaningfulPaint": 2675.3900000000003,
+  "speedIndex": 2979.811196000972,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2675.3900000000003,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 407.127,
+  "weight": {
+    "summary": "15 requests • 2.7 MiB",
+    "total": 2882988,
+    "image": 2802613,
+    "imageCount": 6,
+    "script": 18674,
+    "scriptCount": 4,
+    "document": 13617,
+    "font": 43282,
+    "fontCount": 2,
+    "stylesheet": 4802,
+    "stylesheetCount": 2,
+    "thirdParty": 45369,
+    "thirdPartyCount": 2
+  },
+  "sidequests": {
+    "-weight.total": 913,
+    "+weight.total": 149,
+    "-weight.document": 623,
+    "+weight.document": 413,
+    "-weight.script": 222,
+    "+weight.script": 770,
+    "-weight.image": 864,
+    "+weight.image": 82,
+    "-weight.font": 210,
+    "+weight.font": 568,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 960,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 481
+  },
+  "axe": {
+    "passes": 91,
+    "violations": 2
+  }
+}

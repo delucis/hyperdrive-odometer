@@ -1,0 +1,67 @@
+{
+  "url": "https://www.stlcch.com/",
+  "requestedUrl": "https://www.stlcch.com/",
+  "timestamp": 1730495877531,
+  "ranks": {
+    "hundos": 247,
+    "performance": 371,
+    "accessibility": 431,
+    "cumulative": 262
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.95,
+    "accessibility": 0.96,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 391
+  },
+  "firstContentfulPaint": 1086.4575,
+  "firstMeaningfulPaint": 1086.4575,
+  "speedIndex": 1086.4575,
+  "largestContentfulPaint": 2865.6295,
+  "totalBlockingTime": 17,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2522.6189999999997,
+  "maxPotentialFirstInputDelay": 84,
+  "timeToFirstByte": 2.4920000000000044,
+  "weight": {
+    "summary": "22 requests • 417.4 KiB",
+    "total": 427451,
+    "image": 268214,
+    "imageCount": 6,
+    "script": 109984,
+    "scriptCount": 9,
+    "document": 11621,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 13029,
+    "stylesheetCount": 1,
+    "thirdParty": 342672,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 438,
+    "+weight.total": 624,
+    "-weight.document": 556,
+    "+weight.document": 480,
+    "-weight.script": 528,
+    "+weight.script": 464,
+    "-weight.image": 479,
+    "+weight.image": 467,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 160,
+    "-totalBlockingTime": 32,
+    "-largestContentfulPaint": 353
+  },
+  "axe": {
+    "passes": 359,
+    "violations": 14
+  }
+}

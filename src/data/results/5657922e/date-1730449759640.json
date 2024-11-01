@@ -1,0 +1,67 @@
+{
+  "url": "https://exylons.com/",
+  "requestedUrl": "https://exylons.com/",
+  "timestamp": 1730453675311,
+  "ranks": {
+    "hundos": 205,
+    "performance": 8,
+    "accessibility": 543,
+    "cumulative": 187
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.94,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 394
+  },
+  "firstContentfulPaint": 883.9805,
+  "firstMeaningfulPaint": 883.9805,
+  "speedIndex": 883.9805,
+  "largestContentfulPaint": 1020.9805,
+  "totalBlockingTime": 29.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 952.4805,
+  "maxPotentialFirstInputDelay": 109,
+  "timeToFirstByte": 46.964,
+  "weight": {
+    "summary": "4 requests • 21.7 KiB",
+    "total": 22180,
+    "image": 9984,
+    "imageCount": 1,
+    "script": 1072,
+    "scriptCount": 1,
+    "document": 4357,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 6767,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 20,
+    "+weight.total": 1042,
+    "-weight.document": 128,
+    "+weight.document": 908,
+    "-weight.script": 13,
+    "+weight.script": 979,
+    "-weight.image": 86,
+    "+weight.image": 860,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 523,
+    "-totalBlockingTime": 54,
+    "-largestContentfulPaint": 31
+  },
+  "axe": {
+    "passes": 117,
+    "violations": 1
+  }
+}

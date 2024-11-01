@@ -1,0 +1,67 @@
+{
+  "url": "https://baykatb.com/",
+  "requestedUrl": "https://baykatb.com/",
+  "timestamp": 1730482432254,
+  "ranks": {
+    "hundos": 791,
+    "performance": 923,
+    "accessibility": 479,
+    "cumulative": 787
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.55,
+    "accessibility": 0.95,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 346
+  },
+  "firstContentfulPaint": 3601.9399999999996,
+  "firstMeaningfulPaint": 3601.9399999999996,
+  "speedIndex": 8767.461991288863,
+  "largestContentfulPaint": 42636.46300000003,
+  "totalBlockingTime": 246,
+  "cumulativeLayoutShift": 0.05975900168805548,
+  "timeToInteractive": 6290.0385,
+  "maxPotentialFirstInputDelay": 348,
+  "timeToFirstByte": 37.24800000000002,
+  "weight": {
+    "summary": "13 requests • 7.5 MiB",
+    "total": 7824609,
+    "image": 7405391,
+    "imageCount": 4,
+    "script": 327605,
+    "scriptCount": 3,
+    "document": 32549,
+    "font": 52008,
+    "fontCount": 2,
+    "stylesheet": 6516,
+    "stylesheetCount": 2,
+    "thirdParty": 6203170,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1001,
+    "+weight.total": 61,
+    "-weight.document": 864,
+    "+weight.document": 172,
+    "-weight.script": 774,
+    "+weight.script": 218,
+    "-weight.image": 921,
+    "+weight.image": 25,
+    "-weight.font": 275,
+    "+weight.font": 503,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 481,
+    "-totalBlockingTime": 293,
+    "-largestContentfulPaint": 1054
+  },
+  "axe": {
+    "passes": 814,
+    "violations": 5
+  }
+}

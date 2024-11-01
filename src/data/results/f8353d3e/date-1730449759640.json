@@ -1,0 +1,62 @@
+{
+  "url": "http://ww25.sebaslopez.com/?subid1=20241102-0815-4704-89ec-e91e14213799",
+  "requestedUrl": "https://www.sebaslopez.com/",
+  "timestamp": 1730495753365,
+  "ranks": {
+    "hundos": 897,
+    "performance": 738,
+    "cumulative": 897
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.74,
+    "accessibility": 0.81,
+    "bestPractices": 0.81,
+    "seo": 0.92,
+    "total": 328
+  },
+  "firstContentfulPaint": 4123.3245,
+  "firstMeaningfulPaint": 4123.3245,
+  "speedIndex": 4123.3245,
+  "largestContentfulPaint": 4498.9935,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.026047995139732685,
+  "timeToInteractive": 4123.3245,
+  "maxPotentialFirstInputDelay": 48,
+  "timeToFirstByte": 3.257000000000005,
+  "weight": {
+    "summary": "13 requests • 155.8 KiB",
+    "total": 159512,
+    "image": 1123,
+    "imageCount": 4,
+    "script": 146909,
+    "scriptCount": 4,
+    "document": 4784,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 115832,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 206,
+    "+weight.total": 856,
+    "-weight.document": 154,
+    "+weight.document": 882,
+    "-weight.script": 601,
+    "+weight.script": 391,
+    "-weight.image": 21,
+    "+weight.image": 925,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 267,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 431
+  }
+}

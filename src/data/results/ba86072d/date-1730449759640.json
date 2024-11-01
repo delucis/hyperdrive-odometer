@@ -1,0 +1,67 @@
+{
+  "url": "https://www.webmoov.be/nl/",
+  "requestedUrl": "https://www.webmoov.be/",
+  "timestamp": 1730480475946,
+  "ranks": {
+    "hundos": 815,
+    "performance": 913,
+    "accessibility": 743,
+    "cumulative": 813
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.56,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 343
+  },
+  "firstContentfulPaint": 1155.8470000000002,
+  "firstMeaningfulPaint": 1230.8940000000002,
+  "speedIndex": 2456.675363699147,
+  "largestContentfulPaint": 7234.654,
+  "totalBlockingTime": 804.2650000000001,
+  "cumulativeLayoutShift": 0.06364907240156499,
+  "timeToInteractive": 7552.184000000001,
+  "maxPotentialFirstInputDelay": 828.0000000000001,
+  "timeToFirstByte": 2.303,
+  "weight": {
+    "summary": "32 requests • 1.1 MiB",
+    "total": 1161448,
+    "image": 63211,
+    "imageCount": 12,
+    "script": 1017808,
+    "scriptCount": 11,
+    "document": 11833,
+    "font": 52808,
+    "fontCount": 2,
+    "stylesheet": 15404,
+    "stylesheetCount": 2,
+    "thirdParty": 97260,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 714,
+    "+weight.total": 348,
+    "-weight.document": 562,
+    "+weight.document": 474,
+    "-weight.script": 955,
+    "+weight.script": 37,
+    "-weight.image": 253,
+    "+weight.image": 693,
+    "-weight.font": 277,
+    "+weight.font": 501,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 109,
+    "-totalBlockingTime": 510,
+    "-largestContentfulPaint": 946
+  },
+  "axe": {
+    "passes": 680,
+    "violations": 9
+  }
+}

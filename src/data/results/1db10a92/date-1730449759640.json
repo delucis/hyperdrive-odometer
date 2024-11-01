@@ -1,0 +1,67 @@
+{
+  "url": "https://zins-rechner.com/",
+  "requestedUrl": "https://zins-rechner.com/",
+  "timestamp": 1730496725738,
+  "ranks": {
+    "hundos": 1011,
+    "performance": 958,
+    "accessibility": 1034,
+    "cumulative": 1011
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.49,
+    "accessibility": 0.7,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 297
+  },
+  "firstContentfulPaint": 2476.995,
+  "firstMeaningfulPaint": 2476.995,
+  "speedIndex": 4239.969146785442,
+  "largestContentfulPaint": 6283.365,
+  "totalBlockingTime": 655.5,
+  "cumulativeLayoutShift": 0.15673826059608617,
+  "timeToInteractive": 7518.891,
+  "maxPotentialFirstInputDelay": 223.00000000000045,
+  "timeToFirstByte": 118.56200000000001,
+  "weight": {
+    "summary": "30 requests • 791.0 KiB",
+    "total": 809988,
+    "image": 296013,
+    "imageCount": 6,
+    "script": 439958,
+    "scriptCount": 12,
+    "document": 29014,
+    "font": 8431,
+    "fontCount": 1,
+    "stylesheet": 22897,
+    "stylesheetCount": 4,
+    "thirdParty": 376436,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 623,
+    "+weight.total": 439,
+    "-weight.document": 844,
+    "+weight.document": 192,
+    "-weight.script": 842,
+    "+weight.script": 150,
+    "-weight.image": 501,
+    "+weight.image": 445,
+    "-weight.font": 8,
+    "+weight.font": 770,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 778,
+    "-totalBlockingTime": 486,
+    "-largestContentfulPaint": 924
+  },
+  "axe": {
+    "passes": 390,
+    "violations": 32
+  }
+}

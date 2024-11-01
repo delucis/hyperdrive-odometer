@@ -1,0 +1,67 @@
+{
+  "url": "https://garpunkal.dev/",
+  "requestedUrl": "https://garpunkal.dev/",
+  "timestamp": 1730454289146,
+  "ranks": {
+    "hundos": 5,
+    "performance": 155,
+    "accessibility": 5,
+    "cumulative": 2
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1312.6439999999996,
+  "firstMeaningfulPaint": 1312.6439999999996,
+  "speedIndex": 1944.4954059083711,
+  "largestContentfulPaint": 1312.6439999999996,
+  "totalBlockingTime": 90,
+  "cumulativeLayoutShift": 0.0006686547775817368,
+  "timeToInteractive": 3249.1894999999995,
+  "maxPotentialFirstInputDelay": 127,
+  "timeToFirstByte": 2.3060000000000116,
+  "weight": {
+    "summary": "64 requests • 1.3 MiB",
+    "total": 1339763,
+    "image": 1174531,
+    "imageCount": 54,
+    "script": 107075,
+    "scriptCount": 4,
+    "document": 28729,
+    "font": 24287,
+    "fontCount": 3,
+    "stylesheet": 4599,
+    "stylesheetCount": 1,
+    "thirdParty": 202117,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 743,
+    "+weight.total": 319,
+    "-weight.document": 841,
+    "+weight.document": 195,
+    "-weight.script": 510,
+    "+weight.script": 482,
+    "-weight.image": 757,
+    "+weight.image": 189,
+    "-weight.font": 69,
+    "+weight.font": 709,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 111,
+    "-totalBlockingTime": 146,
+    "-largestContentfulPaint": 106
+  },
+  "axe": {
+    "passes": 1919,
+    "violations": 0
+  }
+}

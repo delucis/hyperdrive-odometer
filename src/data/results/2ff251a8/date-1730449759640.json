@@ -1,0 +1,67 @@
+{
+  "url": "https://haitang.app/",
+  "requestedUrl": "https://haitang.app/",
+  "timestamp": 1730470377139,
+  "ranks": {
+    "hundos": 368,
+    "performance": 557,
+    "accessibility": 388,
+    "cumulative": 361
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.86,
+    "accessibility": 0.98,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 384
+  },
+  "firstContentfulPaint": 1515.132,
+  "firstMeaningfulPaint": 1592.132,
+  "speedIndex": 2522.3888103366135,
+  "largestContentfulPaint": 1614.632,
+  "totalBlockingTime": 516,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5410.082,
+  "maxPotentialFirstInputDelay": 476.5,
+  "timeToFirstByte": 120.40099999999998,
+  "weight": {
+    "summary": "94 requests • 1.5 MiB",
+    "total": 1539652,
+    "image": 58797,
+    "imageCount": 11,
+    "script": 1307133,
+    "scriptCount": 9,
+    "document": 14683,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 24066,
+    "stylesheetCount": 2,
+    "thirdParty": 117032,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 784,
+    "+weight.total": 278,
+    "-weight.document": 661,
+    "+weight.document": 375,
+    "-weight.script": 975,
+    "+weight.script": 17,
+    "-weight.image": 241,
+    "+weight.image": 705,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 782,
+    "-totalBlockingTime": 442,
+    "-largestContentfulPaint": 561
+  },
+  "axe": {
+    "passes": 533,
+    "violations": 2
+  }
+}

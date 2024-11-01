@@ -1,0 +1,67 @@
+{
+  "url": "https://superretroweather.onrender.com/",
+  "requestedUrl": "https://superretroweather.onrender.com/",
+  "timestamp": 1730476004971,
+  "ranks": {
+    "hundos": 153,
+    "performance": 176,
+    "accessibility": 403,
+    "cumulative": 155
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.97,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 396
+  },
+  "firstContentfulPaint": 871.453,
+  "firstMeaningfulPaint": 906.953,
+  "speedIndex": 1078.1614738911765,
+  "largestContentfulPaint": 906.953,
+  "totalBlockingTime": 11.5,
+  "cumulativeLayoutShift": 0.0705388084409855,
+  "timeToInteractive": 932.953,
+  "maxPotentialFirstInputDelay": 71,
+  "timeToFirstByte": 258.246,
+  "weight": {
+    "summary": "15 requests • 58.4 KiB",
+    "total": 59777,
+    "image": 0,
+    "imageCount": 0,
+    "script": 15193,
+    "scriptCount": 11,
+    "document": 3414,
+    "font": 37868,
+    "fontCount": 1,
+    "stylesheet": 3302,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 73,
+    "+weight.total": 989,
+    "-weight.document": 75,
+    "+weight.document": 961,
+    "-weight.script": 208,
+    "+weight.script": 784,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 163,
+    "+weight.font": 615,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 908,
+    "-totalBlockingTime": 22,
+    "-largestContentfulPaint": 482
+  },
+  "axe": {
+    "passes": 81,
+    "violations": 2
+  }
+}

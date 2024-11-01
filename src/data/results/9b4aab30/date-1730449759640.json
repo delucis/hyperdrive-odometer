@@ -1,0 +1,20 @@
+{
+  "url": "https://disrapt.co/",
+  "error": "Unknown error.",
+  "sidequests": {
+    "-weight.total": 1062,
+    "+weight.total": 1062,
+    "-weight.document": 1036,
+    "+weight.document": 1036,
+    "-weight.script": 992,
+    "+weight.script": 992,
+    "-weight.image": 946,
+    "+weight.image": 946,
+    "-weight.font": 778,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 1051,
+    "-totalBlockingTime": 695,
+    "-largestContentfulPaint": 1060
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://theboars.cloud/",
+  "requestedUrl": "https://theboars.cloud/",
+  "timestamp": 1730460578628,
+  "ranks": {
+    "hundos": 540,
+    "performance": 715,
+    "accessibility": 432,
+    "cumulative": 540
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.75,
+    "accessibility": 0.96,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 371
+  },
+  "firstContentfulPaint": 1959.1989999999998,
+  "firstMeaningfulPaint": 1959.1989999999998,
+  "speedIndex": 4612.8468498662605,
+  "largestContentfulPaint": 3894.3872499999998,
+  "totalBlockingTime": 363,
+  "cumulativeLayoutShift": 0.022307281885226873,
+  "timeToInteractive": 6921.91579,
+  "maxPotentialFirstInputDelay": 272,
+  "timeToFirstByte": 43.82900000000001,
+  "weight": {
+    "summary": "25 requests • 924.2 KiB",
+    "total": 946419,
+    "image": 546416,
+    "imageCount": 4,
+    "script": 247451,
+    "scriptCount": 14,
+    "document": 34668,
+    "font": 42212,
+    "fontCount": 1,
+    "stylesheet": 7255,
+    "stylesheetCount": 1,
+    "thirdParty": 310485,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 659,
+    "+weight.total": 403,
+    "-weight.document": 879,
+    "+weight.document": 157,
+    "-weight.script": 706,
+    "+weight.script": 286,
+    "-weight.image": 621,
+    "+weight.image": 325,
+    "-weight.font": 203,
+    "+weight.font": 575,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 511,
+    "-totalBlockingTime": 362,
+    "-largestContentfulPaint": 808
+  },
+  "axe": {
+    "passes": 600,
+    "violations": 16
+  }
+}

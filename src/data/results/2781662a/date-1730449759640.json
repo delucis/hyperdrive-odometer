@@ -1,0 +1,67 @@
+{
+  "url": "https://kathrynbloomerinteriors.com.au/",
+  "requestedUrl": "https://kathrynbloomerinteriors.com.au/",
+  "timestamp": 1730487436699,
+  "ranks": {
+    "hundos": 428,
+    "performance": 538,
+    "accessibility": 666,
+    "cumulative": 429
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.87,
+    "accessibility": 0.92,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 379
+  },
+  "firstContentfulPaint": 2253.4190000000003,
+  "firstMeaningfulPaint": 2722.3985000000002,
+  "speedIndex": 2717.573877788414,
+  "largestContentfulPaint": 3496.072,
+  "totalBlockingTime": 140,
+  "cumulativeLayoutShift": 0.0010350875451858757,
+  "timeToInteractive": 4477.93,
+  "maxPotentialFirstInputDelay": 193,
+  "timeToFirstByte": 3.070999999999998,
+  "weight": {
+    "summary": "21 requests • 505.6 KiB",
+    "total": 517765,
+    "image": 214932,
+    "imageCount": 5,
+    "script": 276271,
+    "scriptCount": 9,
+    "document": 4457,
+    "font": 14059,
+    "fontCount": 1,
+    "stylesheet": 7597,
+    "stylesheetCount": 3,
+    "thirdParty": 461522,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 499,
+    "+weight.total": 563,
+    "-weight.document": 134,
+    "+weight.document": 902,
+    "-weight.script": 726,
+    "+weight.script": 266,
+    "-weight.image": 438,
+    "+weight.image": 508,
+    "-weight.font": 19,
+    "+weight.font": 759,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 251,
+    "-totalBlockingTime": 215,
+    "-largestContentfulPaint": 400
+  },
+  "axe": {
+    "passes": 119,
+    "violations": 6
+  }
+}

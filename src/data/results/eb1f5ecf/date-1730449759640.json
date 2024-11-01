@@ -1,0 +1,67 @@
+{
+  "url": "https://antonsimanov.com/",
+  "requestedUrl": "https://antonsimanov.com/",
+  "timestamp": 1730450349006,
+  "ranks": {
+    "hundos": 637,
+    "performance": 622,
+    "accessibility": 937,
+    "cumulative": 631
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.82,
+    "accessibility": 0.81,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 363
+  },
+  "firstContentfulPaint": 2219.2129999999997,
+  "firstMeaningfulPaint": 2219.2129999999997,
+  "speedIndex": 3406.8093414912023,
+  "largestContentfulPaint": 2219.2129999999997,
+  "totalBlockingTime": 523.1844999999998,
+  "cumulativeLayoutShift": 0.013437425347474583,
+  "timeToInteractive": 4988.689499999999,
+  "maxPotentialFirstInputDelay": 341,
+  "timeToFirstByte": 294.731,
+  "weight": {
+    "summary": "35 requests • 566.8 KiB",
+    "total": 580452,
+    "image": 28999,
+    "imageCount": 5,
+    "script": 160095,
+    "scriptCount": 8,
+    "document": 4099,
+    "font": 174073,
+    "fontCount": 11,
+    "stylesheet": 15168,
+    "stylesheetCount": 3,
+    "thirdParty": 541054,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 539,
+    "+weight.total": 523,
+    "-weight.document": 114,
+    "+weight.document": 922,
+    "-weight.script": 620,
+    "+weight.script": 372,
+    "-weight.image": 169,
+    "+weight.image": 777,
+    "-weight.font": 606,
+    "+weight.font": 172,
+    "+weight.fontCount": 8,
+    "-timeToFirstByte": 922,
+    "-totalBlockingTime": 452,
+    "-largestContentfulPaint": 631
+  },
+  "axe": {
+    "passes": 232,
+    "violations": 6
+  }
+}

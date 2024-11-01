@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cathyhector.com/",
+  "requestedUrl": "https://www.cathyhector.com/",
+  "timestamp": 1730478188583,
+  "ranks": {
+    "hundos": 597,
+    "performance": 833,
+    "accessibility": 350,
+    "cumulative": 598
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.66,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 366
+  },
+  "firstContentfulPaint": 1936.263,
+  "firstMeaningfulPaint": 2685.763,
+  "speedIndex": 2374.629709643493,
+  "largestContentfulPaint": 5086.263,
+  "totalBlockingTime": 528,
+  "cumulativeLayoutShift": 0.004349232121597215,
+  "timeToInteractive": 3049.763,
+  "maxPotentialFirstInputDelay": 578,
+  "timeToFirstByte": 73.11200000000001,
+  "weight": {
+    "summary": "17 requests • 1.1 MiB",
+    "total": 1143498,
+    "image": 842211,
+    "imageCount": 10,
+    "script": 64554,
+    "scriptCount": 3,
+    "document": 158596,
+    "font": 70367,
+    "fontCount": 2,
+    "stylesheet": 7770,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 713,
+    "+weight.total": 349,
+    "-weight.document": 1011,
+    "+weight.document": 25,
+    "-weight.script": 416,
+    "+weight.script": 576,
+    "-weight.image": 708,
+    "+weight.image": 238,
+    "-weight.font": 371,
+    "+weight.font": 407,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 627,
+    "-totalBlockingTime": 456,
+    "-largestContentfulPaint": 879
+  },
+  "axe": {
+    "passes": 403,
+    "violations": 21
+  }
+}

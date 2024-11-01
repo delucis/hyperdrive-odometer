@@ -1,0 +1,67 @@
+{
+  "url": "https://awslabs.github.io/cloudfront-hosting-toolkit/",
+  "requestedUrl": "https://awslabs.github.io/cloudfront-hosting-toolkit/",
+  "timestamp": 1730466512569,
+  "ranks": {
+    "hundos": 232,
+    "performance": 442,
+    "accessibility": 103,
+    "cumulative": 223
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.92,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 392
+  },
+  "firstContentfulPaint": 985.0295,
+  "firstMeaningfulPaint": 985.0295,
+  "speedIndex": 985.0295,
+  "largestContentfulPaint": 985.0295,
+  "totalBlockingTime": 177.0000000000001,
+  "cumulativeLayoutShift": 0.14964993264627519,
+  "timeToInteractive": 2420.0295,
+  "maxPotentialFirstInputDelay": 139,
+  "timeToFirstByte": 21.641000000000005,
+  "weight": {
+    "summary": "8 requests • 297.4 KiB",
+    "total": 304578,
+    "image": 0,
+    "imageCount": 0,
+    "script": 24985,
+    "scriptCount": 4,
+    "document": 6671,
+    "font": 260746,
+    "fontCount": 2,
+    "stylesheet": 12176,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 344,
+    "+weight.total": 718,
+    "-weight.document": 285,
+    "+weight.document": 751,
+    "-weight.script": 271,
+    "+weight.script": 721,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 661,
+    "+weight.font": 117,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 413,
+    "-totalBlockingTime": 244,
+    "-largestContentfulPaint": 486
+  },
+  "axe": {
+    "passes": 208,
+    "violations": 0
+  }
+}

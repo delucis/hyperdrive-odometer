@@ -1,0 +1,67 @@
+{
+  "url": "https://www.tarikrital.website/",
+  "requestedUrl": "https://www.tarikrital.website/",
+  "timestamp": 1730480171408,
+  "ranks": {
+    "hundos": 364,
+    "performance": 411,
+    "accessibility": 746,
+    "cumulative": 370
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.94,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 384
+  },
+  "firstContentfulPaint": 2348.4605,
+  "firstMeaningfulPaint": 2348.4605,
+  "speedIndex": 2513.3490737938973,
+  "largestContentfulPaint": 2395.4605,
+  "totalBlockingTime": 137,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2866.9605,
+  "maxPotentialFirstInputDelay": 254,
+  "timeToFirstByte": 69.20700000000002,
+  "weight": {
+    "summary": "23 requests • 348.0 KiB",
+    "total": 356395,
+    "image": 257853,
+    "imageCount": 9,
+    "script": 67784,
+    "scriptCount": 2,
+    "document": 6878,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 15749,
+    "stylesheetCount": 1,
+    "thirdParty": 79432,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 394,
+    "+weight.total": 668,
+    "-weight.document": 312,
+    "+weight.document": 724,
+    "-weight.script": 425,
+    "+weight.script": 567,
+    "-weight.image": 467,
+    "+weight.image": 479,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 607,
+    "-totalBlockingTime": 209,
+    "-largestContentfulPaint": 304
+  },
+  "axe": {
+    "passes": 335,
+    "violations": 11
+  }
+}

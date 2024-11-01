@@ -1,0 +1,67 @@
+{
+  "url": "https://melody-mind.de/",
+  "requestedUrl": "https://melody-mind.de/",
+  "timestamp": 1730456733894,
+  "ranks": {
+    "hundos": 237,
+    "performance": 116,
+    "accessibility": 151,
+    "cumulative": 225
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 392
+  },
+  "firstContentfulPaint": 1002.5740000000001,
+  "firstMeaningfulPaint": 1002.5740000000001,
+  "speedIndex": 1285.7788620614083,
+  "largestContentfulPaint": 1185.574,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.021603084066487484,
+  "timeToInteractive": 1002.5740000000001,
+  "maxPotentialFirstInputDelay": 21,
+  "timeToFirstByte": 142.17999999999998,
+  "weight": {
+    "summary": "5 requests • 60.2 KiB",
+    "total": 61671,
+    "image": 25819,
+    "imageCount": 1,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 3320,
+    "font": 30158,
+    "fontCount": 2,
+    "stylesheet": 2374,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 75,
+    "+weight.total": 987,
+    "-weight.document": 72,
+    "+weight.document": 964,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 157,
+    "+weight.image": 789,
+    "-weight.font": 104,
+    "+weight.font": 674,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 813,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 78
+  },
+  "axe": {
+    "passes": 80,
+    "violations": 0
+  }
+}

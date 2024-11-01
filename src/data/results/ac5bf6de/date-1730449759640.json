@@ -1,0 +1,67 @@
+{
+  "url": "https://www.rmmanfredi.com/it/",
+  "requestedUrl": "https://www.rmmanfredi.com/it/",
+  "timestamp": 1730495609460,
+  "ranks": {
+    "hundos": 9,
+    "performance": 78,
+    "accessibility": 196,
+    "cumulative": 57
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1077.705,
+  "firstMeaningfulPaint": 1077.705,
+  "speedIndex": 1077.705,
+  "largestContentfulPaint": 1227.705,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.00044119615645618404,
+  "timeToInteractive": 1077.705,
+  "maxPotentialFirstInputDelay": 43,
+  "timeToFirstByte": 50.882999999999996,
+  "weight": {
+    "summary": "17 requests • 200.2 KiB",
+    "total": 205052,
+    "image": 94358,
+    "imageCount": 5,
+    "script": 8407,
+    "scriptCount": 5,
+    "document": 12294,
+    "font": 64509,
+    "fontCount": 3,
+    "stylesheet": 25484,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 269,
+    "+weight.total": 793,
+    "-weight.document": 579,
+    "+weight.document": 457,
+    "-weight.script": 145,
+    "+weight.script": 847,
+    "-weight.image": 299,
+    "+weight.image": 647,
+    "-weight.font": 336,
+    "+weight.font": 442,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 537,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 92
+  },
+  "axe": {
+    "passes": 310,
+    "violations": 1
+  }
+}

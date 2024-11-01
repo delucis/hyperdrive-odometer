@@ -1,0 +1,67 @@
+{
+  "url": "https://propertyfence.ca/",
+  "requestedUrl": "https://propertyfence.ca/",
+  "timestamp": 1730458356455,
+  "ranks": {
+    "hundos": 910,
+    "performance": 1010,
+    "accessibility": 723,
+    "cumulative": 911
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.4,
+    "accessibility": 0.91,
+    "bestPractices": 0.96,
+    "seo": 0.98,
+    "total": 325
+  },
+  "firstContentfulPaint": 2520.6330000000003,
+  "firstMeaningfulPaint": 2520.6330000000003,
+  "speedIndex": 6311.91369505874,
+  "largestContentfulPaint": 12299.025,
+  "totalBlockingTime": 1499.5,
+  "cumulativeLayoutShift": 0.00011373916509031254,
+  "timeToInteractive": 11972.2775,
+  "maxPotentialFirstInputDelay": 392,
+  "timeToFirstByte": 53.165000000000006,
+  "weight": {
+    "summary": "68 requests • 1.9 MiB",
+    "total": 2020682,
+    "image": 281408,
+    "imageCount": 12,
+    "script": 869687,
+    "scriptCount": 41,
+    "document": 62117,
+    "font": 775830,
+    "fontCount": 7,
+    "stylesheet": 30074,
+    "stylesheetCount": 3,
+    "thirdParty": 1396100,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 849,
+    "+weight.total": 213,
+    "-weight.document": 954,
+    "+weight.document": 82,
+    "-weight.script": 928,
+    "+weight.script": 64,
+    "-weight.image": 492,
+    "+weight.image": 454,
+    "-weight.font": 754,
+    "+weight.font": 24,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 545,
+    "-totalBlockingTime": 595,
+    "-largestContentfulPaint": 1003
+  },
+  "axe": {
+    "passes": 974,
+    "violations": 56
+  }
+}

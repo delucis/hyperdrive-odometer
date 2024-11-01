@@ -1,0 +1,67 @@
+{
+  "url": "https://ijcai-faircop-default.layer0-limelight.link/",
+  "requestedUrl": "https://ijcai-faircop-default.layer0-limelight.link/",
+  "timestamp": 1730453707062,
+  "ranks": {
+    "hundos": 411,
+    "performance": 10,
+    "accessibility": 741,
+    "cumulative": 412
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 0.91,
+    "total": 381
+  },
+  "firstContentfulPaint": 888,
+  "firstMeaningfulPaint": 888,
+  "speedIndex": 888,
+  "largestContentfulPaint": 1352,
+  "totalBlockingTime": 10,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 945,
+  "maxPotentialFirstInputDelay": 85,
+  "timeToFirstByte": 3.6899999999999977,
+  "weight": {
+    "summary": "9 requests • 76.9 KiB",
+    "total": 78762,
+    "image": 73430,
+    "imageCount": 7,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 2273,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 3059,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 105,
+    "+weight.total": 957,
+    "-weight.document": 26,
+    "+weight.document": 1010,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 266,
+    "+weight.image": 680,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 279,
+    "-totalBlockingTime": 18,
+    "-largestContentfulPaint": 524
+  },
+  "axe": {
+    "passes": 33,
+    "violations": 6
+  }
+}

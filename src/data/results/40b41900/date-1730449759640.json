@@ -1,0 +1,67 @@
+{
+  "url": "https://flames-xt.vercel.app/",
+  "requestedUrl": "https://flames-xt.vercel.app/",
+  "timestamp": 1730469647931,
+  "ranks": {
+    "hundos": 100,
+    "performance": 231,
+    "accessibility": 155,
+    "cumulative": 88
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 1673.004,
+  "firstMeaningfulPaint": 1673.004,
+  "speedIndex": 1673.004,
+  "largestContentfulPaint": 1673.004,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1673.004,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 2.266999999999996,
+  "weight": {
+    "summary": "6 requests • 89.3 KiB",
+    "total": 91488,
+    "image": 0,
+    "imageCount": 0,
+    "script": 64464,
+    "scriptCount": 3,
+    "document": 3888,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 23136,
+    "stylesheetCount": 2,
+    "thirdParty": 19529,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 120,
+    "+weight.total": 942,
+    "-weight.document": 97,
+    "+weight.document": 939,
+    "-weight.script": 415,
+    "+weight.script": 577,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 97,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 184
+  },
+  "axe": {
+    "passes": 55,
+    "violations": 0
+  }
+}

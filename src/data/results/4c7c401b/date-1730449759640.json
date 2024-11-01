@@ -1,0 +1,67 @@
+{
+  "url": "https://louierichardson.com/",
+  "requestedUrl": "https://louierichardson.com/",
+  "timestamp": 1730472235318,
+  "ranks": {
+    "hundos": 311,
+    "performance": 528,
+    "accessibility": 207,
+    "cumulative": 312
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.87,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 387
+  },
+  "firstContentfulPaint": 913.7645,
+  "firstMeaningfulPaint": 951.7645,
+  "speedIndex": 1558.0211915906712,
+  "largestContentfulPaint": 4090.7644999999998,
+  "totalBlockingTime": 20,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2099.4925,
+  "maxPotentialFirstInputDelay": 76,
+  "timeToFirstByte": 89.08700000000002,
+  "weight": {
+    "summary": "14 requests • 721.4 KiB",
+    "total": 738741,
+    "image": 719260,
+    "imageCount": 6,
+    "script": 10530,
+    "scriptCount": 3,
+    "document": 5340,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 2398,
+    "stylesheetCount": 1,
+    "thirdParty": 10558,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 593,
+    "+weight.total": 469,
+    "-weight.document": 192,
+    "+weight.document": 844,
+    "-weight.script": 168,
+    "+weight.script": 824,
+    "-weight.image": 675,
+    "+weight.image": 271,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 687,
+    "-totalBlockingTime": 37,
+    "-largestContentfulPaint": 422
+  },
+  "axe": {
+    "passes": 181,
+    "violations": 1
+  }
+}

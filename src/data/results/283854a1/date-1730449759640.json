@@ -1,0 +1,67 @@
+{
+  "url": "https://ioxua.com/br/",
+  "requestedUrl": "https://ioxua.com/br/",
+  "timestamp": 1730486888790,
+  "ranks": {
+    "hundos": 228,
+    "performance": 86,
+    "accessibility": 241,
+    "cumulative": 229
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 392
+  },
+  "firstContentfulPaint": 1015.672,
+  "firstMeaningfulPaint": 1015.672,
+  "speedIndex": 1089.4231199974292,
+  "largestContentfulPaint": 1015.672,
+  "totalBlockingTime": 0.5,
+  "cumulativeLayoutShift": 0.01572335781537208,
+  "timeToInteractive": 1062.172,
+  "maxPotentialFirstInputDelay": 51,
+  "timeToFirstByte": 2.3969999999999914,
+  "weight": {
+    "summary": "17 requests • 133.4 KiB",
+    "total": 136625,
+    "image": 120511,
+    "imageCount": 3,
+    "script": 3542,
+    "scriptCount": 1,
+    "document": 5054,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 5934,
+    "stylesheetCount": 2,
+    "thirdParty": 120511,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 181,
+    "+weight.total": 881,
+    "-weight.document": 171,
+    "+weight.document": 865,
+    "-weight.script": 68,
+    "+weight.script": 924,
+    "-weight.image": 340,
+    "+weight.image": 606,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 128,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 492
+  },
+  "axe": {
+    "passes": 116,
+    "violations": 2
+  }
+}

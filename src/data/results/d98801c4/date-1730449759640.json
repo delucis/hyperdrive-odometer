@@ -1,0 +1,67 @@
+{
+  "url": "https://taterki.cskl.pl/",
+  "requestedUrl": "https://taterki.cskl.pl/",
+  "timestamp": 1730476186818,
+  "ranks": {
+    "hundos": 480,
+    "performance": 707,
+    "accessibility": 215,
+    "cumulative": 472
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.75,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 375
+  },
+  "firstContentfulPaint": 1000.889,
+  "firstMeaningfulPaint": 1070.3890000000001,
+  "speedIndex": 2998.0409076312962,
+  "largestContentfulPaint": 8301.889,
+  "totalBlockingTime": 54.500000000000114,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3415.889,
+  "maxPotentialFirstInputDelay": 139,
+  "timeToFirstByte": 524.835,
+  "weight": {
+    "summary": "9 requests • 1.8 MiB",
+    "total": 1883973,
+    "image": 1742491,
+    "imageCount": 4,
+    "script": 4949,
+    "scriptCount": 1,
+    "document": 2586,
+    "font": 128291,
+    "fontCount": 2,
+    "stylesheet": 5656,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 831,
+    "+weight.total": 231,
+    "-weight.document": 41,
+    "+weight.document": 995,
+    "-weight.script": 90,
+    "+weight.script": 902,
+    "-weight.image": 816,
+    "+weight.image": 130,
+    "-weight.font": 538,
+    "+weight.font": 240,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 992,
+    "-totalBlockingTime": 99,
+    "-largestContentfulPaint": 467
+  },
+  "axe": {
+    "passes": 76,
+    "violations": 1
+  }
+}

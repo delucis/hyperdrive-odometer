@@ -1,0 +1,67 @@
+{
+  "url": "https://frenchsimplified.com/",
+  "requestedUrl": "https://frenchsimplified.com/",
+  "timestamp": 1730485733183,
+  "ranks": {
+    "hundos": 751,
+    "performance": 573,
+    "accessibility": 503,
+    "cumulative": 754
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.85,
+    "accessibility": 0.95,
+    "bestPractices": 0.7,
+    "seo": 1,
+    "total": 350
+  },
+  "firstContentfulPaint": 1113.5855000000001,
+  "firstMeaningfulPaint": 2523.998,
+  "speedIndex": 3535.1671793999835,
+  "largestContentfulPaint": 1796.8605000000002,
+  "totalBlockingTime": 524.9724999999999,
+  "cumulativeLayoutShift": 0.0006646791476204928,
+  "timeToInteractive": 3475.163,
+  "maxPotentialFirstInputDelay": 474.99999999999955,
+  "timeToFirstByte": 2.1880000000000024,
+  "weight": {
+    "summary": "25 requests • 439.6 KiB",
+    "total": 450186,
+    "image": 166837,
+    "imageCount": 9,
+    "script": 150132,
+    "scriptCount": 9,
+    "document": 37860,
+    "font": 83391,
+    "fontCount": 3,
+    "stylesheet": 11420,
+    "stylesheetCount": 1,
+    "thirdParty": 141011,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 448,
+    "+weight.total": 614,
+    "-weight.document": 892,
+    "+weight.document": 144,
+    "-weight.script": 604,
+    "+weight.script": 388,
+    "-weight.image": 391,
+    "+weight.image": 555,
+    "-weight.font": 438,
+    "+weight.font": 340,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 73,
+    "-totalBlockingTime": 454,
+    "-largestContentfulPaint": 586
+  },
+  "axe": {
+    "passes": 507,
+    "violations": 12
+  }
+}

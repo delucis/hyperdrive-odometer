@@ -1,0 +1,67 @@
+{
+  "url": "https://www.complainhc.it/",
+  "requestedUrl": "https://www.complainhc.it/",
+  "timestamp": 1730494056287,
+  "ranks": {
+    "hundos": 622,
+    "performance": 736,
+    "accessibility": 533,
+    "cumulative": 622
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.74,
+    "accessibility": 0.94,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 364
+  },
+  "firstContentfulPaint": 1222.2669999999998,
+  "firstMeaningfulPaint": 1362.2669999999998,
+  "speedIndex": 3721.302231373568,
+  "largestContentfulPaint": 4923.997500000001,
+  "totalBlockingTime": 307,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 6246.787000000001,
+  "maxPotentialFirstInputDelay": 280,
+  "timeToFirstByte": 3.055000000000007,
+  "weight": {
+    "summary": "20 requests • 1.1 MiB",
+    "total": 1172389,
+    "image": 756915,
+    "imageCount": 6,
+    "script": 333407,
+    "scriptCount": 9,
+    "document": 5818,
+    "font": 56307,
+    "fontCount": 1,
+    "stylesheet": 19398,
+    "stylesheetCount": 2,
+    "thirdParty": 264410,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 719,
+    "+weight.total": 343,
+    "-weight.document": 239,
+    "+weight.document": 797,
+    "-weight.script": 780,
+    "+weight.script": 212,
+    "-weight.image": 688,
+    "+weight.image": 258,
+    "-weight.font": 292,
+    "+weight.font": 486,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 248,
+    "-totalBlockingTime": 330,
+    "-largestContentfulPaint": 874
+  },
+  "axe": {
+    "passes": 185,
+    "violations": 0
+  }
+}

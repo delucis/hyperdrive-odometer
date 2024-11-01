@@ -1,0 +1,66 @@
+{
+  "url": "https://pierre.io/",
+  "requestedUrl": "https://pierre.io/",
+  "timestamp": 1730458157851,
+  "ranks": {
+    "hundos": 1053,
+    "performance": 892,
+    "accessibility": 371,
+    "cumulative": 1053
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 1,
+    "bestPractices": null,
+    "seo": 1,
+    "total": 260
+  },
+  "firstContentfulPaint": 1113.96,
+  "firstMeaningfulPaint": 1113.96,
+  "speedIndex": 14310.257604377655,
+  "largestContentfulPaint": 1263.979,
+  "totalBlockingTime": 169387.462,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 175171.8495,
+  "maxPotentialFirstInputDelay": 10000,
+  "timeToFirstByte": 29.686999999999998,
+  "weight": {
+    "summary": "49 requests • 1.3 MiB",
+    "total": 1389091,
+    "image": 259,
+    "imageCount": 1,
+    "script": 1200982,
+    "scriptCount": 17,
+    "document": 7774,
+    "font": 18543,
+    "fontCount": 1,
+    "stylesheet": 3229,
+    "stylesheetCount": 1,
+    "thirdParty": 102622,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 753,
+    "+weight.total": 309,
+    "-weight.document": 379,
+    "+weight.document": 657,
+    "-weight.script": 968,
+    "+weight.script": 24,
+    "-weight.image": 6,
+    "+weight.image": 940,
+    "-weight.font": 43,
+    "+weight.font": 735,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 450,
+    "-totalBlockingTime": 693,
+    "-largestContentfulPaint": 518
+  },
+  "axe": {
+    "error": "{\"name\":\"TimeoutError\"}"
+  }
+}

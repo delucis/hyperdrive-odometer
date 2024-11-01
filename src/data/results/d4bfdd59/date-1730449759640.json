@@ -1,0 +1,67 @@
+{
+  "url": "https://www.cointracker.io/",
+  "requestedUrl": "https://www.cointracker.io/",
+  "timestamp": 1730494045285,
+  "ranks": {
+    "hundos": 882,
+    "performance": 1001,
+    "accessibility": 728,
+    "cumulative": 881
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.41,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 331
+  },
+  "firstContentfulPaint": 3284.114,
+  "firstMeaningfulPaint": 3284.114,
+  "speedIndex": 5684.567391841035,
+  "largestContentfulPaint": 6301.719000000001,
+  "totalBlockingTime": 1468.4220000000014,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 9856.583000000002,
+  "maxPotentialFirstInputDelay": 956,
+  "timeToFirstByte": 209.876,
+  "weight": {
+    "summary": "116 requests • 1.5 MiB",
+    "total": 1525289,
+    "image": 270926,
+    "imageCount": 32,
+    "script": 884562,
+    "scriptCount": 73,
+    "document": 231594,
+    "font": 136421,
+    "fontCount": 4,
+    "stylesheet": 1388,
+    "stylesheetCount": 2,
+    "thirdParty": 154003,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 783,
+    "+weight.total": 279,
+    "-weight.document": 1021,
+    "+weight.document": 15,
+    "-weight.script": 932,
+    "+weight.script": 60,
+    "-weight.image": 482,
+    "+weight.image": 464,
+    "-weight.font": 564,
+    "+weight.font": 214,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 874,
+    "-totalBlockingTime": 588,
+    "-largestContentfulPaint": 925
+  },
+  "axe": {
+    "passes": 51,
+    "violations": 2
+  }
+}

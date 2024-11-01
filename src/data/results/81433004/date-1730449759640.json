@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nicchan.me/",
+  "requestedUrl": "https://www.nicchan.me/",
+  "timestamp": 1730479456581,
+  "ranks": {
+    "hundos": 129,
+    "performance": 196,
+    "accessibility": 46,
+    "cumulative": 128
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 397
+  },
+  "firstContentfulPaint": 1137.603,
+  "firstMeaningfulPaint": 1137.603,
+  "speedIndex": 1375.4891950806575,
+  "largestContentfulPaint": 2068.592,
+  "totalBlockingTime": 32,
+  "cumulativeLayoutShift": 0.012125025014374352,
+  "timeToInteractive": 1686.983,
+  "maxPotentialFirstInputDelay": 114,
+  "timeToFirstByte": 4.823999999999984,
+  "weight": {
+    "summary": "29 requests • 170.3 KiB",
+    "total": 174361,
+    "image": 107724,
+    "imageCount": 12,
+    "script": 21387,
+    "scriptCount": 10,
+    "document": 8506,
+    "font": 28902,
+    "fontCount": 3,
+    "stylesheet": 6634,
+    "stylesheetCount": 1,
+    "thirdParty": 107410,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 229,
+    "+weight.total": 833,
+    "-weight.document": 416,
+    "+weight.document": 620,
+    "-weight.script": 241,
+    "+weight.script": 751,
+    "-weight.image": 323,
+    "+weight.image": 623,
+    "-weight.font": 95,
+    "+weight.font": 683,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 299,
+    "-totalBlockingTime": 57,
+    "-largestContentfulPaint": 258
+  },
+  "axe": {
+    "passes": 457,
+    "violations": 0
+  }
+}

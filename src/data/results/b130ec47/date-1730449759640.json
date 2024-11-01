@@ -1,0 +1,67 @@
+{
+  "url": "https://joinvdc.com/",
+  "requestedUrl": "https://joinvdc.com/",
+  "timestamp": 1730455684960,
+  "ranks": {
+    "hundos": 542,
+    "performance": 658,
+    "accessibility": 225,
+    "cumulative": 535
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.79,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 371
+  },
+  "firstContentfulPaint": 1149.63646,
+  "firstMeaningfulPaint": 1149.63646,
+  "speedIndex": 2066.1663259440174,
+  "largestContentfulPaint": 2626.4718399999997,
+  "totalBlockingTime": 735.5,
+  "cumulativeLayoutShift": 0.00009873340725112906,
+  "timeToInteractive": 7412.286439999999,
+  "maxPotentialFirstInputDelay": 190,
+  "timeToFirstByte": 70.85499999999999,
+  "weight": {
+    "summary": "42 requests • 811.9 KiB",
+    "total": 831350,
+    "image": 80397,
+    "imageCount": 11,
+    "script": 670981,
+    "scriptCount": 18,
+    "document": 11965,
+    "font": 54749,
+    "fontCount": 2,
+    "stylesheet": 10350,
+    "stylesheetCount": 4,
+    "thirdParty": 679988,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 629,
+    "+weight.total": 433,
+    "-weight.document": 566,
+    "+weight.document": 470,
+    "-weight.script": 903,
+    "+weight.script": 89,
+    "-weight.image": 282,
+    "+weight.image": 664,
+    "-weight.font": 286,
+    "+weight.font": 492,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 614,
+    "-totalBlockingTime": 500,
+    "-largestContentfulPaint": 691
+  },
+  "axe": {
+    "passes": 654,
+    "violations": 2
+  }
+}

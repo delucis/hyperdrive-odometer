@@ -1,0 +1,67 @@
+{
+  "url": "https://nhutduong.com/",
+  "requestedUrl": "https://nhutduong.com/",
+  "timestamp": 1730457316470,
+  "ranks": {
+    "hundos": 136,
+    "performance": 62,
+    "accessibility": 129,
+    "cumulative": 130
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 397
+  },
+  "firstContentfulPaint": 1051.2775000000001,
+  "firstMeaningfulPaint": 1051.2775000000001,
+  "speedIndex": 1051.2775000000001,
+  "largestContentfulPaint": 1051.2775000000001,
+  "totalBlockingTime": 65,
+  "cumulativeLayoutShift": 0.014303198111680451,
+  "timeToInteractive": 1201.2775000000001,
+  "maxPotentialFirstInputDelay": 115,
+  "timeToFirstByte": 51.97,
+  "weight": {
+    "summary": "4 requests • 63.4 KiB",
+    "total": 64879,
+    "image": 0,
+    "imageCount": 0,
+    "script": 5555,
+    "scriptCount": 1,
+    "document": 3751,
+    "font": 49181,
+    "fontCount": 1,
+    "stylesheet": 6392,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 82,
+    "+weight.total": 980,
+    "-weight.document": 88,
+    "+weight.document": 948,
+    "-weight.script": 103,
+    "+weight.script": 889,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 261,
+    "+weight.font": 517,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 543,
+    "-totalBlockingTime": 113,
+    "-largestContentfulPaint": 41
+  },
+  "axe": {
+    "passes": 143,
+    "violations": 0
+  }
+}

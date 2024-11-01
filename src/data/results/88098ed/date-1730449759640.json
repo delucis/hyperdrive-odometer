@@ -1,0 +1,67 @@
+{
+  "url": "https://discord-components.js.org/",
+  "requestedUrl": "https://discord-components.js.org/",
+  "timestamp": 1730484417489,
+  "ranks": {
+    "hundos": 3,
+    "performance": 58,
+    "accessibility": 182,
+    "cumulative": 55
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1043.979,
+  "firstMeaningfulPaint": 1096.979,
+  "speedIndex": 1043.979,
+  "largestContentfulPaint": 1193.979,
+  "totalBlockingTime": 32.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1268.979,
+  "maxPotentialFirstInputDelay": 115,
+  "timeToFirstByte": 45.17399999999999,
+  "weight": {
+    "summary": "27 requests • 517.4 KiB",
+    "total": 529790,
+    "image": 471427,
+    "imageCount": 18,
+    "script": 28779,
+    "scriptCount": 5,
+    "document": 12513,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 17071,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 508,
+    "+weight.total": 554,
+    "-weight.document": 589,
+    "+weight.document": 447,
+    "-weight.script": 304,
+    "+weight.script": 688,
+    "-weight.image": 592,
+    "+weight.image": 354,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 516,
+    "-totalBlockingTime": 58,
+    "-largestContentfulPaint": 80
+  },
+  "axe": {
+    "passes": 545,
+    "violations": 1
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://tixiang.app/",
+  "requestedUrl": "https://tixiang.app/",
+  "timestamp": 1730460805635,
+  "ranks": {
+    "hundos": 465,
+    "performance": 550,
+    "accessibility": 606,
+    "cumulative": 462
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.86,
+    "accessibility": 0.93,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 376
+  },
+  "firstContentfulPaint": 1109.287,
+  "firstMeaningfulPaint": 1109.287,
+  "speedIndex": 1291.523199679757,
+  "largestContentfulPaint": 1109.287,
+  "totalBlockingTime": 552,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1711.287,
+  "maxPotentialFirstInputDelay": 613,
+  "timeToFirstByte": 47.435,
+  "weight": {
+    "summary": "8 requests • 557.6 KiB",
+    "total": 571004,
+    "image": 524233,
+    "imageCount": 2,
+    "script": 28691,
+    "scriptCount": 2,
+    "document": 5664,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 12278,
+    "stylesheetCount": 2,
+    "thirdParty": 7119,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 532,
+    "+weight.total": 530,
+    "-weight.document": 227,
+    "+weight.document": 809,
+    "-weight.script": 302,
+    "+weight.script": 690,
+    "-weight.image": 613,
+    "+weight.image": 333,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 527,
+    "-totalBlockingTime": 466,
+    "-largestContentfulPaint": 503
+  },
+  "axe": {
+    "passes": 219,
+    "violations": 2
+  }
+}

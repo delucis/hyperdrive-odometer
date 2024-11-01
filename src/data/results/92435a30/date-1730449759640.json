@@ -1,0 +1,67 @@
+{
+  "url": "https://thedailystoic.art/",
+  "requestedUrl": "https://thedailystoic.art/",
+  "timestamp": 1730460588987,
+  "ranks": {
+    "hundos": 689,
+    "performance": 496,
+    "accessibility": 733,
+    "cumulative": 685
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.9,
+    "accessibility": 0.9,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 358
+  },
+  "firstContentfulPaint": 1801.707,
+  "firstMeaningfulPaint": 1801.707,
+  "speedIndex": 4098.18232999848,
+  "largestContentfulPaint": 3205.3195000000005,
+  "totalBlockingTime": 20,
+  "cumulativeLayoutShift": 0.00008735053208070127,
+  "timeToInteractive": 2978.8085,
+  "maxPotentialFirstInputDelay": 91,
+  "timeToFirstByte": 2.2120000000000033,
+  "weight": {
+    "summary": "14 requests • 127.6 KiB",
+    "total": 130671,
+    "image": 442,
+    "imageCount": 1,
+    "script": 28744,
+    "scriptCount": 2,
+    "document": 4066,
+    "font": 91877,
+    "fontCount": 6,
+    "stylesheet": 4073,
+    "stylesheetCount": 1,
+    "thirdParty": 122532,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 170,
+    "+weight.total": 892,
+    "-weight.document": 111,
+    "+weight.document": 925,
+    "-weight.script": 303,
+    "+weight.script": 689,
+    "-weight.image": 8,
+    "+weight.image": 938,
+    "-weight.font": 462,
+    "+weight.font": 316,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 80,
+    "-totalBlockingTime": 37,
+    "-largestContentfulPaint": 381
+  },
+  "axe": {
+    "passes": 67,
+    "violations": 3
+  }
+}

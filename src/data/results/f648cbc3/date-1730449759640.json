@@ -1,0 +1,67 @@
+{
+  "url": "https://astro-landig-coffe-shop.vercel.app/",
+  "requestedUrl": "https://astro-landig-coffe-shop.vercel.app/",
+  "timestamp": 1730450611612,
+  "ranks": {
+    "hundos": 246,
+    "performance": 169,
+    "accessibility": 679,
+    "cumulative": 264
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 391
+  },
+  "firstContentfulPaint": 978.494,
+  "firstMeaningfulPaint": 1067.4940000000001,
+  "speedIndex": 978.494,
+  "largestContentfulPaint": 2114.494,
+  "totalBlockingTime": 14.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1138.4940000000001,
+  "maxPotentialFirstInputDelay": 79,
+  "timeToFirstByte": 1.891999999999996,
+  "weight": {
+    "summary": "19 requests • 2.0 MiB",
+    "total": 2121481,
+    "image": 2115349,
+    "imageCount": 17,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 3148,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 2984,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 858,
+    "+weight.total": 204,
+    "-weight.document": 62,
+    "+weight.document": 974,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 837,
+    "+weight.image": 109,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 9,
+    "-totalBlockingTime": 28,
+    "-largestContentfulPaint": 620
+  },
+  "axe": {
+    "passes": 287,
+    "violations": 21
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.gooseinsurance.com/en-ca",
+  "requestedUrl": "https://www.gooseinsurance.com/",
+  "timestamp": 1730494554024,
+  "ranks": {
+    "hundos": 836,
+    "performance": 728,
+    "accessibility": 835,
+    "cumulative": 838
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.74,
+    "accessibility": 0.87,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 339
+  },
+  "firstContentfulPaint": 1092.7169999999999,
+  "firstMeaningfulPaint": 1280.7169999999999,
+  "speedIndex": 2620.172213409912,
+  "largestContentfulPaint": 2327.683,
+  "totalBlockingTime": 1235.0224999999987,
+  "cumulativeLayoutShift": 0.003706328568266727,
+  "timeToInteractive": 7492.519,
+  "maxPotentialFirstInputDelay": 346,
+  "timeToFirstByte": 2.673,
+  "weight": {
+    "summary": "55 requests • 828.9 KiB",
+    "total": 848799,
+    "image": 77932,
+    "imageCount": 22,
+    "script": 628953,
+    "scriptCount": 19,
+    "document": 17550,
+    "font": 108864,
+    "fontCount": 3,
+    "stylesheet": 9835,
+    "stylesheetCount": 1,
+    "thirdParty": 626930,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 634,
+    "+weight.total": 428,
+    "-weight.document": 717,
+    "+weight.document": 319,
+    "-weight.script": 895,
+    "+weight.script": 97,
+    "-weight.image": 276,
+    "+weight.image": 670,
+    "-weight.font": 505,
+    "+weight.font": 273,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 198,
+    "-totalBlockingTime": 575,
+    "-largestContentfulPaint": 647
+  },
+  "axe": {
+    "passes": 734,
+    "violations": 32
+  }
+}

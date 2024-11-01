@@ -1,0 +1,67 @@
+{
+  "url": "https://atlas.ourkolkata.in/",
+  "requestedUrl": "https://atlas.ourkolkata.in/",
+  "timestamp": 1730450727764,
+  "ranks": {
+    "hundos": 442,
+    "performance": 610,
+    "accessibility": 300,
+    "cumulative": 441
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.82,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 378
+  },
+  "firstContentfulPaint": 1012.231,
+  "firstMeaningfulPaint": 1012.231,
+  "speedIndex": 2186.1707174894545,
+  "largestContentfulPaint": 4726.231,
+  "totalBlockingTime": 31,
+  "cumulativeLayoutShift": 0.05359106544528625,
+  "timeToInteractive": 3005.7309999999998,
+  "maxPotentialFirstInputDelay": 76,
+  "timeToFirstByte": 90.64699999999999,
+  "weight": {
+    "summary": "70 requests • 1.9 MiB",
+    "total": 1959256,
+    "image": 1551478,
+    "imageCount": 10,
+    "script": 115440,
+    "scriptCount": 12,
+    "document": 13821,
+    "font": 157408,
+    "fontCount": 4,
+    "stylesheet": 8894,
+    "stylesheetCount": 2,
+    "thirdParty": 119254,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 838,
+    "+weight.total": 224,
+    "-weight.document": 631,
+    "+weight.document": 405,
+    "-weight.script": 546,
+    "+weight.script": 446,
+    "-weight.image": 800,
+    "+weight.image": 146,
+    "-weight.font": 590,
+    "+weight.font": 188,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 691,
+    "-totalBlockingTime": 56,
+    "-largestContentfulPaint": 436
+  },
+  "axe": {
+    "passes": 352,
+    "violations": 5
+  }
+}

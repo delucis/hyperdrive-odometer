@@ -1,0 +1,67 @@
+{
+  "url": "https://zulik.co/",
+  "requestedUrl": "https://zulik.co/",
+  "timestamp": 1730465491318,
+  "ranks": {
+    "hundos": 855,
+    "performance": 1026,
+    "accessibility": 13,
+    "cumulative": 849
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.37,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 337
+  },
+  "firstContentfulPaint": 1768.04,
+  "firstMeaningfulPaint": 1843.04,
+  "speedIndex": 7610.151611723576,
+  "largestContentfulPaint": 2487.04,
+  "totalBlockingTime": 158174.62108802795,
+  "cumulativeLayoutShift": 0.5792731377892149,
+  "timeToInteractive": 167703.28217605592,
+  "maxPotentialFirstInputDelay": 2666.000000000002,
+  "timeToFirstByte": 75.795,
+  "weight": {
+    "summary": "123 requests • 2.6 MiB",
+    "total": 2706088,
+    "image": 2117626,
+    "imageCount": 100,
+    "script": 473229,
+    "scriptCount": 8,
+    "document": 28442,
+    "font": 73955,
+    "fontCount": 3,
+    "stylesheet": 7095,
+    "stylesheetCount": 1,
+    "thirdParty": 230325,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 897,
+    "+weight.total": 165,
+    "-weight.document": 834,
+    "+weight.document": 202,
+    "-weight.script": 852,
+    "+weight.script": 140,
+    "-weight.image": 838,
+    "+weight.image": 108,
+    "-weight.font": 385,
+    "+weight.font": 393,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 642,
+    "-totalBlockingTime": 689,
+    "-largestContentfulPaint": 671
+  },
+  "axe": {
+    "passes": 924,
+    "violations": 0
+  }
+}

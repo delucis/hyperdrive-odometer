@@ -1,0 +1,67 @@
+{
+  "url": "https://oktools365.com/",
+  "requestedUrl": "https://oktools365.com/",
+  "timestamp": 1730473254685,
+  "ranks": {
+    "hundos": 233,
+    "performance": 134,
+    "accessibility": 427,
+    "cumulative": 240
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.96,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 392
+  },
+  "firstContentfulPaint": 1001.237,
+  "firstMeaningfulPaint": 1001.237,
+  "speedIndex": 1509.9000206229266,
+  "largestContentfulPaint": 1635.5789999999997,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.03941065205910819,
+  "timeToInteractive": 1001.237,
+  "maxPotentialFirstInputDelay": 36,
+  "timeToFirstByte": 177.01100000000002,
+  "weight": {
+    "summary": "13 requests • 214.7 KiB",
+    "total": 219882,
+    "image": 23998,
+    "imageCount": 4,
+    "script": 11109,
+    "scriptCount": 3,
+    "document": 3081,
+    "font": 178525,
+    "fontCount": 2,
+    "stylesheet": 3132,
+    "stylesheetCount": 1,
+    "thirdParty": 7133,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 279,
+    "+weight.total": 783,
+    "-weight.document": 57,
+    "+weight.document": 979,
+    "-weight.script": 173,
+    "+weight.script": 819,
+    "-weight.image": 153,
+    "+weight.image": 793,
+    "-weight.font": 612,
+    "+weight.font": 166,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 843,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 171
+  },
+  "axe": {
+    "passes": 116,
+    "violations": 8
+  }
+}

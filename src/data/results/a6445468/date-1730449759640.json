@@ -1,0 +1,67 @@
+{
+  "url": "https://merwin.dev/",
+  "requestedUrl": "https://merwin.dev/",
+  "timestamp": 1730456773685,
+  "ranks": {
+    "hundos": 32,
+    "performance": 118,
+    "accessibility": 105,
+    "cumulative": 16
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 956.017,
+  "firstMeaningfulPaint": 956.017,
+  "speedIndex": 1312.4378660000593,
+  "largestContentfulPaint": 1229.017,
+  "totalBlockingTime": 40,
+  "cumulativeLayoutShift": 0.00010673797120892636,
+  "timeToInteractive": 1046.017,
+  "maxPotentialFirstInputDelay": 157,
+  "timeToFirstByte": 191.04399999999998,
+  "weight": {
+    "summary": "15 requests • 370.6 KiB",
+    "total": 379462,
+    "image": 32843,
+    "imageCount": 2,
+    "script": 552,
+    "scriptCount": 1,
+    "document": 5556,
+    "font": 326612,
+    "fontCount": 6,
+    "stylesheet": 13899,
+    "stylesheetCount": 5,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 407,
+    "+weight.total": 655,
+    "-weight.document": 217,
+    "+weight.document": 819,
+    "-weight.script": 6,
+    "+weight.script": 986,
+    "-weight.image": 182,
+    "+weight.image": 764,
+    "-weight.font": 690,
+    "+weight.font": 88,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 855,
+    "-totalBlockingTime": 73,
+    "-largestContentfulPaint": 93
+  },
+  "axe": {
+    "passes": 206,
+    "violations": 0
+  }
+}

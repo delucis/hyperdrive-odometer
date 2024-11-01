@@ -1,0 +1,67 @@
+{
+  "url": "https://metta.pub/",
+  "requestedUrl": "https://metta.pub/",
+  "timestamp": 1730456817586,
+  "ranks": {
+    "hundos": 559,
+    "performance": 711,
+    "accessibility": 571,
+    "cumulative": 563
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.75,
+    "accessibility": 0.94,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 369
+  },
+  "firstContentfulPaint": 1066.7620000000002,
+  "firstMeaningfulPaint": 1399.2620000000002,
+  "speedIndex": 3695.7253852059885,
+  "largestContentfulPaint": 4465.262000000001,
+  "totalBlockingTime": 358.00000000000045,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4752.262000000001,
+  "maxPotentialFirstInputDelay": 240,
+  "timeToFirstByte": 2.5090000000000003,
+  "weight": {
+    "summary": "114 requests • 1.5 MiB",
+    "total": 1521269,
+    "image": 213067,
+    "imageCount": 37,
+    "script": 375772,
+    "scriptCount": 46,
+    "document": 43403,
+    "font": 204235,
+    "fontCount": 7,
+    "stylesheet": 13312,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 781,
+    "+weight.total": 281,
+    "-weight.document": 912,
+    "+weight.document": 124,
+    "-weight.script": 802,
+    "+weight.script": 190,
+    "-weight.image": 435,
+    "+weight.image": 511,
+    "-weight.font": 636,
+    "+weight.font": 142,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 166,
+    "-totalBlockingTime": 358,
+    "-largestContentfulPaint": 845
+  },
+  "axe": {
+    "passes": 644,
+    "violations": 6
+  }
+}

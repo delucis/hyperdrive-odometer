@@ -1,0 +1,67 @@
+{
+  "url": "https://wordchecker.io/",
+  "requestedUrl": "https://wordchecker.io/",
+  "timestamp": 1730477842952,
+  "ranks": {
+    "hundos": 837,
+    "performance": 883,
+    "accessibility": 163,
+    "cumulative": 835
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.61,
+    "accessibility": 1,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 339
+  },
+  "firstContentfulPaint": 1002.9595,
+  "firstMeaningfulPaint": 1735.6535,
+  "speedIndex": 7947.506174520326,
+  "largestContentfulPaint": 2467.3475,
+  "totalBlockingTime": 2971.499999999998,
+  "cumulativeLayoutShift": 0.035542808232456535,
+  "timeToInteractive": 15294.484074005124,
+  "maxPotentialFirstInputDelay": 463,
+  "timeToFirstByte": 64.39899999999999,
+  "weight": {
+    "summary": "150 requests • 2.0 MiB",
+    "total": 1968270,
+    "image": 133806,
+    "imageCount": 27,
+    "script": 921299,
+    "scriptCount": 72,
+    "document": 341185,
+    "font": 94544,
+    "fontCount": 4,
+    "stylesheet": 20704,
+    "stylesheetCount": 5,
+    "thirdParty": 1845590,
+    "thirdPartyCount": 15
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 842,
+    "+weight.total": 220,
+    "-weight.document": 1031,
+    "+weight.document": 5,
+    "-weight.script": 940,
+    "+weight.script": 52,
+    "-weight.image": 352,
+    "+weight.image": 594,
+    "-weight.font": 469,
+    "+weight.font": 309,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 588,
+    "-totalBlockingTime": 649,
+    "-largestContentfulPaint": 668
+  },
+  "axe": {
+    "passes": 1093,
+    "violations": 1
+  }
+}

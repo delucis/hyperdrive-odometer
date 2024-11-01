@@ -1,0 +1,67 @@
+{
+  "url": "https://charlescailleteau.com/",
+  "requestedUrl": "https://charlescailleteau.com/",
+  "timestamp": 1730483245735,
+  "ranks": {
+    "hundos": 406,
+    "performance": 626,
+    "accessibility": 119,
+    "cumulative": 396
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.82,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 382
+  },
+  "firstContentfulPaint": 1650.455,
+  "firstMeaningfulPaint": 1650.455,
+  "speedIndex": 3819.829357816614,
+  "largestContentfulPaint": 2728.9094999999998,
+  "totalBlockingTime": 486.08524999999963,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5247.8285,
+  "maxPotentialFirstInputDelay": 427.9999999999991,
+  "timeToFirstByte": 76.185,
+  "weight": {
+    "summary": "97 requests • 576.1 KiB",
+    "total": 588253,
+    "image": 266421,
+    "imageCount": 17,
+    "script": 183135,
+    "scriptCount": 38,
+    "document": 38727,
+    "font": 68880,
+    "fontCount": 2,
+    "stylesheet": 32691,
+    "stylesheetCount": 7,
+    "thirdParty": 404841,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 542,
+    "+weight.total": 520,
+    "-weight.document": 895,
+    "+weight.document": 141,
+    "-weight.script": 643,
+    "+weight.script": 349,
+    "-weight.image": 475,
+    "+weight.image": 471,
+    "-weight.font": 361,
+    "+weight.font": 417,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 646,
+    "-totalBlockingTime": 429,
+    "-largestContentfulPaint": 703
+  },
+  "axe": {
+    "passes": 164,
+    "violations": 0
+  }
+}

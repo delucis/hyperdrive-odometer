@@ -1,0 +1,67 @@
+{
+  "url": "https://astroaster.xyz/",
+  "requestedUrl": "https://astroaster.xyz/",
+  "timestamp": 1730482156917,
+  "ranks": {
+    "hundos": 646,
+    "performance": 304,
+    "accessibility": 943,
+    "cumulative": 646
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 0.81,
+    "bestPractices": 1,
+    "seo": 0.83,
+    "total": 362
+  },
+  "firstContentfulPaint": 1271.116,
+  "firstMeaningfulPaint": 2054.746,
+  "speedIndex": 2995.2074381571665,
+  "largestContentfulPaint": 1514.616,
+  "totalBlockingTime": 125,
+  "cumulativeLayoutShift": 0.0007784921096840593,
+  "timeToInteractive": 2289.616,
+  "maxPotentialFirstInputDelay": 175,
+  "timeToFirstByte": 1089.518,
+  "weight": {
+    "summary": "14 requests • 156.5 KiB",
+    "total": 154906,
+    "image": 0,
+    "imageCount": 0,
+    "script": 109171,
+    "scriptCount": 2,
+    "document": 16472,
+    "font": 16345,
+    "fontCount": 2,
+    "stylesheet": 12918,
+    "stylesheetCount": 1,
+    "thirdParty": 16345,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 200,
+    "+weight.total": 862,
+    "-weight.document": 692,
+    "+weight.document": 344,
+    "-weight.script": 520,
+    "+weight.script": 472,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 35,
+    "+weight.font": 743,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 1022,
+    "-totalBlockingTime": 196,
+    "-largestContentfulPaint": 129
+  },
+  "axe": {
+    "passes": 365,
+    "violations": 17
+  }
+}

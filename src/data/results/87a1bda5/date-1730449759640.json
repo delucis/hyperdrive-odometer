@@ -1,0 +1,67 @@
+{
+  "url": "https://goliat-dashboard.com/",
+  "requestedUrl": "https://goliat-dashboard.com/",
+  "timestamp": 1730470252424,
+  "ranks": {
+    "hundos": 919,
+    "performance": 986,
+    "accessibility": 636,
+    "cumulative": 920
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.43,
+    "accessibility": 0.93,
+    "bestPractices": 0.96,
+    "seo": 0.9,
+    "total": 322
+  },
+  "firstContentfulPaint": 2466.41,
+  "firstMeaningfulPaint": 8899.7165,
+  "speedIndex": 6066.954740281299,
+  "largestContentfulPaint": 18129.05,
+  "totalBlockingTime": 257.5,
+  "cumulativeLayoutShift": 0.36421858135991825,
+  "timeToInteractive": 13925.568499999998,
+  "maxPotentialFirstInputDelay": 427,
+  "timeToFirstByte": 87.75900000000001,
+  "weight": {
+    "summary": "51 requests • 3.2 MiB",
+    "total": 3316568,
+    "image": 1557452,
+    "imageCount": 10,
+    "script": 482558,
+    "scriptCount": 24,
+    "document": 40105,
+    "font": 1160039,
+    "fontCount": 7,
+    "stylesheet": 70891,
+    "stylesheetCount": 2,
+    "thirdParty": 1207682,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 930,
+    "+weight.total": 132,
+    "-weight.document": 901,
+    "+weight.document": 135,
+    "-weight.script": 856,
+    "+weight.script": 136,
+    "-weight.image": 803,
+    "+weight.image": 143,
+    "-weight.font": 768,
+    "+weight.font": 10,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 681,
+    "-totalBlockingTime": 306,
+    "-largestContentfulPaint": 1032
+  },
+  "axe": {
+    "passes": 297,
+    "violations": 20
+  }
+}

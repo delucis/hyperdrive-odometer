@@ -1,0 +1,67 @@
+{
+  "url": "https://www.lukastrombach.dev/",
+  "requestedUrl": "https://lukastrombach.dev/",
+  "timestamp": 1730456465939,
+  "ranks": {
+    "hundos": 590,
+    "performance": 561,
+    "accessibility": 260,
+    "cumulative": 587
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.86,
+    "accessibility": 1,
+    "bestPractices": 0.81,
+    "seo": 1,
+    "total": 367
+  },
+  "firstContentfulPaint": 2022.7885,
+  "firstMeaningfulPaint": 2076.7885,
+  "speedIndex": 2672.4810502737346,
+  "largestContentfulPaint": 2772.7884999999997,
+  "totalBlockingTime": 350.5000000000002,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3593.2884999999997,
+  "maxPotentialFirstInputDelay": 297,
+  "timeToFirstByte": 49.45,
+  "weight": {
+    "summary": "25 requests • 218.1 KiB",
+    "total": 216755,
+    "image": 22572,
+    "imageCount": 8,
+    "script": 26874,
+    "scriptCount": 8,
+    "document": 29547,
+    "font": 124954,
+    "fontCount": 3,
+    "stylesheet": 15151,
+    "stylesheetCount": 1,
+    "thirdParty": 10871,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 275,
+    "+weight.total": 787,
+    "-weight.document": 846,
+    "+weight.document": 190,
+    "-weight.script": 290,
+    "+weight.script": 702,
+    "-weight.image": 147,
+    "+weight.image": 799,
+    "-weight.font": 533,
+    "+weight.font": 245,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 534,
+    "-totalBlockingTime": 353,
+    "-largestContentfulPaint": 708
+  },
+  "axe": {
+    "passes": 51,
+    "violations": 2
+  }
+}

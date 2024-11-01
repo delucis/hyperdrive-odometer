@@ -1,0 +1,67 @@
+{
+  "url": "https://sayings.cc/",
+  "requestedUrl": "https://sayings.cc/",
+  "timestamp": 1730459342709,
+  "ranks": {
+    "hundos": 454,
+    "performance": 624,
+    "accessibility": 471,
+    "cumulative": 450
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.82,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 377
+  },
+  "firstContentfulPaint": 1639.149,
+  "firstMeaningfulPaint": 1719.149,
+  "speedIndex": 3561.3635482535387,
+  "largestContentfulPaint": 4522.892999999998,
+  "totalBlockingTime": 60,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1828.149,
+  "maxPotentialFirstInputDelay": 96,
+  "timeToFirstByte": 405.755,
+  "weight": {
+    "summary": "25 requests • 760.1 KiB",
+    "total": 778306,
+    "image": 426878,
+    "imageCount": 8,
+    "script": 80202,
+    "scriptCount": 3,
+    "document": 9042,
+    "font": 36972,
+    "fontCount": 1,
+    "stylesheet": 7846,
+    "stylesheetCount": 1,
+    "thirdParty": 6666,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 611,
+    "+weight.total": 451,
+    "-weight.document": 442,
+    "+weight.document": 594,
+    "-weight.script": 457,
+    "+weight.script": 535,
+    "-weight.image": 568,
+    "+weight.image": 378,
+    "-weight.font": 155,
+    "+weight.font": 623,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 958,
+    "-totalBlockingTime": 108,
+    "-largestContentfulPaint": 433
+  },
+  "axe": {
+    "passes": 180,
+    "violations": 3
+  }
+}

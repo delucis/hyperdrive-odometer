@@ -1,0 +1,67 @@
+{
+  "url": "https://kreditguide.ru/",
+  "requestedUrl": "https://kreditguide.ru/",
+  "timestamp": 1730471886812,
+  "ranks": {
+    "hundos": 240,
+    "performance": 87,
+    "accessibility": 496,
+    "cumulative": 241
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 392
+  },
+  "firstContentfulPaint": 1068.031,
+  "firstMeaningfulPaint": 1068.031,
+  "speedIndex": 1092.8553299988148,
+  "largestContentfulPaint": 1068.031,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1091.031,
+  "maxPotentialFirstInputDelay": 151,
+  "timeToFirstByte": 24.639999999999986,
+  "weight": {
+    "summary": "10 requests • 38.0 KiB",
+    "total": 38880,
+    "image": 28445,
+    "imageCount": 8,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 5267,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 5168,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 34,
+    "+weight.total": 1028,
+    "-weight.document": 190,
+    "+weight.document": 846,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 166,
+    "+weight.image": 780,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 425,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 53
+  },
+  "axe": {
+    "passes": 349,
+    "violations": 8
+  }
+}

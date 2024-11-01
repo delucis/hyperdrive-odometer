@@ -1,0 +1,67 @@
+{
+  "url": "https://e-csoport.hu/",
+  "requestedUrl": "https://e-csoport.hu/",
+  "timestamp": 1730484776111,
+  "ranks": {
+    "hundos": 314,
+    "performance": 253,
+    "accessibility": 803,
+    "cumulative": 320
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.88,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 387
+  },
+  "firstContentfulPaint": 1371.86,
+  "firstMeaningfulPaint": 1371.86,
+  "speedIndex": 2306.8698959971225,
+  "largestContentfulPaint": 1831.2899999999997,
+  "totalBlockingTime": 7,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2659.4350000000004,
+  "maxPotentialFirstInputDelay": 62,
+  "timeToFirstByte": 116.41999999999996,
+  "weight": {
+    "summary": "56 requests • 669.9 KiB",
+    "total": 685932,
+    "image": 529257,
+    "imageCount": 15,
+    "script": 5268,
+    "scriptCount": 1,
+    "document": 4006,
+    "font": 28517,
+    "fontCount": 1,
+    "stylesheet": 8727,
+    "stylesheetCount": 1,
+    "thirdParty": 110157,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 574,
+    "+weight.total": 488,
+    "-weight.document": 103,
+    "+weight.document": 933,
+    "-weight.script": 98,
+    "+weight.script": 894,
+    "-weight.image": 615,
+    "+weight.image": 331,
+    "-weight.font": 91,
+    "+weight.font": 687,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 772,
+    "-totalBlockingTime": 13,
+    "-largestContentfulPaint": 593
+  },
+  "axe": {
+    "passes": 171,
+    "violations": 6
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://shibes.lol/",
+  "requestedUrl": "https://shibes.lol/",
+  "timestamp": 1730491057088,
+  "ranks": {
+    "hundos": 666,
+    "performance": 300,
+    "accessibility": 1021,
+    "cumulative": 668
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 0.74,
+    "bestPractices": 1,
+    "seo": 0.88,
+    "total": 360
+  },
+  "firstContentfulPaint": 1121.193,
+  "firstMeaningfulPaint": 1121.193,
+  "speedIndex": 2579.2135799802386,
+  "largestContentfulPaint": 1701.193,
+  "totalBlockingTime": 119.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1584.619,
+  "maxPotentialFirstInputDelay": 194,
+  "timeToFirstByte": 1139.538,
+  "weight": {
+    "summary": "117 requests • 673.1 KiB",
+    "total": 689208,
+    "image": 601985,
+    "imageCount": 108,
+    "script": 66746,
+    "scriptCount": 6,
+    "document": 9886,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 10454,
+    "stylesheetCount": 1,
+    "thirdParty": 7119,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 577,
+    "+weight.total": 485,
+    "-weight.document": 490,
+    "+weight.document": 546,
+    "-weight.script": 422,
+    "+weight.script": 570,
+    "-weight.image": 643,
+    "+weight.image": 303,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 1023,
+    "-totalBlockingTime": 189,
+    "-largestContentfulPaint": 194
+  },
+  "axe": {
+    "passes": 1076,
+    "violations": 107
+  }
+}

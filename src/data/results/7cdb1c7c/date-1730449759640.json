@@ -1,0 +1,67 @@
+{
+  "url": "https://luxlx.co.uk/",
+  "requestedUrl": "https://luxlx.co.uk/",
+  "timestamp": 1730456523486,
+  "ranks": {
+    "hundos": 17,
+    "performance": 54,
+    "accessibility": 25,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 979.6835,
+  "firstMeaningfulPaint": 979.6835,
+  "speedIndex": 1034.406974999802,
+  "largestContentfulPaint": 1816.8065204315187,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1015.6835000000001,
+  "maxPotentialFirstInputDelay": 99.00000000000011,
+  "timeToFirstByte": 106.555,
+  "weight": {
+    "summary": "46 requests • 167.2 KiB",
+    "total": 171236,
+    "image": 124714,
+    "imageCount": 38,
+    "script": 2311,
+    "scriptCount": 1,
+    "document": 10437,
+    "font": 30312,
+    "fontCount": 3,
+    "stylesheet": 3462,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 227,
+    "+weight.total": 835,
+    "-weight.document": 513,
+    "+weight.document": 523,
+    "-weight.script": 45,
+    "+weight.script": 947,
+    "-weight.image": 344,
+    "+weight.image": 602,
+    "-weight.font": 108,
+    "+weight.font": 670,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 737,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 215
+  },
+  "axe": {
+    "passes": 700,
+    "violations": 0
+  }
+}

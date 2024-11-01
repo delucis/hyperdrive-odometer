@@ -1,0 +1,67 @@
+{
+  "url": "https://hrishikeshpathak.com/",
+  "requestedUrl": "https://hrishikeshpathak.com/",
+  "timestamp": 1730486595032,
+  "ranks": {
+    "hundos": 174,
+    "performance": 379,
+    "accessibility": 147,
+    "cumulative": 164
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.95,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 395
+  },
+  "firstContentfulPaint": 1769.7925000000002,
+  "firstMeaningfulPaint": 1769.7925000000002,
+  "speedIndex": 1769.7925000000002,
+  "largestContentfulPaint": 1769.7925000000002,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.12054733744498144,
+  "timeToInteractive": 1769.7925000000002,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 89.652,
+  "weight": {
+    "summary": "10 requests • 84.3 KiB",
+    "total": 86359,
+    "image": 3739,
+    "imageCount": 1,
+    "script": 20307,
+    "scriptCount": 3,
+    "document": 2129,
+    "font": 58004,
+    "fontCount": 3,
+    "stylesheet": 1809,
+    "stylesheetCount": 1,
+    "thirdParty": 19629,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 114,
+    "+weight.total": 948,
+    "-weight.document": 23,
+    "+weight.document": 1013,
+    "-weight.script": 230,
+    "+weight.script": 762,
+    "-weight.image": 53,
+    "+weight.image": 893,
+    "-weight.font": 304,
+    "+weight.font": 474,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 689,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 209
+  },
+  "axe": {
+    "passes": 88,
+    "violations": 0
+  }
+}

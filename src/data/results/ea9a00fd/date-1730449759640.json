@@ -1,0 +1,67 @@
+{
+  "url": "https://tialola.com.mx/",
+  "requestedUrl": "https://tialola.com.mx/",
+  "timestamp": 1730492313907,
+  "ranks": {
+    "hundos": 462,
+    "performance": 612,
+    "accessibility": 419,
+    "cumulative": 464
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.82,
+    "accessibility": 0.96,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 376
+  },
+  "firstContentfulPaint": 1280.7789999999998,
+  "firstMeaningfulPaint": 1923.2469999999998,
+  "speedIndex": 2302.7391846973396,
+  "largestContentfulPaint": 3850.651,
+  "totalBlockingTime": 295.7660000000002,
+  "cumulativeLayoutShift": 0.04289698233152733,
+  "timeToInteractive": 2215.364,
+  "maxPotentialFirstInputDelay": 186.0000000000001,
+  "timeToFirstByte": 25.339999999999975,
+  "weight": {
+    "summary": "55 requests • 1.7 MiB",
+    "total": 1752405,
+    "image": 1442528,
+    "imageCount": 30,
+    "script": 180770,
+    "scriptCount": 15,
+    "document": 25911,
+    "font": 77362,
+    "fontCount": 5,
+    "stylesheet": 24327,
+    "stylesheetCount": 2,
+    "thirdParty": 1334324,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 817,
+    "+weight.total": 245,
+    "-weight.document": 815,
+    "+weight.document": 221,
+    "-weight.script": 641,
+    "+weight.script": 351,
+    "-weight.image": 791,
+    "+weight.image": 155,
+    "-weight.font": 401,
+    "+weight.font": 377,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 429,
+    "-totalBlockingTime": 325,
+    "-largestContentfulPaint": 803
+  },
+  "axe": {
+    "passes": 1698,
+    "violations": 4
+  }
+}

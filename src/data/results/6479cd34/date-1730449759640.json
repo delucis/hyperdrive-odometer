@@ -1,0 +1,67 @@
+{
+  "url": "https://ryanfurrer.com/",
+  "requestedUrl": "https://ryanfurrer.com/",
+  "timestamp": 1730474924772,
+  "ranks": {
+    "hundos": 626,
+    "performance": 583,
+    "accessibility": 736,
+    "cumulative": 628
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.84,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 0.89,
+    "total": 363
+  },
+  "firstContentfulPaint": 1945.704,
+  "firstMeaningfulPaint": 1945.704,
+  "speedIndex": 2602.1965333961552,
+  "largestContentfulPaint": 4203.055,
+  "totalBlockingTime": 73,
+  "cumulativeLayoutShift": 0.000803412754040582,
+  "timeToInteractive": 2873.0269999999996,
+  "maxPotentialFirstInputDelay": 196,
+  "timeToFirstByte": 123.072,
+  "weight": {
+    "summary": "19 requests • 617.0 KiB",
+    "total": 631832,
+    "image": 279246,
+    "imageCount": 5,
+    "script": 16980,
+    "scriptCount": 3,
+    "document": 5538,
+    "font": 293554,
+    "fontCount": 4,
+    "stylesheet": 6280,
+    "stylesheetCount": 2,
+    "thirdParty": 365732,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 553,
+    "+weight.total": 509,
+    "-weight.document": 214,
+    "+weight.document": 822,
+    "-weight.script": 214,
+    "+weight.script": 778,
+    "-weight.image": 488,
+    "+weight.image": 458,
+    "-weight.font": 675,
+    "+weight.font": 103,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 787,
+    "-totalBlockingTime": 126,
+    "-largestContentfulPaint": 424
+  },
+  "axe": {
+    "passes": 544,
+    "violations": 5
+  }
+}

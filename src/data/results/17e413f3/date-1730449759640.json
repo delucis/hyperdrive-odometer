@@ -1,0 +1,67 @@
+{
+  "url": "https://magecdn.com/",
+  "requestedUrl": "https://magecdn.com/",
+  "timestamp": 1730472359112,
+  "ranks": {
+    "hundos": 850,
+    "performance": 733,
+    "accessibility": 1012,
+    "cumulative": 855
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.74,
+    "accessibility": 0.75,
+    "bestPractices": 0.96,
+    "seo": 0.92,
+    "total": 337
+  },
+  "firstContentfulPaint": 2229.292,
+  "firstMeaningfulPaint": 2454.2920000000004,
+  "speedIndex": 3464.3619020914566,
+  "largestContentfulPaint": 4527.928,
+  "totalBlockingTime": 294,
+  "cumulativeLayoutShift": 0.06701243799137094,
+  "timeToInteractive": 5218.2919999999995,
+  "maxPotentialFirstInputDelay": 224,
+  "timeToFirstByte": 99.09199999999998,
+  "weight": {
+    "summary": "30 requests • 6.3 MiB",
+    "total": 6577723,
+    "image": 6146081,
+    "imageCount": 6,
+    "script": 224256,
+    "scriptCount": 12,
+    "document": 24616,
+    "font": 51947,
+    "fontCount": 3,
+    "stylesheet": 115980,
+    "stylesheetCount": 3,
+    "thirdParty": 121464,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 991,
+    "+weight.total": 71,
+    "-weight.document": 809,
+    "+weight.document": 227,
+    "-weight.script": 686,
+    "+weight.script": 306,
+    "-weight.image": 915,
+    "+weight.image": 31,
+    "-weight.font": 274,
+    "+weight.font": 504,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 719,
+    "-totalBlockingTime": 324,
+    "-largestContentfulPaint": 846
+  },
+  "axe": {
+    "passes": 461,
+    "violations": 32
+  }
+}

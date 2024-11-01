@@ -1,0 +1,67 @@
+{
+  "url": "https://react-awesome-reveal.morello.dev/",
+  "requestedUrl": "https://react-awesome-reveal.morello.dev/",
+  "timestamp": 1730474538813,
+  "ranks": {
+    "hundos": 51,
+    "performance": 27,
+    "accessibility": 125,
+    "cumulative": 32
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 952.471,
+  "firstMeaningfulPaint": 952.471,
+  "speedIndex": 952.471,
+  "largestContentfulPaint": 952.471,
+  "totalBlockingTime": 5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1073.1280000000002,
+  "maxPotentialFirstInputDelay": 60,
+  "timeToFirstByte": 2.649000000000001,
+  "weight": {
+    "summary": "115 requests • 224.8 KiB",
+    "total": 230218,
+    "image": 0,
+    "imageCount": 0,
+    "script": 25146,
+    "scriptCount": 4,
+    "document": 9209,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 11543,
+    "stylesheetCount": 1,
+    "thirdParty": 184320,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 285,
+    "+weight.total": 777,
+    "-weight.document": 450,
+    "+weight.document": 586,
+    "-weight.script": 274,
+    "+weight.script": 718,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 194,
+    "-totalBlockingTime": 9,
+    "-largestContentfulPaint": 483
+  },
+  "axe": {
+    "passes": 151,
+    "violations": 0
+  }
+}

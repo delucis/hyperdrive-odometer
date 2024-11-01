@@ -1,0 +1,67 @@
+{
+  "url": "https://www.crecemas.net/",
+  "requestedUrl": "https://www.crecemas.net/",
+  "timestamp": 1730478338161,
+  "ranks": {
+    "hundos": 869,
+    "performance": 740,
+    "accessibility": 929,
+    "cumulative": 871
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.74,
+    "accessibility": 0.82,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 334
+  },
+  "firstContentfulPaint": 1975.6840000000002,
+  "firstMeaningfulPaint": 2180.684,
+  "speedIndex": 5128.207685983431,
+  "largestContentfulPaint": 3354.9660000000003,
+  "totalBlockingTime": 495.5,
+  "cumulativeLayoutShift": 0.00262393033224579,
+  "timeToInteractive": 6974.882,
+  "maxPotentialFirstInputDelay": 410,
+  "timeToFirstByte": 221.08599999999998,
+  "weight": {
+    "summary": "47 requests • 11.5 MiB",
+    "total": 12067859,
+    "image": 863423,
+    "imageCount": 21,
+    "script": 389009,
+    "scriptCount": 13,
+    "document": 32585,
+    "font": 29877,
+    "fontCount": 1,
+    "stylesheet": 13159,
+    "stylesheetCount": 4,
+    "thirdParty": 757714,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1026,
+    "+weight.total": 36,
+    "-weight.document": 865,
+    "+weight.document": 171,
+    "-weight.script": 812,
+    "+weight.script": 180,
+    "-weight.image": 711,
+    "+weight.image": 235,
+    "-weight.font": 99,
+    "+weight.font": 679,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 887,
+    "-totalBlockingTime": 431,
+    "-largestContentfulPaint": 754
+  },
+  "axe": {
+    "passes": 704,
+    "violations": 74
+  }
+}

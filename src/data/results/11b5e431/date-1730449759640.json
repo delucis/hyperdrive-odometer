@@ -1,0 +1,67 @@
+{
+  "url": "https://dawnforge.app/",
+  "requestedUrl": "https://www.dawnforge.app/",
+  "timestamp": 1730478411715,
+  "ranks": {
+    "hundos": 531,
+    "performance": 625,
+    "accessibility": 546,
+    "cumulative": 524
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.82,
+    "accessibility": 0.94,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 372
+  },
+  "firstContentfulPaint": 2116.579,
+  "firstMeaningfulPaint": 2116.579,
+  "speedIndex": 3668.1843801437108,
+  "largestContentfulPaint": 4345.035,
+  "totalBlockingTime": 37.80099999999993,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3873.404,
+  "maxPotentialFirstInputDelay": 177.5,
+  "timeToFirstByte": 719.662,
+  "weight": {
+    "summary": "84 requests • 822.8 KiB",
+    "total": 842524,
+    "image": 600069,
+    "imageCount": 57,
+    "script": 64368,
+    "scriptCount": 15,
+    "document": 10900,
+    "font": 156989,
+    "fontCount": 5,
+    "stylesheet": 8351,
+    "stylesheetCount": 1,
+    "thirdParty": 7009,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 632,
+    "+weight.total": 430,
+    "-weight.document": 526,
+    "+weight.document": 510,
+    "-weight.script": 414,
+    "+weight.script": 578,
+    "-weight.image": 642,
+    "+weight.image": 304,
+    "-weight.font": 589,
+    "+weight.font": 189,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 1007,
+    "-totalBlockingTime": 69,
+    "-largestContentfulPaint": 428
+  },
+  "axe": {
+    "passes": 990,
+    "violations": 2
+  }
+}

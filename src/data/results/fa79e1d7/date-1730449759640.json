@@ -1,0 +1,67 @@
+{
+  "url": "https://danieljsaldana.dev/",
+  "requestedUrl": "http://danieljsaldana.dev/",
+  "timestamp": 1730452456895,
+  "ranks": {
+    "hundos": 557,
+    "performance": 287,
+    "accessibility": 740,
+    "cumulative": 561
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 0.9,
+    "bestPractices": 0.81,
+    "seo": 1,
+    "total": 369
+  },
+  "firstContentfulPaint": 1426.185,
+  "firstMeaningfulPaint": 1426.185,
+  "speedIndex": 1821.4950173519637,
+  "largestContentfulPaint": 2270.161,
+  "totalBlockingTime": 91,
+  "cumulativeLayoutShift": 0.000047080005304100905,
+  "timeToInteractive": 3618.1025,
+  "maxPotentialFirstInputDelay": 160,
+  "timeToFirstByte": 2.3569999999999993,
+  "weight": {
+    "summary": "45 requests • 633.6 KiB",
+    "total": 648845,
+    "image": 294788,
+    "imageCount": 12,
+    "script": 188832,
+    "scriptCount": 20,
+    "document": 13347,
+    "font": 130243,
+    "fontCount": 4,
+    "stylesheet": 19474,
+    "stylesheetCount": 2,
+    "thirdParty": 241502,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 559,
+    "+weight.total": 503,
+    "-weight.document": 617,
+    "+weight.document": 419,
+    "-weight.script": 651,
+    "+weight.script": 341,
+    "-weight.image": 500,
+    "+weight.image": 446,
+    "-weight.font": 548,
+    "+weight.font": 230,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 121,
+    "-totalBlockingTime": 149,
+    "-largestContentfulPaint": 287
+  },
+  "axe": {
+    "passes": 682,
+    "violations": 6
+  }
+}

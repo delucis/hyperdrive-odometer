@@ -1,0 +1,67 @@
+{
+  "url": "https://jaypenner.com/",
+  "requestedUrl": "https://jaypenner.com/",
+  "timestamp": 1730471381281,
+  "ranks": {
+    "hundos": 1044,
+    "performance": 951,
+    "accessibility": 1007,
+    "cumulative": 1044
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.51,
+    "accessibility": 0.75,
+    "bestPractices": 0.56,
+    "seo": 0.9,
+    "total": 272
+  },
+  "firstContentfulPaint": 2735.4395,
+  "firstMeaningfulPaint": 4229.768,
+  "speedIndex": 7685.356419705355,
+  "largestContentfulPaint": 22229.768,
+  "totalBlockingTime": 487,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 17044.768,
+  "maxPotentialFirstInputDelay": 882,
+  "timeToFirstByte": 98.72400000000002,
+  "weight": {
+    "summary": "40 requests • 5.0 MiB",
+    "total": 5273199,
+    "image": 4608164,
+    "imageCount": 23,
+    "script": 214724,
+    "scriptCount": 6,
+    "document": 22745,
+    "font": 413665,
+    "fontCount": 3,
+    "stylesheet": 11423,
+    "stylesheetCount": 1,
+    "thirdParty": 213000,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 970,
+    "+weight.total": 92,
+    "-weight.document": 793,
+    "+weight.document": 243,
+    "-weight.script": 680,
+    "+weight.script": 312,
+    "-weight.image": 898,
+    "+weight.image": 48,
+    "-weight.font": 713,
+    "+weight.font": 65,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 718,
+    "-totalBlockingTime": 430,
+    "-largestContentfulPaint": 1039
+  },
+  "axe": {
+    "passes": 51,
+    "violations": 2
+  }
+}

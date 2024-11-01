@@ -1,0 +1,67 @@
+{
+  "url": "https://www.mrdannyjohnson.co.uk/",
+  "requestedUrl": "https://www.mrdannyjohnson.co.uk/",
+  "timestamp": 1730472803541,
+  "ranks": {
+    "hundos": 116,
+    "performance": 278,
+    "accessibility": 265,
+    "cumulative": 122
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 398
+  },
+  "firstContentfulPaint": 1526.7235,
+  "firstMeaningfulPaint": 1526.7235,
+  "speedIndex": 1526.7235,
+  "largestContentfulPaint": 1658.2235,
+  "totalBlockingTime": 111.5,
+  "cumulativeLayoutShift": 0.00004472163769146504,
+  "timeToInteractive": 1845.7235,
+  "maxPotentialFirstInputDelay": 315,
+  "timeToFirstByte": 2.6720000000000113,
+  "weight": {
+    "summary": "30 requests • 287.4 KiB",
+    "total": 294334,
+    "image": 60130,
+    "imageCount": 4,
+    "script": 100146,
+    "scriptCount": 16,
+    "document": 36798,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 11784,
+    "stylesheetCount": 8,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 339,
+    "+weight.total": 723,
+    "-weight.document": 887,
+    "+weight.document": 149,
+    "-weight.script": 489,
+    "+weight.script": 503,
+    "-weight.image": 244,
+    "+weight.image": 702,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 197,
+    "-totalBlockingTime": 180,
+    "-largestContentfulPaint": 179
+  },
+  "axe": {
+    "passes": 1457,
+    "violations": 3
+  }
+}

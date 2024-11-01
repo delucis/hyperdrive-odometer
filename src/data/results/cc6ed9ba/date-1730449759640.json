@@ -1,0 +1,67 @@
+{
+  "url": "https://www.smartbunny.com/en-us",
+  "requestedUrl": "https://www.smartbunny.com/",
+  "timestamp": 1730480001953,
+  "ranks": {
+    "hundos": 835,
+    "performance": 732,
+    "accessibility": 836,
+    "cumulative": 837
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.74,
+    "accessibility": 0.87,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 339
+  },
+  "firstContentfulPaint": 1242.6369999999997,
+  "firstMeaningfulPaint": 1431.1369999999997,
+  "speedIndex": 3254.6524259709363,
+  "largestContentfulPaint": 2247.74,
+  "totalBlockingTime": 1055.5,
+  "cumulativeLayoutShift": 0.06299768141242744,
+  "timeToInteractive": 7726.280499999999,
+  "maxPotentialFirstInputDelay": 377,
+  "timeToFirstByte": 2.235,
+  "weight": {
+    "summary": "47 requests • 921.1 KiB",
+    "total": 943174,
+    "image": 137990,
+    "imageCount": 16,
+    "script": 665494,
+    "scriptCount": 18,
+    "document": 16782,
+    "font": 108921,
+    "fontCount": 3,
+    "stylesheet": 9806,
+    "stylesheetCount": 1,
+    "thirdParty": 661947,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 658,
+    "+weight.total": 404,
+    "-weight.document": 700,
+    "+weight.document": 336,
+    "-weight.script": 902,
+    "+weight.script": 90,
+    "-weight.image": 357,
+    "+weight.image": 589,
+    "-weight.font": 507,
+    "+weight.font": 271,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 88,
+    "-totalBlockingTime": 554,
+    "-largestContentfulPaint": 635
+  },
+  "axe": {
+    "passes": 695,
+    "violations": 32
+  }
+}

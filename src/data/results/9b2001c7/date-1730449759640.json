@@ -1,0 +1,67 @@
+{
+  "url": "https://lukazeleznik.com/",
+  "requestedUrl": "https://lukazeleznik.com/",
+  "timestamp": 1730472267549,
+  "ranks": {
+    "hundos": 81,
+    "performance": 195,
+    "accessibility": 338,
+    "cumulative": 105
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 1107.9360000000001,
+  "firstMeaningfulPaint": 1107.9360000000001,
+  "speedIndex": 1350.997898656566,
+  "largestContentfulPaint": 1827.9360000000001,
+  "totalBlockingTime": 110,
+  "cumulativeLayoutShift": 0.017409250453240183,
+  "timeToInteractive": 1865.665,
+  "maxPotentialFirstInputDelay": 101,
+  "timeToFirstByte": 19.857999999999976,
+  "weight": {
+    "summary": "37 requests • 442.1 KiB",
+    "total": 452741,
+    "image": 330722,
+    "imageCount": 26,
+    "script": 7819,
+    "scriptCount": 2,
+    "document": 13362,
+    "font": 100696,
+    "fontCount": 7,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 107806,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 454,
+    "+weight.total": 608,
+    "-weight.document": 620,
+    "+weight.document": 416,
+    "-weight.script": 139,
+    "+weight.script": 853,
+    "-weight.image": 529,
+    "+weight.image": 417,
+    "-weight.font": 481,
+    "+weight.font": 297,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 405,
+    "-totalBlockingTime": 177,
+    "-largestContentfulPaint": 217
+  },
+  "axe": {
+    "passes": 293,
+    "violations": 11
+  }
+}

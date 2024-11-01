@@ -1,0 +1,67 @@
+{
+  "url": "https://scottwillsey.com/",
+  "requestedUrl": "https://scottwillsey.com/",
+  "timestamp": 1730475169833,
+  "ranks": {
+    "hundos": 517,
+    "performance": 436,
+    "accessibility": 715,
+    "cumulative": 519
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.93,
+    "accessibility": 0.91,
+    "bestPractices": 1,
+    "seo": 0.88,
+    "total": 372
+  },
+  "firstContentfulPaint": 2077.403,
+  "firstMeaningfulPaint": 2154.667,
+  "speedIndex": 2487.2469172913484,
+  "largestContentfulPaint": 2923.8464999999997,
+  "totalBlockingTime": 44,
+  "cumulativeLayoutShift": 0.00011591074461283079,
+  "timeToInteractive": 2646.7924999999996,
+  "maxPotentialFirstInputDelay": 77,
+  "timeToFirstByte": 70.23699999999997,
+  "weight": {
+    "summary": "12 requests • 177.6 KiB",
+    "total": 181856,
+    "image": 4053,
+    "imageCount": 3,
+    "script": 24298,
+    "scriptCount": 2,
+    "document": 7708,
+    "font": 135141,
+    "fontCount": 3,
+    "stylesheet": 10656,
+    "stylesheetCount": 3,
+    "thirdParty": 22650,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 238,
+    "+weight.total": 824,
+    "-weight.document": 375,
+    "+weight.document": 661,
+    "-weight.script": 265,
+    "+weight.script": 727,
+    "-weight.image": 56,
+    "+weight.image": 890,
+    "-weight.font": 562,
+    "+weight.font": 216,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 611,
+    "-totalBlockingTime": 81,
+    "-largestContentfulPaint": 360
+  },
+  "axe": {
+    "passes": 282,
+    "violations": 11
+  }
+}

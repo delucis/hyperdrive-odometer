@@ -1,0 +1,67 @@
+{
+  "url": "https://hillsidehavencabin.com/",
+  "requestedUrl": "https://hillsidehavencabin.com/",
+  "timestamp": 1730486517549,
+  "ranks": {
+    "hundos": 650,
+    "performance": 750,
+    "accessibility": 662,
+    "cumulative": 651
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.72,
+    "accessibility": 0.92,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 361
+  },
+  "firstContentfulPaint": 1365.5349999999999,
+  "firstMeaningfulPaint": 1365.5349999999999,
+  "speedIndex": 1717.4529107539233,
+  "largestContentfulPaint": 5947.535,
+  "totalBlockingTime": 274,
+  "cumulativeLayoutShift": 0.000026752914578647564,
+  "timeToInteractive": 2574.535,
+  "maxPotentialFirstInputDelay": 227,
+  "timeToFirstByte": 37.31399999999999,
+  "weight": {
+    "summary": "7 requests • 930.7 KiB",
+    "total": 953065,
+    "image": 741133,
+    "imageCount": 2,
+    "script": 10836,
+    "scriptCount": 2,
+    "document": 8194,
+    "font": 166249,
+    "fontCount": 1,
+    "stylesheet": 26653,
+    "stylesheetCount": 1,
+    "thirdParty": 2062,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 663,
+    "+weight.total": 399,
+    "-weight.document": 397,
+    "+weight.document": 639,
+    "-weight.script": 170,
+    "+weight.script": 822,
+    "-weight.image": 683,
+    "+weight.image": 263,
+    "-weight.font": 597,
+    "+weight.font": 181,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 482,
+    "-totalBlockingTime": 318,
+    "-largestContentfulPaint": 911
+  },
+  "axe": {
+    "passes": 420,
+    "violations": 5
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://fabform.io/",
+  "requestedUrl": "https://fabform.io/",
+  "timestamp": 1730469352399,
+  "ranks": {
+    "hundos": 775,
+    "performance": 760,
+    "accessibility": 921,
+    "cumulative": 779
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.72,
+    "accessibility": 0.82,
+    "bestPractices": 0.96,
+    "seo": 0.98,
+    "total": 348
+  },
+  "firstContentfulPaint": 2661.5877000000005,
+  "firstMeaningfulPaint": 2661.5877000000005,
+  "speedIndex": 3839.2077417763758,
+  "largestContentfulPaint": 3474.11142,
+  "totalBlockingTime": 541.9144199999987,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5950.283679999999,
+  "maxPotentialFirstInputDelay": 415,
+  "timeToFirstByte": 8.001000000000005,
+  "weight": {
+    "summary": "34 requests • 695.4 KiB",
+    "total": 669653,
+    "image": 87149,
+    "imageCount": 8,
+    "script": 308858,
+    "scriptCount": 14,
+    "document": 21234,
+    "font": 78179,
+    "fontCount": 2,
+    "stylesheet": 216226,
+    "stylesheetCount": 6,
+    "thirdParty": 447289,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 567,
+    "+weight.total": 495,
+    "-weight.document": 770,
+    "+weight.document": 266,
+    "-weight.script": 758,
+    "+weight.script": 234,
+    "-weight.image": 292,
+    "+weight.image": 654,
+    "-weight.font": 406,
+    "+weight.font": 372,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 323,
+    "-totalBlockingTime": 462,
+    "-largestContentfulPaint": 766
+  },
+  "axe": {
+    "passes": 852,
+    "violations": 19
+  }
+}

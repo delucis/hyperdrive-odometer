@@ -1,0 +1,67 @@
+{
+  "url": "https://annahsu.dev/",
+  "requestedUrl": "https://annahsu.dev/",
+  "timestamp": 1730450232039,
+  "ranks": {
+    "hundos": 309,
+    "performance": 227,
+    "accessibility": 771,
+    "cumulative": 307
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.89,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 388
+  },
+  "firstContentfulPaint": 1649.5095,
+  "firstMeaningfulPaint": 1649.5095,
+  "speedIndex": 1649.5095,
+  "largestContentfulPaint": 1649.5095,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.013438563433421745,
+  "timeToInteractive": 1649.5095,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 43.01899999999999,
+  "weight": {
+    "summary": "9 requests • 51.8 KiB",
+    "total": 53000,
+    "image": 1434,
+    "imageCount": 1,
+    "script": 13487,
+    "scriptCount": 3,
+    "document": 4424,
+    "font": 31360,
+    "fontCount": 2,
+    "stylesheet": 2157,
+    "stylesheetCount": 1,
+    "thirdParty": 7119,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 59,
+    "+weight.total": 1003,
+    "-weight.document": 131,
+    "+weight.document": 905,
+    "-weight.script": 196,
+    "+weight.script": 796,
+    "-weight.image": 29,
+    "+weight.image": 917,
+    "-weight.font": 114,
+    "+weight.font": 664,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 504,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 176
+  },
+  "axe": {
+    "passes": 78,
+    "violations": 5
+  }
+}

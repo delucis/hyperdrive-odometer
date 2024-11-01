@@ -1,0 +1,67 @@
+{
+  "url": "https://pruthivithejan.me/",
+  "requestedUrl": "https://pruthivithejan.me/",
+  "timestamp": 1730489943960,
+  "ranks": {
+    "hundos": 422,
+    "performance": 336,
+    "accessibility": 899,
+    "cumulative": 422
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.97,
+    "accessibility": 0.83,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 380
+  },
+  "firstContentfulPaint": 1161.761,
+  "firstMeaningfulPaint": 2087.761,
+  "speedIndex": 2197.878926530676,
+  "largestContentfulPaint": 1765.2194999999997,
+  "totalBlockingTime": 188.5,
+  "cumulativeLayoutShift": 0.0036121445932392896,
+  "timeToInteractive": 3191.761,
+  "maxPotentialFirstInputDelay": 210,
+  "timeToFirstByte": 91.64099999999999,
+  "weight": {
+    "summary": "26 requests • 240.0 KiB",
+    "total": 245730,
+    "image": 23122,
+    "imageCount": 1,
+    "script": 107670,
+    "scriptCount": 14,
+    "document": 12683,
+    "font": 83205,
+    "fontCount": 4,
+    "stylesheet": 18919,
+    "stylesheetCount": 2,
+    "thirdParty": 40029,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 301,
+    "+weight.total": 761,
+    "-weight.document": 594,
+    "+weight.document": 442,
+    "-weight.script": 512,
+    "+weight.script": 480,
+    "-weight.image": 150,
+    "+weight.image": 796,
+    "-weight.font": 436,
+    "+weight.font": 342,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 696,
+    "-totalBlockingTime": 253,
+    "-largestContentfulPaint": 582
+  },
+  "axe": {
+    "passes": 245,
+    "violations": 9
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://astro-social-share.mckerlie.com/",
+  "requestedUrl": "https://astro-social-share.mckerlie.com/",
+  "timestamp": 1730466358238,
+  "ranks": {
+    "hundos": 45,
+    "performance": 88,
+    "accessibility": 134,
+    "cumulative": 28
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1093.1219999999998,
+  "firstMeaningfulPaint": 1112.1219999999998,
+  "speedIndex": 1093.1219999999998,
+  "largestContentfulPaint": 1112.1219999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1112.1219999999998,
+  "maxPotentialFirstInputDelay": 38,
+  "timeToFirstByte": 92.53,
+  "weight": {
+    "summary": "7 requests • 65.6 KiB",
+    "total": 67181,
+    "image": 22354,
+    "imageCount": 1,
+    "script": 27275,
+    "scriptCount": 4,
+    "document": 6768,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 10784,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 87,
+    "+weight.total": 975,
+    "-weight.document": 301,
+    "+weight.document": 735,
+    "-weight.script": 293,
+    "+weight.script": 699,
+    "-weight.image": 145,
+    "+weight.image": 801,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 698,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 63
+  },
+  "axe": {
+    "passes": 140,
+    "violations": 0
+  }
+}

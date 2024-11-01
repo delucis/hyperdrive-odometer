@@ -1,0 +1,67 @@
+{
+  "url": "https://andreszapata.me/",
+  "requestedUrl": "https://andreszapata.me/",
+  "timestamp": 1730465910055,
+  "ranks": {
+    "hundos": 28,
+    "performance": 120,
+    "accessibility": 197,
+    "cumulative": 61
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 973.8975,
+  "firstMeaningfulPaint": 973.8975,
+  "speedIndex": 1316.039871052285,
+  "largestContentfulPaint": 1016.8975,
+  "totalBlockingTime": 50,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1520.3975,
+  "maxPotentialFirstInputDelay": 155,
+  "timeToFirstByte": 66.78499999999997,
+  "weight": {
+    "summary": "12 requests • 129.5 KiB",
+    "total": 132574,
+    "image": 6639,
+    "imageCount": 4,
+    "script": 112212,
+    "scriptCount": 6,
+    "document": 9854,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 3869,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 174,
+    "+weight.total": 888,
+    "-weight.document": 487,
+    "+weight.document": 549,
+    "-weight.script": 538,
+    "+weight.script": 454,
+    "-weight.image": 73,
+    "+weight.image": 873,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 596,
+    "-totalBlockingTime": 92,
+    "-largestContentfulPaint": 30
+  },
+  "axe": {
+    "passes": 295,
+    "violations": 1
+  }
+}

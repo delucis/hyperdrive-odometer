@@ -1,0 +1,67 @@
+{
+  "url": "https://yummycake.co/",
+  "requestedUrl": "https://yummycake.co/",
+  "timestamp": 1730465005986,
+  "ranks": {
+    "hundos": 982,
+    "performance": 987,
+    "accessibility": 1014,
+    "cumulative": 981
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.43,
+    "accessibility": 0.75,
+    "bestPractices": 0.96,
+    "seo": 0.92,
+    "total": 306
+  },
+  "firstContentfulPaint": 3216.8875,
+  "firstMeaningfulPaint": 3216.8875,
+  "speedIndex": 6719.476299252952,
+  "largestContentfulPaint": 23748.782750000006,
+  "totalBlockingTime": 859.0000000000005,
+  "cumulativeLayoutShift": 0.00016089263141786498,
+  "timeToInteractive": 8624.372500000001,
+  "maxPotentialFirstInputDelay": 949.0000000000009,
+  "timeToFirstByte": 403.85299999999995,
+  "weight": {
+    "summary": "49 requests • 5.9 MiB",
+    "total": 6230528,
+    "image": 5677323,
+    "imageCount": 35,
+    "script": 142295,
+    "scriptCount": 4,
+    "document": 7140,
+    "font": 303013,
+    "fontCount": 3,
+    "stylesheet": 70520,
+    "stylesheetCount": 2,
+    "thirdParty": 6093817,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 985,
+    "+weight.total": 77,
+    "-weight.document": 334,
+    "+weight.document": 702,
+    "-weight.script": 588,
+    "+weight.script": 404,
+    "-weight.image": 910,
+    "+weight.image": 36,
+    "-weight.font": 679,
+    "+weight.font": 99,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 957,
+    "-totalBlockingTime": 518,
+    "-largestContentfulPaint": 1041
+  },
+  "axe": {
+    "passes": 754,
+    "violations": 71
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://prannaykedia.com/",
+  "requestedUrl": "https://prannaykedia.com/",
+  "timestamp": 1730458262012,
+  "ranks": {
+    "hundos": 579,
+    "performance": 378,
+    "accessibility": 504,
+    "cumulative": 581
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.95,
+    "accessibility": 0.95,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 368
+  },
+  "firstContentfulPaint": 1078.827,
+  "firstMeaningfulPaint": 1078.827,
+  "speedIndex": 1742.3143692820029,
+  "largestContentfulPaint": 2142.646,
+  "totalBlockingTime": 142,
+  "cumulativeLayoutShift": 0.09321008919349,
+  "timeToInteractive": 3737.548,
+  "maxPotentialFirstInputDelay": 138,
+  "timeToFirstByte": 2.503,
+  "weight": {
+    "summary": "33 requests • 422.2 KiB",
+    "total": 432355,
+    "image": 97120,
+    "imageCount": 6,
+    "script": 142521,
+    "scriptCount": 6,
+    "document": 10811,
+    "font": 153922,
+    "fontCount": 8,
+    "stylesheet": 7091,
+    "stylesheetCount": 1,
+    "thirdParty": 289095,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 441,
+    "+weight.total": 621,
+    "-weight.document": 524,
+    "+weight.document": 512,
+    "-weight.script": 590,
+    "+weight.script": 402,
+    "-weight.image": 304,
+    "+weight.image": 642,
+    "-weight.font": 586,
+    "+weight.font": 192,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 164,
+    "-totalBlockingTime": 217,
+    "-largestContentfulPaint": 272
+  },
+  "axe": {
+    "passes": 195,
+    "violations": 12
+  }
+}

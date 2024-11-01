@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nion-digital.com/",
+  "requestedUrl": "https://www.nion-digital.com/",
+  "timestamp": 1730495267028,
+  "ranks": {
+    "hundos": 628,
+    "performance": 793,
+    "accessibility": 420,
+    "cumulative": 627
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.69,
+    "accessibility": 0.96,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 363
+  },
+  "firstContentfulPaint": 2947.8544999999995,
+  "firstMeaningfulPaint": 2947.8544999999995,
+  "speedIndex": 3341.468255212119,
+  "largestContentfulPaint": 5249.8285,
+  "totalBlockingTime": 273.72049999999945,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4823.201,
+  "maxPotentialFirstInputDelay": 285,
+  "timeToFirstByte": 30.188000000000002,
+  "weight": {
+    "summary": "20 requests • 672.3 KiB",
+    "total": 688453,
+    "image": 289528,
+    "imageCount": 6,
+    "script": 232580,
+    "scriptCount": 7,
+    "document": 48008,
+    "font": 107782,
+    "fontCount": 2,
+    "stylesheet": 10555,
+    "stylesheetCount": 3,
+    "thirdParty": 273561,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 575,
+    "+weight.total": 487,
+    "-weight.document": 924,
+    "+weight.document": 112,
+    "-weight.script": 694,
+    "+weight.script": 298,
+    "-weight.image": 496,
+    "+weight.image": 450,
+    "-weight.font": 500,
+    "+weight.font": 278,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 454,
+    "-totalBlockingTime": 317,
+    "-largestContentfulPaint": 886
+  },
+  "axe": {
+    "passes": 664,
+    "violations": 4
+  }
+}

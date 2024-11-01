@@ -1,0 +1,67 @@
+{
+  "url": "https://castrovaron.com/",
+  "requestedUrl": "https://castrovaron.com/",
+  "timestamp": 1730467297756,
+  "ranks": {
+    "hundos": 220,
+    "performance": 280,
+    "accessibility": 475,
+    "cumulative": 217
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 393
+  },
+  "firstContentfulPaint": 1558.451,
+  "firstMeaningfulPaint": 1558.451,
+  "speedIndex": 1558.451,
+  "largestContentfulPaint": 2322.3860000000004,
+  "totalBlockingTime": 23,
+  "cumulativeLayoutShift": 0.007599411183737741,
+  "timeToInteractive": 1679.0660000000003,
+  "maxPotentialFirstInputDelay": 73,
+  "timeToFirstByte": 82.398,
+  "weight": {
+    "summary": "16 requests • 53.7 KiB",
+    "total": 55016,
+    "image": 6264,
+    "imageCount": 4,
+    "script": 21070,
+    "scriptCount": 5,
+    "document": 8574,
+    "font": 13249,
+    "fontCount": 1,
+    "stylesheet": 5719,
+    "stylesheetCount": 4,
+    "thirdParty": 21539,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 61,
+    "+weight.total": 1001,
+    "-weight.document": 418,
+    "+weight.document": 618,
+    "-weight.script": 240,
+    "+weight.script": 752,
+    "-weight.image": 71,
+    "+weight.image": 875,
+    "-weight.font": 14,
+    "+weight.font": 764,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 665,
+    "-totalBlockingTime": 44,
+    "-largestContentfulPaint": 301
+  },
+  "axe": {
+    "passes": 183,
+    "violations": 4
+  }
+}

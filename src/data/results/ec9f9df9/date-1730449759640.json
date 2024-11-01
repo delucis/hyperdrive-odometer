@@ -1,0 +1,67 @@
+{
+  "url": "https://www.murunah.id/",
+  "requestedUrl": "https://www.murunah.id/",
+  "timestamp": 1730479345184,
+  "ranks": {
+    "hundos": 503,
+    "performance": 659,
+    "accessibility": 593,
+    "cumulative": 512
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.79,
+    "accessibility": 0.94,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 373
+  },
+  "firstContentfulPaint": 1512.15,
+  "firstMeaningfulPaint": 1512.15,
+  "speedIndex": 2425.214880057388,
+  "largestContentfulPaint": 5570.151587867737,
+  "totalBlockingTime": 60,
+  "cumulativeLayoutShift": 0.007201529572014804,
+  "timeToInteractive": 2975.534587867737,
+  "maxPotentialFirstInputDelay": 144,
+  "timeToFirstByte": 47.823999999999984,
+  "weight": {
+    "summary": "36 requests • 910.2 KiB",
+    "total": 932044,
+    "image": 826465,
+    "imageCount": 22,
+    "script": 41126,
+    "scriptCount": 8,
+    "document": 17550,
+    "font": 23268,
+    "fontCount": 2,
+    "stylesheet": 23494,
+    "stylesheetCount": 2,
+    "thirdParty": 30364,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 654,
+    "+weight.total": 408,
+    "-weight.document": 717,
+    "+weight.document": 319,
+    "-weight.script": 350,
+    "+weight.script": 642,
+    "-weight.image": 701,
+    "+weight.image": 245,
+    "-weight.font": 63,
+    "+weight.font": 715,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 528,
+    "-totalBlockingTime": 108,
+    "-largestContentfulPaint": 454
+  },
+  "axe": {
+    "passes": 602,
+    "violations": 29
+  }
+}

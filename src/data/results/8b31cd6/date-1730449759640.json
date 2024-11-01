@@ -1,0 +1,67 @@
+{
+  "url": "https://www.vocut.com/",
+  "requestedUrl": "https://www.vocut.com/",
+  "timestamp": 1730496228885,
+  "ranks": {
+    "hundos": 611,
+    "performance": 751,
+    "accessibility": 673,
+    "cumulative": 617
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.72,
+    "accessibility": 0.92,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 364
+  },
+  "firstContentfulPaint": 1797.4865,
+  "firstMeaningfulPaint": 1797.4865,
+  "speedIndex": 2376.023646953321,
+  "largestContentfulPaint": 15062.526500000007,
+  "totalBlockingTime": 4,
+  "cumulativeLayoutShift": 0.08455049171082295,
+  "timeToInteractive": 3228.4865,
+  "maxPotentialFirstInputDelay": 58,
+  "timeToFirstByte": 53.510000000000005,
+  "weight": {
+    "summary": "39 requests • 4.4 MiB",
+    "total": 4577389,
+    "image": 4350954,
+    "imageCount": 18,
+    "script": 119802,
+    "scriptCount": 17,
+    "document": 6752,
+    "font": 87239,
+    "fontCount": 1,
+    "stylesheet": 12642,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 962,
+    "+weight.total": 100,
+    "-weight.document": 297,
+    "+weight.document": 739,
+    "-weight.script": 553,
+    "+weight.script": 439,
+    "-weight.image": 895,
+    "+weight.image": 51,
+    "-weight.font": 446,
+    "+weight.font": 332,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 546,
+    "-totalBlockingTime": 7,
+    "-largestContentfulPaint": 1020
+  },
+  "axe": {
+    "passes": 370,
+    "violations": 11
+  }
+}

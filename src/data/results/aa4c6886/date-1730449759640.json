@@ -1,0 +1,67 @@
+{
+  "url": "https://jacobsonlawrence.com/",
+  "requestedUrl": "https://www.jacobsonlawrence.com/",
+  "timestamp": 1730494760426,
+  "ranks": {
+    "hundos": 328,
+    "performance": 429,
+    "accessibility": 353,
+    "cumulative": 330
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.93,
+    "accessibility": 1,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 386
+  },
+  "firstContentfulPaint": 2093.771,
+  "firstMeaningfulPaint": 2093.771,
+  "speedIndex": 2093.771,
+  "largestContentfulPaint": 2917.8750000000005,
+  "totalBlockingTime": 44.5,
+  "cumulativeLayoutShift": 0.017938450900092478,
+  "timeToInteractive": 2413.1915000000004,
+  "maxPotentialFirstInputDelay": 113,
+  "timeToFirstByte": 2.586999999999996,
+  "weight": {
+    "summary": "180 requests • 468.6 KiB",
+    "total": 479836,
+    "image": 171081,
+    "imageCount": 7,
+    "script": 7118,
+    "scriptCount": 3,
+    "document": 17856,
+    "font": 48653,
+    "fontCount": 1,
+    "stylesheet": 12959,
+    "stylesheetCount": 1,
+    "thirdParty": 223041,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 468,
+    "+weight.total": 594,
+    "-weight.document": 724,
+    "+weight.document": 312,
+    "-weight.script": 129,
+    "+weight.script": 863,
+    "-weight.image": 398,
+    "+weight.image": 548,
+    "-weight.font": 250,
+    "+weight.font": 528,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 179,
+    "-totalBlockingTime": 83,
+    "-largestContentfulPaint": 359
+  },
+  "axe": {
+    "passes": 460,
+    "violations": 26
+  }
+}

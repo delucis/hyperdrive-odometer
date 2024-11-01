@@ -1,0 +1,67 @@
+{
+  "url": "https://tkon.nl/",
+  "requestedUrl": "https://tkon.nl/",
+  "timestamp": 1730492358356,
+  "ranks": {
+    "hundos": 916,
+    "performance": 734,
+    "accessibility": 1018,
+    "cumulative": 916
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.74,
+    "accessibility": 0.74,
+    "bestPractices": 0.78,
+    "seo": 0.97,
+    "total": 323
+  },
+  "firstContentfulPaint": 2211.708,
+  "firstMeaningfulPaint": 2211.708,
+  "speedIndex": 3530.686396181643,
+  "largestContentfulPaint": 2903.274,
+  "totalBlockingTime": 743.5000000000002,
+  "cumulativeLayoutShift": 0.03516178561286855,
+  "timeToInteractive": 8036.362500000001,
+  "maxPotentialFirstInputDelay": 300,
+  "timeToFirstByte": 57.22699999999999,
+  "weight": {
+    "summary": "31 requests • 2.0 MiB",
+    "total": 2063030,
+    "image": 1551680,
+    "imageCount": 7,
+    "script": 459288,
+    "scriptCount": 12,
+    "document": 17213,
+    "font": 14218,
+    "fontCount": 1,
+    "stylesheet": 6644,
+    "stylesheetCount": 2,
+    "thirdParty": 481214,
+    "thirdPartyCount": 9
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 851,
+    "+weight.total": 211,
+    "-weight.document": 711,
+    "+weight.document": 325,
+    "-weight.script": 847,
+    "+weight.script": 145,
+    "-weight.image": 801,
+    "+weight.image": 145,
+    "-weight.font": 21,
+    "+weight.font": 757,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 558,
+    "-totalBlockingTime": 502,
+    "-largestContentfulPaint": 722
+  },
+  "axe": {
+    "passes": 339,
+    "violations": 19
+  }
+}

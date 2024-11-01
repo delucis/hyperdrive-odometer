@@ -1,0 +1,67 @@
+{
+  "url": "https://ashfordtarmac.co.uk/",
+  "requestedUrl": "https://ashfordtarmac.co.uk/",
+  "timestamp": 1730450572174,
+  "ranks": {
+    "hundos": 762,
+    "performance": 683,
+    "accessibility": 595,
+    "cumulative": 765
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.77,
+    "accessibility": 0.94,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 349
+  },
+  "firstContentfulPaint": 1526.068,
+  "firstMeaningfulPaint": 3049.4999999999995,
+  "speedIndex": 3030.279634431188,
+  "largestContentfulPaint": 2079.034,
+  "totalBlockingTime": 902,
+  "cumulativeLayoutShift": 0.006890832709483211,
+  "timeToInteractive": 6880.159999999999,
+  "maxPotentialFirstInputDelay": 357,
+  "timeToFirstByte": 156.99,
+  "weight": {
+    "summary": "50 requests • 1.5 MiB",
+    "total": 1617421,
+    "image": 1033466,
+    "imageCount": 32,
+    "script": 283527,
+    "scriptCount": 6,
+    "document": 56945,
+    "font": 190483,
+    "fontCount": 3,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 229236,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 800,
+    "+weight.total": 262,
+    "-weight.document": 947,
+    "+weight.document": 89,
+    "-weight.script": 734,
+    "+weight.script": 258,
+    "-weight.image": 740,
+    "+weight.image": 206,
+    "-weight.font": 621,
+    "+weight.font": 157,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 831,
+    "-totalBlockingTime": 523,
+    "-largestContentfulPaint": 618
+  },
+  "axe": {
+    "passes": 661,
+    "violations": 88
+  }
+}

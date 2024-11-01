@@ -1,0 +1,67 @@
+{
+  "url": "https://keyboardcounter.online/",
+  "requestedUrl": "https://keyboardcounter.online/",
+  "timestamp": 1730487483143,
+  "ranks": {
+    "hundos": 341,
+    "performance": 279,
+    "accessibility": 818,
+    "cumulative": 344
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 0.88,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 386
+  },
+  "firstContentfulPaint": 1556.348,
+  "firstMeaningfulPaint": 1556.348,
+  "speedIndex": 1556.348,
+  "largestContentfulPaint": 1556.348,
+  "totalBlockingTime": 143,
+  "cumulativeLayoutShift": 0.01090354378413886,
+  "timeToInteractive": 2914.5790000000006,
+  "maxPotentialFirstInputDelay": 152,
+  "timeToFirstByte": 73.774,
+  "weight": {
+    "summary": "10 requests • 157.1 KiB",
+    "total": 160920,
+    "image": 2668,
+    "imageCount": 1,
+    "script": 109595,
+    "scriptCount": 1,
+    "document": 6783,
+    "font": 32215,
+    "fontCount": 4,
+    "stylesheet": 9111,
+    "stylesheetCount": 2,
+    "thirdParty": 143444,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 210,
+    "+weight.total": 852,
+    "-weight.document": 303,
+    "+weight.document": 733,
+    "-weight.script": 523,
+    "+weight.script": 469,
+    "-weight.image": 43,
+    "+weight.image": 903,
+    "-weight.font": 121,
+    "+weight.font": 657,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 629,
+    "-totalBlockingTime": 218,
+    "-largestContentfulPaint": 142
+  },
+  "axe": {
+    "passes": 216,
+    "violations": 28
+  }
+}

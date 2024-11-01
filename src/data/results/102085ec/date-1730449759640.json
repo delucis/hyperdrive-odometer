@@ -1,0 +1,67 @@
+{
+  "url": "https://tleosolutions.com/",
+  "requestedUrl": "https://tleosolutions.com/",
+  "timestamp": 1730476609587,
+  "ranks": {
+    "hundos": 807,
+    "performance": 889,
+    "accessibility": 642,
+    "cumulative": 808
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 0.93,
+    "bestPractices": 0.93,
+    "seo": 0.98,
+    "total": 344
+  },
+  "firstContentfulPaint": 1668.3745,
+  "firstMeaningfulPaint": 1668.3745,
+  "speedIndex": 3735.6434123920053,
+  "largestContentfulPaint": 35585.187499999876,
+  "totalBlockingTime": 521.2530000000002,
+  "cumulativeLayoutShift": 0.0022940692840941607,
+  "timeToInteractive": 3043.7285,
+  "maxPotentialFirstInputDelay": 1217,
+  "timeToFirstByte": 1225.2279999999998,
+  "weight": {
+    "summary": "18 requests • 7.9 MiB",
+    "total": 8334439,
+    "image": 8164764,
+    "imageCount": 7,
+    "script": 122967,
+    "scriptCount": 4,
+    "document": 5475,
+    "font": 32183,
+    "fontCount": 4,
+    "stylesheet": 9050,
+    "stylesheetCount": 2,
+    "thirdParty": 157541,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1006,
+    "+weight.total": 56,
+    "-weight.document": 205,
+    "+weight.document": 831,
+    "-weight.script": 559,
+    "+weight.script": 433,
+    "-weight.image": 924,
+    "+weight.image": 22,
+    "-weight.font": 120,
+    "+weight.font": 658,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 1029,
+    "-totalBlockingTime": 450,
+    "-largestContentfulPaint": 1051
+  },
+  "axe": {
+    "passes": 267,
+    "violations": 47
+  }
+}

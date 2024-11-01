@@ -1,0 +1,67 @@
+{
+  "url": "https://kaischuyler.com/",
+  "requestedUrl": "https://kaischuyler.com/",
+  "timestamp": 1730455851484,
+  "ranks": {
+    "hundos": 394,
+    "performance": 450,
+    "accessibility": 633,
+    "cumulative": 392
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.92,
+    "accessibility": 0.93,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 382
+  },
+  "firstContentfulPaint": 1839.3315,
+  "firstMeaningfulPaint": 1839.3315,
+  "speedIndex": 2152.1198030003598,
+  "largestContentfulPaint": 2897.6715,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.09471058451743068,
+  "timeToInteractive": 1839.3315,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 16.695000000000007,
+  "weight": {
+    "summary": "7 requests • 95.7 KiB",
+    "total": 97999,
+    "image": 0,
+    "imageCount": 0,
+    "script": 4900,
+    "scriptCount": 1,
+    "document": 6688,
+    "font": 63470,
+    "fontCount": 2,
+    "stylesheet": 22941,
+    "stylesheetCount": 3,
+    "thirdParty": 64792,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 127,
+    "+weight.total": 935,
+    "-weight.document": 289,
+    "+weight.document": 747,
+    "-weight.script": 89,
+    "+weight.script": 903,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 329,
+    "+weight.font": 449,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 384,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 357
+  },
+  "axe": {
+    "passes": 158,
+    "violations": 17
+  }
+}

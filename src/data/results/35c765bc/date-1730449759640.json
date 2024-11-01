@@ -1,0 +1,67 @@
+{
+  "url": "https://domain-stories.com/",
+  "requestedUrl": "https://domain-stories.com/",
+  "timestamp": 1730484691085,
+  "ranks": {
+    "hundos": 458,
+    "performance": 489,
+    "accessibility": 604,
+    "cumulative": 458
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.9,
+    "accessibility": 0.93,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 376
+  },
+  "firstContentfulPaint": 1574.7629999999995,
+  "firstMeaningfulPaint": 1574.7629999999995,
+  "speedIndex": 2405.1950097077547,
+  "largestContentfulPaint": 1614.857,
+  "totalBlockingTime": 388.99999999999955,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5046.012999999999,
+  "maxPotentialFirstInputDelay": 401,
+  "timeToFirstByte": 75.50299999999999,
+  "weight": {
+    "summary": "11 requests • 627.7 KiB",
+    "total": 642815,
+    "image": 1202,
+    "imageCount": 1,
+    "script": 247855,
+    "scriptCount": 3,
+    "document": 17181,
+    "font": 346638,
+    "fontCount": 1,
+    "stylesheet": 29939,
+    "stylesheetCount": 4,
+    "thirdParty": 634401,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 557,
+    "+weight.total": 505,
+    "-weight.document": 709,
+    "+weight.document": 327,
+    "-weight.script": 707,
+    "+weight.script": 285,
+    "-weight.image": 25,
+    "+weight.image": 921,
+    "-weight.font": 699,
+    "+weight.font": 79,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 639,
+    "-totalBlockingTime": 378,
+    "-largestContentfulPaint": 562
+  },
+  "axe": {
+    "passes": 381,
+    "violations": 2
+  }
+}

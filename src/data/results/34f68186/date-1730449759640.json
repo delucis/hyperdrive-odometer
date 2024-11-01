@@ -1,0 +1,67 @@
+{
+  "url": "https://u2spacebaby.u2.com/",
+  "requestedUrl": "https://u2spacebaby.u2.com/",
+  "timestamp": 1730461057508,
+  "ranks": {
+    "hundos": 662,
+    "performance": 859,
+    "accessibility": 245,
+    "cumulative": 661
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.64,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 360
+  },
+  "firstContentfulPaint": 1660.8270000000002,
+  "firstMeaningfulPaint": 1660.8270000000002,
+  "speedIndex": 6809.5805366372015,
+  "largestContentfulPaint": 12867.827000000001,
+  "totalBlockingTime": 231,
+  "cumulativeLayoutShift": 0.00009503348009436323,
+  "timeToInteractive": 11191.827000000001,
+  "maxPotentialFirstInputDelay": 176,
+  "timeToFirstByte": 2.9180000000000064,
+  "weight": {
+    "summary": "31 requests • 3.6 MiB",
+    "total": 3752165,
+    "image": 3409972,
+    "imageCount": 11,
+    "script": 276398,
+    "scriptCount": 10,
+    "document": 4053,
+    "font": 38877,
+    "fontCount": 3,
+    "stylesheet": 21381,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 940,
+    "+weight.total": 122,
+    "-weight.document": 109,
+    "+weight.document": 927,
+    "-weight.script": 727,
+    "+weight.script": 265,
+    "-weight.image": 880,
+    "+weight.image": 66,
+    "-weight.font": 181,
+    "+weight.font": 597,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 233,
+    "-totalBlockingTime": 279,
+    "-largestContentfulPaint": 1007
+  },
+  "axe": {
+    "passes": 92,
+    "violations": 2
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://palworldgg.com/",
+  "requestedUrl": "https://palworldgg.com/",
+  "timestamp": 1730489349247,
+  "ranks": {
+    "hundos": 146,
+    "performance": 266,
+    "accessibility": 176,
+    "cumulative": 152
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 396
+  },
+  "firstContentfulPaint": 1110.8310000000001,
+  "firstMeaningfulPaint": 1110.8310000000001,
+  "speedIndex": 1227.8826642427632,
+  "largestContentfulPaint": 1636.41,
+  "totalBlockingTime": 66,
+  "cumulativeLayoutShift": 0.0706080649406771,
+  "timeToInteractive": 1977.1205000000002,
+  "maxPotentialFirstInputDelay": 346.0000000000001,
+  "timeToFirstByte": 76.02900000000001,
+  "weight": {
+    "summary": "45 requests • 204.0 KiB",
+    "total": 208901,
+    "image": 0,
+    "imageCount": 0,
+    "script": 7096,
+    "scriptCount": 1,
+    "document": 12884,
+    "font": 65740,
+    "fontCount": 2,
+    "stylesheet": 13094,
+    "stylesheetCount": 1,
+    "thirdParty": 117183,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 271,
+    "+weight.total": 791,
+    "-weight.document": 600,
+    "+weight.document": 436,
+    "-weight.script": 127,
+    "+weight.script": 865,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 341,
+    "+weight.font": 437,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 645,
+    "-totalBlockingTime": 114,
+    "-largestContentfulPaint": 172
+  },
+  "axe": {
+    "passes": 717,
+    "violations": 1
+  }
+}

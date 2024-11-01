@@ -1,0 +1,67 @@
+{
+  "url": "https://decriminalizenaturemadison.org/",
+  "requestedUrl": "https://decriminalizenaturemadison.org/",
+  "timestamp": 1730452652261,
+  "ranks": {
+    "hundos": 7,
+    "performance": 142,
+    "accessibility": 213,
+    "cumulative": 56
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1066.845,
+  "firstMeaningfulPaint": 2368.8450000000003,
+  "speedIndex": 1600.5417136604046,
+  "largestContentfulPaint": 1848.845,
+  "totalBlockingTime": 20,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3118.8450000000003,
+  "maxPotentialFirstInputDelay": 70,
+  "timeToFirstByte": 31.194000000000017,
+  "weight": {
+    "summary": "9 requests • 497.4 KiB",
+    "total": 509342,
+    "image": 188475,
+    "imageCount": 3,
+    "script": 30053,
+    "scriptCount": 2,
+    "document": 3211,
+    "font": 280108,
+    "fontCount": 1,
+    "stylesheet": 6821,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 496,
+    "+weight.total": 566,
+    "-weight.document": 66,
+    "+weight.document": 970,
+    "-weight.script": 310,
+    "+weight.script": 682,
+    "-weight.image": 410,
+    "+weight.image": 536,
+    "-weight.font": 669,
+    "+weight.font": 109,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 456,
+    "-totalBlockingTime": 37,
+    "-largestContentfulPaint": 224
+  },
+  "axe": {
+    "passes": 108,
+    "violations": 1
+  }
+}

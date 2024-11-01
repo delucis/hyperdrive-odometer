@@ -1,0 +1,67 @@
+{
+  "url": "https://www.silvesterparis.de/",
+  "requestedUrl": "https://www.silvesterparis.de/",
+  "timestamp": 1730475388322,
+  "ranks": {
+    "hundos": 322,
+    "performance": 129,
+    "accessibility": 482,
+    "cumulative": 319
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 387
+  },
+  "firstContentfulPaint": 1090.464,
+  "firstMeaningfulPaint": 1158.964,
+  "speedIndex": 1472.2131757928687,
+  "largestContentfulPaint": 1158.964,
+  "totalBlockingTime": 83,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1223.464,
+  "maxPotentialFirstInputDelay": 137,
+  "timeToFirstByte": 412.046,
+  "weight": {
+    "summary": "16 requests • 185.0 KiB",
+    "total": 189445,
+    "image": 90470,
+    "imageCount": 8,
+    "script": 75814,
+    "scriptCount": 6,
+    "document": 12666,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 10495,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 249,
+    "+weight.total": 813,
+    "-weight.document": 593,
+    "+weight.document": 443,
+    "-weight.script": 440,
+    "+weight.script": 552,
+    "-weight.image": 294,
+    "+weight.image": 652,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 961,
+    "-totalBlockingTime": 136,
+    "-largestContentfulPaint": 73
+  },
+  "axe": {
+    "passes": 496,
+    "violations": 5
+  }
+}

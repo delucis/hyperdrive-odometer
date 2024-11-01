@@ -1,0 +1,67 @@
+{
+  "url": "https://unfolding.io/",
+  "requestedUrl": "https://unfolding.io/",
+  "timestamp": 1730461153952,
+  "ranks": {
+    "hundos": 35,
+    "performance": 157,
+    "accessibility": 31,
+    "cumulative": 19
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1205.0025,
+  "firstMeaningfulPaint": 1253.0025,
+  "speedIndex": 2000.5567925321604,
+  "largestContentfulPaint": 1253.0025,
+  "totalBlockingTime": 48.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2299.0025,
+  "maxPotentialFirstInputDelay": 281,
+  "timeToFirstByte": 251.27100000000002,
+  "weight": {
+    "summary": "24 requests • 246.0 KiB",
+    "total": 251955,
+    "image": 94473,
+    "imageCount": 4,
+    "script": 121132,
+    "scriptCount": 18,
+    "document": 35855,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 97685,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 305,
+    "+weight.total": 757,
+    "-weight.document": 883,
+    "+weight.document": 153,
+    "-weight.script": 554,
+    "+weight.script": 438,
+    "-weight.image": 300,
+    "+weight.image": 646,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 902,
+    "-totalBlockingTime": 90,
+    "-largestContentfulPaint": 100
+  },
+  "axe": {
+    "passes": 634,
+    "violations": 0
+  }
+}

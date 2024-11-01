@@ -1,0 +1,67 @@
+{
+  "url": "https://devolio.devaradise.com/",
+  "requestedUrl": "https://devolio.devaradise.com/",
+  "timestamp": 1730484353464,
+  "ranks": {
+    "hundos": 155,
+    "performance": 79,
+    "accessibility": 187,
+    "cumulative": 154
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 396
+  },
+  "firstContentfulPaint": 1033.385,
+  "firstMeaningfulPaint": 1033.385,
+  "speedIndex": 1077.803810002908,
+  "largestContentfulPaint": 1643.63,
+  "totalBlockingTime": 2,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1129.385,
+  "maxPotentialFirstInputDelay": 226,
+  "timeToFirstByte": 108.51,
+  "weight": {
+    "summary": "10 requests • 30.1 KiB",
+    "total": 30846,
+    "image": 10704,
+    "imageCount": 4,
+    "script": 7119,
+    "scriptCount": 1,
+    "document": 6849,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 5993,
+    "stylesheetCount": 1,
+    "thirdParty": 7119,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 27,
+    "+weight.total": 1035,
+    "-weight.document": 307,
+    "+weight.document": 729,
+    "-weight.script": 130,
+    "+weight.script": 862,
+    "-weight.image": 95,
+    "+weight.image": 851,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 746,
+    "-totalBlockingTime": 4,
+    "-largestContentfulPaint": 566
+  },
+  "axe": {
+    "passes": 410,
+    "violations": 1
+  }
+}

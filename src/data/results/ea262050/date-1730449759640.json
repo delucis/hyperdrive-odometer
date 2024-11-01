@@ -1,0 +1,67 @@
+{
+  "url": "https://codenanshu.in/",
+  "requestedUrl": "https://codenanshu.in/",
+  "timestamp": 1730451894846,
+  "ranks": {
+    "hundos": 764,
+    "performance": 802,
+    "accessibility": 938,
+    "cumulative": 761
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.68,
+    "accessibility": 0.81,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 349
+  },
+  "firstContentfulPaint": 2410.742,
+  "firstMeaningfulPaint": 2815.1879999999996,
+  "speedIndex": 3856.575555391255,
+  "largestContentfulPaint": 15530.742,
+  "totalBlockingTime": 9,
+  "cumulativeLayoutShift": 0.09041994416904882,
+  "timeToInteractive": 2815.1879999999996,
+  "maxPotentialFirstInputDelay": 56,
+  "timeToFirstByte": 939.667,
+  "weight": {
+    "summary": "21 requests • 2.6 MiB",
+    "total": 2741954,
+    "image": 2533592,
+    "imageCount": 3,
+    "script": 48611,
+    "scriptCount": 7,
+    "document": 7638,
+    "font": 105451,
+    "fontCount": 4,
+    "stylesheet": 46662,
+    "stylesheetCount": 5,
+    "thirdParty": 25411,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 902,
+    "+weight.total": 160,
+    "-weight.document": 372,
+    "+weight.document": 664,
+    "-weight.script": 365,
+    "+weight.script": 627,
+    "-weight.image": 854,
+    "+weight.image": 92,
+    "-weight.font": 493,
+    "+weight.font": 285,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 1017,
+    "-totalBlockingTime": 16,
+    "-largestContentfulPaint": 1022
+  },
+  "axe": {
+    "passes": 141,
+    "violations": 6
+  }
+}

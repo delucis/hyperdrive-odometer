@@ -1,0 +1,67 @@
+{
+  "url": "https://wavelandweb.com/",
+  "requestedUrl": "https://wavelandweb.com/",
+  "timestamp": 1730493158820,
+  "ranks": {
+    "hundos": 115,
+    "performance": 293,
+    "accessibility": 171,
+    "cumulative": 117
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 398
+  },
+  "firstContentfulPaint": 1851.52,
+  "firstMeaningfulPaint": 1875.02,
+  "speedIndex": 2139.5332017112783,
+  "largestContentfulPaint": 2027.172,
+  "totalBlockingTime": 13,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2390.9759999999997,
+  "maxPotentialFirstInputDelay": 230.99999999999977,
+  "timeToFirstByte": 248.98200000000003,
+  "weight": {
+    "summary": "31 requests • 577.4 KiB",
+    "total": 591248,
+    "image": 341688,
+    "imageCount": 3,
+    "script": 28987,
+    "scriptCount": 3,
+    "document": 156327,
+    "font": 48541,
+    "fontCount": 2,
+    "stylesheet": 12268,
+    "stylesheetCount": 3,
+    "thirdParty": 3437,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 545,
+    "+weight.total": 517,
+    "-weight.document": 1010,
+    "+weight.document": 26,
+    "-weight.script": 305,
+    "+weight.script": 687,
+    "-weight.image": 535,
+    "+weight.image": 411,
+    "-weight.font": 247,
+    "+weight.font": 531,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 900,
+    "-totalBlockingTime": 25,
+    "-largestContentfulPaint": 613
+  },
+  "axe": {
+    "passes": 775,
+    "violations": 1
+  }
+}

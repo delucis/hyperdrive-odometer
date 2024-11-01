@@ -1,0 +1,67 @@
+{
+  "url": "https://new-ahuja.vercel.app/",
+  "requestedUrl": "https://new-ahuja.vercel.app/",
+  "timestamp": 1730457260355,
+  "ranks": {
+    "hundos": 356,
+    "performance": 342,
+    "accessibility": 486,
+    "cumulative": 368
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.96,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 0.93,
+    "total": 384
+  },
+  "firstContentfulPaint": 908.271,
+  "firstMeaningfulPaint": 932.771,
+  "speedIndex": 908.271,
+  "largestContentfulPaint": 2783.2709999999997,
+  "totalBlockingTime": 3,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 970.271,
+  "maxPotentialFirstInputDelay": 125,
+  "timeToFirstByte": 2.0190000000000055,
+  "weight": {
+    "summary": "9 requests • 426.0 KiB",
+    "total": 436272,
+    "image": 337373,
+    "imageCount": 6,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 13932,
+    "font": 80872,
+    "fontCount": 1,
+    "stylesheet": 4095,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 444,
+    "+weight.total": 618,
+    "-weight.document": 637,
+    "+weight.document": 399,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 533,
+    "+weight.image": 413,
+    "-weight.font": 426,
+    "+weight.font": 352,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 25,
+    "-totalBlockingTime": 5,
+    "-largestContentfulPaint": 710
+  },
+  "axe": {
+    "passes": 212,
+    "violations": 5
+  }
+}

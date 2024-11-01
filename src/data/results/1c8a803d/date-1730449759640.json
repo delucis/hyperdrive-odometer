@@ -1,0 +1,67 @@
+{
+  "url": "https://meizuflux.com/",
+  "requestedUrl": "https://meizuflux.com/",
+  "timestamp": 1730488272812,
+  "ranks": {
+    "hundos": 242,
+    "performance": 5,
+    "accessibility": 304,
+    "cumulative": 238
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 392
+  },
+  "firstContentfulPaint": 867.841,
+  "firstMeaningfulPaint": 1070.841,
+  "speedIndex": 867.841,
+  "largestContentfulPaint": 1070.841,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.003351189761118656,
+  "timeToInteractive": 1070.841,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 16.71499999999999,
+  "weight": {
+    "summary": "6 requests • 18.9 KiB",
+    "total": 19347,
+    "image": 1776,
+    "imageCount": 2,
+    "script": 1230,
+    "scriptCount": 1,
+    "document": 1283,
+    "font": 13723,
+    "fontCount": 1,
+    "stylesheet": 1335,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 15,
+    "+weight.total": 1047,
+    "-weight.document": 3,
+    "+weight.document": 1033,
+    "-weight.script": 18,
+    "+weight.script": 974,
+    "-weight.image": 34,
+    "+weight.image": 912,
+    "-weight.font": 16,
+    "+weight.font": 762,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 385,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 55
+  },
+  "axe": {
+    "passes": 70,
+    "violations": 5
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.sonder-mr.com/",
+  "requestedUrl": "https://www.sonder-mr.com/",
+  "timestamp": 1730480040651,
+  "ranks": {
+    "hundos": 678,
+    "performance": 366,
+    "accessibility": 1016,
+    "cumulative": 676
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.96,
+    "accessibility": 0.74,
+    "bestPractices": 0.96,
+    "seo": 0.93,
+    "total": 359
+  },
+  "firstContentfulPaint": 2079.6600000000003,
+  "firstMeaningfulPaint": 2079.6600000000003,
+  "speedIndex": 3006.6564475739624,
+  "largestContentfulPaint": 2352.838,
+  "totalBlockingTime": 32,
+  "cumulativeLayoutShift": 0.00029675386702769256,
+  "timeToInteractive": 2292.367,
+  "maxPotentialFirstInputDelay": 114,
+  "timeToFirstByte": 3.975999999999999,
+  "weight": {
+    "summary": "46 requests • 10.4 MiB",
+    "total": 10921126,
+    "image": 720987,
+    "imageCount": 31,
+    "script": 12803,
+    "scriptCount": 5,
+    "document": 10172,
+    "font": 80394,
+    "fontCount": 3,
+    "stylesheet": 10911,
+    "stylesheetCount": 5,
+    "thirdParty": 10723297,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1019,
+    "+weight.total": 43,
+    "-weight.document": 499,
+    "+weight.document": 537,
+    "-weight.script": 191,
+    "+weight.script": 801,
+    "-weight.image": 677,
+    "+weight.image": 269,
+    "-weight.font": 422,
+    "+weight.font": 356,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 284,
+    "-totalBlockingTime": 57,
+    "-largestContentfulPaint": 303
+  },
+  "axe": {
+    "passes": 706,
+    "violations": 10
+  }
+}

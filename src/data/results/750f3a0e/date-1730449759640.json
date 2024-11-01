@@ -1,0 +1,67 @@
+{
+  "url": "https://dunedinsound.com/",
+  "requestedUrl": "https://dunedinsound.com/",
+  "timestamp": 1730468875417,
+  "ranks": {
+    "hundos": 825,
+    "performance": 613,
+    "accessibility": 656,
+    "cumulative": 824
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.82,
+    "accessibility": 0.92,
+    "bestPractices": 0.74,
+    "seo": 0.92,
+    "total": 340
+  },
+  "firstContentfulPaint": 924.558,
+  "firstMeaningfulPaint": 924.558,
+  "speedIndex": 2346.0622440206025,
+  "largestContentfulPaint": 1749.558,
+  "totalBlockingTime": 107.5,
+  "cumulativeLayoutShift": 0.3402187120291616,
+  "timeToInteractive": 2975.058,
+  "maxPotentialFirstInputDelay": 237,
+  "timeToFirstByte": 505.973,
+  "weight": {
+    "summary": "22 requests • 743.8 KiB",
+    "total": 761665,
+    "image": 733257,
+    "imageCount": 15,
+    "script": 9907,
+    "scriptCount": 2,
+    "document": 8251,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 8461,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 606,
+    "+weight.total": 456,
+    "-weight.document": 400,
+    "+weight.document": 636,
+    "-weight.script": 161,
+    "+weight.script": 831,
+    "-weight.image": 681,
+    "+weight.image": 265,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 987,
+    "-totalBlockingTime": 174,
+    "-largestContentfulPaint": 204
+  },
+  "axe": {
+    "passes": 55,
+    "violations": 2
+  }
+}

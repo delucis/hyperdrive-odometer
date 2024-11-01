@@ -1,0 +1,67 @@
+{
+  "url": "https://profile.ndamulelo.co.za/",
+  "requestedUrl": "https://profile.ndamulelo.co.za/",
+  "timestamp": 1730489855844,
+  "ranks": {
+    "hundos": 477,
+    "performance": 498,
+    "accessibility": 725,
+    "cumulative": 475
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.89,
+    "accessibility": 0.9,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 375
+  },
+  "firstContentfulPaint": 1550.9679999999998,
+  "firstMeaningfulPaint": 1550.9679999999998,
+  "speedIndex": 1550.9679999999998,
+  "largestContentfulPaint": 1690.0759999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.2078151434546149,
+  "timeToInteractive": 1550.9679999999998,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 2.7630000000000337,
+  "weight": {
+    "summary": "6 requests • 112.1 KiB",
+    "total": 114764,
+    "image": 81790,
+    "imageCount": 1,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 1643,
+    "font": 27445,
+    "fontCount": 2,
+    "stylesheet": 3886,
+    "stylesheetCount": 2,
+    "thirdParty": 28731,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 150,
+    "+weight.total": 912,
+    "-weight.document": 12,
+    "+weight.document": 1024,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 283,
+    "+weight.image": 663,
+    "-weight.font": 86,
+    "+weight.font": 692,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 214,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 191
+  },
+  "axe": {
+    "passes": 98,
+    "violations": 2
+  }
+}

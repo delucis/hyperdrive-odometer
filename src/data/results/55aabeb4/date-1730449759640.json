@@ -1,0 +1,67 @@
+{
+  "url": "https://www.spolecnafoceni.cz/",
+  "requestedUrl": "https://www.spolecnafoceni.cz/",
+  "timestamp": 1730495851774,
+  "ranks": {
+    "hundos": 350,
+    "performance": 472,
+    "accessibility": 560,
+    "cumulative": 349
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.91,
+    "accessibility": 0.94,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 385
+  },
+  "firstContentfulPaint": 1438.4265,
+  "firstMeaningfulPaint": 1438.4265,
+  "speedIndex": 2388.9129970095833,
+  "largestContentfulPaint": 3401.853,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.001744780606825895,
+  "timeToInteractive": 1438.4265,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 98.55599999999998,
+  "weight": {
+    "summary": "11 requests • 1.1 MiB",
+    "total": 1162045,
+    "image": 47829,
+    "imageCount": 3,
+    "script": 6669,
+    "scriptCount": 2,
+    "document": 4336,
+    "font": 140420,
+    "fontCount": 3,
+    "stylesheet": 9502,
+    "stylesheetCount": 1,
+    "thirdParty": 956,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 715,
+    "+weight.total": 347,
+    "-weight.document": 126,
+    "+weight.document": 910,
+    "-weight.script": 117,
+    "+weight.script": 875,
+    "-weight.image": 218,
+    "+weight.image": 728,
+    "-weight.font": 569,
+    "+weight.font": 209,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 716,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 391
+  },
+  "axe": {
+    "passes": 180,
+    "violations": 3
+  }
+}

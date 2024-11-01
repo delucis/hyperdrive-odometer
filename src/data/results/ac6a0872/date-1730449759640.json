@@ -1,0 +1,67 @@
+{
+  "url": "https://pokemon-siace.netlify.app/",
+  "requestedUrl": "https://pokemon-siace.netlify.app/",
+  "timestamp": 1730458220515,
+  "ranks": {
+    "hundos": 634,
+    "performance": 861,
+    "accessibility": 142,
+    "cumulative": 625
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.63,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 363
+  },
+  "firstContentfulPaint": 1154.3965,
+  "firstMeaningfulPaint": 1154.3965,
+  "speedIndex": 1306.6749850039093,
+  "largestContentfulPaint": 5804.3965,
+  "totalBlockingTime": 603.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1807.8965,
+  "maxPotentialFirstInputDelay": 814,
+  "timeToFirstByte": 116.348,
+  "weight": {
+    "summary": "8 requests • 957.4 KiB",
+    "total": 980387,
+    "image": 941619,
+    "imageCount": 3,
+    "script": 22464,
+    "scriptCount": 3,
+    "document": 3284,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 13020,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 673,
+    "+weight.total": 389,
+    "-weight.document": 71,
+    "+weight.document": 965,
+    "-weight.script": 245,
+    "+weight.script": 747,
+    "-weight.image": 726,
+    "+weight.image": 220,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 770,
+    "-totalBlockingTime": 471,
+    "-largestContentfulPaint": 907
+  },
+  "axe": {
+    "passes": 107,
+    "violations": 0
+  }
+}

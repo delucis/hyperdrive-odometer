@@ -1,0 +1,67 @@
+{
+  "url": "https://www.packdensack.com/en/home",
+  "requestedUrl": "https://www.packdensack.com/",
+  "timestamp": 1730479527120,
+  "ranks": {
+    "hundos": 584,
+    "performance": 274,
+    "accessibility": 898,
+    "cumulative": 584
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 0.83,
+    "bestPractices": 0.93,
+    "seo": 0.93,
+    "total": 367
+  },
+  "firstContentfulPaint": 1100.8429999999998,
+  "firstMeaningfulPaint": 1301.3429999999998,
+  "speedIndex": 1466.8423281547132,
+  "largestContentfulPaint": 2203.843,
+  "totalBlockingTime": 52.5,
+  "cumulativeLayoutShift": 0.047761849022990605,
+  "timeToInteractive": 2206.343,
+  "maxPotentialFirstInputDelay": 155,
+  "timeToFirstByte": 21.677,
+  "weight": {
+    "summary": "33 requests • 243.3 KiB",
+    "total": 249119,
+    "image": 76481,
+    "imageCount": 12,
+    "script": 104577,
+    "scriptCount": 13,
+    "document": 9473,
+    "font": 33918,
+    "fontCount": 1,
+    "stylesheet": 23254,
+    "stylesheetCount": 4,
+    "thirdParty": 7119,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 303,
+    "+weight.total": 759,
+    "-weight.document": 469,
+    "+weight.document": 567,
+    "-weight.script": 503,
+    "+weight.script": 489,
+    "-weight.image": 270,
+    "+weight.image": 676,
+    "-weight.font": 139,
+    "+weight.font": 639,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 414,
+    "-totalBlockingTime": 97,
+    "-largestContentfulPaint": 280
+  },
+  "axe": {
+    "passes": 447,
+    "violations": 8
+  }
+}

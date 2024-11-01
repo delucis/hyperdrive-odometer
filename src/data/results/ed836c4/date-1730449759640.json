@@ -1,0 +1,67 @@
+{
+  "url": "https://kamranahmed.info/",
+  "requestedUrl": "https://kamranahmed.info/",
+  "timestamp": 1730455861161,
+  "ranks": {
+    "hundos": 527,
+    "performance": 549,
+    "accessibility": 813,
+    "cumulative": 530
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.86,
+    "accessibility": 0.88,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 372
+  },
+  "firstContentfulPaint": 941.259,
+  "firstMeaningfulPaint": 1016.259,
+  "speedIndex": 1099.7883232060362,
+  "largestContentfulPaint": 2130.8755,
+  "totalBlockingTime": 483.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5812.8755,
+  "maxPotentialFirstInputDelay": 255,
+  "timeToFirstByte": 10.625999999999976,
+  "weight": {
+    "summary": "33 requests • 553.2 KiB",
+    "total": 566498,
+    "image": 59240,
+    "imageCount": 7,
+    "script": 462532,
+    "scriptCount": 17,
+    "document": 10194,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 7409,
+    "stylesheetCount": 1,
+    "thirdParty": 398907,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 530,
+    "+weight.total": 532,
+    "-weight.document": 501,
+    "+weight.document": 535,
+    "-weight.script": 849,
+    "+weight.script": 143,
+    "-weight.image": 243,
+    "+weight.image": 703,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 345,
+    "-totalBlockingTime": 426,
+    "-largestContentfulPaint": 622
+  },
+  "axe": {
+    "passes": 298,
+    "violations": 20
+  }
+}

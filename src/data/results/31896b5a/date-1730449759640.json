@@ -1,0 +1,67 @@
+{
+  "url": "https://velarshop.ru/",
+  "requestedUrl": "https://velarshop.ru/",
+  "timestamp": 1730492960369,
+  "ranks": {
+    "hundos": 912,
+    "performance": 795,
+    "accessibility": 169,
+    "cumulative": 907
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.69,
+    "accessibility": 1,
+    "bestPractices": 0.59,
+    "seo": 0.97,
+    "total": 325
+  },
+  "firstContentfulPaint": 996.7470000000001,
+  "firstMeaningfulPaint": 1133.747,
+  "speedIndex": 4484.181537332415,
+  "largestContentfulPaint": 1209.4195,
+  "totalBlockingTime": 2624.0000000000014,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 11575.0995,
+  "maxPotentialFirstInputDelay": 662.9999999999995,
+  "timeToFirstByte": 35.34800000000001,
+  "weight": {
+    "summary": "66 requests • 1.1 MiB",
+    "total": 1205549,
+    "image": 602711,
+    "imageCount": 27,
+    "script": 405242,
+    "scriptCount": 18,
+    "document": 16222,
+    "font": 153726,
+    "fontCount": 4,
+    "stylesheet": 19110,
+    "stylesheetCount": 3,
+    "thirdParty": 576422,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 723,
+    "+weight.total": 339,
+    "-weight.document": 690,
+    "+weight.document": 346,
+    "-weight.script": 823,
+    "+weight.script": 169,
+    "-weight.image": 644,
+    "+weight.image": 302,
+    "-weight.font": 585,
+    "+weight.font": 193,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 477,
+    "-totalBlockingTime": 643,
+    "-largestContentfulPaint": 510
+  },
+  "axe": {
+    "passes": 838,
+    "violations": 1
+  }
+}

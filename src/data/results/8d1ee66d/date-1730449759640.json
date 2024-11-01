@@ -1,0 +1,67 @@
+{
+  "url": "https://jorgson.tech/",
+  "requestedUrl": "https://jorgson.tech/",
+  "timestamp": 1730487257001,
+  "ranks": {
+    "hundos": 166,
+    "performance": 242,
+    "accessibility": 322,
+    "cumulative": 176
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 395
+  },
+  "firstContentfulPaint": 1073.998,
+  "firstMeaningfulPaint": 1240.998,
+  "speedIndex": 1784.5620982003422,
+  "largestContentfulPaint": 1585.998,
+  "totalBlockingTime": 65,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2218.998,
+  "maxPotentialFirstInputDelay": 108,
+  "timeToFirstByte": 25.186999999999998,
+  "weight": {
+    "summary": "17 requests • 365.9 KiB",
+    "total": 374635,
+    "image": 170720,
+    "imageCount": 8,
+    "script": 60351,
+    "scriptCount": 3,
+    "document": 4613,
+    "font": 129379,
+    "fontCount": 1,
+    "stylesheet": 8925,
+    "stylesheetCount": 3,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 399,
+    "+weight.total": 663,
+    "-weight.document": 141,
+    "+weight.document": 895,
+    "-weight.script": 404,
+    "+weight.script": 588,
+    "-weight.image": 396,
+    "+weight.image": 550,
+    "-weight.font": 543,
+    "+weight.font": 235,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 427,
+    "-totalBlockingTime": 113,
+    "-largestContentfulPaint": 154
+  },
+  "axe": {
+    "passes": 892,
+    "violations": 7
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.richter-krieg-krankenpflege.de/",
+  "requestedUrl": "https://www.richter-krieg-krankenpflege.de/",
+  "timestamp": 1730479792849,
+  "ranks": {
+    "hundos": 23,
+    "performance": 111,
+    "accessibility": 114,
+    "cumulative": 10
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1256.6865,
+  "firstMeaningfulPaint": 1256.6865,
+  "speedIndex": 1256.6865,
+  "largestContentfulPaint": 1616.6865,
+  "totalBlockingTime": 11,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1394.6865,
+  "maxPotentialFirstInputDelay": 72,
+  "timeToFirstByte": 65.72300000000001,
+  "weight": {
+    "summary": "15 requests • 134.2 KiB",
+    "total": 137426,
+    "image": 23073,
+    "imageCount": 5,
+    "script": 36117,
+    "scriptCount": 6,
+    "document": 23524,
+    "font": 34243,
+    "fontCount": 2,
+    "stylesheet": 20469,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 182,
+    "+weight.total": 880,
+    "-weight.document": 800,
+    "+weight.document": 236,
+    "-weight.script": 329,
+    "+weight.script": 663,
+    "-weight.image": 149,
+    "+weight.image": 797,
+    "-weight.font": 142,
+    "+weight.font": 636,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 591,
+    "-totalBlockingTime": 20,
+    "-largestContentfulPaint": 563
+  },
+  "axe": {
+    "passes": 170,
+    "violations": 0
+  }
+}

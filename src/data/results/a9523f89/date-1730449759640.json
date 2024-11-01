@@ -1,0 +1,67 @@
+{
+  "url": "https://mauv.page/",
+  "requestedUrl": "https://mauv.page/",
+  "timestamp": 1730488207151,
+  "ranks": {
+    "hundos": 804,
+    "performance": 706,
+    "accessibility": 972,
+    "cumulative": 807
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.75,
+    "accessibility": 0.79,
+    "bestPractices": 1,
+    "seo": 0.9,
+    "total": 344
+  },
+  "firstContentfulPaint": 1101.5720000000001,
+  "firstMeaningfulPaint": 1172.0720000000001,
+  "speedIndex": 2297.823993749627,
+  "largestContentfulPaint": 4612.572,
+  "totalBlockingTime": 365,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4665.572,
+  "maxPotentialFirstInputDelay": 291,
+  "timeToFirstByte": 72.72900000000001,
+  "weight": {
+    "summary": "22 requests • 617.2 KiB",
+    "total": 632026,
+    "image": 4866,
+    "imageCount": 4,
+    "script": 194232,
+    "scriptCount": 13,
+    "document": 21706,
+    "font": 389536,
+    "fontCount": 1,
+    "stylesheet": 21549,
+    "stylesheetCount": 2,
+    "thirdParty": 28279,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 554,
+    "+weight.total": 508,
+    "-weight.document": 777,
+    "+weight.document": 259,
+    "-weight.script": 657,
+    "+weight.script": 335,
+    "-weight.image": 62,
+    "+weight.image": 884,
+    "-weight.font": 711,
+    "+weight.font": 67,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 626,
+    "-totalBlockingTime": 365,
+    "-largestContentfulPaint": 851
+  },
+  "axe": {
+    "passes": 488,
+    "violations": 36
+  }
+}

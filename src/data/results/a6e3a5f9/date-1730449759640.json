@@ -1,0 +1,67 @@
+{
+  "url": "https://fernando-herrera.com/",
+  "requestedUrl": "https://fernando-herrera.com/",
+  "timestamp": 1730453800657,
+  "ranks": {
+    "hundos": 853,
+    "performance": 901,
+    "accessibility": 906,
+    "cumulative": 853
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.58,
+    "accessibility": 0.83,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 337
+  },
+  "firstContentfulPaint": 3144.975,
+  "firstMeaningfulPaint": 3699.755,
+  "speedIndex": 5654.055268645392,
+  "largestContentfulPaint": 5673.640000000001,
+  "totalBlockingTime": 442.99999999999955,
+  "cumulativeLayoutShift": 0.0004166530076942574,
+  "timeToInteractive": 4969.2,
+  "maxPotentialFirstInputDelay": 271.0000000000009,
+  "timeToFirstByte": 748.163,
+  "weight": {
+    "summary": "102 requests • 1.0 MiB",
+    "total": 1064437,
+    "image": 153101,
+    "imageCount": 32,
+    "script": 228818,
+    "scriptCount": 31,
+    "document": 17039,
+    "font": 348962,
+    "fontCount": 8,
+    "stylesheet": 133785,
+    "stylesheetCount": 15,
+    "thirdParty": 131631,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 691,
+    "+weight.total": 371,
+    "-weight.document": 704,
+    "+weight.document": 332,
+    "-weight.script": 690,
+    "+weight.script": 302,
+    "-weight.image": 374,
+    "+weight.image": 572,
+    "-weight.font": 703,
+    "+weight.font": 75,
+    "+weight.fontCount": 11,
+    "-timeToFirstByte": 1011,
+    "-totalBlockingTime": 409,
+    "-largestContentfulPaint": 904
+  },
+  "axe": {
+    "passes": 1919,
+    "violations": 21
+  }
+}

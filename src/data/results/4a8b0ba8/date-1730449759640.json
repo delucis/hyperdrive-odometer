@@ -1,0 +1,67 @@
+{
+  "url": "https://www.byteship.dev/astro-strapi",
+  "requestedUrl": "https://www.byteship.dev/astro-strapi",
+  "timestamp": 1730478136936,
+  "ranks": {
+    "hundos": 372,
+    "performance": 459,
+    "accessibility": 414,
+    "cumulative": 362
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.92,
+    "accessibility": 0.96,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 384
+  },
+  "firstContentfulPaint": 1192.69,
+  "firstMeaningfulPaint": 1258.69,
+  "speedIndex": 3873.046258798553,
+  "largestContentfulPaint": 1408.69,
+  "totalBlockingTime": 289,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1581.69,
+  "maxPotentialFirstInputDelay": 262,
+  "timeToFirstByte": 1142.241,
+  "weight": {
+    "summary": "13 requests • 114.4 KiB",
+    "total": 117177,
+    "image": 69265,
+    "imageCount": 3,
+    "script": 20333,
+    "scriptCount": 7,
+    "document": 15404,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 11406,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 153,
+    "+weight.total": 909,
+    "-weight.document": 674,
+    "+weight.document": 362,
+    "-weight.script": 231,
+    "+weight.script": 761,
+    "-weight.image": 258,
+    "+weight.image": 688,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 1024,
+    "-totalBlockingTime": 323,
+    "-largestContentfulPaint": 535
+  },
+  "axe": {
+    "passes": 668,
+    "violations": 2
+  }
+}

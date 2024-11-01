@@ -1,0 +1,67 @@
+{
+  "url": "https://mactreasure.com/",
+  "requestedUrl": "https://mactreasure.com/",
+  "timestamp": 1730488083387,
+  "ranks": {
+    "hundos": 111,
+    "performance": 281,
+    "accessibility": 193,
+    "cumulative": 116
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.98,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 398
+  },
+  "firstContentfulPaint": 1733.527,
+  "firstMeaningfulPaint": 1733.527,
+  "speedIndex": 1733.527,
+  "largestContentfulPaint": 2159.998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.004427298344939625,
+  "timeToInteractive": 1733.527,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 74.399,
+  "weight": {
+    "summary": "14 requests • 438.7 KiB",
+    "total": 449256,
+    "image": 422793,
+    "imageCount": 8,
+    "script": 12493,
+    "scriptCount": 2,
+    "document": 5009,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 8924,
+    "stylesheetCount": 1,
+    "thirdParty": 7156,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 447,
+    "+weight.total": 615,
+    "-weight.document": 169,
+    "+weight.document": 867,
+    "-weight.script": 185,
+    "+weight.script": 807,
+    "-weight.image": 567,
+    "+weight.image": 379,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 632,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 274
+  },
+  "axe": {
+    "passes": 355,
+    "violations": 1
+  }
+}

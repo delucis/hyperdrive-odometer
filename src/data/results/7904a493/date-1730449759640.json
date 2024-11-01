@@ -1,0 +1,67 @@
+{
+  "url": "https://www.crosssphereexim.com/",
+  "requestedUrl": "https://www.crosssphereexim.com/",
+  "timestamp": 1730494126193,
+  "ranks": {
+    "hundos": 418,
+    "performance": 396,
+    "accessibility": 799,
+    "cumulative": 420
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.94,
+    "accessibility": 0.88,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 380
+  },
+  "firstContentfulPaint": 840.9739999999999,
+  "firstMeaningfulPaint": 1206.187,
+  "speedIndex": 1200.2981353719088,
+  "largestContentfulPaint": 2752.9539999999997,
+  "totalBlockingTime": 178,
+  "cumulativeLayoutShift": 0.0004315960549036652,
+  "timeToInteractive": 2691.9539999999997,
+  "maxPotentialFirstInputDelay": 176,
+  "timeToFirstByte": 2.1410000000000196,
+  "weight": {
+    "summary": "16 requests • 314.3 KiB",
+    "total": 321861,
+    "image": 96062,
+    "imageCount": 8,
+    "script": 167584,
+    "scriptCount": 5,
+    "document": 7302,
+    "font": 46886,
+    "fontCount": 1,
+    "stylesheet": 4027,
+    "stylesheetCount": 1,
+    "thirdParty": 109501,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 357,
+    "+weight.total": 705,
+    "-weight.document": 347,
+    "+weight.document": 689,
+    "-weight.script": 630,
+    "+weight.script": 362,
+    "-weight.image": 302,
+    "+weight.image": 644,
+    "-weight.font": 227,
+    "+weight.font": 551,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 61,
+    "-totalBlockingTime": 246,
+    "-largestContentfulPaint": 705
+  },
+  "axe": {
+    "passes": 384,
+    "violations": 3
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.carlomega.it/",
+  "requestedUrl": "https://www.carlomega.it/",
+  "timestamp": 1730462392922,
+  "ranks": {
+    "hundos": 337,
+    "performance": 519,
+    "accessibility": 113,
+    "cumulative": 332
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.88,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 386
+  },
+  "firstContentfulPaint": 2185.4755000000005,
+  "firstMeaningfulPaint": 2185.4755000000005,
+  "speedIndex": 2511.794612992805,
+  "largestContentfulPaint": 3467.1945000000005,
+  "totalBlockingTime": 100.88750000000005,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2520.0380000000005,
+  "maxPotentialFirstInputDelay": 231,
+  "timeToFirstByte": 4.623999999999967,
+  "weight": {
+    "summary": "17 requests • 1.1 MiB",
+    "total": 1115413,
+    "image": 40556,
+    "imageCount": 2,
+    "script": 80918,
+    "scriptCount": 4,
+    "document": 5092,
+    "font": 262180,
+    "fontCount": 2,
+    "stylesheet": 10781,
+    "stylesheetCount": 1,
+    "thirdParty": 59095,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 706,
+    "+weight.total": 356,
+    "-weight.document": 174,
+    "+weight.document": 862,
+    "-weight.script": 459,
+    "+weight.script": 533,
+    "-weight.image": 201,
+    "+weight.image": 745,
+    "-weight.font": 662,
+    "+weight.font": 116,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 294,
+    "-totalBlockingTime": 163,
+    "-largestContentfulPaint": 396
+  },
+  "axe": {
+    "passes": 176,
+    "violations": 0
+  }
+}

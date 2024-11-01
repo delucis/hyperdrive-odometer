@@ -1,0 +1,67 @@
+{
+  "url": "https://its-darsh.github.io/fabric-wiki/",
+  "requestedUrl": "https://its-darsh.github.io/fabric-wiki/",
+  "timestamp": 1730455388423,
+  "ranks": {
+    "hundos": 248,
+    "performance": 183,
+    "accessibility": 671,
+    "cumulative": 261
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.92,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 391
+  },
+  "firstContentfulPaint": 1163.83,
+  "firstMeaningfulPaint": 1243.33,
+  "speedIndex": 1163.83,
+  "largestContentfulPaint": 1243.33,
+  "totalBlockingTime": 111.5,
+  "cumulativeLayoutShift": 0.002096986628190912,
+  "timeToInteractive": 1545.83,
+  "maxPotentialFirstInputDelay": 122,
+  "timeToFirstByte": 42.179,
+  "weight": {
+    "summary": "20 requests • 2.0 MiB",
+    "total": 2129984,
+    "image": 1968340,
+    "imageCount": 6,
+    "script": 76830,
+    "scriptCount": 7,
+    "document": 12319,
+    "font": 51706,
+    "fontCount": 5,
+    "stylesheet": 20789,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 860,
+    "+weight.total": 202,
+    "-weight.document": 581,
+    "+weight.document": 455,
+    "-weight.script": 442,
+    "+weight.script": 550,
+    "-weight.image": 827,
+    "+weight.image": 119,
+    "-weight.font": 272,
+    "+weight.font": 506,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 501,
+    "-totalBlockingTime": 180,
+    "-largestContentfulPaint": 98
+  },
+  "axe": {
+    "passes": 326,
+    "violations": 10
+  }
+}

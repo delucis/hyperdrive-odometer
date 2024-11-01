@@ -1,0 +1,67 @@
+{
+  "url": "https://murtuzaalisurti.github.io/",
+  "requestedUrl": "https://murtuzaalisurti.github.io/",
+  "timestamp": 1730457067598,
+  "ranks": {
+    "hundos": 841,
+    "performance": 869,
+    "accessibility": 399,
+    "cumulative": 840
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.63,
+    "accessibility": 0.97,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 338
+  },
+  "firstContentfulPaint": 2857.591,
+  "firstMeaningfulPaint": 2857.591,
+  "speedIndex": 5096.8950597311905,
+  "largestContentfulPaint": 5912.737999999999,
+  "totalBlockingTime": 315.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 6973.415999999999,
+  "maxPotentialFirstInputDelay": 313,
+  "timeToFirstByte": 24.127999999999986,
+  "weight": {
+    "summary": "22 requests • 1.2 MiB",
+    "total": 1292697,
+    "image": 915793,
+    "imageCount": 11,
+    "script": 296175,
+    "scriptCount": 5,
+    "document": 7523,
+    "font": 68949,
+    "fontCount": 2,
+    "stylesheet": 3659,
+    "stylesheetCount": 1,
+    "thirdParty": 1204818,
+    "thirdPartyCount": 10
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 735,
+    "+weight.total": 327,
+    "-weight.document": 362,
+    "+weight.document": 674,
+    "-weight.script": 742,
+    "+weight.script": 250,
+    "-weight.image": 720,
+    "+weight.image": 226,
+    "-weight.font": 362,
+    "+weight.font": 416,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 421,
+    "-totalBlockingTime": 336,
+    "-largestContentfulPaint": 910
+  },
+  "axe": {
+    "passes": 587,
+    "violations": 1
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.unstoppablehoteldeals.com/",
+  "requestedUrl": "https://www.unstoppablehoteldeals.com/",
+  "timestamp": 1730496158643,
+  "ranks": {
+    "hundos": 605,
+    "performance": 731,
+    "accessibility": 514,
+    "cumulative": 607
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.74,
+    "accessibility": 0.95,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 365
+  },
+  "firstContentfulPaint": 1900.264,
+  "firstMeaningfulPaint": 1900.264,
+  "speedIndex": 3250.58058831776,
+  "largestContentfulPaint": 3027.7729999999992,
+  "totalBlockingTime": 732,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5891.107250000001,
+  "maxPotentialFirstInputDelay": 591,
+  "timeToFirstByte": 2.225999999999999,
+  "weight": {
+    "summary": "38 requests • 1.4 MiB",
+    "total": 1448850,
+    "image": 995807,
+    "imageCount": 11,
+    "script": 410020,
+    "scriptCount": 20,
+    "document": 8300,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 20103,
+    "stylesheetCount": 4,
+    "thirdParty": 190255,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 767,
+    "+weight.total": 295,
+    "-weight.document": 404,
+    "+weight.document": 632,
+    "-weight.script": 828,
+    "+weight.script": 164,
+    "-weight.image": 735,
+    "+weight.image": 211,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 83,
+    "-totalBlockingTime": 499,
+    "-largestContentfulPaint": 734
+  },
+  "axe": {
+    "passes": 640,
+    "violations": 25
+  }
+}

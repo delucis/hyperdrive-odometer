@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nativelink.com/docs/introduction/setup",
+  "requestedUrl": "https://docs.nativelink.com/introduction/setup/",
+  "timestamp": 1730484584437,
+  "ranks": {
+    "hundos": 369,
+    "performance": 518,
+    "accessibility": 15,
+    "cumulative": 356
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.88,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 384
+  },
+  "firstContentfulPaint": 2145.552,
+  "firstMeaningfulPaint": 2348.052,
+  "speedIndex": 2327.9218820528085,
+  "largestContentfulPaint": 3105.192,
+  "totalBlockingTime": 177.49999999999977,
+  "cumulativeLayoutShift": 0.07777372304781344,
+  "timeToInteractive": 2929.1220000000003,
+  "maxPotentialFirstInputDelay": 404.99999999999955,
+  "timeToFirstByte": 122.66300000000001,
+  "weight": {
+    "summary": "23 requests • 161.8 KiB",
+    "total": 165687,
+    "image": 72566,
+    "imageCount": 12,
+    "script": 38149,
+    "scriptCount": 6,
+    "document": 15124,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 39269,
+    "stylesheetCount": 2,
+    "thirdParty": 44495,
+    "thirdPartyCount": 5
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 214,
+    "+weight.total": 848,
+    "-weight.document": 670,
+    "+weight.document": 366,
+    "-weight.script": 339,
+    "+weight.script": 653,
+    "-weight.image": 261,
+    "+weight.image": 685,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 786,
+    "-totalBlockingTime": 245,
+    "-largestContentfulPaint": 739
+  },
+  "axe": {
+    "passes": 902,
+    "violations": 0
+  }
+}

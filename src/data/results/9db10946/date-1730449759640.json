@@ -1,0 +1,67 @@
+{
+  "url": "https://finbox.in/",
+  "requestedUrl": "https://finbox.in/",
+  "timestamp": 1730453882268,
+  "ranks": {
+    "hundos": 926,
+    "performance": 851,
+    "accessibility": 522,
+    "cumulative": 927
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.64,
+    "accessibility": 0.95,
+    "bestPractices": 0.7,
+    "seo": 0.93,
+    "total": 322
+  },
+  "firstContentfulPaint": 1750.0705000000003,
+  "firstMeaningfulPaint": 1750.0705000000003,
+  "speedIndex": 3597.071797332697,
+  "largestContentfulPaint": 4044.5625,
+  "totalBlockingTime": 946.4500000000027,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 14325.512999999997,
+  "maxPotentialFirstInputDelay": 335,
+  "timeToFirstByte": 3.6019999999999897,
+  "weight": {
+    "summary": "111 requests • 2.8 MiB",
+    "total": 2965210,
+    "image": 1658438,
+    "imageCount": 41,
+    "script": 1024911,
+    "scriptCount": 42,
+    "document": 25133,
+    "font": 232990,
+    "fontCount": 3,
+    "stylesheet": 13926,
+    "stylesheetCount": 2,
+    "thirdParty": 895677,
+    "thirdPartyCount": 11
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 916,
+    "+weight.total": 146,
+    "-weight.document": 812,
+    "+weight.document": 224,
+    "-weight.script": 957,
+    "+weight.script": 35,
+    "-weight.image": 809,
+    "+weight.image": 137,
+    "-weight.font": 646,
+    "+weight.font": 132,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 277,
+    "-totalBlockingTime": 532,
+    "-largestContentfulPaint": 814
+  },
+  "axe": {
+    "passes": 1037,
+    "violations": 48
+  }
+}

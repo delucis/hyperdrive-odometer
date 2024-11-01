@@ -1,0 +1,67 @@
+{
+  "url": "https://osvauld.com/",
+  "requestedUrl": "https://osvauld.com/",
+  "timestamp": 1730489272786,
+  "ranks": {
+    "hundos": 761,
+    "performance": 830,
+    "accessibility": 753,
+    "cumulative": 763
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.67,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 349
+  },
+  "firstContentfulPaint": 2230.928,
+  "firstMeaningfulPaint": 2305.928,
+  "speedIndex": 6139.322031144703,
+  "largestContentfulPaint": 12655.928,
+  "totalBlockingTime": 40.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 8707.928,
+  "maxPotentialFirstInputDelay": 120,
+  "timeToFirstByte": 459.64799999999997,
+  "weight": {
+    "summary": "36 requests • 2.7 MiB",
+    "total": 2816885,
+    "image": 1557348,
+    "imageCount": 1,
+    "script": 435281,
+    "scriptCount": 24,
+    "document": 67962,
+    "font": 107734,
+    "fontCount": 7,
+    "stylesheet": 136076,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 910,
+    "+weight.total": 152,
+    "-weight.document": 962,
+    "+weight.document": 74,
+    "-weight.script": 840,
+    "+weight.script": 152,
+    "-weight.image": 802,
+    "+weight.image": 144,
+    "-weight.font": 499,
+    "+weight.font": 279,
+    "+weight.fontCount": 12,
+    "-timeToFirstByte": 978,
+    "-totalBlockingTime": 74,
+    "-largestContentfulPaint": 1006
+  },
+  "axe": {
+    "passes": 330,
+    "violations": 24
+  }
+}

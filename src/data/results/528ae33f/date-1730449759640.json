@@ -1,0 +1,67 @@
+{
+  "url": "https://ecomba.pro/",
+  "requestedUrl": "https://ecomba.pro/",
+  "timestamp": 1730453232409,
+  "ranks": {
+    "hundos": 1029,
+    "performance": 947,
+    "accessibility": 721,
+    "cumulative": 1029
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.51,
+    "accessibility": 0.91,
+    "bestPractices": 0.56,
+    "seo": 0.9,
+    "total": 288
+  },
+  "firstContentfulPaint": 3146.1130000000003,
+  "firstMeaningfulPaint": 3146.1130000000003,
+  "speedIndex": 4615.06902535202,
+  "largestContentfulPaint": 6796.168,
+  "totalBlockingTime": 695,
+  "cumulativeLayoutShift": 0.0003188163624489208,
+  "timeToInteractive": 14156.418999999998,
+  "maxPotentialFirstInputDelay": 1033,
+  "timeToFirstByte": 75.26800000000001,
+  "weight": {
+    "summary": "54 requests • 34.5 MiB",
+    "total": 36151872,
+    "image": 34656525,
+    "imageCount": 23,
+    "script": 745663,
+    "scriptCount": 9,
+    "document": 12321,
+    "font": 451313,
+    "fontCount": 5,
+    "stylesheet": 282835,
+    "stylesheetCount": 10,
+    "thirdParty": 1394915,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1056,
+    "+weight.total": 6,
+    "-weight.document": 582,
+    "+weight.document": 454,
+    "-weight.script": 911,
+    "+weight.script": 81,
+    "-weight.image": 945,
+    "+weight.image": 1,
+    "-weight.font": 718,
+    "+weight.font": 60,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 636,
+    "-totalBlockingTime": 492,
+    "-largestContentfulPaint": 934
+  },
+  "axe": {
+    "passes": 605,
+    "violations": 49
+  }
+}

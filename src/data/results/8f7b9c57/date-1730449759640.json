@@ -1,0 +1,67 @@
+{
+  "url": "https://www.emojiblast.dev/",
+  "requestedUrl": "https://www.emojiblast.dev/",
+  "timestamp": 1730462821424,
+  "ranks": {
+    "hundos": 264,
+    "performance": 68,
+    "accessibility": 317,
+    "cumulative": 258
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.91,
+    "total": 391
+  },
+  "firstContentfulPaint": 1059.819,
+  "firstMeaningfulPaint": 1059.819,
+  "speedIndex": 1059.819,
+  "largestContentfulPaint": 1059.819,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1059.819,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 2.1370000000000005,
+  "weight": {
+    "summary": "6 requests • 47.2 KiB",
+    "total": 48381,
+    "image": 0,
+    "imageCount": 0,
+    "script": 31583,
+    "scriptCount": 4,
+    "document": 3521,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 13277,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 55,
+    "+weight.total": 1007,
+    "-weight.document": 80,
+    "+weight.document": 956,
+    "-weight.script": 315,
+    "+weight.script": 677,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 57,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 46
+  },
+  "axe": {
+    "passes": 106,
+    "violations": 6
+  }
+}

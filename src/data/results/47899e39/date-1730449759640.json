@@ -1,0 +1,67 @@
+{
+  "url": "https://tabularasa.nl/",
+  "requestedUrl": "https://tabularasa.nl/",
+  "timestamp": 1730491855528,
+  "ranks": {
+    "hundos": 296,
+    "performance": 449,
+    "accessibility": 52,
+    "cumulative": 295
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.92,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 389
+  },
+  "firstContentfulPaint": 1254.415,
+  "firstMeaningfulPaint": 1254.415,
+  "speedIndex": 2075.287988274031,
+  "largestContentfulPaint": 2422.415,
+  "totalBlockingTime": 257,
+  "cumulativeLayoutShift": 0.002563008523184449,
+  "timeToInteractive": 3584.4965,
+  "maxPotentialFirstInputDelay": 142,
+  "timeToFirstByte": 225.14200000000002,
+  "weight": {
+    "summary": "44 requests • 749.6 KiB",
+    "total": 767589,
+    "image": 315468,
+    "imageCount": 18,
+    "script": 199364,
+    "scriptCount": 19,
+    "document": 41042,
+    "font": 82396,
+    "fontCount": 2,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 110136,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 609,
+    "+weight.total": 453,
+    "-weight.document": 907,
+    "+weight.document": 129,
+    "-weight.script": 666,
+    "+weight.script": 326,
+    "-weight.image": 519,
+    "+weight.image": 427,
+    "-weight.font": 434,
+    "+weight.font": 344,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 889,
+    "-totalBlockingTime": 305,
+    "-largestContentfulPaint": 661
+  },
+  "axe": {
+    "passes": 415,
+    "violations": 0
+  }
+}

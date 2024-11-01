@@ -1,0 +1,67 @@
+{
+  "url": "https://www.softwaworld.xyz/",
+  "requestedUrl": "https://www.softwaworld.xyz/",
+  "timestamp": 1730464236563,
+  "ranks": {
+    "hundos": 1041,
+    "performance": 1030,
+    "accessibility": 1040,
+    "cumulative": 1039
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.35,
+    "accessibility": 0.68,
+    "bestPractices": 0.93,
+    "seo": 0.83,
+    "total": 279
+  },
+  "firstContentfulPaint": 2024.4715,
+  "firstMeaningfulPaint": 2024.4715,
+  "speedIndex": 5614.212709589196,
+  "largestContentfulPaint": 5486.4715,
+  "totalBlockingTime": 515,
+  "cumulativeLayoutShift": 1.4971995022904585,
+  "timeToInteractive": 4875.4715,
+  "maxPotentialFirstInputDelay": 504,
+  "timeToFirstByte": 284.326,
+  "weight": {
+    "summary": "36 requests • 925.5 KiB",
+    "total": 947734,
+    "image": 663241,
+    "imageCount": 12,
+    "script": 70654,
+    "scriptCount": 10,
+    "document": 6395,
+    "font": 129655,
+    "fontCount": 5,
+    "stylesheet": 77789,
+    "stylesheetCount": 8,
+    "thirdParty": 42468,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 660,
+    "+weight.total": 402,
+    "-weight.document": 272,
+    "+weight.document": 764,
+    "-weight.script": 431,
+    "+weight.script": 561,
+    "-weight.image": 665,
+    "+weight.image": 281,
+    "-weight.font": 544,
+    "+weight.font": 234,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 915,
+    "-totalBlockingTime": 441,
+    "-largestContentfulPaint": 896
+  },
+  "axe": {
+    "passes": 438,
+    "violations": 46
+  }
+}

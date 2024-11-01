@@ -1,0 +1,67 @@
+{
+  "url": "https://christianpenrod.com/",
+  "requestedUrl": "https://www.christianpenrod.com/",
+  "timestamp": 1730467460316,
+  "ranks": {
+    "hundos": 101,
+    "performance": 235,
+    "accessibility": 195,
+    "cumulative": 97
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 1695.707,
+  "firstMeaningfulPaint": 1695.707,
+  "speedIndex": 1695.707,
+  "largestContentfulPaint": 1835.707,
+  "totalBlockingTime": 43.00000000000023,
+  "cumulativeLayoutShift": 0.0007780879620718084,
+  "timeToInteractive": 2128.7070000000003,
+  "maxPotentialFirstInputDelay": 91.00000000000023,
+  "timeToFirstByte": 2.538000000000004,
+  "weight": {
+    "summary": "10 requests • 90.3 KiB",
+    "total": 92491,
+    "image": 0,
+    "imageCount": 0,
+    "script": 29384,
+    "scriptCount": 3,
+    "document": 6144,
+    "font": 48431,
+    "fontCount": 2,
+    "stylesheet": 7998,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 122,
+    "+weight.total": 940,
+    "-weight.document": 261,
+    "+weight.document": 775,
+    "-weight.script": 306,
+    "+weight.script": 686,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 246,
+    "+weight.font": 532,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 171,
+    "-totalBlockingTime": 78,
+    "-largestContentfulPaint": 221
+  },
+  "axe": {
+    "passes": 311,
+    "violations": 1
+  }
+}

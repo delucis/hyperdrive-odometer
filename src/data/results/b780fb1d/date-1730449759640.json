@@ -1,0 +1,67 @@
+{
+  "url": "https://sofianelasri.fr/",
+  "requestedUrl": "https://sofianelasri.fr/",
+  "timestamp": 1730491289597,
+  "ranks": {
+    "hundos": 519,
+    "performance": 655,
+    "accessibility": 647,
+    "cumulative": 517
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.8,
+    "accessibility": 0.92,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 372
+  },
+  "firstContentfulPaint": 2047.0435,
+  "firstMeaningfulPaint": 2047.0435,
+  "speedIndex": 3671.6126509887818,
+  "largestContentfulPaint": 3522.4184999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.16886216700960183,
+  "timeToInteractive": 2047.0435,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 1390.145,
+  "weight": {
+    "summary": "18 requests • 328.3 KiB",
+    "total": 336222,
+    "image": 200836,
+    "imageCount": 9,
+    "script": 40532,
+    "scriptCount": 3,
+    "document": 21084,
+    "font": 49106,
+    "fontCount": 1,
+    "stylesheet": 23913,
+    "stylesheetCount": 3,
+    "thirdParty": 50206,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 375,
+    "+weight.total": 687,
+    "-weight.document": 768,
+    "+weight.document": 268,
+    "-weight.script": 347,
+    "+weight.script": 645,
+    "-weight.image": 424,
+    "+weight.image": 522,
+    "-weight.font": 256,
+    "+weight.font": 522,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 1034,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 769
+  },
+  "axe": {
+    "passes": 826,
+    "violations": 1
+  }
+}

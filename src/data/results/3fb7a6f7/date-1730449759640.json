@@ -1,0 +1,67 @@
+{
+  "url": "https://beautyofmathematics.com/",
+  "requestedUrl": "https://beautyofmathematics.com/",
+  "timestamp": 1730450942238,
+  "ranks": {
+    "hundos": 86,
+    "performance": 175,
+    "accessibility": 247,
+    "cumulative": 101
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 1063.799,
+  "firstMeaningfulPaint": 1063.799,
+  "speedIndex": 1063.799,
+  "largestContentfulPaint": 1968.029,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.05666282022358899,
+  "timeToInteractive": 1063.799,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 1.8979999999999961,
+  "weight": {
+    "summary": "16 requests • 149.9 KiB",
+    "total": 153470,
+    "image": 20324,
+    "imageCount": 3,
+    "script": 24088,
+    "scriptCount": 4,
+    "document": 3202,
+    "font": 93094,
+    "fontCount": 3,
+    "stylesheet": 11651,
+    "stylesheetCount": 3,
+    "thirdParty": 3484,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 196,
+    "+weight.total": 866,
+    "-weight.document": 65,
+    "+weight.document": 971,
+    "-weight.script": 263,
+    "+weight.script": 729,
+    "-weight.image": 139,
+    "+weight.image": 807,
+    "-weight.font": 466,
+    "+weight.font": 312,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 12,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 240
+  },
+  "axe": {
+    "passes": 56,
+    "violations": 2
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://ladiesgentlemenbio.com/",
+  "requestedUrl": "https://ladiesgentlemenbio.com/",
+  "timestamp": 1730471963210,
+  "ranks": {
+    "hundos": 700,
+    "performance": 757,
+    "accessibility": 859,
+    "cumulative": 696
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.72,
+    "accessibility": 0.85,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 357
+  },
+  "firstContentfulPaint": 2903.7585000000004,
+  "firstMeaningfulPaint": 2903.7585000000004,
+  "speedIndex": 3565.8080730927322,
+  "largestContentfulPaint": 5663.933000000001,
+  "totalBlockingTime": 147,
+  "cumulativeLayoutShift": 0.026798917304918735,
+  "timeToInteractive": 4246.34575,
+  "maxPotentialFirstInputDelay": 344,
+  "timeToFirstByte": 300.38200000000006,
+  "weight": {
+    "summary": "11 requests • 680.3 KiB",
+    "total": 696629,
+    "image": 569599,
+    "imageCount": 3,
+    "script": 1066,
+    "scriptCount": 1,
+    "document": 20961,
+    "font": 72211,
+    "fontCount": 3,
+    "stylesheet": 32792,
+    "stylesheetCount": 3,
+    "thirdParty": 102529,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 582,
+    "+weight.total": 480,
+    "-weight.document": 766,
+    "+weight.document": 270,
+    "-weight.script": 12,
+    "+weight.script": 980,
+    "-weight.image": 633,
+    "+weight.image": 313,
+    "-weight.font": 377,
+    "+weight.font": 401,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 924,
+    "-totalBlockingTime": 221,
+    "-largestContentfulPaint": 902
+  },
+  "axe": {
+    "passes": 3758,
+    "violations": 4
+  }
+}

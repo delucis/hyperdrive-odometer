@@ -1,0 +1,67 @@
+{
+  "url": "https://qhungg289.is-a.dev/",
+  "requestedUrl": "https://qhungg289.github.io/",
+  "timestamp": 1730486617150,
+  "ranks": {
+    "hundos": 371,
+    "performance": 363,
+    "accessibility": 156,
+    "cumulative": 357
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.96,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 0.92,
+    "total": 384
+  },
+  "firstContentfulPaint": 2310.179,
+  "firstMeaningfulPaint": 2310.179,
+  "speedIndex": 2310.179,
+  "largestContentfulPaint": 2310.179,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2310.179,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 40.25999999999999,
+  "weight": {
+    "summary": "9 requests • 85.2 KiB",
+    "total": 87265,
+    "image": 2085,
+    "imageCount": 2,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 2688,
+    "font": 78082,
+    "fontCount": 3,
+    "stylesheet": 3921,
+    "stylesheetCount": 2,
+    "thirdParty": 79924,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 116,
+    "+weight.total": 946,
+    "-weight.document": 42,
+    "+weight.document": 994,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 37,
+    "+weight.image": 909,
+    "-weight.font": 404,
+    "+weight.font": 374,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 495,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 297
+  },
+  "axe": {
+    "passes": 52,
+    "violations": 0
+  }
+}

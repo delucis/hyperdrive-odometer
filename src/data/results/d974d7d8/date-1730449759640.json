@@ -1,0 +1,67 @@
+{
+  "url": "https://confiabogado.com/",
+  "requestedUrl": "https://confiabogado.com/",
+  "timestamp": 1730452014992,
+  "ranks": {
+    "hundos": 950,
+    "performance": 893,
+    "accessibility": 441,
+    "cumulative": 950
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.59,
+    "accessibility": 0.96,
+    "bestPractices": 0.7,
+    "seo": 0.92,
+    "total": 317
+  },
+  "firstContentfulPaint": 1452.566,
+  "firstMeaningfulPaint": 2083.9610000000002,
+  "speedIndex": 3788.1163072702193,
+  "largestContentfulPaint": 4356.611000000001,
+  "totalBlockingTime": 1220,
+  "cumulativeLayoutShift": 0.019854580239985195,
+  "timeToInteractive": 9173.408499999998,
+  "maxPotentialFirstInputDelay": 238,
+  "timeToFirstByte": 164.675,
+  "weight": {
+    "summary": "80 requests • 1.6 MiB",
+    "total": 1639973,
+    "image": 652745,
+    "imageCount": 40,
+    "script": 822093,
+    "scriptCount": 21,
+    "document": 40670,
+    "font": 118750,
+    "fontCount": 6,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 602212,
+    "thirdPartyCount": 8
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 807,
+    "+weight.total": 255,
+    "-weight.document": 904,
+    "+weight.document": 132,
+    "-weight.script": 922,
+    "+weight.script": 70,
+    "-weight.image": 662,
+    "+weight.image": 284,
+    "-weight.font": 524,
+    "+weight.font": 254,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 835,
+    "-totalBlockingTime": 572,
+    "-largestContentfulPaint": 835
+  },
+  "axe": {
+    "passes": 933,
+    "violations": 55
+  }
+}

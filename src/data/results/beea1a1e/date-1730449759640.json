@@ -1,0 +1,67 @@
+{
+  "url": "https://sauvillers.dev/",
+  "requestedUrl": "https://sauvillers.dev/",
+  "timestamp": 1730490871047,
+  "ranks": {
+    "hundos": 345,
+    "performance": 564,
+    "accessibility": 131,
+    "cumulative": 334
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.86,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 386
+  },
+  "firstContentfulPaint": 1396.7725,
+  "firstMeaningfulPaint": 1396.7725,
+  "speedIndex": 3951.553319721641,
+  "largestContentfulPaint": 1396.7725,
+  "totalBlockingTime": 485.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3582.7725,
+  "maxPotentialFirstInputDelay": 533,
+  "timeToFirstByte": 34.94500000000001,
+  "weight": {
+    "summary": "35 requests • 510.9 KiB",
+    "total": 523117,
+    "image": 0,
+    "imageCount": 0,
+    "script": 7148,
+    "scriptCount": 1,
+    "document": 67837,
+    "font": 345992,
+    "fontCount": 1,
+    "stylesheet": 5726,
+    "stylesheetCount": 1,
+    "thirdParty": 96414,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 503,
+    "+weight.total": 559,
+    "-weight.document": 961,
+    "+weight.document": 75,
+    "-weight.script": 131,
+    "+weight.script": 861,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 697,
+    "+weight.font": 81,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 476,
+    "-totalBlockingTime": 428,
+    "-largestContentfulPaint": 530
+  },
+  "axe": {
+    "passes": 142,
+    "violations": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://marco.wf/",
+  "requestedUrl": "https://marco.wf/",
+  "timestamp": 1730472378773,
+  "ranks": {
+    "hundos": 569,
+    "performance": 7,
+    "accessibility": 903,
+    "cumulative": 566
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.83,
+    "bestPractices": 1,
+    "seo": 0.86,
+    "total": 369
+  },
+  "firstContentfulPaint": 875.591,
+  "firstMeaningfulPaint": 875.591,
+  "speedIndex": 875.591,
+  "largestContentfulPaint": 1579.417,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 875.591,
+  "maxPotentialFirstInputDelay": 24,
+  "timeToFirstByte": 96.17699999999999,
+  "weight": {
+    "summary": "5 requests • 13.1 KiB",
+    "total": 13389,
+    "image": 0,
+    "imageCount": 0,
+    "script": 8159,
+    "scriptCount": 2,
+    "document": 2461,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 2597,
+    "stylesheetCount": 1,
+    "thirdParty": 7119,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 10,
+    "+weight.total": 1052,
+    "-weight.document": 33,
+    "+weight.document": 1003,
+    "-weight.script": 142,
+    "+weight.script": 850,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 712,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 151
+  },
+  "axe": {
+    "passes": 115,
+    "violations": 17
+  }
+}

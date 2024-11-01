@@ -1,0 +1,67 @@
+{
+  "url": "https://bluescopetech.com/",
+  "requestedUrl": "https://bluescopetech.com/",
+  "timestamp": 1730482880857,
+  "ranks": {
+    "hundos": 473,
+    "performance": 312,
+    "accessibility": 798,
+    "cumulative": 477
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.97,
+    "accessibility": 0.88,
+    "bestPractices": 1,
+    "seo": 0.9,
+    "total": 375
+  },
+  "firstContentfulPaint": 1213.8020000000001,
+  "firstMeaningfulPaint": 1257.3020000000001,
+  "speedIndex": 1213.8020000000001,
+  "largestContentfulPaint": 2554.802,
+  "totalBlockingTime": 87,
+  "cumulativeLayoutShift": 0.02178670482186834,
+  "timeToInteractive": 1375.8020000000001,
+  "maxPotentialFirstInputDelay": 309,
+  "timeToFirstByte": 4.757000000000005,
+  "weight": {
+    "summary": "6 requests • 320.7 KiB",
+    "total": 328381,
+    "image": 298334,
+    "imageCount": 3,
+    "script": 4882,
+    "scriptCount": 1,
+    "document": 13991,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 11174,
+    "stylesheetCount": 1,
+    "thirdParty": 69344,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 366,
+    "+weight.total": 696,
+    "-weight.document": 643,
+    "+weight.document": 393,
+    "-weight.script": 88,
+    "+weight.script": 904,
+    "-weight.image": 506,
+    "+weight.image": 440,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 297,
+    "-totalBlockingTime": 141,
+    "-largestContentfulPaint": 320
+  },
+  "axe": {
+    "passes": 1090,
+    "violations": 3
+  }
+}

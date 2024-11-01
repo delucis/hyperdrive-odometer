@@ -1,0 +1,67 @@
+{
+  "url": "https://inders.in/",
+  "requestedUrl": "https://inders.in/",
+  "timestamp": 1730455233245,
+  "ranks": {
+    "hundos": 431,
+    "performance": 616,
+    "accessibility": 347,
+    "cumulative": 430
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.82,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 379
+  },
+  "firstContentfulPaint": 937.1175,
+  "firstMeaningfulPaint": 1445.1174999999998,
+  "speedIndex": 2455.8322502967526,
+  "largestContentfulPaint": 1762.1174999999998,
+  "totalBlockingTime": 516.4999999999999,
+  "cumulativeLayoutShift": 0.12661580387853277,
+  "timeToInteractive": 6222.6715,
+  "maxPotentialFirstInputDelay": 266,
+  "timeToFirstByte": 219.441,
+  "weight": {
+    "summary": "20 requests • 1.4 MiB",
+    "total": 1422231,
+    "image": 76622,
+    "imageCount": 1,
+    "script": 114351,
+    "scriptCount": 12,
+    "document": 12874,
+    "font": 62814,
+    "fontCount": 1,
+    "stylesheet": 6478,
+    "stylesheetCount": 1,
+    "thirdParty": 50538,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 763,
+    "+weight.total": 299,
+    "-weight.document": 599,
+    "+weight.document": 437,
+    "-weight.script": 543,
+    "+weight.script": 449,
+    "-weight.image": 271,
+    "+weight.image": 675,
+    "-weight.font": 323,
+    "+weight.font": 455,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 884,
+    "-totalBlockingTime": 443,
+    "-largestContentfulPaint": 581
+  },
+  "axe": {
+    "passes": 448,
+    "violations": 17
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://wifilicious.app/",
+  "requestedUrl": "https://wifilicious.app/",
+  "timestamp": 1730461909986,
+  "ranks": {
+    "hundos": 675,
+    "performance": 701,
+    "accessibility": 674,
+    "cumulative": 677
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.75,
+    "accessibility": 0.92,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 359
+  },
+  "firstContentfulPaint": 940.669,
+  "firstMeaningfulPaint": 940.669,
+  "speedIndex": 940.669,
+  "largestContentfulPaint": 5442.669,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.14033127572829007,
+  "timeToInteractive": 975.169,
+  "maxPotentialFirstInputDelay": 137,
+  "timeToFirstByte": 49.05799999999999,
+  "weight": {
+    "summary": "11 requests • 1.3 MiB",
+    "total": 1322457,
+    "image": 1303666,
+    "imageCount": 5,
+    "script": 15284,
+    "scriptCount": 3,
+    "document": 3470,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 14275,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 740,
+    "+weight.total": 322,
+    "-weight.document": 79,
+    "+weight.document": 957,
+    "-weight.script": 209,
+    "+weight.script": 783,
+    "-weight.image": 774,
+    "+weight.image": 172,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 533,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 450
+  },
+  "axe": {
+    "passes": 86,
+    "violations": 12
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://jimp-dev.github.io/jimp/",
+  "requestedUrl": "https://jimp-dev.github.io/jimp/",
+  "timestamp": 1730487173643,
+  "ranks": {
+    "hundos": 33,
+    "performance": 46,
+    "accessibility": 87,
+    "cumulative": 17
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1019.239,
+  "firstMeaningfulPaint": 1019.239,
+  "speedIndex": 1019.239,
+  "largestContentfulPaint": 1210.239,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.04066562166151004,
+  "timeToInteractive": 1019.239,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 18.185000000000002,
+  "weight": {
+    "summary": "11 requests • 76.4 KiB",
+    "total": 78228,
+    "image": 28303,
+    "imageCount": 2,
+    "script": 27740,
+    "scriptCount": 6,
+    "document": 7524,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 14661,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 103,
+    "+weight.total": 959,
+    "-weight.document": 363,
+    "+weight.document": 673,
+    "-weight.script": 298,
+    "+weight.script": 694,
+    "-weight.image": 165,
+    "+weight.image": 781,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 394,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 86
+  },
+  "axe": {
+    "passes": 277,
+    "violations": 0
+  }
+}

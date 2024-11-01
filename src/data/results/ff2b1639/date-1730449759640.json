@@ -1,0 +1,67 @@
+{
+  "url": "https://airconwise.co.uk/",
+  "requestedUrl": "https://airconwise.co.uk/",
+  "timestamp": 1730481512971,
+  "ranks": {
+    "hundos": 6,
+    "performance": 103,
+    "accessibility": 58,
+    "cumulative": 3
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1040.745,
+  "firstMeaningfulPaint": 1051.245,
+  "speedIndex": 1173.8527221375289,
+  "largestContentfulPaint": 1868.745,
+  "totalBlockingTime": 47.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1222.745,
+  "maxPotentialFirstInputDelay": 201.9999999999999,
+  "timeToFirstByte": 93.742,
+  "weight": {
+    "summary": "9 requests • 406.0 KiB",
+    "total": 415779,
+    "image": 384113,
+    "imageCount": 6,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 7782,
+    "font": 19026,
+    "fontCount": 1,
+    "stylesheet": 4858,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 427,
+    "+weight.total": 635,
+    "-weight.document": 380,
+    "+weight.document": 656,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 552,
+    "+weight.image": 394,
+    "-weight.font": 44,
+    "+weight.font": 734,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 703,
+    "-totalBlockingTime": 88,
+    "-largestContentfulPaint": 228
+  },
+  "axe": {
+    "passes": 387,
+    "violations": 0
+  }
+}

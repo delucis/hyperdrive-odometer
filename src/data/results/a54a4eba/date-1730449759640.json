@@ -1,0 +1,67 @@
+{
+  "url": "https://www.spreadbagelry.com/",
+  "requestedUrl": "https://spreadbagelry.com/",
+  "timestamp": 1730459836926,
+  "ranks": {
+    "hundos": 891,
+    "performance": 674,
+    "accessibility": 762,
+    "cumulative": 889
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.78,
+    "accessibility": 0.89,
+    "bestPractices": 0.7,
+    "seo": 0.92,
+    "total": 329
+  },
+  "firstContentfulPaint": 2110.1025,
+  "firstMeaningfulPaint": 2110.1025,
+  "speedIndex": 3702.334780382519,
+  "largestContentfulPaint": 4145.3,
+  "totalBlockingTime": 254.37250000000017,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 7659.1134999999995,
+  "maxPotentialFirstInputDelay": 167,
+  "timeToFirstByte": 2.2580000000000027,
+  "weight": {
+    "summary": "64 requests • 1.4 MiB",
+    "total": 1467494,
+    "image": 631739,
+    "imageCount": 15,
+    "script": 413993,
+    "scriptCount": 24,
+    "document": 58227,
+    "font": 132803,
+    "fontCount": 6,
+    "stylesheet": 0,
+    "stylesheetCount": 0,
+    "thirdParty": 1134196,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 769,
+    "+weight.total": 293,
+    "-weight.document": 950,
+    "+weight.document": 86,
+    "-weight.script": 831,
+    "+weight.script": 161,
+    "-weight.image": 652,
+    "+weight.image": 294,
+    "-weight.font": 557,
+    "+weight.font": 221,
+    "+weight.fontCount": 13,
+    "-timeToFirstByte": 94,
+    "-totalBlockingTime": 301,
+    "-largestContentfulPaint": 823
+  },
+  "axe": {
+    "passes": 448,
+    "violations": 1
+  }
+}

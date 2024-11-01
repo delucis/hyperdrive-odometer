@@ -1,0 +1,67 @@
+{
+  "url": "https://todo-archipelago.vercel.app/",
+  "requestedUrl": "https://todo-archipelago.vercel.app/",
+  "timestamp": 1730460886768,
+  "ranks": {
+    "hundos": 674,
+    "performance": 438,
+    "accessibility": 534,
+    "cumulative": 672
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.93,
+    "accessibility": 0.94,
+    "bestPractices": 0.81,
+    "seo": 0.91,
+    "total": 359
+  },
+  "firstContentfulPaint": 998.75,
+  "firstMeaningfulPaint": 998.75,
+  "speedIndex": 2874.2166159979106,
+  "largestContentfulPaint": 3174.75,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.002391319915777211,
+  "timeToInteractive": 998.75,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 2.195999999999998,
+  "weight": {
+    "summary": "8 requests • 465.6 KiB",
+    "total": 476775,
+    "image": 0,
+    "imageCount": 0,
+    "script": 24084,
+    "scriptCount": 4,
+    "document": 6956,
+    "font": 442281,
+    "fontCount": 2,
+    "stylesheet": 3454,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 466,
+    "+weight.total": 596,
+    "-weight.document": 319,
+    "+weight.document": 717,
+    "-weight.script": 262,
+    "+weight.script": 730,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 716,
+    "+weight.font": 62,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 78,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 378
+  },
+  "axe": {
+    "passes": 152,
+    "violations": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://appstoredesign.com/",
+  "requestedUrl": "https://appstoredesign.com/",
+  "timestamp": 1730466156772,
+  "ranks": {
+    "hundos": 755,
+    "performance": 890,
+    "accessibility": 759,
+    "cumulative": 757
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.6,
+    "accessibility": 0.9,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 350
+  },
+  "firstContentfulPaint": 2413.933,
+  "firstMeaningfulPaint": 2797.31,
+  "speedIndex": 4947.739332422951,
+  "largestContentfulPaint": 4363.933,
+  "totalBlockingTime": 786.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 5654.3099999999995,
+  "maxPotentialFirstInputDelay": 1162,
+  "timeToFirstByte": 2.5689999999999884,
+  "weight": {
+    "summary": "62 requests • 4.1 MiB",
+    "total": 4328457,
+    "image": 4012320,
+    "imageCount": 36,
+    "script": 158311,
+    "scriptCount": 14,
+    "document": 10629,
+    "font": 67850,
+    "fontCount": 3,
+    "stylesheet": 78715,
+    "stylesheetCount": 6,
+    "thirdParty": 134303,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 957,
+    "+weight.total": 105,
+    "-weight.document": 518,
+    "+weight.document": 518,
+    "-weight.script": 616,
+    "+weight.script": 376,
+    "-weight.image": 891,
+    "+weight.image": 55,
+    "-weight.font": 355,
+    "+weight.font": 423,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 176,
+    "-totalBlockingTime": 507,
+    "-largestContentfulPaint": 836
+  },
+  "axe": {
+    "passes": 1074,
+    "violations": 42
+  }
+}

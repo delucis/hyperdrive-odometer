@@ -1,0 +1,67 @@
+{
+  "url": "https://vanntile.com/",
+  "requestedUrl": "https://vanntile.com/",
+  "timestamp": 1730492920852,
+  "ranks": {
+    "hundos": 201,
+    "performance": 160,
+    "accessibility": 557,
+    "cumulative": 197
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.94,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 394
+  },
+  "firstContentfulPaint": 1106.653,
+  "firstMeaningfulPaint": 1106.653,
+  "speedIndex": 2108.7266228827143,
+  "largestContentfulPaint": 1229.653,
+  "totalBlockingTime": 88.5,
+  "cumulativeLayoutShift": 0.0006648075364366318,
+  "timeToInteractive": 1306.153,
+  "maxPotentialFirstInputDelay": 151,
+  "timeToFirstByte": 384.095,
+  "weight": {
+    "summary": "5 requests • 185.9 KiB",
+    "total": 190390,
+    "image": 0,
+    "imageCount": 0,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 10684,
+    "font": 173919,
+    "fontCount": 3,
+    "stylesheet": 5787,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 250,
+    "+weight.total": 812,
+    "-weight.document": 519,
+    "+weight.document": 517,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 605,
+    "+weight.font": 173,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 950,
+    "-totalBlockingTime": 144,
+    "-largestContentfulPaint": 94
+  },
+  "axe": {
+    "passes": 443,
+    "violations": 3
+  }
+}

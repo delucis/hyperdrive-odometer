@@ -1,0 +1,67 @@
+{
+  "url": "https://elamandeep.netlify.app/",
+  "requestedUrl": "https://elamandeep.netlify.app/",
+  "timestamp": 1730484850690,
+  "ranks": {
+    "hundos": 572,
+    "performance": 178,
+    "accessibility": 993,
+    "cumulative": 575
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.77,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 368
+  },
+  "firstContentfulPaint": 1017.192,
+  "firstMeaningfulPaint": 1061.692,
+  "speedIndex": 1131.6461495793808,
+  "largestContentfulPaint": 1061.692,
+  "totalBlockingTime": 43,
+  "cumulativeLayoutShift": 0.07519324871837033,
+  "timeToInteractive": 1310.192,
+  "maxPotentialFirstInputDelay": 89,
+  "timeToFirstByte": 126.019,
+  "weight": {
+    "summary": "7 requests • 105.9 KiB",
+    "total": 108432,
+    "image": 0,
+    "imageCount": 0,
+    "script": 59169,
+    "scriptCount": 4,
+    "document": 11119,
+    "font": 33068,
+    "fontCount": 1,
+    "stylesheet": 5076,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 145,
+    "+weight.total": 917,
+    "-weight.document": 534,
+    "+weight.document": 502,
+    "-weight.script": 397,
+    "+weight.script": 595,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 129,
+    "+weight.font": 649,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 792,
+    "-totalBlockingTime": 77,
+    "-largestContentfulPaint": 48
+  },
+  "axe": {
+    "passes": 181,
+    "violations": 9
+  }
+}

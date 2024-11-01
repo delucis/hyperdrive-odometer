@@ -1,0 +1,67 @@
+{
+  "url": "https://vtbag.pages.dev/",
+  "requestedUrl": "https://vtbag.pages.dev/",
+  "timestamp": 1730477373918,
+  "ranks": {
+    "hundos": 195,
+    "performance": 37,
+    "accessibility": 559,
+    "cumulative": 196
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.94,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 394
+  },
+  "firstContentfulPaint": 987.8498527984619,
+  "firstMeaningfulPaint": 987.8498527984619,
+  "speedIndex": 987.8498527984619,
+  "largestContentfulPaint": 987.8498527984619,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 987.8498527984619,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 62.272000000000006,
+  "weight": {
+    "summary": "10 requests • 61.5 KiB",
+    "total": 63020,
+    "image": 12277,
+    "imageCount": 2,
+    "script": 24259,
+    "scriptCount": 6,
+    "document": 13149,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 13335,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 77,
+    "+weight.total": 985,
+    "-weight.document": 615,
+    "+weight.document": 421,
+    "-weight.script": 264,
+    "+weight.script": 728,
+    "-weight.image": 104,
+    "+weight.image": 842,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 583,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 26
+  },
+  "axe": {
+    "passes": 276,
+    "violations": 3
+  }
+}

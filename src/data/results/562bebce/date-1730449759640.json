@@ -1,0 +1,67 @@
+{
+  "url": "https://www.pldkhoa.dev/",
+  "requestedUrl": "https://www.pldkhoa.dev/",
+  "timestamp": 1730495407025,
+  "ranks": {
+    "hundos": 128,
+    "performance": 332,
+    "accessibility": 186,
+    "cumulative": 132
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.97,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 397
+  },
+  "firstContentfulPaint": 1476.8490000000002,
+  "firstMeaningfulPaint": 1476.8490000000002,
+  "speedIndex": 2023.4803620017217,
+  "largestContentfulPaint": 2453.849,
+  "totalBlockingTime": 82,
+  "cumulativeLayoutShift": 0.000942525983737349,
+  "timeToInteractive": 2526.849,
+  "maxPotentialFirstInputDelay": 105,
+  "timeToFirstByte": 2.7809999999999917,
+  "weight": {
+    "summary": "32 requests • 400.4 KiB",
+    "total": 410012,
+    "image": 0,
+    "imageCount": 0,
+    "script": 185747,
+    "scriptCount": 16,
+    "document": 11485,
+    "font": 189821,
+    "fontCount": 9,
+    "stylesheet": 9020,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 423,
+    "+weight.total": 639,
+    "-weight.document": 552,
+    "+weight.document": 484,
+    "-weight.script": 649,
+    "+weight.script": 343,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 620,
+    "+weight.font": 158,
+    "+weight.fontCount": 10,
+    "-timeToFirstByte": 216,
+    "-totalBlockingTime": 134,
+    "-largestContentfulPaint": 312
+  },
+  "axe": {
+    "passes": 411,
+    "violations": 1
+  }
+}

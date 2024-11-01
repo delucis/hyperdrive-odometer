@@ -1,0 +1,67 @@
+{
+  "url": "https://marijnkneppers.dev/",
+  "requestedUrl": "https://marijnkneppers.dev/",
+  "timestamp": 1730456595409,
+  "ranks": {
+    "hundos": 102,
+    "performance": 224,
+    "accessibility": 99,
+    "cumulative": 89
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 399
+  },
+  "firstContentfulPaint": 1622.887,
+  "firstMeaningfulPaint": 1693.387,
+  "speedIndex": 1622.887,
+  "largestContentfulPaint": 1763.887,
+  "totalBlockingTime": 64,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1750.387,
+  "maxPotentialFirstInputDelay": 141,
+  "timeToFirstByte": 69.08299999999998,
+  "weight": {
+    "summary": "12 requests • 86.5 KiB",
+    "total": 88617,
+    "image": 67679,
+    "imageCount": 7,
+    "script": 12409,
+    "scriptCount": 2,
+    "document": 5902,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 2448,
+    "stylesheetCount": 1,
+    "thirdParty": 7110,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 118,
+    "+weight.total": 944,
+    "-weight.document": 244,
+    "+weight.document": 792,
+    "-weight.script": 184,
+    "+weight.script": 808,
+    "-weight.image": 256,
+    "+weight.image": 690,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 604,
+    "-totalBlockingTime": 112,
+    "-largestContentfulPaint": 207
+  },
+  "axe": {
+    "passes": 222,
+    "violations": 0
+  }
+}

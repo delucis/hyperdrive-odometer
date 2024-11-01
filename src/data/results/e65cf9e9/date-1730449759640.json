@@ -1,0 +1,67 @@
+{
+  "url": "https://docs.hfcred.dev/",
+  "requestedUrl": "https://docs.hfcred.dev/",
+  "timestamp": 1730484573844,
+  "ranks": {
+    "hundos": 50,
+    "performance": 89,
+    "accessibility": 139,
+    "cumulative": 31
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1094.632,
+  "firstMeaningfulPaint": 1094.632,
+  "speedIndex": 1094.632,
+  "largestContentfulPaint": 1646.1999999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1094.632,
+  "maxPotentialFirstInputDelay": 31,
+  "timeToFirstByte": 88.74099999999999,
+  "weight": {
+    "summary": "11 requests • 56.7 KiB",
+    "total": 58109,
+    "image": 5246,
+    "imageCount": 2,
+    "script": 34717,
+    "scriptCount": 5,
+    "document": 7200,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 10909,
+    "stylesheetCount": 1,
+    "thirdParty": 7133,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 66,
+    "+weight.total": 996,
+    "-weight.document": 342,
+    "+weight.document": 694,
+    "-weight.script": 324,
+    "+weight.script": 668,
+    "-weight.image": 66,
+    "+weight.image": 880,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 685,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 174
+  },
+  "axe": {
+    "passes": 128,
+    "violations": 0
+  }
+}

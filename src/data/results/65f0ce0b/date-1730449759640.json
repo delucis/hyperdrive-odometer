@@ -1,0 +1,67 @@
+{
+  "url": "https://mrstukov.com/",
+  "requestedUrl": "https://mrstukov.com/",
+  "timestamp": 1730488559907,
+  "ranks": {
+    "hundos": 222,
+    "performance": 91,
+    "accessibility": 613,
+    "cumulative": 233
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.93,
+    "bestPractices": 1,
+    "seo": 0.99,
+    "total": 392
+  },
+  "firstContentfulPaint": 1014.676,
+  "firstMeaningfulPaint": 1014.676,
+  "speedIndex": 1114.7014373395366,
+  "largestContentfulPaint": 1053.676,
+  "totalBlockingTime": 90.99999999999989,
+  "cumulativeLayoutShift": 0.003391503961369564,
+  "timeToInteractive": 1434.676,
+  "maxPotentialFirstInputDelay": 244.9999999999999,
+  "timeToFirstByte": 4.6059999999999945,
+  "weight": {
+    "summary": "19 requests • 547.6 KiB",
+    "total": 560703,
+    "image": 388956,
+    "imageCount": 8,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 9060,
+    "font": 47021,
+    "fontCount": 1,
+    "stylesheet": 9820,
+    "stylesheetCount": 1,
+    "thirdParty": 105846,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 526,
+    "+weight.total": 536,
+    "-weight.document": 443,
+    "+weight.document": 593,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 556,
+    "+weight.image": 390,
+    "-weight.font": 235,
+    "+weight.font": 543,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 293,
+    "-totalBlockingTime": 148,
+    "-largestContentfulPaint": 43
+  },
+  "axe": {
+    "passes": 541,
+    "violations": 4
+  }
+}

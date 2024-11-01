@@ -1,0 +1,67 @@
+{
+  "url": "https://basketsanvincenzo.it/",
+  "requestedUrl": "https://basketsanvincenzo.it/",
+  "timestamp": 1730466590470,
+  "ranks": {
+    "hundos": 921,
+    "performance": 1015,
+    "accessibility": 792,
+    "cumulative": 923
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.4,
+    "accessibility": 0.89,
+    "bestPractices": 0.93,
+    "seo": 1,
+    "total": 322
+  },
+  "firstContentfulPaint": 1750.393,
+  "firstMeaningfulPaint": 1750.393,
+  "speedIndex": 8327.778614807297,
+  "largestContentfulPaint": 17864.393,
+  "totalBlockingTime": 300,
+  "cumulativeLayoutShift": 0.43026605931164913,
+  "timeToInteractive": 10210.893,
+  "maxPotentialFirstInputDelay": 326,
+  "timeToFirstByte": 132.38799999999998,
+  "weight": {
+    "summary": "39 requests • 6.9 MiB",
+    "total": 7203649,
+    "image": 7035613,
+    "imageCount": 35,
+    "script": 149737,
+    "scriptCount": 2,
+    "document": 8623,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 9676,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 996,
+    "+weight.total": 66,
+    "-weight.document": 421,
+    "+weight.document": 615,
+    "-weight.script": 603,
+    "+weight.script": 389,
+    "-weight.image": 920,
+    "+weight.image": 26,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 800,
+    "-totalBlockingTime": 328,
+    "-largestContentfulPaint": 1030
+  },
+  "axe": {
+    "passes": 1335,
+    "violations": 78
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://johnzanussi.com/",
+  "requestedUrl": "https://johnzanussi.com/",
+  "timestamp": 1730455638027,
+  "ranks": {
+    "hundos": 273,
+    "performance": 187,
+    "accessibility": 707,
+    "cumulative": 282
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.91,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 390
+  },
+  "firstContentfulPaint": 1216.906,
+  "firstMeaningfulPaint": 1220.906,
+  "speedIndex": 1216.906,
+  "largestContentfulPaint": 1366.906,
+  "totalBlockingTime": 18.5,
+  "cumulativeLayoutShift": 0.06917294399249511,
+  "timeToInteractive": 1528.906,
+  "maxPotentialFirstInputDelay": 211,
+  "timeToFirstByte": 2.3769999999999953,
+  "weight": {
+    "summary": "12 requests • 229.2 KiB",
+    "total": 234709,
+    "image": 111038,
+    "imageCount": 3,
+    "script": 4992,
+    "scriptCount": 3,
+    "document": 28695,
+    "font": 80047,
+    "fontCount": 2,
+    "stylesheet": 9606,
+    "stylesheetCount": 1,
+    "thirdParty": 331,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 291,
+    "+weight.total": 771,
+    "-weight.document": 838,
+    "+weight.document": 198,
+    "-weight.script": 92,
+    "+weight.script": 900,
+    "-weight.image": 329,
+    "+weight.image": 617,
+    "-weight.font": 418,
+    "+weight.font": 360,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 124,
+    "-totalBlockingTime": 35,
+    "-largestContentfulPaint": 114
+  },
+  "axe": {
+    "passes": 285,
+    "violations": 7
+  }
+}

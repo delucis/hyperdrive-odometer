@@ -1,0 +1,67 @@
+{
+  "url": "https://dragon-vi.be/",
+  "requestedUrl": "https://dragon-vi.be/",
+  "timestamp": 1730484702861,
+  "ranks": {
+    "hundos": 698,
+    "performance": 405,
+    "accessibility": 1005,
+    "cumulative": 700
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.94,
+    "accessibility": 0.76,
+    "bestPractices": 1,
+    "seo": 0.87,
+    "total": 357
+  },
+  "firstContentfulPaint": 1439.3090000000002,
+  "firstMeaningfulPaint": 2064.9100000000003,
+  "speedIndex": 2151.656370390037,
+  "largestContentfulPaint": 2968.2340000000004,
+  "totalBlockingTime": 60.99999999999977,
+  "cumulativeLayoutShift": 0.04311962835975066,
+  "timeToInteractive": 3696.4500000000003,
+  "maxPotentialFirstInputDelay": 333,
+  "timeToFirstByte": 440.057,
+  "weight": {
+    "summary": "57 requests • 768.2 KiB",
+    "total": 786646,
+    "image": 502681,
+    "imageCount": 41,
+    "script": 88173,
+    "scriptCount": 8,
+    "document": 26554,
+    "font": 133604,
+    "fontCount": 3,
+    "stylesheet": 35051,
+    "stylesheetCount": 2,
+    "thirdParty": 95827,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 613,
+    "+weight.total": 449,
+    "-weight.document": 819,
+    "+weight.document": 217,
+    "-weight.script": 473,
+    "+weight.script": 519,
+    "-weight.image": 602,
+    "+weight.image": 344,
+    "-weight.font": 560,
+    "+weight.font": 218,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 970,
+    "-totalBlockingTime": 109,
+    "-largestContentfulPaint": 364
+  },
+  "axe": {
+    "passes": 782,
+    "violations": 63
+  }
+}

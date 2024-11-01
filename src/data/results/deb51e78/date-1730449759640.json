@@ -1,0 +1,67 @@
+{
+  "url": "https://thegoatlifefilm.com/",
+  "requestedUrl": "https://thegoatlifefilm.com/",
+  "timestamp": 1730460604704,
+  "ranks": {
+    "hundos": 447,
+    "performance": 641,
+    "accessibility": 206,
+    "cumulative": 447
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.81,
+    "accessibility": 1,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 377
+  },
+  "firstContentfulPaint": 1769.5519999999997,
+  "firstMeaningfulPaint": 1769.5519999999997,
+  "speedIndex": 3068.4363002640544,
+  "largestContentfulPaint": 4848.309999999999,
+  "totalBlockingTime": 38.5,
+  "cumulativeLayoutShift": 0.015016617599830202,
+  "timeToInteractive": 3684.953999999999,
+  "maxPotentialFirstInputDelay": 101,
+  "timeToFirstByte": 28.222999999999956,
+  "weight": {
+    "summary": "59 requests • 12.2 MiB",
+    "total": 12790897,
+    "image": 11058208,
+    "imageCount": 34,
+    "script": 95429,
+    "scriptCount": 14,
+    "document": 6869,
+    "font": 75033,
+    "fontCount": 3,
+    "stylesheet": 5495,
+    "stylesheetCount": 6,
+    "thirdParty": 250061,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1030,
+    "+weight.total": 32,
+    "-weight.document": 311,
+    "+weight.document": 725,
+    "-weight.script": 484,
+    "+weight.script": 508,
+    "-weight.image": 932,
+    "+weight.image": 14,
+    "-weight.font": 392,
+    "+weight.font": 386,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 442,
+    "-totalBlockingTime": 71,
+    "-largestContentfulPaint": 437
+  },
+  "axe": {
+    "passes": 186,
+    "violations": 1
+  }
+}

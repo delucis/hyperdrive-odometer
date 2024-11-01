@@ -1,0 +1,67 @@
+{
+  "url": "https://astro-zerojs-transitions.vercel.app/",
+  "requestedUrl": "https://astro-zerojs-transitions.vercel.app/",
+  "timestamp": 1730482146419,
+  "ranks": {
+    "hundos": 408,
+    "performance": 602,
+    "accessibility": 383,
+    "cumulative": 413
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.82,
+    "accessibility": 0.99,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 381
+  },
+  "firstContentfulPaint": 955.2485,
+  "firstMeaningfulPaint": 955.2485,
+  "speedIndex": 955.2485,
+  "largestContentfulPaint": 5036.389,
+  "totalBlockingTime": 35.50000000000006,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1015.7485000000001,
+  "maxPotentialFirstInputDelay": 121.00000000000011,
+  "timeToFirstByte": 2.6189999999999998,
+  "weight": {
+    "summary": "8 requests • 709.3 KiB",
+    "total": 726370,
+    "image": 713953,
+    "imageCount": 6,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 8036,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 4381,
+    "stylesheetCount": 1,
+    "thirdParty": 713953,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 591,
+    "+weight.total": 471,
+    "-weight.document": 389,
+    "+weight.document": 647,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 674,
+    "+weight.image": 272,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 186,
+    "-totalBlockingTime": 63,
+    "-largestContentfulPaint": 445
+  },
+  "axe": {
+    "passes": 187,
+    "violations": 36
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://espacedupossible.pro/",
+  "requestedUrl": "https://espacedupossible.pro/",
+  "timestamp": 1730469176606,
+  "ranks": {
+    "hundos": 520,
+    "performance": 645,
+    "accessibility": 410,
+    "cumulative": 522
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.8,
+    "accessibility": 0.96,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 372
+  },
+  "firstContentfulPaint": 1297.2749999999999,
+  "firstMeaningfulPaint": 1774.942,
+  "speedIndex": 1483.125345888681,
+  "largestContentfulPaint": 5275.245000000001,
+  "totalBlockingTime": 24,
+  "cumulativeLayoutShift": 0.013993289346258098,
+  "timeToInteractive": 1774.942,
+  "maxPotentialFirstInputDelay": 298.0000000000001,
+  "timeToFirstByte": 2.132000000000005,
+  "weight": {
+    "summary": "25 requests • 981.9 KiB",
+    "total": 1005479,
+    "image": 737821,
+    "imageCount": 11,
+    "script": 126243,
+    "scriptCount": 7,
+    "document": 27511,
+    "font": 100871,
+    "fontCount": 5,
+    "stylesheet": 13033,
+    "stylesheetCount": 1,
+    "thirdParty": 739083,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 679,
+    "+weight.total": 383,
+    "-weight.document": 828,
+    "+weight.document": 208,
+    "-weight.script": 565,
+    "+weight.script": 427,
+    "-weight.image": 682,
+    "+weight.image": 264,
+    "-weight.font": 484,
+    "+weight.font": 294,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 55,
+    "-totalBlockingTime": 45,
+    "-largestContentfulPaint": 448
+  },
+  "axe": {
+    "passes": 528,
+    "violations": 1
+  }
+}

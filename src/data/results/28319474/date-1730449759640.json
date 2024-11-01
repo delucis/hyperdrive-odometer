@@ -1,0 +1,67 @@
+{
+  "url": "https://www.actioncontrol.app/",
+  "requestedUrl": "https://www.actioncontrol.app/",
+  "timestamp": 1730462172055,
+  "ranks": {
+    "hundos": 985,
+    "performance": 1036,
+    "accessibility": 699,
+    "cumulative": 984
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.33,
+    "accessibility": 0.91,
+    "bestPractices": 0.81,
+    "seo": 1,
+    "total": 305
+  },
+  "firstContentfulPaint": 1784.287,
+  "firstMeaningfulPaint": 3583.7610000000004,
+  "speedIndex": 5668.723617699152,
+  "largestContentfulPaint": 10698.381499999994,
+  "totalBlockingTime": 1151.5,
+  "cumulativeLayoutShift": 0.25773513221629674,
+  "timeToInteractive": 10567.848499999998,
+  "maxPotentialFirstInputDelay": 844,
+  "timeToFirstByte": 21.701999999999998,
+  "weight": {
+    "summary": "36 requests • 2.4 MiB",
+    "total": 2474891,
+    "image": 1816004,
+    "imageCount": 9,
+    "script": 400567,
+    "scriptCount": 11,
+    "document": 6488,
+    "font": 197167,
+    "fontCount": 4,
+    "stylesheet": 3899,
+    "stylesheetCount": 2,
+    "thirdParty": 469196,
+    "thirdPartyCount": 6
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 883,
+    "+weight.total": 179,
+    "-weight.document": 278,
+    "+weight.document": 758,
+    "-weight.script": 822,
+    "+weight.script": 170,
+    "-weight.image": 822,
+    "+weight.image": 124,
+    "-weight.font": 628,
+    "+weight.font": 150,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 415,
+    "-totalBlockingTime": 566,
+    "-largestContentfulPaint": 989
+  },
+  "axe": {
+    "passes": 722,
+    "violations": 5
+  }
+}

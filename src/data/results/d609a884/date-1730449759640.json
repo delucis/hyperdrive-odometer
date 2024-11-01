@@ -1,0 +1,67 @@
+{
+  "url": "https://fitness-astro-template.netlify.app/",
+  "requestedUrl": "https://fitness-astro-template.netlify.app/",
+  "timestamp": 1730453959902,
+  "ranks": {
+    "hundos": 701,
+    "performance": 909,
+    "accessibility": 135,
+    "cumulative": 694
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.57,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 357
+  },
+  "firstContentfulPaint": 2683.15,
+  "firstMeaningfulPaint": 2914.0879999999997,
+  "speedIndex": 4777.026905008228,
+  "largestContentfulPaint": 73610.62899999987,
+  "totalBlockingTime": 450.87599999999975,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3184.026,
+  "maxPotentialFirstInputDelay": 1914.9999999999998,
+  "timeToFirstByte": 465.369,
+  "weight": {
+    "summary": "12 requests • 28.2 MiB",
+    "total": 29613675,
+    "image": 29561370,
+    "imageCount": 7,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 1670,
+    "font": 47463,
+    "fontCount": 2,
+    "stylesheet": 3172,
+    "stylesheetCount": 2,
+    "thirdParty": 48569,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 1052,
+    "+weight.total": 10,
+    "-weight.document": 13,
+    "+weight.document": 1023,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 943,
+    "+weight.image": 3,
+    "-weight.font": 240,
+    "+weight.font": 538,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 980,
+    "-totalBlockingTime": 411,
+    "-largestContentfulPaint": 1058
+  },
+  "axe": {
+    "passes": 140,
+    "violations": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.levelshuddersfield.co.uk/",
+  "requestedUrl": "https://www.levelshuddersfield.co.uk/",
+  "timestamp": 1730494963239,
+  "ranks": {
+    "hundos": 615,
+    "performance": 818,
+    "accessibility": 400,
+    "cumulative": 610
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.67,
+    "accessibility": 0.97,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 364
+  },
+  "firstContentfulPaint": 2742.843,
+  "firstMeaningfulPaint": 2742.843,
+  "speedIndex": 2742.843,
+  "largestContentfulPaint": 5522.757499999999,
+  "totalBlockingTime": 330.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 4860.02975,
+  "maxPotentialFirstInputDelay": 227,
+  "timeToFirstByte": 6.937999999999988,
+  "weight": {
+    "summary": "23 requests • 434.9 KiB",
+    "total": 445367,
+    "image": 18659,
+    "imageCount": 4,
+    "script": 339747,
+    "scriptCount": 10,
+    "document": 7132,
+    "font": 53680,
+    "fontCount": 3,
+    "stylesheet": 25596,
+    "stylesheetCount": 1,
+    "thirdParty": 324620,
+    "thirdPartyCount": 4
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 445,
+    "+weight.total": 617,
+    "-weight.document": 333,
+    "+weight.document": 703,
+    "-weight.script": 785,
+    "+weight.script": 207,
+    "-weight.image": 131,
+    "+weight.image": 815,
+    "-weight.font": 282,
+    "+weight.font": 496,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 316,
+    "-totalBlockingTime": 342,
+    "-largestContentfulPaint": 897
+  },
+  "axe": {
+    "passes": 488,
+    "violations": 1
+  }
+}

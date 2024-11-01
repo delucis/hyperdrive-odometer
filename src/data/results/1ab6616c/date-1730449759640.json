@@ -1,0 +1,67 @@
+{
+  "url": "https://cdi.dev/",
+  "requestedUrl": "https://cdi.dev/",
+  "timestamp": 1730451638075,
+  "ranks": {
+    "hundos": 124,
+    "performance": 320,
+    "accessibility": 26,
+    "cumulative": 124
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.97,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 397
+  },
+  "firstContentfulPaint": 1398.5145,
+  "firstMeaningfulPaint": 1398.5145,
+  "speedIndex": 1431.4394890862395,
+  "largestContentfulPaint": 2411.5145,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1398.5145,
+  "maxPotentialFirstInputDelay": 31,
+  "timeToFirstByte": 2.2379999999999995,
+  "weight": {
+    "summary": "11 requests • 1.2 MiB",
+    "total": 1249836,
+    "image": 1093629,
+    "imageCount": 4,
+    "script": 3547,
+    "scriptCount": 4,
+    "document": 24210,
+    "font": 118684,
+    "fontCount": 1,
+    "stylesheet": 9766,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 728,
+    "+weight.total": 334,
+    "-weight.document": 804,
+    "+weight.document": 232,
+    "-weight.script": 69,
+    "+weight.script": 923,
+    "-weight.image": 744,
+    "+weight.image": 202,
+    "-weight.font": 523,
+    "+weight.font": 255,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 90,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 306
+  },
+  "axe": {
+    "passes": 699,
+    "violations": 0
+  }
+}

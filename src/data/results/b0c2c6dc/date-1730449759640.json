@@ -1,0 +1,67 @@
+{
+  "url": "https://armandodev.vercel.app/",
+  "requestedUrl": "https://armandodev.vercel.app/",
+  "timestamp": 1730450481298,
+  "ranks": {
+    "hundos": 131,
+    "performance": 340,
+    "accessibility": 298,
+    "cumulative": 136
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.97,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 397
+  },
+  "firstContentfulPaint": 2004.317,
+  "firstMeaningfulPaint": 2903.309,
+  "speedIndex": 3273.869202002511,
+  "largestContentfulPaint": 2004.317,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 2903.309,
+  "maxPotentialFirstInputDelay": 50,
+  "timeToFirstByte": 2.2789999999999964,
+  "weight": {
+    "summary": "18 requests • 342.3 KiB",
+    "total": 350535,
+    "image": 164661,
+    "imageCount": 4,
+    "script": 58404,
+    "scriptCount": 7,
+    "document": 21284,
+    "font": 74833,
+    "fontCount": 1,
+    "stylesheet": 31126,
+    "stylesheetCount": 4,
+    "thirdParty": 223631,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 391,
+    "+weight.total": 671,
+    "-weight.document": 771,
+    "+weight.document": 265,
+    "-weight.script": 394,
+    "+weight.script": 598,
+    "-weight.image": 388,
+    "+weight.image": 558,
+    "-weight.font": 391,
+    "+weight.font": 387,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 99,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 252
+  },
+  "axe": {
+    "passes": 674,
+    "violations": 5
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://northernoakscontracting.ca/",
+  "requestedUrl": "https://northernoakscontracting.ca/",
+  "timestamp": 1730457365116,
+  "ranks": {
+    "hundos": 959,
+    "performance": 991,
+    "accessibility": 592,
+    "cumulative": 961
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.42,
+    "accessibility": 0.94,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 314
+  },
+  "firstContentfulPaint": 1761.0019999999997,
+  "firstMeaningfulPaint": 2371.4259999999995,
+  "speedIndex": 5504.2415646323025,
+  "largestContentfulPaint": 21239.39,
+  "totalBlockingTime": 1986.3879999999992,
+  "cumulativeLayoutShift": 0.00013834144101745627,
+  "timeToInteractive": 16189.791,
+  "maxPotentialFirstInputDelay": 862,
+  "timeToFirstByte": 57.46799999999999,
+  "weight": {
+    "summary": "46 requests • 3.9 MiB",
+    "total": 4055882,
+    "image": 3093521,
+    "imageCount": 10,
+    "script": 466235,
+    "scriptCount": 23,
+    "document": 21831,
+    "font": 446053,
+    "fontCount": 4,
+    "stylesheet": 26137,
+    "stylesheetCount": 2,
+    "thirdParty": 769698,
+    "thirdPartyCount": 7
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 951,
+    "+weight.total": 111,
+    "-weight.document": 780,
+    "+weight.document": 256,
+    "-weight.script": 851,
+    "+weight.script": 141,
+    "-weight.image": 873,
+    "+weight.image": 73,
+    "-weight.font": 717,
+    "+weight.font": 61,
+    "+weight.fontCount": 15,
+    "-timeToFirstByte": 560,
+    "-totalBlockingTime": 621,
+    "-largestContentfulPaint": 1038
+  },
+  "axe": {
+    "passes": 402,
+    "violations": 23
+  }
+}

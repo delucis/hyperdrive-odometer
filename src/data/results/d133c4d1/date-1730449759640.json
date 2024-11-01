@@ -1,0 +1,67 @@
+{
+  "url": "https://www.piscine-newpoolexpress.com/",
+  "requestedUrl": "https://www.piscine-newpoolexpress.com/",
+  "timestamp": 1730457284481,
+  "ranks": {
+    "hundos": 785,
+    "performance": 874,
+    "accessibility": 888,
+    "cumulative": 789
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.62,
+    "accessibility": 0.84,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 346
+  },
+  "firstContentfulPaint": 2675.2075000000004,
+  "firstMeaningfulPaint": 2675.2075000000004,
+  "speedIndex": 3231.040778565909,
+  "largestContentfulPaint": 3615.7475000000004,
+  "totalBlockingTime": 55,
+  "cumulativeLayoutShift": 0.657558348307804,
+  "timeToInteractive": 2966.5617500000003,
+  "maxPotentialFirstInputDelay": 160,
+  "timeToFirstByte": 88.56700000000001,
+  "weight": {
+    "summary": "30 requests • 956.9 KiB",
+    "total": 979827,
+    "image": 632200,
+    "imageCount": 12,
+    "script": 32308,
+    "scriptCount": 5,
+    "document": 19022,
+    "font": 288080,
+    "fontCount": 5,
+    "stylesheet": 8074,
+    "stylesheetCount": 5,
+    "thirdParty": 263972,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 672,
+    "+weight.total": 390,
+    "-weight.document": 749,
+    "+weight.document": 287,
+    "-weight.script": 317,
+    "+weight.script": 675,
+    "-weight.image": 654,
+    "+weight.image": 292,
+    "-weight.font": 673,
+    "+weight.font": 105,
+    "+weight.fontCount": 14,
+    "-timeToFirstByte": 684,
+    "-totalBlockingTime": 100,
+    "-largestContentfulPaint": 407
+  },
+  "axe": {
+    "passes": 961,
+    "violations": 15
+  }
+}

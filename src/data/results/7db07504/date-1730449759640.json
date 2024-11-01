@@ -1,0 +1,67 @@
+{
+  "url": "https://www.nafeez.xyz/",
+  "requestedUrl": "https://nafeez.xyz/",
+  "timestamp": 1730457213399,
+  "ranks": {
+    "hundos": 300,
+    "performance": 233,
+    "accessibility": 586,
+    "cumulative": 298
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.99,
+    "accessibility": 0.94,
+    "bestPractices": 1,
+    "seo": 0.96,
+    "total": 389
+  },
+  "firstContentfulPaint": 1685.0849999999998,
+  "firstMeaningfulPaint": 1685.0849999999998,
+  "speedIndex": 1685.0849999999998,
+  "largestContentfulPaint": 1685.0849999999998,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.00016208368545053331,
+  "timeToInteractive": 1687.5849999999998,
+  "maxPotentialFirstInputDelay": 61,
+  "timeToFirstByte": 2.2330000000000005,
+  "weight": {
+    "summary": "4 requests • 46.8 KiB",
+    "total": 47885,
+    "image": 0,
+    "imageCount": 0,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 2148,
+    "font": 40106,
+    "fontCount": 1,
+    "stylesheet": 5251,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 53,
+    "+weight.total": 1009,
+    "-weight.document": 24,
+    "+weight.document": 1012,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 193,
+    "+weight.font": 585,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 86,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 187
+  },
+  "axe": {
+    "passes": 109,
+    "violations": 14
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://takobits.dev/",
+  "requestedUrl": "https://takobits.dev/",
+  "timestamp": 1730460325741,
+  "ranks": {
+    "hundos": 430,
+    "performance": 71,
+    "accessibility": 825,
+    "cumulative": 426
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 0.87,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 379
+  },
+  "firstContentfulPaint": 961.5,
+  "firstMeaningfulPaint": 972,
+  "speedIndex": 1063.4648793033102,
+  "largestContentfulPaint": 1349.5,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.0012718790757877956,
+  "timeToInteractive": 972,
+  "maxPotentialFirstInputDelay": 21,
+  "timeToFirstByte": 182.49399999999997,
+  "weight": {
+    "summary": "5 requests • 66.9 KiB",
+    "total": 68459,
+    "image": 15774,
+    "imageCount": 1,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 3088,
+    "font": 47519,
+    "fontCount": 2,
+    "stylesheet": 2078,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 2
+  },
+  "sidequests": {
+    "-weight.total": 88,
+    "+weight.total": 974,
+    "-weight.document": 58,
+    "+weight.document": 978,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 118,
+    "+weight.image": 828,
+    "-weight.font": 241,
+    "+weight.font": 537,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 848,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 109
+  },
+  "axe": {
+    "passes": 83,
+    "violations": 2
+  }
+}

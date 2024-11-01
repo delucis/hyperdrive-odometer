@@ -1,0 +1,67 @@
+{
+  "url": "https://www.witchywellness.app/",
+  "requestedUrl": "https://witchywellness.app/",
+  "timestamp": 1730493515300,
+  "ranks": {
+    "hundos": 451,
+    "performance": 570,
+    "accessibility": 684,
+    "cumulative": 455
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.85,
+    "accessibility": 0.92,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 377
+  },
+  "firstContentfulPaint": 2063.2780000000002,
+  "firstMeaningfulPaint": 2063.2780000000002,
+  "speedIndex": 2063.2780000000002,
+  "largestContentfulPaint": 3410.2780000000002,
+  "totalBlockingTime": 250,
+  "cumulativeLayoutShift": 0.00017343036585730883,
+  "timeToInteractive": 2363.2780000000002,
+  "maxPotentialFirstInputDelay": 378,
+  "timeToFirstByte": 2.4849999999999994,
+  "weight": {
+    "summary": "15 requests • 361.0 KiB",
+    "total": 369705,
+    "image": 281332,
+    "imageCount": 6,
+    "script": 6739,
+    "scriptCount": 3,
+    "document": 6010,
+    "font": 61422,
+    "fontCount": 1,
+    "stylesheet": 13661,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 396,
+    "+weight.total": 666,
+    "-weight.document": 252,
+    "+weight.document": 784,
+    "-weight.script": 119,
+    "+weight.script": 873,
+    "-weight.image": 491,
+    "+weight.image": 455,
+    "-weight.font": 317,
+    "+weight.font": 461,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 158,
+    "-totalBlockingTime": 296,
+    "-largestContentfulPaint": 762
+  },
+  "axe": {
+    "passes": 233,
+    "violations": 37
+  }
+}

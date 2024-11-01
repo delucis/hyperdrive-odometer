@@ -1,0 +1,67 @@
+{
+  "url": "https://hoaxanh.com/",
+  "requestedUrl": "https://hoaxanh.com/",
+  "timestamp": 1730470801448,
+  "ranks": {
+    "hundos": 245,
+    "performance": 443,
+    "accessibility": 379,
+    "cumulative": 260
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.92,
+    "accessibility": 0.99,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 391
+  },
+  "firstContentfulPaint": 1035.429,
+  "firstMeaningfulPaint": 1035.429,
+  "speedIndex": 1035.429,
+  "largestContentfulPaint": 3372.8600000000006,
+  "totalBlockingTime": 4.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1109.929,
+  "maxPotentialFirstInputDelay": 177,
+  "timeToFirstByte": 2.1829999999999927,
+  "weight": {
+    "summary": "55 requests • 1,004.5 KiB",
+    "total": 1028647,
+    "image": 811944,
+    "imageCount": 11,
+    "script": 6000,
+    "scriptCount": 1,
+    "document": 5491,
+    "font": 90128,
+    "fontCount": 1,
+    "stylesheet": 4927,
+    "stylesheetCount": 2,
+    "thirdParty": 110157,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 683,
+    "+weight.total": 379,
+    "-weight.document": 208,
+    "+weight.document": 828,
+    "-weight.script": 111,
+    "+weight.script": 881,
+    "-weight.image": 697,
+    "+weight.image": 249,
+    "-weight.font": 455,
+    "+weight.font": 323,
+    "+weight.fontCount": 18,
+    "-timeToFirstByte": 71,
+    "-totalBlockingTime": 8,
+    "-largestContentfulPaint": 756
+  },
+  "axe": {
+    "passes": 201,
+    "violations": 10
+  }
+}

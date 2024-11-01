@@ -1,0 +1,67 @@
+{
+  "url": "https://vpnwide.com/",
+  "requestedUrl": "https://vpnwide.com/",
+  "timestamp": 1730477346630,
+  "ranks": {
+    "hundos": 913,
+    "performance": 950,
+    "accessibility": 422,
+    "cumulative": 908
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.51,
+    "accessibility": 0.96,
+    "bestPractices": 0.78,
+    "seo": 1,
+    "total": 325
+  },
+  "firstContentfulPaint": 1121.743,
+  "firstMeaningfulPaint": 1121.743,
+  "speedIndex": 6270.270873301444,
+  "largestContentfulPaint": 2021.743,
+  "totalBlockingTime": 2979.979000000002,
+  "cumulativeLayoutShift": 0.260296587307595,
+  "timeToInteractive": 12602.243000000002,
+  "maxPotentialFirstInputDelay": 698,
+  "timeToFirstByte": 69.12199999999999,
+  "weight": {
+    "summary": "202 requests • 1.5 MiB",
+    "total": 1555757,
+    "image": 160516,
+    "imageCount": 42,
+    "script": 592854,
+    "scriptCount": 46,
+    "document": 197383,
+    "font": 142685,
+    "fontCount": 10,
+    "stylesheet": 15825,
+    "stylesheetCount": 9,
+    "thirdParty": 1376365,
+    "thirdPartyCount": 19
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 789,
+    "+weight.total": 273,
+    "-weight.document": 1017,
+    "+weight.document": 19,
+    "-weight.script": 882,
+    "+weight.script": 110,
+    "-weight.image": 381,
+    "+weight.image": 565,
+    "-weight.font": 575,
+    "+weight.font": 203,
+    "+weight.fontCount": 9,
+    "-timeToFirstByte": 606,
+    "-totalBlockingTime": 650,
+    "-largestContentfulPaint": 612
+  },
+  "axe": {
+    "passes": 591,
+    "violations": 5
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://www.sakurapass.com/en/",
+  "requestedUrl": "https://sakurapass.com/",
+  "timestamp": 1730459215970,
+  "ranks": {
+    "hundos": 336,
+    "performance": 433,
+    "accessibility": 406,
+    "cumulative": 341
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.93,
+    "accessibility": 0.97,
+    "bestPractices": 0.96,
+    "seo": 1,
+    "total": 386
+  },
+  "firstContentfulPaint": 2135.5190000000002,
+  "firstMeaningfulPaint": 2135.5190000000002,
+  "speedIndex": 2312.556892804302,
+  "largestContentfulPaint": 2735.0190000000002,
+  "totalBlockingTime": 58.5,
+  "cumulativeLayoutShift": 0.07042875307746145,
+  "timeToInteractive": 3293.5190000000002,
+  "maxPotentialFirstInputDelay": 157.5,
+  "timeToFirstByte": 22.178,
+  "weight": {
+    "summary": "28 requests • 326.6 KiB",
+    "total": 334463,
+    "image": 10246,
+    "imageCount": 2,
+    "script": 198725,
+    "scriptCount": 17,
+    "document": 5506,
+    "font": 93325,
+    "fontCount": 2,
+    "stylesheet": 24667,
+    "stylesheetCount": 2,
+    "thirdParty": 7119,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 373,
+    "+weight.total": 689,
+    "-weight.document": 209,
+    "+weight.document": 827,
+    "-weight.script": 665,
+    "+weight.script": 327,
+    "-weight.image": 90,
+    "+weight.image": 856,
+    "-weight.font": 467,
+    "+weight.font": 311,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 416,
+    "-totalBlockingTime": 105,
+    "-largestContentfulPaint": 342
+  },
+  "axe": {
+    "passes": 250,
+    "violations": 4
+  }
+}

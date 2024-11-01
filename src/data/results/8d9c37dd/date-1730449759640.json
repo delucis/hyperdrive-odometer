@@ -1,0 +1,67 @@
+{
+  "url": "https://georgefrancis.dev/",
+  "requestedUrl": "https://georgefrancis.dev/",
+  "timestamp": 1730485952660,
+  "ranks": {
+    "hundos": 36,
+    "performance": 99,
+    "accessibility": 62,
+    "cumulative": 20
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 902.9115,
+  "firstMeaningfulPaint": 902.9115,
+  "speedIndex": 1147.2888349959612,
+  "largestContentfulPaint": 1441.9115000000002,
+  "totalBlockingTime": 58.00000000000006,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1013.9115000000002,
+  "maxPotentialFirstInputDelay": 140.0000000000001,
+  "timeToFirstByte": 124.536,
+  "weight": {
+    "summary": "6 requests • 116.5 KiB",
+    "total": 119310,
+    "image": 0,
+    "imageCount": 0,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 4154,
+    "font": 112161,
+    "fontCount": 3,
+    "stylesheet": 2995,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 156,
+    "+weight.total": 906,
+    "-weight.document": 117,
+    "+weight.document": 919,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 514,
+    "+weight.font": 264,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 789,
+    "-totalBlockingTime": 104,
+    "-largestContentfulPaint": 121
+  },
+  "axe": {
+    "passes": 365,
+    "violations": 0
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://teseu.github.io/",
+  "requestedUrl": "https://teseu.github.io/",
+  "timestamp": 1730460517921,
+  "ranks": {
+    "hundos": 555,
+    "performance": 646,
+    "accessibility": 787,
+    "cumulative": 565
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.8,
+    "accessibility": 0.89,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 369
+  },
+  "firstContentfulPaint": 1548.06,
+  "firstMeaningfulPaint": 1548.06,
+  "speedIndex": 1548.06,
+  "largestContentfulPaint": 5279.978,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0.000451820233006326,
+  "timeToInteractive": 1548.06,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 43.284000000000006,
+  "weight": {
+    "summary": "9 requests • 737.5 KiB",
+    "total": 755182,
+    "image": 691941,
+    "imageCount": 3,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 6049,
+    "font": 45138,
+    "fontCount": 3,
+    "stylesheet": 12054,
+    "stylesheetCount": 2,
+    "thirdParty": 47624,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 600,
+    "+weight.total": 462,
+    "-weight.document": 254,
+    "+weight.document": 782,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 670,
+    "+weight.image": 276,
+    "-weight.font": 216,
+    "+weight.font": 562,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 507,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 449
+  },
+  "axe": {
+    "passes": 127,
+    "violations": 15
+  }
+}

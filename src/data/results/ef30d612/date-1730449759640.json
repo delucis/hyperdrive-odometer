@@ -1,0 +1,67 @@
+{
+  "url": "https://server-islands.com/",
+  "requestedUrl": "https://server-islands.com/",
+  "timestamp": 1730459471270,
+  "ranks": {
+    "hundos": 56,
+    "performance": 158,
+    "accessibility": 83,
+    "cumulative": 37
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 983.254,
+  "firstMeaningfulPaint": 983.254,
+  "speedIndex": 2069.7666333126485,
+  "largestContentfulPaint": 1114.254,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1006.2539999999999,
+  "maxPotentialFirstInputDelay": 149.9999999999999,
+  "timeToFirstByte": 637.135,
+  "weight": {
+    "summary": "17 requests • 178.7 KiB",
+    "total": 182997,
+    "image": 119593,
+    "imageCount": 8,
+    "script": 46141,
+    "scriptCount": 3,
+    "document": 6852,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 7354,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 1,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 240,
+    "+weight.total": 822,
+    "-weight.document": 308,
+    "+weight.document": 728,
+    "-weight.script": 359,
+    "+weight.script": 633,
+    "-weight.image": 337,
+    "+weight.image": 609,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 1000,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 64
+  },
+  "axe": {
+    "passes": 288,
+    "violations": 0
+  }
+}

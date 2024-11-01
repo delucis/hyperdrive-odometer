@@ -1,0 +1,67 @@
+{
+  "url": "https://zappitello.netlify.app/posts/post-2/",
+  "requestedUrl": "https://zappitello.netlify.app/posts/post-2/",
+  "timestamp": 1730496682338,
+  "ranks": {
+    "hundos": 230,
+    "performance": 382,
+    "accessibility": 346,
+    "cumulative": 243
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.95,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 392
+  },
+  "firstContentfulPaint": 1772.1915,
+  "firstMeaningfulPaint": 1772.1915,
+  "speedIndex": 1834.4021469925997,
+  "largestContentfulPaint": 2830.4645,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1772.1915,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 3.1439999999999912,
+  "weight": {
+    "summary": "4 requests • 196.4 KiB",
+    "total": 201083,
+    "image": 193890,
+    "imageCount": 1,
+    "script": 0,
+    "scriptCount": 0,
+    "document": 3737,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 3456,
+    "stylesheetCount": 2,
+    "thirdParty": 195060,
+    "thirdPartyCount": 2
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 263,
+    "+weight.total": 799,
+    "-weight.document": 87,
+    "+weight.document": 949,
+    "-weight.script": 1,
+    "+weight.script": 992,
+    "-weight.image": 415,
+    "+weight.image": 531,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 259,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 350
+  },
+  "axe": {
+    "passes": 143,
+    "violations": 16
+  }
+}

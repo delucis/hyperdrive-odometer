@@ -1,0 +1,67 @@
+{
+  "url": "https://samfeldstein.xyz/",
+  "requestedUrl": "https://samfeldstein.xyz/",
+  "timestamp": 1730490771999,
+  "ranks": {
+    "hundos": 114,
+    "performance": 22,
+    "accessibility": 104,
+    "cumulative": 111
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 398
+  },
+  "firstContentfulPaint": 932.9110000000001,
+  "firstMeaningfulPaint": 932.9110000000001,
+  "speedIndex": 932.9110000000001,
+  "largestContentfulPaint": 1700.911,
+  "totalBlockingTime": 0,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 932.9110000000001,
+  "maxPotentialFirstInputDelay": 16,
+  "timeToFirstByte": 95.07299999999998,
+  "weight": {
+    "summary": "7 requests • 150.7 KiB",
+    "total": 154339,
+    "image": 76953,
+    "imageCount": 1,
+    "script": 1421,
+    "scriptCount": 1,
+    "document": 3154,
+    "font": 70928,
+    "fontCount": 3,
+    "stylesheet": 1883,
+    "stylesheetCount": 1,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 199,
+    "+weight.total": 863,
+    "-weight.document": 63,
+    "+weight.document": 973,
+    "-weight.script": 27,
+    "+weight.script": 965,
+    "-weight.image": 273,
+    "+weight.image": 673,
+    "-weight.font": 373,
+    "+weight.font": 405,
+    "+weight.fontCount": 16,
+    "-timeToFirstByte": 707,
+    "-totalBlockingTime": 1,
+    "-largestContentfulPaint": 193
+  },
+  "axe": {
+    "passes": 207,
+    "violations": 0
+  }
+}

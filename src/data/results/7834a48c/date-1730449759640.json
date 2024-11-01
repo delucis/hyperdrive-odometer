@@ -1,0 +1,67 @@
+{
+  "url": "https://exsuntrasolutions.com/",
+  "requestedUrl": "https://exsuntrasolutions.com/",
+  "timestamp": 1730485197613,
+  "ranks": {
+    "hundos": 456,
+    "performance": 662,
+    "accessibility": 267,
+    "cumulative": 451
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.79,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 0.98,
+    "total": 377
+  },
+  "firstContentfulPaint": 2895.107,
+  "firstMeaningfulPaint": 2910.178,
+  "speedIndex": 4535.494548482742,
+  "largestContentfulPaint": 4120.4775,
+  "totalBlockingTime": 84.50000000000023,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 3656.3955000000005,
+  "maxPotentialFirstInputDelay": 207.00000000000045,
+  "timeToFirstByte": 443.013,
+  "weight": {
+    "summary": "42 requests • 1.0 MiB",
+    "total": 1079155,
+    "image": 743020,
+    "imageCount": 17,
+    "script": 150544,
+    "scriptCount": 6,
+    "document": 9643,
+    "font": 67244,
+    "fontCount": 2,
+    "stylesheet": 10628,
+    "stylesheetCount": 3,
+    "thirdParty": 221943,
+    "thirdPartyCount": 3
+  },
+  "run": {
+    "number": 3,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 698,
+    "+weight.total": 364,
+    "-weight.document": 475,
+    "+weight.document": 561,
+    "-weight.script": 606,
+    "+weight.script": 386,
+    "-weight.image": 685,
+    "+weight.image": 261,
+    "-weight.font": 351,
+    "+weight.font": 427,
+    "+weight.fontCount": 17,
+    "-timeToFirstByte": 971,
+    "-totalBlockingTime": 139,
+    "-largestContentfulPaint": 423
+  },
+  "axe": {
+    "passes": 686,
+    "violations": 3
+  }
+}

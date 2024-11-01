@@ -1,0 +1,67 @@
+{
+  "url": "https://yaad.one/",
+  "requestedUrl": "https://yaad.one/",
+  "timestamp": 1730480624369,
+  "ranks": {
+    "hundos": 417,
+    "performance": 373,
+    "accessibility": 812,
+    "cumulative": 423
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 0.95,
+    "accessibility": 0.88,
+    "bestPractices": 1,
+    "seo": 0.97,
+    "total": 380
+  },
+  "firstContentfulPaint": 1180.2179999999998,
+  "firstMeaningfulPaint": 1180.2179999999998,
+  "speedIndex": 1180.2179999999998,
+  "largestContentfulPaint": 2868.218,
+  "totalBlockingTime": 59.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1289.7179999999998,
+  "maxPotentialFirstInputDelay": 123,
+  "timeToFirstByte": 82.295,
+  "weight": {
+    "summary": "7 requests • 335.5 KiB",
+    "total": 343564,
+    "image": 305700,
+    "imageCount": 1,
+    "script": 10258,
+    "scriptCount": 4,
+    "document": 14804,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 12802,
+    "stylesheetCount": 1,
+    "thirdParty": 1387,
+    "thirdPartyCount": 1
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 385,
+    "+weight.total": 677,
+    "-weight.document": 664,
+    "+weight.document": 372,
+    "-weight.script": 166,
+    "+weight.script": 826,
+    "-weight.image": 513,
+    "+weight.image": 433,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 663,
+    "-totalBlockingTime": 107,
+    "-largestContentfulPaint": 354
+  },
+  "axe": {
+    "passes": 310,
+    "violations": 15
+  }
+}

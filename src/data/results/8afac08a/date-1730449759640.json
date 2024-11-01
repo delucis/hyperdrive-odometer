@@ -1,0 +1,67 @@
+{
+  "url": "https://delucis.github.io/expressive-code-color-chips/",
+  "requestedUrl": "https://delucis.github.io/expressive-code-color-chips/",
+  "timestamp": 1730468367840,
+  "ranks": {
+    "hundos": 54,
+    "performance": 64,
+    "accessibility": 65,
+    "cumulative": 35
+  },
+  "lighthouse": {
+    "version": "11.7.1",
+    "performance": 1,
+    "accessibility": 1,
+    "bestPractices": 1,
+    "seo": 1,
+    "total": 400
+  },
+  "firstContentfulPaint": 1052.8110000000001,
+  "firstMeaningfulPaint": 1062.3110000000001,
+  "speedIndex": 1052.8110000000001,
+  "largestContentfulPaint": 1069.8110000000001,
+  "totalBlockingTime": 82.5,
+  "cumulativeLayoutShift": 0,
+  "timeToInteractive": 1204.3110000000001,
+  "maxPotentialFirstInputDelay": 142,
+  "timeToFirstByte": 16.908999999999992,
+  "weight": {
+    "summary": "9 requests • 47.5 KiB",
+    "total": 48670,
+    "image": 0,
+    "imageCount": 1,
+    "script": 27267,
+    "scriptCount": 5,
+    "document": 6393,
+    "font": 0,
+    "fontCount": 0,
+    "stylesheet": 15010,
+    "stylesheetCount": 2,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "run": {
+    "number": 2,
+    "total": 3
+  },
+  "sidequests": {
+    "-weight.total": 56,
+    "+weight.total": 1006,
+    "-weight.document": 271,
+    "+weight.document": 765,
+    "-weight.script": 292,
+    "+weight.script": 700,
+    "-weight.image": 1,
+    "+weight.image": 946,
+    "-weight.font": 1,
+    "+weight.font": 778,
+    "+weight.fontCount": 19,
+    "-timeToFirstByte": 387,
+    "-totalBlockingTime": 135,
+    "-largestContentfulPaint": 54
+  },
+  "axe": {
+    "passes": 355,
+    "violations": 0
+  }
+}
